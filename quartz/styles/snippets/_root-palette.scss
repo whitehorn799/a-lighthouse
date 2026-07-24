@@ -1,0 +1,73 @@
+/*                                                                          
+█████▄   ▄▄▄   ▄▄▄ ▄▄▄▄▄▄    █████▄  ▄▄▄  ▄▄    ▄▄▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄▄ 
+██▄▄██▄ ██▀██ ██▀██  ██  ▄▄▄ ██▄▄█▀ ██▀██ ██    ██▄▄    ██     ██   ██▄▄  
+██   ██ ▀███▀ ▀███▀  ██      ██     ██▀██ ██▄▄▄ ██▄▄▄   ██     ██   ██▄▄▄ 
+*/
+
+:root {
+  /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+  /* COLOR DICTIONARY */
+  --bloom:                /* #C1495F */   193, 73, 95;               
+  --cardinal:             /* #C62F39 */   198, 47, 57;
+  --cerulean:             /* #16809E */   22, 128, 158;
+  --dark-lavender:        /* #805E73 */   128, 94, 115;
+  --lavender:             /* #CFCAE2 */   207, 202, 226;
+  --sea-green:            /* #519872 */   81, 152, 114;
+  --sweet-peony:          /* #CE7DA5 */   206, 125, 165;
+  --sinopia:              /* #CB410B */   203, 65, 11;
+  --slate-blue:           /* #4f5b69 */   79, 91, 105;
+  --wenge:                /* #564E58 */   86, 78, 88;
+  --smoke-white:          /* #F1EDEE */   241, 237, 238;
+  --graphite:             /* #333333 */   51, 51, 51;
+  --raisin-black:         /* #27282A */   39, 40, 42;
+  --iron-gray:            /* #45464A */   69, 70, 74;
+  --dark-gray:            /* #6D6E74 */   109, 110, 116;
+  --mint-cream:           /* #F0F7F4 */   240, 247, 244;
+  --lime-moss:            /* #87A330 */   135, 163, 48;
+  --energy:               /* #3F8EFC */   63, 142, 252;
+  --jungle:               /* #558B6E */   85, 139, 110;
+  --sky:                  /* #00A5DF */   0, 165, 223;
+  --dust:                 /* #FBFAF9 */   251, 250, 249;
+  --floral:               /* #FAF7F0 */   250, 247, 240;
+  --bark:                 /* #7A5C52 */   122, 92, 82;
+  --soft-linen:           /* #F4EFE6 */   244, 239, 230;
+  --coral:                /* #EF8354 */   239, 131, 84;
+  --light-linen:          /* #EFE8DB */   239, 232, 219;
+  --light-peach:          /* #F8C9B4 */   248, 201, 180;
+  --dark-grape:           /* #4B4A67 */   75, 74, 103;
+  --violet:               /* #7000D3 */   112, 0, 211;
+  --copper:               /* #A67B5B */   166, 123, 91;
+  --sienna:               /* #A44028 */   164, 64, 40;
+  --gold:                 /* #CC7700 */   204, 119, 0;
+  
+  
+  --dusk-blue:            /* #3C5377 */   60, 83, 119;
+  --white:                 /* #FFFFFF */   255, 255, 255;
+  /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+  /* LIGHT THEME VARIABLES DICTIONARY */
+  --theme-lt-bg:          rgba(var(--white), 1.0);
+  --theme-lt-blocks:      rgba(var(--dusk-blue), 1.0);
+  --theme-lt-heavy:       rgba(var(--dusk-blue), 1.0);
+  --theme-lt-body-text:   rgba(var(--dusk-blue), 1.0);
+  --theme-lt-titles:      rgba(var(--dusk-blue), 1.0);
+  --theme-lt-links:       rgba(var(--sky), 1.0);
+  --theme-lt-hover:       rgba(var(--dusk-blue), 1.0);
+  --theme-lt-accent:      rgba(var(--cerulean), 1.0);
+  --theme-lt-highlight:   rgba(var(--smoke-white), 1.0);
+  /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+  /* DARK THEME VARIABLES DICTIONARY */
+  --theme-dt-bg:          rgba(var(--white), 1.0);
+  --theme-dt-blocks:      rgba(var(--dusk-blue), 1.0);
+  --theme-dt-heavy:       rgba(var(--dusk-blue), 1.0);
+  --theme-dt-body-text:   rgba(var(--dusk-blue), 1.0);
+  --theme-dt-titles:      rgba(var(--dusk-blue), 1.0);
+  --theme-dt-links:       rgba(var(--sky), 1.0);
+  --theme-dt-hover:       rgba(var(--dusk-blue), 1.0);
+  --theme-dt-accent:      rgba(var(--cerulean), 1.0);
+  --theme-dt-highlight:   rgba(var(--smoke-white), 1.0);
+  /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+  /* THEME FONT VARIABLES DICTIONARY */
+  --c-font-header:        "Dosis", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --c-font-body:          "Dosis", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --c-font-code:          "Dosis", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}

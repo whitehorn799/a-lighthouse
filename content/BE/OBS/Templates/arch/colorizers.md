@@ -1,0 +1,1 @@
+<p class="color-text"><span>Your text here</span></p>

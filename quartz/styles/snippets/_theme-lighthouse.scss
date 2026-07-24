@@ -1,0 +1,43 @@
+/*                                                                                                
+██████ ▄▄ ▄▄ ▄▄▄▄▄ ▄▄   ▄▄ ▄▄▄▄▄     ██     ▄▄  ▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄▄▄ ▄▄ ▄▄  ▄▄▄  ▄▄ ▄▄  ▄▄▄▄ ▄▄▄▄▄ 
+  ██   ██▄██ ██▄▄  ██▀▄▀██ ██▄▄  ▄▄▄ ██     ██ ██ ▄▄ ██▄██   ██   ██▄██ ██▀██ ██ ██ ███▄▄ ██▄▄  
+  ██   ██ ██ ██▄▄▄ ██   ██ ██▄▄▄     ██████ ██ ▀███▀ ██ ██   ██   ██ ██ ▀███▀ ▀███▀ ▄▄██▀ ██▄▄▄ 
+*/
+
+@layer quartz-base {
+  :root,
+  html,
+  body {
+    /* Fonts */
+    --headerFont: var(--c-font-header);
+    --bodyFont:   var(--c-font-body);
+    --codeFont:   var(--c-font-code);
+
+    /* Light Mode */
+    --light:          var(--theme-lt-bg);
+    --lightgray:      var(--theme-lt-blocks);
+    --gray:           var(--theme-lt-heavy);
+    --darkgray:       var(--theme-lt-body-text);
+    --dark:           var(--theme-lt-titles);
+    --secondary:      var(--theme-lt-links);
+    --tertiary:       var(--theme-lt-hover);
+    --highlight:      var(--theme-lt-accent);
+    --textHighlight:  var(--theme-lt-highlight);
+  }
+
+  /* Dark Mode Overrides */
+  :root[saved-theme="dark"],
+  html[saved-theme="dark"],
+  body[saved-theme="dark"],
+  [data-theme="dark"] {
+    --light:          var(--theme-dt-bg);
+    --lightgray:      var(--theme-dt-blocks);
+    --gray:           var(--theme-dt-heavy);
+    --darkgray:       var(--theme-dt-body-text);
+    --dark:           var(--theme-dt-titles);
+    --secondary:      var(--theme-dt-links);
+    --tertiary:       var(--theme-dt-hover);
+    --highlight:      var(--theme-dt-accent);
+    --textHighlight:  var(--theme-dt-highlight);
+  }
+}

@@ -1,0 +1,21 @@
+<style>
+  /* 1. Hide every single folder container on the left side menu */
+  .tree-sidebar .nav-folder {
+    display: none !important;
+  }
+
+  /* 2. Hide every individual file link inside the left side menu */
+  .tree-sidebar .nav-file {
+    display: none !important;
+  }
+
+  /* 3. Force ONLY your chosen target files to remain visible under the search bar */
+  .tree-sidebar [data-path*="introduction.html"],
+  .tree-sidebar [data-path*="lessons.html"],
+  .tree-sidebar [data-path*="references.html"]
+   {
+    display: block !important;
+    padding: 6px 12px;
+    margin-left: 0 !important;
+  }
+</style>

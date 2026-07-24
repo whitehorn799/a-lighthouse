@@ -1,0 +1,11 @@
+Method 1 - header
+<br>
+<details class="long-answer"> <summary><h6>LONG ANSWER</h6></summary>
+<p class="marg-top-1 narrow text-justify">To help students be effective in their career and social lives, teach the student how to think, not what to think. I have a relaxed, efficient class: no tests, no pressure, but with high standards. I think the Scientific Method is the best way we can learn about the world. I follow the Socratic Method of teaching because I believe in being and making lifelong learners. I avoid indoctrinating students to my personal beliefs because I want them to think for themselves.  However, it's important to me to teach basic moral principles of good character because I personally prefer positivity over negativity. The most important thing about learning is making mistakes. A teacher helps a student see they already have their own innate power through logic, wisdom, and good mental health practices. The student will understand that they are never alone on their learning journey because everyone is learning with them.</p></details>
+
+<br> 
+
+Method 2 - no header 
+<br>
+<details class="long-answer"> <summary>LONG ANSWER</summary>
+<p class="marg-top-1 narrow text-justify">To help students be effective in their career and social lives, teach the student how to think, not what to think. I have a relaxed, efficient class: no tests, no pressure, but with high standards. I think the Scientific Method is the best way we can learn about the world. I follow the Socratic Method of teaching because I believe in being and making lifelong learners. I avoid indoctrinating students to my personal beliefs because I want them to think for themselves.  However, it's important to me to teach basic moral principles of good character because I personally prefer positivity over negativity. The most important thing about learning is making mistakes. A teacher helps a student see they already have their own innate power through logic, wisdom, and good mental health practices. The student will understand that they are never alone on their learning journey because everyone is learning with them.</p></details>

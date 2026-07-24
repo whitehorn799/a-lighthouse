@@ -1,0 +1,36 @@
+/*
+██████ ▄▄ ▄▄ ▄▄▄▄  ▄▄    ▄▄  ▄▄▄▄ ▄▄ ▄▄▄▄▄▄    █████▄ ▄▄ ▄▄  ▄▄ ▄▄▄▄  ▄▄ ▄▄  ▄▄  ▄▄▄▄  ▄▄▄▄ 
+██▄▄   ▀█▄█▀ ██▄█▀ ██    ██ ██▀▀▀ ██   ██  ▄▄▄ ██▄▄██ ██ ███▄██ ██▀██ ██ ███▄██ ██ ▄▄ ███▄▄ 
+██▄▄▄▄ ██ ██ ██    ██▄▄▄ ██ ▀████ ██   ██      ██▄▄█▀ ██ ██ ▀██ ████▀ ██ ██ ▀██ ▀███▀ ▄▄██▀ 
+*/
+
+body {
+  background-color: var(--light) !important;
+  color: var(--darkgray) !important;
+  font-family: var(--bodyFont) !important;
+}
+
+h1, h2, h3, h4, h5, h6,
+.page-title,
+.article-title {
+  font-family: var(--headerFont) !important;
+  color: var(--dark) !important;
+}
+
+a,
+a.internal,
+a.external,
+.page-title a,
+.sidebar a {
+  color: var(--secondary) !important;
+  
+  &:hover {
+    color: var(--tertiary) !important;
+  }
+}
+
+code, 
+pre {
+  font-family: var(--codeFont) !important;
+}
+

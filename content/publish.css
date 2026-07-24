@@ -1,0 +1,3591 @@
+/*        
+ ▄██▄ ▄██ 
+██  ██ ██ 
+ ▀██▀  ██ 
+*/
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+/* ==================================================================== */
+/* 1. TABLET & MOBILE VIEWPORTS (Max Width: 750px)                       */
+/* Captures iPads in Portrait/Split-View and all mobile devices         */
+/* ==================================================================== */
+@media screen and (max-width: 750px) {
+
+    /* --- THE MOBILE NAV DROPDOWN PANEL --- */
+    .site-body-left-column {
+        background-color: rgba(60, 83, 119, 1.0) !important; 
+        border-right: 1px solid rgba(var(--smoke-white), 1.0) !important;
+    }
+
+    /* --- NAVIGATION ENGINE OVERRIDES --- */
+    .site-body-left-column {
+        /* Top Level Folders / Headings */
+        --nav-parent-item-color: rgba(var(--smoke-white), 1.0) !important;
+        --nav-parent-item-color-active: rgba(var(--dust), 1.0) !important;
+        
+        /* Nested Files / Regular Items */
+        --nav-item-color: rgba(var(--smoke-white), 1.0) !important;
+        --nav-item-color-hover: rgba(var(--soft-linen), 1.0) !important;
+        --nav-item-color-active: rgba(var(--smoke-white), 1.0) !important;
+        
+        /* General Fallback Text inside the panel */
+        --text-normal: rgba(var(--smoke-white), 1.0) !important;
+        --text-muted: #999999 !important;
+    }
+
+    /* --- MOBILE SEARCH BAR HIGHLIGHT --- */
+    .publish-search-container input {
+        background-color: rgba(var(--smoke-white), 1.0) !important;
+        color: rgba(var(--dusk-blue), 1.0) !important;
+        border: 1px solid #3f3f3f !important;
+    }
+
+    /* --- GENERAL LEXICON LEDGER RESPONSIVENESS --- */
+    .lexicon-ledger {
+        max-width: 100% !important; 
+    }
+
+    .ledger-col {
+        word-break: break-word !important;
+        hyphens: auto;
+    }
+}
+
+/* ==================================================================== */
+/* 2. STRICTLY PHONE VIEWPORTS (Max Width: 600px)                       */
+/* Micro-adjustments to save tight deck space on narrow phone displays  */
+/* ==================================================================== */
+@media screen and (max-width: 600px) {
+
+    /* --- LEXICON LEDGER COLUMN PROPORTIONS --- */
+    .col-part { flex: 0 0 20% !important; }
+    .col-term { flex: 0 0 30% !important; }
+    .col-example { flex: 0 0 50% !important; }
+
+    .ledger-col {
+        padding: 6px 8px !important; 
+        font-size: 0.85rem !important; 
+    }
+
+    /* --- SURGICAL TRAYS & INSTRUMENTS --- */
+    .surgery-part .morpheme {
+        padding: 8px 10px; 
+        font-size: 0.9rem;
+    }
+    
+    .surgery-part {
+        min-width: 45px; 
+    }
+}
+:root {
+
+    /* Addresses Spy Scroll issue of outline item being incorrectly active */
+    /* Adjust this value (usually 20px to 100px) until the highlight snaps correctly */
+    scroll-padding-top: 50px;
+
+    /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+    /* FONT DICTIONARY */
+
+    /* 1. OVERRIDE OBSIDIAN'S THEME VARIABLES */
+    --font-text:                        'Dosis', sans-serif !important;
+    --font-interface:                   'Dosis', sans-serif !important;
+    --font-monospace:                   'Dosis', sans-serif !important; /* Optional: only if you want code to be Dosis too */
+    --font-text-theme:                  'Dosis', sans-serif !important;
+
+    --c-font-family:                    'Dosis', sans-serif;
+    --c-font-size:                      1.2rem;
+
+    /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+    /* COLOR DICTIONARY */
+    --bloom:                /* #C1495F */   193, 73, 95;               
+    --cardinal:             /* #C62F39 */   198, 47, 57;
+    --cerulean:             /* #16809E */   22, 128, 158;
+    --dark-lavender:        /* #805E73 */   128, 94, 115;
+    --lavender:             /* #CFCAE2 */   207, 202, 226;
+    --sea-green:            /* #519872 */   81, 152, 114;
+    --sweet-peony:          /* #CE7DA5 */   206, 125, 165;
+    --sinopia:              /* #CB410B */   203, 65, 11;
+    --slate-blue:           /* #4f5b69 */   79, 91, 105;
+    --wenge:                /* #564E58 */   86, 78, 88;
+    --smoke-white:          /* #F1EDEE */   241, 237, 238;
+    --graphite:             /* #333333 */   51, 51, 51;
+    --raisin-black:         /* #27282A */   39, 40, 42;
+    --iron-gray:            /* #45464A */   69, 70, 74;
+    --dark-gray:            /* #6D6E74 */   109, 110, 116;
+    --mint-cream:           /* #F0F7F4 */   240, 247, 244;
+    --lime-moss:            /* #87A330 */   135, 163, 48;
+    --energy:               /* #3F8EFC */   63, 142, 252;
+    --jungle:               /* #558B6E */   85, 139, 110;
+    --sky:                  /* #00A5DF */   0, 165, 223;
+    --dust:                 /* #FBFAF9 */   251, 250, 249;
+    --floral:               /* #FAF7F0 */   250, 247, 240;
+    --bark:                 /* #7A5C52 */   122, 92, 82;
+    --soft-linen:           /* #F4EFE6 */   244, 239, 230;
+    --coral:                /* #EF8354 */   239, 131, 84;
+    --light-linen:          /* #EFE8DB */   239, 232, 219;
+    --light-peach:          /* #F8C9B4 */   248, 201, 180;
+    --dark-grape:           /* #4B4A67 */   75, 74, 103;
+    --violet:               /* #7000D3 */   112, 0, 211;
+    --copper:               /* #A67B5B */   166, 123, 91;
+    --sienna:               /* #A44028 */   164, 64, 40;
+    --dusk-blue:            /* #3C5377 */   60, 83, 119;
+    --gold:                 /* #CC7700 */   204, 119, 0;
+
+    /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+    /* BODY DICTIONARY */
+    --c-lists-mark-color:                       rgba(var(--c-lists-color), 1.0);
+    --c-lists-color:                            rgba(var(--dusk-blue), 1.0);
+    --c-body-color:                             rgba(var(--dusk-blue), 1.0);
+    
+    /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+    /* CAPTAIN CLASS DICTIONARY */
+    --almanac-color:                /* #CB410B */   203, 65, 11; /* SINOPIA */
+    --c-captain-dataurl-almanac:    url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWJvb2stbG9jay1pY29uIGx1Y2lkZS1ib29rLWxvY2siPjxwYXRoIGQ9Ik0xOCA2VjRhMiAyIDAgMSAwLTQgMHYyIi8+PHBhdGggZD0iTTIwIDE1djZhMSAxIDAgMCAxLTEgMUg2LjVhMSAxIDAgMCAxIDAtNUgyMCIvPjxwYXRoIGQ9Ik00IDE5LjV2LTE1QTIuNSAyLjUgMCAwIDEgNi41IDJIMTAiLz48cmVjdCB4PSIxMiIgeT0iNiIgd2lkdGg9IjgiIGhlaWdodD0iNSIgcng9IjEiLz48L3N2Zz4=');
+
+    --archive-color:                /* #16809E */   22, 128, 158; /* CERULEAN */
+    --c-captain-dataurl-archive:    url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWJvb2stb3Blbi10ZXh0LWljb24gbHVjaWRlLWJvb2stb3Blbi10ZXh0Ij48cGF0aCBkPSJNMTIgN3YxNCIvPjxwYXRoIGQ9Ik0xNiAxMmgyIi8+PHBhdGggZD0iTTE2IDhoMiIvPjxwYXRoIGQ9Ik0zIDE4YTEgMSAwIDAgMS0xLTFWNGExIDEgMCAwIDEgMS0xaDVhNCA0IDAgMCAxIDQgNCA0IDQgMCAwIDEgNC00aDVhMSAxIDAgMCAxIDEgMXYxM2ExIDEgMCAwIDEtMSAxaC02YTMgMyAwIDAgMC0zIDMgMyAzIDAgMCAwLTMtM3oiLz48cGF0aCBkPSJNNiAxMmgyIi8+PHBhdGggZD0iTTYgOGgyIi8+PC9zdmc+');
+
+    --caplog-color:                 /* #519872 */   81, 152, 114; /* SEA GREEN */
+    --c-captain-dataurl-caplog:     url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW5vdGVib29rLXBlbi1pY29uIGx1Y2lkZS1ub3RlYm9vay1wZW4iPjxwYXRoIGQ9Ik0xMy40IDJINmEyIDIgMCAwIDAtMiAydjE2YTIgMiAwIDAgMCAyIDJoMTJhMiAyIDAgMCAwIDItMnYtNy40Ii8+PHBhdGggZD0iTTIgNmg0Ii8+PHBhdGggZD0iTTIgMTBoNCIvPjxwYXRoIGQ9Ik0yIDE0aDQiLz48cGF0aCBkPSJNMiAxOGg0Ii8+PHBhdGggZD0iTTIxLjM3OCA1LjYyNmExIDEgMCAxIDAtMy4wMDQtMy4wMDRsLTUuMDEgNS4wMTJhMiAyIDAgMCAwLS41MDYuODU0bC0uODM3IDIuODdhLjUuNSAwIDAgMCAuNjIuNjJsMi44Ny0uODM3YTIgMiAwIDAgMCAuODU0LS41MDZ6Ii8+PC9zdmc+');
+
+    --cipher-color:                 /* #7000D3 */   112, 0, 211; /* VIOLET */
+    --c-captain-dataurl-cipher:     url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWZsYWctaWNvbiBsdWNpZGUtZmxhZyI+PHBhdGggZD0iTTQgMjJWNGExIDEgMCAwIDEgLjQtLjhBNiA2IDAgMCAxIDggMmMzIDAgNSAyIDcuMzMzIDJxMiAwIDMuMDY3LS44QTEgMSAwIDAgMSAyMCA0djEwYTEgMSAwIDAgMS0uNC44QTYgNiAwIDAgMSAxNiAxNmMtMyAwLTUtMi04LTJhNiA2IDAgMCAwLTQgMS41MjgiLz48L3N2Zz4=');
+
+    --manifesto-color:              /* #CE7DA5 */   206, 125, 165; /* SWEET PEONY */
+    --c-captain-dataurl-manifesto:  url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWJvb2staGVhcnQtaWNvbiBsdWNpZGUtYm9vay1oZWFydCI+PHBhdGggZD0iTTQgMTkuNXYtMTVBMi41IDIuNSAwIDAgMSA2LjUgMkgxOWExIDEgMCAwIDEgMSAxdjE4YTEgMSAwIDAgMS0xIDFINi41YTEgMSAwIDAgMSAwLTVIMjAiLz48cGF0aCBkPSJNOC42MiA5LjhBMi4yNSAyLjI1IDAgMSAxIDEyIDYuODM2YTIuMjUgMi4yNSAwIDEgMSAzLjM4IDIuOTY2bC0yLjYyNiAyLjg1NmEuOTk4Ljk5OCAwIDAgMS0xLjUwNyAweiIvPjwvc3ZnPg==');
+
+    --quote-color:                  /* #27282A */   39, 40, 42; /* RAISIN BLACK */
+    --c-captain-dataurl-quote:      url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLXF1b3RlLWljb24gbHVjaWRlLXF1b3RlIj48cGF0aCBkPSJNMTYgM2EyIDIgMCAwIDAtMiAydjZhMiAyIDAgMCAwIDIgMiAxIDEgMCAwIDEgMSAxdjFhMiAyIDAgMCAxLTIgMiAxIDEgMCAwIDAtMSAxdjJhMSAxIDAgMCAwIDEgMSA2IDYgMCAwIDAgNi02VjVhMiAyIDAgMCAwLTItMnoiLz48cGF0aCBkPSJNNSAzYTIgMiAwIDAgMC0yIDJ2NmEyIDIgMCAwIDAgMiAyIDEgMSAwIDAgMSAxIDF2MWEyIDIgMCAwIDEtMiAyIDEgMSAwIDAgMC0xIDF2MmExIDEgMCAwIDAgMSAxIDYgNiAwIDAgMCA2LTZWNWEyIDIgMCAwIDAtMi0yeiIvPjwvc3ZnPg==');
+
+    --button-color:                 /* #EF8354 */       239, 131, 84; /* CORAL */
+    --c-captain-dataurl-button:     url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1vdXNlLXBvaW50ZXItY2xpY2staWNvbiBsdWNpZGUtbW91c2UtcG9pbnRlci1jbGljayI+PHBhdGggZD0iTTE0IDQuMSAxMiA2Ii8+PHBhdGggZD0ibTUuMSA4LTIuOS0uOCIvPjxwYXRoIGQ9Im02IDEyLTEuOSAyIi8+PHBhdGggZD0iTTcuMiAyLjIgOCA1LjEiLz48cGF0aCBkPSJNOS4wMzcgOS42OWEuNDk4LjQ5OCAwIDAgMSAuNjUzLS42NTNsMTEgNC41YS41LjUgMCAwIDEtLjA3NC45NDlsLTQuMzQ5IDEuMDQxYTEgMSAwIDAgMC0uNzQuNzM5bC0xLjA0IDQuMzVhLjUuNSAwIDAgMS0uOTUuMDc0eiIvPjwvc3ZnPg==');
+    
+    --notice-color:                 /* #C1495F */       193, 73, 95;  /* BLOOM */;
+    --c-captain-dataurl-notice:     url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWJvb2stYWxlcnQtaWNvbiBsdWNpZGUtYm9vay1hbGVydCI+PHBhdGggZD0iTTEyIDEzaC4wMSIvPjxwYXRoIGQ9Ik0xMiA2djMiLz48cGF0aCBkPSJNNCAxOS41di0xNUEyLjUgMi41IDAgMCAxIDYuNSAySDE5YTEgMSAwIDAgMSAxIDF2MThhMSAxIDAgMCAxLTEgMUg2LjVhMSAxIDAgMCAxIDAtNUgyMCIvPjwvc3ZnPg==');
+    
+
+    --c-captain-span-font-size:                 1.0rem;
+    --c-captain-content-font-size:              1.1rem;
+    --c-captain-title-font-size:                1.1rem;
+    --c-captain-icon-size:                      1.1em;
+
+    --c-captain-margin-block-start:             2em;
+    --c-captain-margin-block-end:               2em;
+
+    --c-captain-width:                          60%;
+    --c-captain-max-width:                      60%;
+
+    --c-captain-margin:                         2rem auto;
+    --c-captain-padding:                        0.5rem;
+
+    --c-captain-font-size:                      1rem;
+    --c-captain-font-family:                    'Dosis', sans-serif;
+    --c-captain-line-height:                    1.2;  
+
+    --c-captain-span-color:                     rgba(var(--bark),1.0);
+    --c-captain-content-font-color:             rgba(var(--raisin-black), 1.0);
+
+
+    /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+    /* GALLEON CLASS DICTIONARY */
+
+    --c-galleon-span-font-size:                 1.0rem;
+    --c-galleon-content-font-size:              1.1rem;
+    --c-galleon-title-font-size:                1.1rem;
+    --c-galleon-icon-size:                      1.1em;
+
+    --c-galleon-margin-block-start:             2em;
+    --c-galleon-margin-block-end:               2em;
+
+    --c-galleon-width:                          80%;
+    --c-galleon-max-width:                      80%;
+
+    --c-galleon-margin:                         2rem auto;
+    --c-galleon-padding:                        0.5rem;
+
+    --c-galleon-font-size:                      1rem;
+    --c-galleon-font-family:                    'Dosis', sans-serif;
+    --c-galleon-line-height:                    1.2;  
+
+    --c-galleon-span-color:                     rgba(var(--bark),1.0);
+    --c-galleon-content-font-color:             rgba(var(--raisin-black), 1.0);
+
+    --information-box-color:                    /* #7C131B */       124, 19, 27;  /* DARK WINE */;
+    --c-galleon-dataurl-information-box:        url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLW1lc3NhZ2Utc3F1YXJlLWhlYXJ0LWljb24gbHVjaWRlLW1lc3NhZ2Utc3F1YXJlLWhlYXJ0Ij48cGF0aCBkPSJNMjIgMTdhMiAyIDAgMCAxLTIgMkg2LjgyOGEyIDIgMCAwIDAtMS40MTQuNTg2bC0yLjIwMiAyLjIwMkEuNzEuNzEgMCAwIDEgMiAyMS4yODZWNWEyIDIgMCAwIDEgMi0yaDE2YTIgMiAwIDAgMSAyIDJ6Ii8+PHBhdGggZD0iTTcuNSA5LjVjMCAuNjg3LjI2NSAxLjM4My42OTcgMS44NDRsMy4wMDkgMy4yNjRhMS4xNCAxLjE0IDAgMCAwIC40MDcuMzE0IDEgMSAwIDAgMCAuNzgzLS4wMDQgMS4xNCAxLjE0IDAgMCAwIC4zOTgtLjMxbDMuMDA4LTMuMjY0QTIuNzcgMi43NyAwIDAgMCAxNi41IDkuNSAyLjUgMi41IDAgMCAwIDEyIDhhMi41IDIuNSAwIDAgMC00LjUgMS41Ii8+PC9zdmc+');
+
+
+    /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+    /* HEADER DICTIONARY */
+    --c-headers-border:                 none;
+    --c-headers-border-bottom:          none;
+    --c-headers-box-shadow:             none;
+    --c-headers-text-align:             left;
+    --c-headers-font-family:            'Dosis', sans-serif;
+    --c-headers-default-text-color:     rgba(var(--dusk-blue), 1.0);
+    --c-headers-light-text-color:       rgba(var(--dusk-blue), 0.7);
+    --c-headers-letter-spacing:         -0.015em;
+    --c-headers-text-transform:         uppercase;
+    --c-headers-padding:                0rem;
+    --c-headers-font-size:              2rem;
+    --c-headers-font-size-h2:           1.85rem;
+    --c-headers-font-size-h3:           1.65rem;
+    --c-headers-font-size-h4:           1.55rem;
+    --c-headers-font-size-h5:           1.45rem;
+    --c-headers-font-size-h6:           1.35rem;
+    --c-headers-inline-title-size:      calc(var(--c-headers-font-size) - 1.0rem);
+    --c-headers-margin-block-start:     0rem;
+    --c-headers-margin-block-end:       1rem;
+    --c-headers-margin-top:             3rem;
+    --c-headers-margin-bottom:          0.8rem;
+    --c-headers-margin-h1:              var(--c-headers-margin-top) 0 var(--c-headers-margin-bottom) 0;
+    --c-headers-margin-h2:              calc(var(--c-headers-margin-top) * 0.8) 0 calc(var(--c-headers-margin-bottom) * 0.9); /* This line is using shorthand syntax combined with mathematical scaling to define what space should exist around a header. */
+    --c-headers-margin-h3:              calc(var(--c-headers-margin-top) * 0.7) 0 calc(var(--c-headers-margin-bottom) * 0.8);
+    --c-headers-margin-h4:              calc(var(--c-headers-margin-top) * 0.6) 0 calc(var(--c-headers-margin-bottom) * 0.7);
+    --c-headers-margin-h5:              calc(var(--c-headers-margin-top) * 0.6) 0 calc(var(--c-headers-margin-bottom) * 0.7);
+    --c-headers-margin-h6:              calc(var(--c-headers-margin-top) * 0.6) 0 calc(var(--c-headers-margin-bottom) * 0.7);
+    --c-headers-inline-title-size:      calc(var(--c-headers-margin-top) * 0.6) 0 var(--c-headers-margin-bottom);
+    --c-headers-subtitle-margin:        0rem;
+    --c-headers-subtitle-padding:       0rem;
+    --c-headers-subtitle-border-bot:    none;
+    --c-headers-subtitle-text-trans:    none;
+    --c-headers-subtitle-font-size:     1.8em;
+    --c-headers-subtitle-text-align:    left;
+    --c-headers-subtitle-text-decor:    none;
+
+    /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+    /* CAPTIONATOR DICTIONARY */
+
+    --c-captionator-bgcolor:                rgba(var(--c-smoke-white), 0.1);    
+    --c-captionator-font-size:              calc(var(--c-para-font-size) - 0.1em);
+    --c-captoinator-font-color:             rgba(var(--raisin-black), 0.85);
+    
+    --c-captionator-credit-font-size:       0.7rem;
+    --c-captoinator-credit-font-color:      rgba(var(--raisin-black), 0.5);
+    
+    --c-captionator-border-pkg:             1px solid rgba(var(--dusk-blue), 0.8); 
+    
+    /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+    /* PUBLISH NAV DICTIONARY */
+
+    --default-font:                     'Dosis', sans-serif !important;
+
+    --c-links-extcolor:                 rgba(var(--jungle), 1.0);
+    --c-links-exthover:                 rgba(var(--bloom), 1.0); 
+    --c-links-extvisited:               rgba(var(--jungle), 1.0);
+    --c-links-intcolor:                 rgba(var(--sky), 1.0);  
+    --c-links-inthover:                 rgba(var(--bloom), 1.0); 
+    --c-links-intvisited:               rgba(var(--sky), 1.0); 
+    --c-links-unresolved:               rgba(var(--wenge), 1.0);
+
+    --c-onthispage-color:               rgba(var(--c-smoke-white), 1.0);
+
+    --c-column-center-bgcolor:          rgba(255,255,255, 1.0);
+    --c-column-leftRight-border-pkg:    1px solid rgba(var(--smoke-white), 1.0);
+    --c-column-leftRight-bgcolor:       rgba(var(--dusk-blue), 1.0);
+    --c-column-leftRight-font-size:     14px;
+    --c-column-leftRight-color:         rgba(var(--smoke-white), 1.0);
+
+    --c-tree-color:                     rgba(var(--dusk-blue), 1.0);
+    --c-tree-active-color:              rgba(var(--dust), 1.0);
+    --c-tree-active-bgcolor:            rgba(var(--cerulean), 1.0);
+    --c-tree-hover:                     rgba(var(--soft-linen), 1.0);
+    --c-tree-visited:                   rgba(var(--dusk-blue), 1.0);
+    --c-tree-collapse-icon-color:       rgba(var(--smoke-white), 1.0);
+
+    --logo-width: 120px !important;       
+    --logo-height: auto !important;       
+    --logo-max-width: 100% !important;   
+    --logo-max-height: 80px !important;
+
+    /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+    /* POWERS, TRAITS, QUALITIES ICONS */
+    --c-dataurl-self-identity:          url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWxpbmstaWNvbiBsdWNpZGUtbGluayI+PHBhdGggZD0iTTEwIDEzYTUgNSAwIDAgMCA3LjU0LjU0bDMtM2E1IDUgMCAwIDAtNy4wNy03LjA3bC0xLjcyIDEuNzEiLz48cGF0aCBkPSJNMTQgMTFhNSA1IDAgMCAwLTcuNTQtLjU0bC0zIDNhNSA1IDAgMCAwIDcuMDcgNy4wN2wxLjcxLTEuNzEiLz48L3N2Zz4=');
+    --c-dataurl-subjectivity:           url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWNvbmUtaWNvbiBsdWNpZGUtY29uZSI+PHBhdGggZD0ibTIwLjkgMTguNTUtOC0xNS45OGExIDEgMCAwIDAtMS44IDBsLTggMTUuOTgiLz48ZWxsaXBzZSBjeD0iMTIiIGN5PSIxOSIgcng9IjkiIHJ5PSIzIi8+PC9zdmc+');
+    --c-dataurl-healthy:                url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0LXB1bHNlLWljb24gbHVjaWRlLWhlYXJ0LXB1bHNlIj48cGF0aCBkPSJNMiA5LjVhNS41IDUuNSAwIDAgMSA5LjU5MS0zLjY3Ni41Ni41NiAwIDAgMCAuODE4IDBBNS40OSA1LjQ5IDAgMCAxIDIyIDkuNWMwIDIuMjktMS41IDQtMyA1LjVsLTUuNDkyIDUuMzEzYTIgMiAwIDAgMS0zIC4wMTlMNSAxNWMtMS41LTEuNS0zLTMuMi0zLTUuNSIvPjxwYXRoIGQ9Ik0zLjIyIDEzSDkuNWwuNS0xIDIgNC41IDItNyAxLjUgMy41aDUuMjciLz48L3N2Zz4=');
+    --c-dataurl-self-love:              url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0LWhhbmRzaGFrZS1pY29uIGx1Y2lkZS1oZWFydC1oYW5kc2hha2UiPjxwYXRoIGQ9Ik0xOS40MTQgMTQuNDE0QzIxIDEyLjgyOCAyMiAxMS41IDIyIDkuNWE1LjUgNS41IDAgMCAwLTkuNTkxLTMuNjc2LjYuNiAwIDAgMS0uODE4LjAwMUE1LjUgNS41IDAgMCAwIDIgOS41YzAgMi4zIDEuNSA0IDMgNS41bDUuNTM1IDUuMzYyYTIgMiAwIDAgMCAyLjg3OS4wNTIgMi4xMiAyLjEyIDAgMCAwLS4wMDQtMyAyLjEyNCAyLjEyNCAwIDEgMCAzLTMgMi4xMjQgMi4xMjQgMCAwIDAgMy4wMDQgMCAyIDIgMCAwIDAgMC0yLjgyOGwtMS44ODEtMS44ODJhMi40MSAyLjQxIDAgMCAwLTMuNDA5IDBsLTEuNzEgMS43MWEyIDIgMCAwIDEtMi44MjggMCAyIDIgMCAwIDEgMC0yLjgyOGwyLjgyMy0yLjc2MiIvPjwvc3ZnPg==');
+
+}
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/*         
+ ▄██▄ ████▄ 
+██  ██ ▄██▀ 
+ ▀██▀ ███▄▄ 
+*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* ELEMENT FORMAT CODEX */
+
+/* GLOBAL FONT */
+html, body, .markdown-rendered, .markdown-source-view {
+    font-family: 'Dosis', sans-serif !important;
+}
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* LIST CODEX (OPTIMIZED FOR NESTED SCALING)
+
+/* 1. PARENT LEVEL LISTS ONLY */
+/* The addition of the child combinator (>) ensures this only targets 
+   top-level lists directly under the markdown preview container */
+:is(.markdown-rendered, .markdown-published) > :is(ol, ul),
+.markdown-rendered .callout-content > :is(ol, ul) {
+    margin: 0.2rem 0 0.2rem 1.5rem !important; /* Your signature parent gap */
+    padding: 0.1rem !important;
+    font-size: 1.1rem !important;
+}
+
+/* 2. NESTED LAYER SUBSIDIARIES */
+/* This catches any list that is a child of a list item, forcing it 
+   to scale down consistently to a clean fraction (e.g., 60% of the parent gap) */
+:is(.markdown-rendered, .markdown-published) li > :is(ol, ul) {
+    margin: 0.15rem 0 0.15rem 0.2rem !important; /* Scaled down fraction (0.9rem) */
+    padding: 0.1rem !important;
+    margin-inline-start: 0.1rem !important;
+    font-size: 1.1rem !important; /* Slightly smaller text for sub-items if desired */
+}
+
+:is(.markdown-rendered, .markdown-published) ol, ul {
+    margin: 0 !important;
+    padding-inline-start: 0.5rem !important;
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
+}
+
+:is(.markdown-rendered, .markdown-published) li {
+    font-size: 1.1rem !important;
+    margin-inline-start: 1.5rem !important;
+
+}
+
+/* LIST MARKER DESIGN SYSTEM */
+:is(.markdown-rendered, .markdown-published) li::marker,
+:is(.markdown-rendered, .markdown-published) .list-bullet::after,
+:is(.markdown-rendered, .markdown-published) .list-number {
+    
+    color: var(--c-lists-mark-color) !important;
+    font-weight: 600;
+    font-family: 'Dosis', sans-serif;
+
+}
+
+/* OBSIDIAN APP'S READING VIEW GHOST MARKER FIX */
+.markdown-rendered .list-bullet::after {
+    background-color: var(--c-lists-mark-color);
+}
+
+/* LEFT ALIGNED BULLETS EXPAND RIGHT */
+/* the default behavior is that multiple digit numbers are aligned
+    right and expand leftward. This is stupid, so I have fixed it. */
+
+    
+/* Target lists inside your invisible callout */
+.callout-content ol {
+    padding-inline-start: 2.5rem !important; /* Keep enough breathing room */
+}
+
+.callout-content li {
+    margin-inline-start: 0 !important;
+    padding-inline-start: 0.2rem !important;
+}
+
+/* Force the numbers to align left and expand to the right */
+.callout-content li::marker {
+    text-align: left !important;
+}
+
+/* BODY CODEX */
+body, .markdown-rendered, .markdown-published {
+    --font-text-theme: 'Dosis';
+
+    font-family: var(--c-font-family) !important;
+    -webkit-font-smoothing: antialiased;    /* Global Font Smoothing for iPad/macOS */
+    font-size: var(--c-font-size);
+    color: var(--c-body-color);
+    /* Default spacing for the whole site/view */
+    /*line-height: var(--bod-line-height);
+    letter-spacing: var(--bod-letter-spacing);*/
+}
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* HEADER CODEX */
+
+    /* - remove default settings for headers */
+:is(.markdown-rendered, .markdown-published) :is(h1, h2, h3, h4, h5, h6) {
+    border: var(--c-headers-border) !important;
+    border-bottom: var(--c-headers-border-bottom) !important; /* include just in case other themes use it */
+    box-shadow: var(--c-headers-box-shadow) !important; 
+    text-align: var(--c-headers-text-align) !important;
+    margin: 0;
+    padding: 0 !important;
+    color: var(--c-headers-default-text-color) !important;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    text-transform: var(--c-headers-text-transform);
+    scroll-margin-top: 60px !important; /* fixes the Scroll Spy sync issue: incorrect outline item being active */
+}
+    /* THE INLINE TITLE - the name of the note at the top of the page */
+    /* THE PUBLISH PAGE TITLE - the name of the note at the top of the page */
+:is(.inline-title, .publish-page-title, .published-container .markdown-rendered h1.page-header) {
+    color: var(--c-headers-light-text-color) !important;    
+    font-family: var(--c-headers-font-family) !important;
+    letter-spacing: var(--c-headers-letter-spacing) !important;
+    font-size: var(--c-headers-inline-title-size) !important;
+    margin-bottom: 2rem !important;
+    border-bottom: none !important; /* Some themes add a line under H1s; this keeps it clean */
+}
+    /* HEADER 1 SUBTITLE EFFECT */
+    /* Targets an H1 that contains a 'u' tag: # <u>Heading</u> */
+:is(.markdown-rendered, .markdown-published) h1:has(u) {
+    /*margin-top: 0 !important;*/
+    font-size: var(--c-headers-subtitle-font-size) !important;
+    text-transform: var(--c-headers-subtitle-text-trans); /* or uppercase */
+    border-bottom: var(--c-headers-border-bottom) !important;
+    margin: var(--c-headers-subtitle-margin) !important;
+    padding: var(--c-headers-subtitle-padding) !important;
+    text-align: var(--c-headers-subtitle-text-align) !important;
+}
+    /* hide the underline on the subtitle */
+:is(.markdown-rendered, .markdown-published) h1 u {
+    text-decoration: var(--c-headers-subtitle-text-decor) !important;
+}
+    /* HEADER 1 */
+:is(.published-container, .markdown-rendered, .markdown-published) :is(h1) {
+font-size: var(--c-headers-font-size) !important;
+letter-spacing: var(--c-headers-letter-spacing) !important;
+color: var(--c-headers-default-text-color) !important;
+margin: var(--c-headers-margin-h1) !important;
+margin-block-start: var(--c-headers-margin-block-start) !important;
+margin-block-end: var(--c-headers-margin-block-end) !important
+}
+    /* HEADER 2 */
+:is(.published-container .markdown-rendered, .markdown-published) :is(h2) {
+    color: var(--c-headers-light-text-color);
+    font-size: var(--c-headers-font-size-h2) !important;
+    margin: var(--c-headers-margin-h2) !important;
+    /*letter-spacing: var(--c-headers-letter-spacing-h2);*/
+}
+    /* HEADER 3 */
+:is(.published-container .markdown-rendered, .markdown-published) :is(h3) {
+    color: var(--c-headers-light-text-color);
+    font-size: var(--c-headers-font-size-h3) !important;
+    margin: var(--c-headers-margin-h3) !important;
+    /*letter-spacing: var(--c-headers-letter-spacing-h3);*/
+}
+    /* HEADER 4 */
+:is(.published-container .markdown-rendered, .markdown-published) :is(h4) {
+    color: var(--c-headers-light-text-color);
+    font-size: var(--c-headers-font-size-h4) !important;
+    margin: var(--c-headers-margin-h4) !important;    
+    /*letter-spacing: var(--c-headers-letter-spacing-h4);*/
+}
+    /* HEADER 5 */
+:is(.published-container .markdown-rendered, .markdown-published) :is(h5) {
+    color: var(--c-headers-light-text-color);
+    font-size: var(--c-headers-font-size-h5) !important;
+    margin: var(--c-headers-margin-h5) !important;
+    /*letter-spacing: var(--c-headers-letter-spacing-h5);*/
+}
+    /* HEADER 6 */
+:is(.published-container .markdown-rendered, .markdown-published) :is(h6) {
+    color: var(--c-headers-light-text-color);
+    font-size: var(--c-headers-font-size-h6) !important;
+    margin: var(--c-headers-margin-h6) !important;
+    /*letter-spacing: var(--c-headers-letter-spacing-h6);*/
+}
+    /* SIBLING OVERRIDES */
+    /* This captures the 'Header-after-Element' */
+:is(.markdown-rendered, .markdown-published) :is(p,pre,table,ul,ol) + h1, 
+.markdown-rendered div:is(.el-p, .el-table, .el-ul) + div > h1 { margin: var(--c-headers-margin-h1) !important; }
+
+:is(.markdown-rendered, .markdown-published) :is(p,pre,table,ul,ol) + h2, 
+.markdown-rendered div:is(.el-p, .el-table, .el-ul) + div > h2 { margin: var(--c-headers-margin-h2) !important; }
+
+:is(.markdown-rendered, .markdown-published) :is(p,pre,table,ul,ol) + h3, 
+.markdown-rendered div:is(.el-p, .el-table, .el-ul) + div > h3 { margin: var(--c-headers-margin-h3) !important; }
+
+:is(.markdown-rendered, .markdown-published) :is(p,pre,table,ul,ol) + h4, 
+.markdown-rendered div:is(.el-p, .el-table, .el-ul) + div > h4 { margin: var(--c-headers-margin-h4) !important; }
+
+:is(.markdown-rendered, .markdown-published) :is(p,pre,table,ul,ol) + h5, 
+.markdown-rendered div:is(.el-p, .el-table, .el-ul) + div > h5 { margin: var(--c-headers-margin-h5) !important; }
+
+:is(.markdown-rendered, .markdown-published) :is(p,pre,table,ul,ol) + h6, 
+.markdown-rendered div:is(.el-p, .el-table, .el-ul) + div > h6 { margin: var(--c-headers-margin-h6) !important; }
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* IMAGE CODEX */
+    /* Flips an image horizontally */
+.markdown-rendered img[alt*="flip-h"] {
+    transform: scaleX(-1);
+}
+
+    /* centers image on page */
+
+/* Centers the image in Reader */
+.markdown-preview-view img[alt*="center"] {
+    display: block !important;
+    margin-inline: auto !important;
+}
+
+/* Forces the image to honor Obsidian's width attribute when centered */
+.markdown-preview-view img[alt*="center"][width] {
+    width: attr(width px) !important;
+    max-width: 100% !important;
+    height: auto !important;
+}
+
+/* Centers the image on Publish */
+.published-container img[alt*="center"],
+.site-body img[alt*="center"] {
+    display: block !important;
+    margin-inline: auto !important;
+}
+
+/* Forces the image to honor Obsidian's width attribute when centered */
+.published-container img[alt*="center"][width],
+.site-body img[alt*="center"][width] {
+    width: attr(width px) !important;
+    max-width: 100% !important;
+    height: auto !important;
+}
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/*
+ ▄██▄ ████▄ 
+██  ██ ▄▄██ 
+ ▀██▀ ▄▄▄█▀             
+*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* CAPTIONATOR CALLOUT CODEX */
+
+/* SUBJECT                                                                                               +++- */
+/* THE CAPTIONATOR CALLOUT: CODEX EXCEPTION */
+:is(.markdown-rendered, .markdown-published) .callout[data-callout="captionator"] {
+    /* Reset Codex Widths to allow floating */
+    width: auto !important;
+    max-width: 45% !important; /* Limits size for floating images */
+    flex: none !important;
+    
+    /* Reset Codex Margins */
+    margin-inline: unset !important;
+    background: var(--c-captionator-bgcolor);
+    border: var(--c-captionator-border-pkg);
+    padding: 8px !important;
+    margin: 1.3rem auto !important; /* space above and below the whole caption */
+}
+    /* Specific Width for Centered Version */
+:is(.markdown-rendered, .markdown-published) .callout[data-callout="captionator"][data-callout-metadata*="center"] {
+    max-width: 100% !important;
+    width: fit-content !important;
+    margin: 2rem auto !important;
+}
+    /* Content Reset: Remove the Codex paragraph padding/indent for the image */
+.callout[data-callout="captionator"] .callout-content {
+    padding: 0 !important;
+    margin: 0 !important;
+    text-indent: 0 !important;
+}
+.callout[data-callout="captionator"] .callout-content > p {
+    margin: 0 !important;
+    padding: 0 !important;
+    text-align: center !important;
+}
+    /* Hide the title bar as established */
+.callout[data-callout="captionator"] .callout-title {
+    display: none !important;
+}
+/* --- ALIGNMENT --- */
+.callout[data-callout="captionator"][data-callout-metadata*="right"] { float: right; margin-left: 1.5rem !important; }
+.callout[data-callout="captionator"][data-callout-metadata*="left"] { float: left; margin-right: 1.5rem !important; }
+
+/* --- THE TWO-TIER CAPTIONATOR --- */
+    /* THE FIRST LINE (Picture Credit) */
+.callout[data-callout="captionator"] em {
+    display: block;
+    margin-top: 0.3rem; /* Current top margin */
+    padding: 0 1.5rem;
+    font-style: normal;
+    font-family: 'Dosis', sans-serif;
+    font-size: var(--c-captionator-credit-font-size); /* Slightly smaller for credit */
+    text-transform: uppercase;
+    color: var(--c-captoinator-credit-font-color); /* Fainter for credit */
+    text-align: center;
+    line-height: 1.2;
+}
+    /* THE SECOND LINE (Remark) */
+    /* This only triggers if an 'em' tag follows another 'em' tag */
+    /* Target the second emphasis tag even if Obsidian wraps them in 'p' or 'span' */
+.callout[data-callout="captionator"] em ~ em {
+    margin-top: 0.2rem !important;
+    padding: 0 1.5rem;
+    font-size: var(--c-captionator-font-size) !important;
+    color: var(--c-captoinator-font-color) !important;
+    text-transform: none !important;
+    letter-spacing: normal !important;
+    opacity: 1 !important;
+}
+
+/* 1. THE SCROLLBAR EXTERMINATOR */
+:is(.markdown-rendered, .markdown-published) .callout[data-callout="captionator"] {
+    overflow: hidden !important; /* Forces the scrollbar to vanish */
+    height: auto !important;
+    display: block !important; /* Overrides any 'flex' from your Codex */
+}
+
+/* 2. ENSURE INNER CONTENT DOESN'T EXPAND */
+.callout[data-callout="captionator"] .callout-content {
+    overflow: hidden !important;
+    display: block !important;
+}
+
+/* 1. THE GHOST LINE BREAKS KILLER */
+.callout[data-callout="captionator"] .callout-content br {
+    display: none !important;
+}
+
+/* 2. FORCE PARAGRAPHS TO COLLAPSE */
+/* This overrides your Codex's 0.8rem bottom padding specifically here */
+.callout[data-callout="captionator"] .callout-content p {
+    margin: 0 !important;
+    padding: 0 !important;
+    display: contents; /* This 'unwraps' the paragraph so it doesn't create a box */
+}
+
+/* 3. RE-ESTABLISH THE CONTROLLED GAP */
+.callout[data-callout="captionator"] img {
+    display: block;
+    margin: 0 auto !important;
+    /* This becomes your ONLY control for the gap */
+    border-radius: 2px;    
+    margin-bottom: 0.5rem !important; /* distance the caption rests beneath the image */
+}
+
+    /* External Link Icon */
+.callout[data-callout="captionator"] .external-link::after {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  width: 15px;
+  height: 15px;
+  margin-left: 8px;
+  margin-bottom: 4px;
+}
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/*
+ ▄██▄  ██  ██ 
+██  ██ ▀█████ 
+ ▀██▀      ██
+ */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* DEFINE EMBEDS CODEX */
+
+/* Target only embeds that include "|define" in the link */
+.internal-embed[alt*="define"] {
+    display: block !important;
+    max-height: 100%; /* Adjust this value to your preferred height */
+    overflow: hidden;  /* Disables the ability to scroll */
+    justify-self: left;
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    border: none !important;
+    margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
+}
+
+/* Ensure the inner content of the matched embed doesn't overflow */
+.internal-embed[alt*="define"] .markdown-embed-content {
+    max-height: 100%;
+    overflow: hidden;
+    justify-self: center;
+    margin: 0;
+    padding: 0;    
+    border: none !important;
+    display: block !important;    
+}
+
+/* Hide only the title text for these specific embeds */
+.internal-embed[alt*="define"] .markdown-embed-title {
+    display: none;
+}
+
+/* Optional: Pull the inner content up slightly to fill the gap left by the hidden title */
+.internal-embed[alt*="define"] .markdown-embed-content, .markdown-rendered .callout-content > :is(ol, ul) {
+    margin: 0px !important; 
+    padding: 0px !important;
+    font-size: 1.0rem !important;
+}
+
+/* Target only paragraphs (<p>) inside an internal embed with "define" in the alt text */
+.internal-embed[alt*="define"] .markdown-embed-content p,
+.internal-embed[alt*="define"] .markdown-embed-content .markdown-rendered p {
+    margin: 0.3rem auto !important;
+    padding: 0 !important;
+    text-indent: 0 !important;
+    font-size: var(--c-font-size) !important;
+}
+/* Remove structural padding from the embed container itself */
+.internal-embed[alt*="define"] .markdown-embed-content,
+.internal-embed[alt*="define"] .markdown-preview-view {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* 1. DISABLE HYPERLINK BEHAVIOR (POINTER EVENTS) */
+/* Targets the embed container when its alt/aria attribute contains "define" */
+.markdown-embed[aria-label*="define"],
+.markdown-embed[alt*="define"],
+.internal-embed[src*="define"] {
+    pointer-events: none !important; /* Disables all clicks, hovers, and text-selection redirection */
+    cursor: default !important;     /* Changes the cursor back to a regular arrow instead of a hand pointer */
+}
+
+/* 2. REMOVE THE LINK/EDIT ICON FROM THE UPPER RIGHT */
+/* Targets the interactive icon link wrapper inside that specific embed */
+.markdown-embed[aria-label*="define"] .markdown-embed-link,
+.markdown-embed[alt*="define"] .markdown-embed-link,
+.internal-embed[src*="define"] .markdown-embed-link {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    width: 0 !important;
+    height: 0 !important;
+}
+
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* LINKED EMBEDS CODEX */
+
+.internal-embed[alt*="linked"] {
+    max-height: 100%; /* Adjust this value to your preferred height */
+    overflow: hidden;  /* Disables the ability to scroll */
+    justify-self: left;
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    border: none !important;
+}
+
+/* Ensure the inner content of the matched embed doesn't overflow */
+.internal-embed[alt*="linked"] .markdown-embed-content {
+    max-height: 100%;
+    overflow: hidden;
+    justify-self: center;
+    margin: 0;
+    padding: 0;    
+    border-left: 3px solid var(--c-links-intcolor) !important;
+}
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/*
+ ▄██▄  ███▀▀▀ 
+██  ██ ▀▀███▄ 
+ ▀██▀  ▄▄▄██
+*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* PLUGINS CODEX */
+
+/* TEMPLATER CODEX */
+    /* THE AUTOMATED SIGN-OFF */
+.log-sign-off {
+    --c-bark:   /* #7A5C52 */   122, 92, 82; /* BARK */
+
+    display: block;
+    margin-top: 5rem;
+    padding: 0.25rem 0;
+    border: none;
+    background-color: transparent;
+    font-family: 'Dosis', sans-serif;
+    font-size: 0.75rem;
+    color: rgba(var(--bark), 1.0);
+    text-align: right;
+    letter-spacing: 1px;
+}
+
+.log-sign-off::before {
+    content: "  This page was last updated: ";
+    font-weight: normal;
+    opacity: 0.7;
+}
+/*
+ ▄██▄  ▄██▀▀▀ 
+██  ██ ██▄▄▄  
+ ▀██▀  ▀█▄▄█▀
+*/
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* CALLOUT CAPTAIN CLASS CODEX (4C) */
+/* USE SYNTAX:  */
+/* 
+>[!info|captain-class cipher] <span>#1</span> Cipher
+> Eat my shorts!
+> Later
+*/
+
+/* 1. THE SCOPED VARIABLES (Only active within the class container) */
+:is(.markdown-rendered, .markdown-published) .captain-class {
+
+}
+
+/* 2. THE EXCLUSIVE SELECTOR (The "Gated" Entry) */
+/* This rule ONLY targets callouts with the exact metadata 'captain-class' */
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata="captain-class"].callout,
+.callout[data-callout-metadata~="captain-class"].callout {
+    
+    /* RESET: Overriding Browser/Obsidian defaults for the container */
+    width: var(--c-captain-width) !important;
+    max-width: var(--c-captain-max-width) !important;
+    margin: var(--c-captain-margin) !important;
+    padding: var(--c-captain-padding) !important;
+
+    text-indent: 0 !important;
+    display: block !important;
+
+    line-height: var(--c-captain-line-height) !important;
+
+    justify-self: center !important;
+
+    border-width: 1px !important;
+    border-radius: 4px !important;
+
+    font-size: var(--c-captain-title-font-size) !important;
+    font-family: var(--c-captain-font-family) !important;    
+}
+
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata="captain-class"] .callout-title {
+
+
+    background-color: transparent !important; 
+    border: none !important;
+
+    width: fit-content !important;
+    height: var(--c-captain-line-height) !important;      /* Explicitly lock height */
+    min-height: var(--c-captain-line-height) !important;  /* Block any 37px inheritance */
+
+    /* Reset Obsidian's title padding which often causes the "jump" */
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+
+    display: inline-flex !important; 
+    align-items: center !important;  
+    justify-content: flex-start !important;
+    line-height: var(--c-captain-line-height) !important;
+
+    align-items: center !important; 
+    gap: 0.5rem !important;
+}
+
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata="captain-class"] .callout-title-inner {
+    display: flex !important;
+    align-items: center !important; 
+    margin: 0 !important;         /* Kill any rogue paragraph margins */
+    padding: 0 !important;
+}
+
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="captain-class"] .callout-title-inner > :is(div, p, span) {    
+    --nudge: -0px;
+
+    /* flexbox engine */ 
+    display: inline-flex !important; 
+    align-items: center !important;  
+    justify-content: flex-start !important;
+    
+    width: fit-content !important;
+    height: 100% !important;
+    box-sizing: border-box !important; 
+
+    margin: 0 !important;
+    padding: 0 !important;
+    
+    text-align: left !important;
+    text-indent: 0 !important;
+    text-transform: uppercase !important;
+    font-weight: 600 !important;
+
+    transform: translateY(var(--nudge));
+
+    color: var(--c-captain-span-color) !important;
+    font-size: var(--c-captain-span-font-size) !important;    
+
+}
+
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="captain-class"] .callout-icon {
+    --icon-size: var(--c-captain-icon-size); 
+    
+    display: inline-flex !important;
+    align-items: center !important; 
+    justify-content: center !important; 
+    height: 32px !important; 
+    width: 32px !important; /* Make it a perfect square hit-box */
+
+    /* Hide the default SVG */
+    & svg { display: none !important; }
+
+    /* Create the new icon area */
+    &::after {
+        content: "";
+        display: block;
+
+        margin: 0 !important;
+        padding: 0 !important;
+        
+        /* Use the variables we just defined */
+        width: var(--icon-size) !important;
+        height: var(--icon-size) !important;
+        
+        /* Inherit the text color */
+        background-color: currentColor !important; 
+        
+        /* Masking Setup */
+        -webkit-mask-size: contain;
+        mask-size: contain;
+        -webkit-mask-repeat: no-repeat;
+        mask-repeat: no-repeat;
+        
+        /* Prevents squishing in flex headers */
+        flex-shrink: 0 !important;
+    }
+}
+
+/* THIS IS NECESSARY TO CENTER THE TITLE ITEMS BECAUSE IT OVERRIDES THE DEFAULT BEHAVIOR */
+/* TARGET: The Title Bar itself */
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="captain-class"] > .callout-title {
+    height: 32px !important;
+    min-height: 32px !important;
+    line-height: 1 !important; /* The unitless reset we discussed */
+    padding: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    text-transform: uppercase;
+    justify-content: left !important;
+}
+
+/* TARGET: The Inner Wrapper (where the text actually lives) */
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="captain-class"] > .callout-title > .callout-title-inner {
+    display: flex !important;
+    align-items: center !important;
+    height: 32px !important;
+    line-height: 1 !important;
+    padding: 0 0.5rem 0 0 !important;    
+}
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="captain-class"] > .callout-title > .callout-title-inner > span {
+    padding: 0 0.3rem 0 0.15rem !important;
+}
+/* TARGET: The Icon Container */
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="captain-class"] > .callout-title > .callout-icon {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    height: 32px !important;
+}
+
+
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="captain-class"] .callout-content > p,
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="captain-class"] .callout-content :is(div, p, span, li) {
+    /* This reaches up to grab the color defined in your Skin */
+    color: var(--c-captain-content-font-color) !important;
+    
+    /* Optional: Ensure the body font matches your Iron Age aesthetic */
+    font-family: var(--c-captain-font-family, 'Dosis') !important;
+    font-size: var(--c-captain-content-font-size) !important;
+    line-height: 1.5 !important;
+}
+
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/* CAPTAIN SKINS */
+
+/* --- ALMANAC SKIN --- */
+.callout[data-callout-metadata~="almanac"] {
+    --callout-color:                    var(--almanac-color) !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+    text-indent: 0 !important;
+
+    background-color: rgba(var(--callout-color), 0.1) !important;
+    border: 1px solid rgb(var(--callout-color)) !important;    
+}
+.callout[data-callout-metadata~="almanac"] .callout-icon::after {
+    -webkit-mask-image:         var(--c-captain-dataurl-almanac); 
+    mask-image:                 var(--c-captain-dataurl-almanac);
+
+
+    align-self: center !important;
+    vertical-align: middle !important;
+    display: inline-block !important;
+}
+
+
+/* --- ARCHIVE SKIN --- */
+.callout[data-callout-metadata~="archive"] {
+    --callout-color:        var(--archive-color) !important;
+    
+    margin: 0 !important;
+    padding: 0 !important;
+    text-indent: 0 !important;
+
+    background-color: rgba(var(--callout-color), 0.1) !important;
+    border: 1px solid rgb(var(--callout-color)) !important;    
+}
+.callout[data-callout-metadata~="archive"] .callout-icon::after {
+    -webkit-mask-image:     var(--c-captain-dataurl-archive); 
+    mask-image:             var(--c-captain-dataurl-archive);
+
+
+    align-self: center !important;
+    vertical-align: middle !important;
+    display: inline-block !important;
+}
+
+
+
+/* --- CAPLOG SKIN --- */
+.callout[data-callout-metadata~="caplog"] {
+    --callout-color:    var(--caplog-color) !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+    text-indent: 0 !important;
+
+    background-color: rgba(var(--callout-color), 0.1) !important;
+    border: 1px solid rgb(var(--callout-color)) !important;    
+}
+.callout[data-callout-metadata~="caplog"] .callout-icon::after {
+    -webkit-mask-image:             var(--c-captain-dataurl-caplog); 
+    mask-image:                     var(--c-captain-dataurl-caplog);
+
+
+    align-self: center !important;
+    vertical-align: middle !important;
+    display: inline-block !important;
+}
+
+
+/* --- CIPHER SKIN --- */
+.callout[data-callout-metadata~="cipher"] {
+    --callout-color:                    var(--cipher-color) !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+    text-indent: 0 !important;
+
+    background-color: rgba(var(--callout-color), 0.1) !important;
+    border: 1px solid rgb(var(--callout-color)) !important;    
+}
+.callout[data-callout-metadata~="cipher"] .callout-icon::after {
+    -webkit-mask-image: var(--c-captain-dataurl-cipher); 
+    mask-image: var(--c-captain-dataurl-cipher);
+
+
+    align-self: center !important;
+    vertical-align: middle !important;
+    display: inline-block !important;
+}
+
+/* --- MANIFESTO SKIN --- */
+.callout[data-callout-metadata~="manifesto"] {
+    --callout-color:    var(--manifesto-color) !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+    text-indent: 0 !important;
+
+    background-color: rgba(var(--callout-color), 0.1) !important;
+    border: 1px solid rgb(var(--callout-color)) !important;    
+}
+.callout[data-callout-metadata~="manifesto"] .callout-icon::after {
+    -webkit-mask-image: var(--c-captain-dataurl-manifesto); 
+    mask-image: var(--c-captain-dataurl-manifesto);
+
+
+    align-self: center !important;
+    vertical-align: middle !important;
+    display: inline-block !important;
+}
+
+/* --- QUOTE SKIN --- */
+.callout[data-callout-metadata~="quote"] {
+    --callout-color: var(--quote-color) !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+    text-indent: 0 !important;
+
+    background-color: rgba(var(--callout-color), 0.1) !important;
+    border: 1px solid rgb(var(--callout-color)) !important;    
+}
+.callout[data-callout-metadata~="quote"] .callout-icon::after {
+    -webkit-mask-image: var(--c-captain-dataurl-quote); 
+    mask-image: var(--c-captain-dataurl-quote);
+
+
+    align-self: center !important;
+    vertical-align: middle !important;
+    display: inline-block !important;
+}
+.callout[data-callout-metadata~="quote"] .callout-content p:last-of-type {
+    text-align: right !important;
+    width: 100% !important;
+    display: block !important;
+    font-weight: 600;
+    font-size: 0.85rem !important;
+    text-transform: uppercase;
+    opacity: 0.6;
+    margin-top: 0.8rem !important;
+}
+.callout[data-callout-metadata~="quote"] .callout-content i {
+    display: block !important; /* Force it to its own line */
+    
+    --content-i-color: 39, 40, 42; /* RAISIN BLACK */
+    
+    text-align: left !important;
+    text-indent: 0.5rem !important;
+    font-size: 0.8rem !important;
+    font-style: italic !important;    
+
+    color: rgba(var(--content-i-color), 0.9) !important;
+    
+    margin: 0 !important;
+    padding: 2px 0 !important; /* Give it a tiny bit of breathing room */
+}
+.callout[data-callout-metadata~="quote"] .callout-content br {
+    display: none !important;
+}
+
+
+/* --- BUTTON SKIN --- */
+:is(.markdown-rendered, .markdown-published) .markdown-preview-sizer div.el-div:has(.callout[data-callout-metadata~="button"]) {
+    display: flex !important;
+    justify-content: center !important; /* Centering force for the row */
+    width: 100% !important;
+    
+    /* Remove default padding that might push it off-center */
+    padding-inline: 0 !important; 
+    margin-block: 1rem !important;
+}
+
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="button"].callout {
+/* 1. THE BLOCK CENTER TRICK */
+    display: inline-flex !important;
+    width: fit-content !important;
+    max-width: fit-content !important;
+    
+    /* This only works on 'display: flex' or 'display: block' items */
+    margin: 0rem auto !important;
+    
+    /* 2. INTERNAL ALIGNMENT */
+    align-items: center !important; /* Centers the title and link inside the box */
+    text-align: center !important;
+
+    /* 3. AESTHETICS */
+    background-color: rgba(var(--button-color), 0.05) !important;
+    border: 1.5px solid rgb(var(--button-color)) !important;
+    border-radius: 6px !important;
+    padding: 0.3rem 0.6rem !important;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+}
+
+/* --- NOTICE SKIN --- */
+.callout[data-callout-metadata~="notice"] {
+    --callout-color:    var(--notice-color) !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+    text-indent: 0 !important;
+
+    background-color: rgba(var(--callout-color), 0.1) !important;
+    border: 1px solid rgb(var(--callout-color)) !important;    
+}
+.callout[data-callout-metadata~="notice"] .callout-icon::after {
+    -webkit-mask-image: var(--c-captain-dataurl-notice); 
+    mask-image: var(--c-captain-dataurl-notice);
+
+
+    align-self: center !important;
+    vertical-align: middle !important;
+    display: inline-block !important;
+}
+
+/* HOVER LIFT */
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="button"].callout:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.1);
+    background-color: rgba(var(--button-color), 0.1) !important;
+}
+
+/* POPOVERS */
+/* THE SURGICAL STRIKE */
+.hover-popover:has([data-callout-metadata~="button"]),
+.hover-popover:has(.callout-title-inner), 
+.hover-popover:has(.internal-link) {
+    /* Only apply this if we are coming from a button context */
+    & { 
+        display: none !important;
+    }
+}
+
+/* STRIP ALL LINK STYLES IN THE ENTIRE BUTTON CALLOUT */
+.callout[data-callout-metadata~="button"] :is(.callout-title, .callout-content) :is(a, .internal-link, .external-link),
+.callout[data-callout-metadata~="button"] :is(.callout-title, .callout-content) :is(a, .internal-link, .external-link) * {
+    text-decoration: none !important;
+    color: rgb(var(--button-color)) !important;
+    font-weight: 500 !important;
+    border: none !important;
+    background: none !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    pointer-events: auto; /* Keeps the link clickable */
+    cursor: pointer !important;
+}
+.callout[data-callout-metadata~="button"] .callout-title-inner {
+    --button-color:     /* #EF8354 */       239, 131, 84; /* CORAL */
+    color: rgb(var(--button-color)) !important;
+    font-weight: 500 !important;
+}
+
+/* REMOVE THE EXTERNAL LINK ICON (The little arrow) */
+.callout[data-callout-metadata~="button"] :is(.callout-title, .callout-content) .external-link {
+    background-image: none !important;
+    padding-right: 0 !important;
+}
+
+.callout[data-callout-metadata~="button"] .callout-title {
+    justify-content: center !important; /* Horizontal center */
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none !important;
+}
+
+.callout[data-callout-metadata~="button"] .callout-content {
+    text-align: center !important;
+    padding: 0 !important;
+}
+
+.callout[data-callout-metadata~="button"] .callout-icon::after {
+    color: rgb(var(--button-color)) !important;
+    -webkit-mask-image: var(--c-captain-dataurl-button); 
+    mask-image: var(--c-captain-dataurl-button);
+
+
+    align-self: center !important;
+    vertical-align: middle !important;
+    display: inline-block !important;
+}
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/  
+/*
+ ▄██▄ ██████ 
+██  ██  ▄██▀ 
+ ▀██▀  ██▀   
+*/            
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* INLINE ICONS CODEX */
+/* SUBJECT                                                                                               +++- */
+    /* - formatting for inline icons */
+.inline-icons {    
+    /* 1. FLUID DIMENSIONS */
+    /* 1em = exactly the current font size. 
+       1.2em makes it slightly larger than the text for better visual weight */
+    --icon-size: 1em; 
+
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+    
+    width: var(--icon-size) !important;
+    height: var(--icon-size) !important;
+    
+    /* 2. FLEXBOX ALIGNMENT */
+    /* This keeps the icon perfectly centered on the text baseline */
+    vertical-align: middle; 
+    
+    /* Small horizontal breath so it doesn't touch the letters */
+    margin: 0 0.15em; 
+    
+    /* 3. STENCIL LOGIC */
+    background-color: currentColor; /* Inherits the color of the text too! */
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+}
+
+
+    /* INLINE ICON DISPLAY CLASS */
+.icon-almanac {
+    --callout-color:        var(--almanac-color) !important;    
+    -webkit-mask-image:     var(--c-captain-dataurl-almanac) !important; 
+    mask-image:             var(--c-captain-dataurl-almanac) !important;
+
+    /* Alignment for Dosis x-height */
+    vertical-align: -10%; 
+    background-color: rgba(var(--almanac-color), 1.0) !important;
+}
+
+    /* INLINE ICON DISPLAY CLASS */
+.icon-archive {
+    --callout-color:        var(--archive-color) !important;    
+    -webkit-mask-image:     var(--c-captain-dataurl-archive); 
+    mask-image:             var(--c-captain-dataurl-archive);
+
+    /* Alignment for Dosis x-height */
+    vertical-align: -10%; 
+    background-color: rgba(var(--archive-color), 1.0) !important;
+}
+    /* INLINE ICON DISPLAY CLASS */
+.icon-caplog {
+    --callout-color:        var(--caplog-color) !important;    
+    -webkit-mask-image:     var(--c-captain-dataurl-caplog); 
+    mask-image:             var(--c-captain-dataurl-caplog);
+
+    /* Alignment for Dosis x-height */
+    display: inline-flex !important; 
+    align-items: center !important;  
+    justify-content: flex-start !important;
+    background-color: rgba(var(--caplog-color), 1.0) !important;
+}
+    /* INLINE ICON DISPLAY CLASS */
+.icon-cipher {
+    --callout-color:        var(--cipher-color) !important;    
+    -webkit-mask-image:     var(--c-captain-dataurl-cipher); 
+    mask-image:             var(--c-captain-dataurl-cipher);
+
+    /* Alignment for Dosis x-height */
+    display: inline-flex !important; 
+    align-items: center !important;  
+    justify-content: flex-start !important;
+    background-color: rgba(var(--cipher-color), 1.0) !important;
+}
+    /* INLINE ICON DISPLAY CLASS */
+.icon-manifesto {
+    --callout-color:        var(--manifesto-color) !important;    
+    -webkit-mask-image:     var(--c-captain-dataurl-manifesto); 
+    mask-image:             var(--c-captain-dataurl-manifesto);
+
+    /* Alignment for Dosis x-height */
+    display: inline-flex !important; 
+    align-items: center !important;  
+    justify-content: flex-start !important;
+    background-color: rgba(var(--manifesto-color), 1.0) !important;
+}
+    /* INLINE ICON DISPLAY CLASS */
+.icon-quote {
+    --callout-color:        var(--quote-color) !important;    
+    -webkit-mask-image:     var(--c-captain-dataurl-quote); 
+    mask-image:             var(--c-captain-dataurl-quote);
+
+    /* Alignment for Dosis x-height */
+    display: inline-flex !important; 
+    align-items: center !important;  
+    justify-content: flex-start !important;
+    background-color: rgba(var(--quote-color), 1.0) !important;
+}
+.icon-button {
+    --callout-color:        var(--button-color) !important;    
+    -webkit-mask-image:     var(--c-captain-dataurl-button); 
+    mask-image:             var(--c-captain-dataurl-button);
+
+    /* Alignment for Dosis x-height */
+    display: inline-flex !important; 
+    align-items: center !important;  
+    justify-content: flex-start !important;
+    background-color: rgba(var(--button-color), 1.0) !important;
+}
+
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/* POWERS, TRAITS, QUALITIES INLINE ICONS
+
+/* =========================================================
+   1. GLOBAL ENGINE (Targets any class starting with icon-powers-)
+   ========================================================= */
+[class^="icon-powers-"], 
+[class*=" icon-powers-"] {
+    /* Layout & Sizing */
+    display: inline-block !important;
+    width: 0.9rem !important;
+    height: 0.9rem !important;
+    
+    /* Alignment for Dosis x-height */
+    vertical-align: -0.1rem !important;
+
+    /* Color Mechanics */
+    --callout-color: var(--c-galleon-content-font-color) !important;    
+    background-color: var(--c-galleon-content-font-color) !important;    
+
+    /* Mask Vector Bounds (Prevents zooming/pixelation) */
+    -webkit-mask-size:     contain !important;
+    mask-size:             contain !important;
+    -webkit-mask-position: center !important;
+    mask-position:         center !important;
+    -webkit-mask-repeat:   no-repeat !important;
+    mask-repeat:           no-repeat !important;
+}
+
+/* =========================================================
+   2. UNIQUE ASSET MAPPINGS (Add new powers only down here)
+   ========================================================= */
+.icon-powers-self-identity {
+    --c-icon-mask:          var(--c-dataurl-self-identity);
+    -webkit-mask-image:     var(--c-icon-mask); 
+    mask-image:             var(--c-icon-mask); 
+}
+
+.icon-powers-subjectivity {
+    --c-icon-mask:          var(--c-dataurl-subjectivity);
+    -webkit-mask-image:     var(--c-icon-mask); 
+    mask-image:             var(--c-icon-mask); 
+}
+
+.icon-powers-healthy {
+    --c-icon-mask:          var(--c-dataurl-healthy);
+    -webkit-mask-image:     var(--c-icon-mask); 
+    mask-image:             var(--c-icon-mask); 
+}
+
+.icon-powers-self-love {
+    --c-icon-mask:          var(--c-dataurl-self-love);
+    -webkit-mask-image:     var(--c-icon-mask); 
+    mask-image:             var(--c-icon-mask); 
+}
+
+
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/*
+ ▄██▄  ▄████▄ 
+██  ██ ██▄▄██ 
+ ▀██▀  ▀█▄▄█▀
+*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* SUMMARY DETAIL BARQUE CODEX */
+/* - SECTION                                                                                             ___- */
+/* - collapsible headers */
+    /* THE SUMMARY AND DETAILS */
+    /* Forces all headers inside a summary to use the maximum Dosis weight */
+:is(.markdown-rendered, .markdown-published) summary :is(h1, h2, h3, h4, h5, h6) {
+    --c-bark: /* #7A5C52 */   122, 92, 82; /* BARK */
+    --c-summary-header:       rgba(var(--bark), 1.0);
+
+    font-size: 1.2rem !important;
+    font-weight: 700 !important;
+    font-family: 'Dosis', sans-serif !important;
+    color: rgba(var(--c-summary-header), 1.0) !important;    
+    line-height: 1.3;
+}
+    /* Optional: Add a custom 'plus' sign before the text */
+:is(.markdown-rendered, .markdown-published) summary::after {
+    content: "open + ";
+    font-size: 1.0rem !important;
+    font-weight: normal;
+    /* font-family: monospace; */
+    margin: 0;
+    padding: 0;
+}
+    /* Changes to a 'minus' when the student opens it */
+:is(.markdown-rendered, .markdown-published) details[open] summary::after {
+    content: "close - ";
+    font-size: 1.0rem !important;
+    font-weight: normal;    
+    margin: 0;
+    padding: 0;
+}
+    /* Removes the default margin that headers usually have so they don't 'push' the box */
+:is(.markdown-rendered, .markdown-published) summary :is(h1, h2, h3, h4, h5, h6) {
+    display: inline-flex !important;
+    align-items: center;
+    margin: 0 !important;
+    padding: 0 !important;    
+}
+    /* THE SUMMARY SETTINGS */
+:is(.markdown-rendered, .markdown-published) summary {
+    --c-bark: /* #7A5C52 */   122, 92, 82; /* BARK */
+    --c-summary-color:       rgba(var(--bark), 1.0);
+
+    display: flex !important;
+    align-items: center !important;
+    list-style: none; /* Removes the default tiny triangle if you want */    
+    cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
+    gap: 0.5rem !important; /* the space between the heading and the open/close +/- text */
+    opacity: 1.0 !important;
+    font-family: 'Dosis', sans-serif !important;
+    font-weight: 700;
+    text-indent: 0 !important;    
+    text-transform: uppercase !important;
+    color: var(--c-summary-color) !important;
+    margin: 0rem !important;
+    padding: 0rem !important;
+}
+    /* THE DETAILS SETTINGS */
+:is(.markdown-rendered, .markdown-published) details {
+    --c-smoke-white: /* #F1EDEE */      241, 237, 238; /* SMOKE WHITE */
+    --c-summary-bgcolor:                rgba(var(--smoke-white), 0.5);    
+    
+    color: var(--c-summary-color) !important;
+    text-indent: 0 !important;
+    width: auto;
+    padding-inline-start: 0 !important;
+    padding: 5px 10px !important;
+    /*border-radius: var(--c-summary-border-radius);*/
+    /*border: var(--c-summary-border);*/
+    background-color: var(--c-summary-bgcolor);
+}
+    /* THE FOLLOW-UP PARAGRAPHS: Bring the 2em indent back for prose flow */
+:is(.markdown-rendered, .markdown-published) details p + p,
+:is(.markdown-rendered, .markdown-published) details div + div > p {
+    /*text-indent: var(--c-para-text-indent-yes) !important;*/
+}
+    /* - THE LONG ANSWER - an expandable header */
+    /* Only applies when the details block is expanded */
+:is(.markdown-rendered, .markdown-published, .publish-renderer) details.long-answer[open] > summary {
+    --c-bark: /* #7A5C52 */   122, 92, 82; /* BARK */
+    --c-summary-border-bottom:       rgba(var(--bark), 1.0);
+
+    display: flex !important; 
+    border-bottom: 1px solid rgba(var(--c-summary-border-bottom), 0.7) !important;
+    padding-top: 0 !important;
+    margin-top: 0.5em 0 !important;
+    padding-bottom: 0.5rem !important;
+    margin-bottom: 1rem !important;
+} 
+    /* Optional: Ensure the summary has a bit of space even when closed */
+:is(.markdown-rendered, .markdown-published) details.long-answer summary {
+    padding-bottom: 4px;
+}
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+
+/*
+ ▄██▄ ▄█▀▀█▄ 
+██  ██ ▀▀▀██ 
+ ▀██▀  ▄▄██▀
+*/
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* THE LEXICON LEDGER GRID */
+.lexicon-ledger {
+    --c-dark-lavender:  /* #805E73 */   128, 94, 115; /* DARK LAVENDER */
+    --c-ledger-border-color: var(--c-dark-lavender);
+
+    display: flex !important;
+    flex-direction: column !important;
+    /* THE 80% RULE */
+    width: 80% !important; 
+    max-width: 80% !important;
+    margin: 1.5rem auto 0 !important; /* Centered */
+    font-size: 0.7rem !important;
+    border: 1.5px solid rgba(var(--c-ledger-border-color), 1.0) !important;
+    border-radius: 6px !important;
+    overflow: hidden !important; 
+    gap: 0 !important;
+}
+
+/* THE HEADER - NO BOTTOM MARGIN */
+.ledger-header {
+    --c-dark-lavender:  /* #805E73 */   128, 94, 115; /* DARK LAVENDER */
+    --c-ledger-header: var(--c-dark-lavender);
+
+    display: flex !important;
+    background-color: rgba(var(--c-ledger-header), 1) !important;
+    color: white !important;
+    margin: 0 !important; /* Kills the gap between header and first row */
+    padding: 0 !important;
+    border-bottom: 1px solid rgba(var(--c-ledger-header), 0.3) !important;
+}
+
+/* THE ROWS - ZERO MARGINS */
+.ledger-row {
+    --c-copper:  /* #A67B5B */   166, 123, 91; /* COPPER */
+    --c-ledger-row: var(--c-copper);
+
+    display: flex !important;
+    margin: 0 !important; 
+    padding: 0 !important;
+    border-bottom: 1px solid rgba(var(--c-ledger-row), 0.2) !important;
+}
+
+.ledger-row:last-child {
+    border-bottom: none !important;
+}
+
+    /* ZEBRA STRIPING - RE-CALIBRATED */
+    /* We target the .ledger-row specifically. 
+   Since the header is NOT a .ledger-row, the first .ledger-row is index 1 */
+.ledger-row:nth-child(odd) {
+    --c-dark-lavender:  /* #805E73 */   128, 94, 115; /* DARK LAVENDER */
+    --c-ledger-odd: var(--c-dark-lavender);
+
+    background-color: rgba(var(--dark-lavender), 0.06) !important;
+}
+
+.ledger-row:nth-child(even) {
+    background-color: transparent !important;
+}
+
+    /* Meta-Row override to ensure synonyms don't get lost in zebra stripes */
+.ledger-row.meta-row {
+    --c-copper:  /* #A67B5B */   166, 123, 91; /* COPPER */
+    --c-ledger-meta: var(--c-copper);
+
+    background-color: rgba(var(--c-ledger-meta), 0.1) !important;
+}
+
+    /* THE COLUMNS */
+.ledger-col {
+    --c-copper:  /* #A67B5B */   166, 123, 91; /* COPPER */
+    --c-ledger-column: var(--c-copper);
+
+    flex: 1 1 0 !important;
+    padding: 0.5em 0.8em !important;
+    /*width: 40%;*/
+    display: flex !important;
+    align-items: center !important;
+    border-right: 1px solid rgba(var(--c-ledger-column), 0.3) !important;
+    word-break: break-word !important;
+}
+
+.ledger-col:last-child {
+    border-right: none !important;
+}
+
+.col-part { 
+    flex: 0 0 18% !important; 
+    /* 0 grow, 0 shrink, 15% basis */
+}
+.col-term { 
+    flex: 0 0 25% !important; 
+}
+.col-example { 
+    flex: 0 0 57% !important; 
+}
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/*
+▄██  ▄██▄  
+ ██ ██  ██ 
+ ██  ▀██▀  
+*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* SCIMITAR BLOCKQUOTE CLASS CODEX */
+/* the callout disguised as a blockquote codex */
+/* MD Syntax: 
+> [!info|scimitar] 
+> Message here!
+ */
+
+.callout[data-callout-metadata~="scimitar"]:not(.callout[data-callout-metadata~="sheath"]){
+    /* 1. SCIM-VARS */
+    --scim-edge:        var(--bloom);
+    --scim-bg:          var(--bloom);
+
+    /* 2. STRIP CALLOUT BAGGAGE */
+    background-color: rgba(var(--scim-bg), 0.03) !important;
+    border: none !important;
+    
+    /* 3. REBUILD AS BLADE-QUOTE */
+    border: 1px solid rgba(var(--scim-edge), 0.2) !important;
+    border-top: 6px solid rgba(var(--scim-edge), 1.0) !important;
+    border-radius: 6px !important; /* The curved tip */
+    
+    padding: 0.7rem auto 0 auto !important;
+    margin: 1.5rem auto 0 auto !important;
+    width: 75% !important;
+}
+
+/* Hide the icon and title if you want it to be a pure quote */
+.callout[data-callout-metadata~="scimitar"] .callout-icon,
+.callout[data-callout-metadata~="scimitar"] .callout-title {
+    display: none !important;
+}
+
+/* Styling the content to feel like an artisan quote */
+.callout[data-callout-metadata~="scimitar"] .callout-content p {
+    font-family: 'Dosis', sans-serif !important;
+    font-size: calc(var(--c-font-size)* 0.7) !important;
+    font-style: italic;
+    color: rgba(var(--raisin-black), 1);
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.callout[data-callout-metadata~="scimitar"][data-callout-metadata~="sheath"] {
+    background-color: transparent;
+    border: none !important;
+   
+    padding: 0.5rem 1.5rem !important;
+    margin: 1.5rem auto !important;
+    width: 90% !important;
+}
+.callout[data-callout-metadata~="sheath"] .callout-content p {
+    font-size: 1.1rem !important;
+    font-style: normal;
+    color: rgba(0,0,0, 0.4);
+    margin: 0 !important;
+    align-self: center !important;
+    text-align: center !important;
+}
+
+
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* CUTLASS CLASS */
+.callout[data-callout-metadata~="cutlass"]:not(.callout[data-callout-metadata~="sheath"]){
+    /* 1. SCIM-VARS */
+    --cut-edge:        var(--bloom);
+    --cut-bg:          var(--bloom);
+
+    /* 2. STRIP CALLOUT BAGGAGE */
+    background-color: rgba(var(--cut-bg), 0.03) !important;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;        
+    
+    /* 3. REBUILD AS BLADE-QUOTE */
+    border: 1px solid rgba(var(--cut-edge), 0.2) !important;
+    
+        
+    padding: 0 !important;
+    margin: 1.5rem auto 0 auto !important;
+    width: 75% !important;
+}
+
+/* Hide the icon and title if you want it to be a pure quote */
+.callout[data-callout-metadata~="cutlass"] .callout-icon {
+    display: none !important;
+}
+
+.callout[data-callout-metadata~="cutlass"] .callout-title {
+    background-color: rgba(var(--bloom), 0.65) !important;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;    
+    padding: 0.1rem !important;
+    margin: 0 !important;
+}
+
+.callout[data-callout-metadata~="cutlass"] .callout-title-inner {
+    background-color: rgba(var(--bloom), 0.0) !important;
+    font-family: 'Dosis', sans-serif !important;
+    font-size: calc(var(--c-font-size)* 0.7) !important;
+    color:  rgba(255, 255, 255, 1.0) !important;
+    text-transform: uppercase  !important;
+    margin: 0 auto !important;
+    padding: 0 auto !important;
+}
+
+/* Styling the content to feel like an artisan quote */
+.callout[data-callout-metadata~="cutlass"] .callout-content p {
+    font-family: 'Dosis', sans-serif !important;
+    font-size: calc(var(--c-font-size)* 0.7) !important;
+    font-weight: 400 !important;
+    color: rgba(var(--raisin-black), 1);
+    margin: 0 auto !important;
+    padding: 0.3rem !important;
+    text-align: center !important;
+}
+
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* INVISIBLE BLOCKQUOTE CLASS CODEX */
+/* USAGE:
+> [!note|scimitar invisible]
+*/
+
+/* ==========================================
+   1. METADATA: "invisible" (No Title)
+   ========================================== */
+
+/* Target when invisible is present in metadata */
+.callout[data-callout-metadata~="invisible"] {
+    background-color: transparent !important;
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 0 !important; 
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+/* Hide headers, titles, and icons completely */
+.callout[data-callout-metadata~="invisible"] .callout-title,
+.callout[data-callout-metadata~="invisible"] .callout-icon {
+    display: none !important;
+}
+
+/* Force the internal content to inherit standard text styling */
+.callout[data-callout-metadata~="invisible"] .callout-content {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.callout[data-callout-metadata~="invisible"] .callout-content p {
+    font-family: 'Dosis', sans-serif !important;
+    font-size: calc(var(--c-font-size)* 1) !important;
+    font-style: normal !important;
+    color: var(--c-body-color) !important;
+    line-height: var(--line-height-normal) !important;
+    text-align: left !important;
+    
+    /* Using your custom spacing */
+    margin: 0 0 0.3rem 0 !important; 
+    padding: 0 !important;
+}
+
+/* --- LIST RESETS FOR INVISIBLE --- */
+.callout[data-callout-metadata~="invisible"] .callout-content ul,
+.callout[data-callout-metadata~="invisible"] .callout-content ol {
+    margin: 0 0 0.3rem 0 !important;            /* Match your custom paragraph bottom margin */
+    padding-inline-start: 1.5rem !important;  /* Keep room for bullets/numbers on Publish */
+}
+
+.callout[data-callout-metadata~="invisible"] .callout-content li {
+    font-family: 'Dosis', sans-serif !important;
+    font-size: var(--c-font-size) !important;
+    color: var(--c-body-color) !important;
+    line-height: var(--line-height-normal) !important;
+    margin-bottom: 0.1rem !important;
+}
+
+
+/* ==========================================
+   2. METADATA: "invisible-title"
+   ========================================== */
+
+/* Target when invisible-title is present in metadata */
+.callout[data-callout-metadata~="invisible-title"] {
+    background-color: transparent !important;
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 0 !important; 
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+/* Styled Title (No Icon) */
+.callout[data-callout-metadata~="invisible-title"] .callout-title {
+    font-family: 'Dosis', sans-serif !important;
+    font-size: var(--c-font-size) !important;
+    font-weight: 600 !important;
+    color: var(--c-body-color) !important;      
+    margin-bottom: 0.1rem !important;
+}
+
+.callout[data-callout-metadata~="invisible-title"] .callout-icon {
+    display: none !important;
+}
+
+/* Force the internal content to inherit standard text styling */
+.callout[data-callout-metadata~="invisible-title"] .callout-content {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.callout[data-callout-metadata~="invisible-title"] .callout-content p {
+    font-family: 'Dosis', sans-serif !important;
+    font-size: var(--c-font-size) !important;
+    font-style: normal !important;
+    color: var(--c-body-color) !important;
+    line-height: var(--line-height-normal) !important;
+    text-align: left !important;
+    
+    /* Using your custom spacing */
+    margin: 0 0 0.3rem 0 !important; 
+    padding: 0 !important;
+}
+
+/* --- LIST RESETS FOR INVISIBLE-TITLE --- */
+.callout[data-callout-metadata~="invisible-title"] .callout-content ul,
+.callout[data-callout-metadata~="invisible-title"] .callout-content ol {
+    margin: 0 0 1rem 0 !important;            /* Match your custom paragraph bottom margin */
+    padding-inline-start: 1.5rem !important;  /* Keep room for bullets/numbers on Publish */
+}
+
+.callout[data-callout-metadata~="invisible-title"] .callout-content li {
+    font-family: 'Dosis', sans-serif !important;
+    font-size: var(--c-font-size) !important;
+    color: var(--c-body-color) !important;
+    line-height: var(--line-height-normal) !important;
+    margin-bottom: 0.1rem !important;
+    
+    /* Using your original custom list alignments */
+    margin-inline-start: 2rem !important;
+    padding-inline-start: 0.2rem !important;
+}
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/*
+▄██ ▄██ 
+ ██  ██ 
+ ██  ██  
+*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* WORD SURGERY CODEX */
+
+.word-surgery {
+    --c-font-family:            'Dosis', sans-serif;
+
+    display: flex;
+    flex-direction: column; /* Stack header row on top of morpheme row */
+    margin: 1.5rem auto !important; 
+    font-family: var(--c-font-family); 
+
+    border: none;
+    border-bottom: none !important;
+    border-radius: 6px;
+    
+    overflow: hidden;
+    width: fit-content;
+    
+    max-width: 80%;
+    min-width: 300px; /* Prevents it from looking too "squashed" with small words */
+}
+
+/* 2. Header Row: Spans the entire width with the lavender background */
+.surgery-header-row {
+    --c-surgery-bgcolor-header:    /* #805E73 */           128, 94, 115; /* dark lavender */
+
+    display: flex;
+    background-color: rgba(var(--c-surgery-bgcolor-header), 1.0);
+    border-bottom: 1px solid rgba(var(--c-surgery-bgcolor-header), 0.3);    
+}
+
+/* 3. Morpheme Row: Holds the actual content */
+.surgery-morpheme-row {
+    --c-surgery-bgcolor-morpheme:       /* #F1EDEE */           241, 237, 238; /* smoke white */
+    --c-surgery-border-morpheme:        /* #805E73 */           128, 94, 115; /* dark lavender */ 
+        
+    display: flex;
+    margin-bottom: 0 !important;
+    background-color: var(--c-surgery-bgcolor-morpheme);
+    border: 1px solid rgba(var(--c-surgery-border-morpheme), 1.0);
+    border-bottom: none !important;
+    overflow: hidden;    
+}
+
+    /* THE POST OPERATION RESULT */
+.post-operation-row {
+    --c-surgery-bgcolor-postop-row:         /* #805E73 */       128, 94, 115; /* dark lavender */ 
+    --c-surgery-border-postop-row:          /* #805E73 */       128, 94, 115; /* dark lavender */ 
+    
+    display: flex;
+    width: 100% !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    background-color: rgba(var(--c-surgery-bgcolor-postop-row), 0.3) !important;
+    border: 1px solid rgba(var(--c-surgery-border-postop-row), 1.0);
+    border-radius: 0 0 6px 6px !important;
+}
+    /* POST OPERATION TERM */
+.post-operation-term {
+    --c-surgery-color-postop-term:          /* #333333 */           51, 51, 51; /* graphite */ 
+
+    display: flex;
+    width: 100% !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    text-align: center;
+    color: rgba(var(--c-surgery-color-postop-term), 0.5) !important;
+    font-weight: 900;    
+    justify-content: center !important;
+    text-transform: uppercase;
+    text-indent: 0 !important;
+}
+
+/* 4. Column Logic: Shared between header and morpheme cells */
+.surgery-col {
+    flex: 1 1 0; /* Ensures all columns are equal width */
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    min-width: 80px;
+}
+
+/* Header Cells: No copper borders here */
+.surgery-col .label {
+    color: white;
+    font-size: 0.6rem;
+    padding: 6px 8px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-indent: 0 !important;
+}
+
+/* Morpheme Cells: This is where the copper 'surgical' border lives */
+.surgery-col .morpheme {
+    --c-surgery-bordercolor-morpheme:       /* #A67B5B*/            166, 123, 91; /* copper */
+    --c-surgery-color-morpheme:             /* #333333 */           51, 51, 51; /* graphite */ 
+    
+    padding: 12px 15px;
+    font-size: 1rem;
+    color: var(--text-normal);
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* The Copper Border only on the right of the morphemes */
+    border-right: 3px solid rgba(var(--c-surgery-bordercolor-morpheme), 0.4); 
+}
+
+/* Clean up the very last copper border so it doesn't hit the tray edge */
+.surgery-col:last-child .morpheme {
+    border-right: none;
+}
+
+/* Highlighting the Root */
+.surgery-col.root .morpheme {
+    --c-surgery-bgcolor-root:          /* #805E73 */       128, 94, 115; /* dark lavender */ 
+
+    font-weight: bold;
+    background-color: rgba(var(--c-surgery-bgcolor-root), 0.1);
+}
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/*
+▄██ ████▄ 
+ ██  ▄██▀ 
+ ██ ███▄▄
+*/
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* PUBLISH CODEX */
+
+/* LOGO AND SITE NAME */ 
+    /* HIDE THE SITE NAME TEXT */
+.site-name,
+.site-body-left-column-site-name,
+.publish-nav-header .site-name {
+    display: none !important;
+    visibility: hidden !important;
+    width: 0 !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+    /* CENTER THE LOGO IMAGERY */
+    /* Targets the layout link wrapper containing your uploaded logo asset */
+.site-body-left-column-site-logo {
+    margin-bottom: 10px;
+    text-align: center;
+    margin-right: 6%;    
+}
+
+.site-logo, 
+.site-header-logo,
+a.site-name-wrapper {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin: 1rem auto !important; /* Centers the block horizontally and adds vertical breathing room */
+    width: 100% !important;
+    text-align: center !important;
+}
+
+    /* Ensures the inner image scales dynamically within your custom centered wrapper */
+.site-logo img,
+.site-header-logo img {
+    display: block !important;
+    margin: 0 auto !important;
+    width: var(--logo-width) !important;
+    height: var(--logo-height) !important;
+}
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/* LINKS CODEX */
+/* (LVHA: order for link, visited, hover, active) */ 
+
+/* ANCHORS <A> */
+:is(.markdown-rendered a,                                /* App: Reading View links */
+    .markdown-published a,                               /* Web: Publish links */
+    .publish-renderer a                                  /* Web: Mobile/Fallback links */
+) {
+    color: var(--c-links-extcolor) !important;
+}
+
+    /* Hover state for all of the above */
+:is(.markdown-rendered a, 
+    .markdown-published a,
+    .publish-renderer a
+):hover {
+    color: var(--c-links-exthover) !important;
+}
+
+/* EXTERNAL */        
+:is(.markdown-rendered .external-link, .markdown-published .external-link) {
+    color: var(--c-links-extcolor) !important;
+    text-decoration: underline;
+    margin-right: 0px;
+    padding-right: 2px;
+    background-image: none !important; /* Removes default icon if preferred */
+}
+
+    /* custom inline link icon */
+.external-link::after {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  width: 18px;
+  height: 18px;
+  margin-left: 8px;
+  margin-bottom: 4px;
+  
+  /* The "Mask" is your icon */
+  -webkit-mask: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWV4dGVybmFsLWxpbmstaWNvbiBsdWNpZGUtZXh0ZXJuYWwtbGluayI+PHBhdGggZD0iTTE1IDNoNnY2Ii8+PHBhdGggZD0iTTEwIDE0IDIxIDMiLz48cGF0aCBkPSJNMTggMTN2NmEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY4YTIgMiAwIDAgMSAyLTJoNiIvPjwvc3ZnPg==') 
+    no-repeat center;
+  mask: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWV4dGVybmFsLWxpbmstaWNvbiBsdWNpZGUtZXh0ZXJuYWwtbGluayI+PHBhdGggZD0iTTE1IDNoNnY2Ii8+PHBhdGggZD0iTTEwIDE0IDIxIDMiLz48cGF0aCBkPSJNMTggMTN2NmEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY4YTIgMiAwIDAgMSAyLTJoNiIvPjwvc3ZnPg==')
+    no-repeat center;
+
+    -webkit-mask-size: contain;
+    mask-size: contain;
+    
+  /* The "Background" is the color you want */
+  background-color: currentColor; 
+}
+
+    /* visited links */
+:is(/*.markdown-source-view.mod-cm6 .cm-url, */.markdown-rendered .external-link, .markdown-published .external-link):visited {
+    color: var(--c-links-extvisited) !important;
+}
+    /* hover */
+:is(/*.cm-url, */.external-link):hover {
+    color: var(--c-links-exthover) !important;
+}
+    /* Keep the hover state bright even if visited */
+:is(/*.markdown-source-view.mod-cm6 .cm-url, */.markdown-rendered .external-link, .markdown-published .external-link):visited:hover {
+    color: var(--c-links-exthover) !important;
+}
+
+/* INTERNAL */
+:is(.markdown-rendered .internal-link, .markdown-published .internal-link) {
+    color: var(--c-links-intcolor) !important;
+    text-decoration: underline; /* Removes the default underline if you want a cleaner 32x32 UI look */
+    font-weight: 500;
+}
+    /* visited links */
+:is(.markdown-rendered .internal-link, .markdown-published .internal-link):visited {
+    color: var(--c-links-intvisited) !important;
+}
+    /* hover */
+:is(.markdown-rendered .internal-link, .markdown-published .internal-link):hover {
+    color: var(--c-links-inthover) !important;
+}
+    /* Keep the hover state bright even if visited */
+:is(.markdown-rendered .internal-link, .markdown-published .internal-link):visited:hover {
+    color: var(--c-links-inthover) !important;
+}
+
+/* POPOVER */
+    /* Hides the hover popover in both the Obsidian Reading View and the Published site */
+:is(.markdown-rendered, .markdown-published) ~ .hover-popover, .hover-popover {
+    display: none !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+}
+
+/* TOOLTIPS */
+/* Target the specific tooltip container used by Obsidian Publish */
+.tooltip, 
+.site-body > .tooltip,
+.publish-tooltip {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    pointer-events: none !important; 
+}
+
+
+/* UNRESOLVED */
+:is(.markdown-rendered .internal-link.is-unresolved, 
+    .markdown-published .internal-link.is-unresolved) {
+    color: var(--c-links-unresolved) !important;
+    opacity: 0.7; /* Makes it look slightly "faded" */
+    font-style: italic; /* A visual hint that the "Registry" entry is missing */
+    pointer-events: none;
+    text-decoration: underline;
+}
+
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/* NAVIGATION CODEX */
+    /* - collapse icon */
+.collapse-icon {
+    color: var(--c-tree-collapse-icon-color);
+}
+    /* - nav view files and folders */
+.nav-file-title:hover,
+.nav-folder-title:hover {
+    border-left: 0px !important;
+    border: 0px !important;
+}
+
+/* TREE ITEM SELVES */ 
+/* - nav and outline */
+:is(.nav-view-outer, .outline-view-outer) .tree-item-self {
+    border-radius: 0px !important;
+    font-size: var(--c-column-leftRight-font-size) !important;
+    color: var(--c-column-leftRight-color) !important;
+}
+:is(.nav-view-outer, .outline-view-outer) .tree-item-self.is-clickable {
+    padding-left: 1rem;
+    padding-bottom: 0.2rem;
+    padding-right: 0.1rem;
+    border-radius: 0px !important;
+}
+
+:is(.nav-view-outer, .outline-view-outer) .tree-item-self:hover {
+    color: var(--c-tree-hover) !important;
+    border-left: 0px !important;
+    border: 0px !important;
+}
+:is(.nav-view-outer, .outline-view-outer) .tree-item-self:visited {
+    color: var(--c-tree-visited) !important;
+    background-color: none;
+}
+    /* the click state */
+:is(.nav-view-outer, .outline-view-outer) .tree-item-self:active {
+    filter: brightness(1.2); 
+}
+    /* the "you are here" marker */
+:is(.nav-view-outer, .outline-view-outer) .tree-item-self.mod-active {
+    color: var(--c-tree-active-color) !important;
+    background-color: var(--c-tree-active-bgcolor) !important;
+    border: none;
+    border-bottom: none;
+    padding: none;
+    font-weight: 600;
+}
+
+/* - nav view selves */
+:is(.nav-view-outer) .tree-item-self.is-clickable {
+    border-left: none !important;
+    border-radius: 0px !important;
+}
+    /* Target the nav folders only in the File Explorer sidebar */
+:is(.nav-view-outer, .nav-files-container) .nav-folder > .tree-item-self {
+    border-left: none !important;
+    border-left-width: 0px !important;
+    padding-left: 8px; /* Adjust this to keep your text aligned if the border was taking up space */
+}
+    /* Ensure the hover state also doesn't trigger a border */
+:is(.nav-view-outer, .nav-files-container) .nav-folder > .tree-item-self:hover {
+    border-left: none !important;
+}
+    /* Specifically target the clickable, collapsible folders in the sidebar */
+.nav-view-outer .tree-item-self.mod-collapsible.is-clickable {
+    border-left: none !important;
+    border-left-width: 0px !important;
+    /* Ensure any previous 'flank' borders are fully neutralized */
+    border-inline-start: none !important; 
+    padding-left: 1rem;
+}
+    /* Ensure the hover state doesn't re-introduce a border */
+.nav-view-outer .tree-item-self.mod-collapsible.is-clickable:hover {
+    border-left: none !important;    
+}
+    /* active tree item */
+.publish-container .nav-view-outer .tree-item-self.mod-active {
+}
+
+/* - outline tree item selves */
+:is(.outline-view-outer) .tree-item-self.is-clickable {
+    border: none !important;
+}
+        /* Target the 'self' item only when it belongs to a folder (has children) */
+.outline-view .tree-item:has(.tree-item-children:not(:empty)) > .tree-item-self {
+    /* border-left: 2px solid var(--c-col-tree-border-color) !important;
+    background-color: var(--c-col-tree-active-bgcolor);
+    color: var(--c-col-tree-active-textcolor);*/
+    border-radius: 0px !important;
+}
+.outline-view .tree-item:has(.tree-item-children:not(:empty)) > .tree-item-self:hover {
+    color: var(--c-tree-hover);
+}
+/* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* TREE ITEM CHILDREN */
+/* all tree children */
+    /* Remove the ghost border from empty child containers */
+.tree-item-children:empty {
+    display: none !important;
+    border: none !important;
+}
+
+/* - nav view children */
+    /* Ensure that file items (which are self-contained) don't trigger the border */
+.nav-file > .tree-item-children {
+    border-left: none !important;
+}
+:is(.nav-view-outer, .outline-view-outer) .tree-item-children {
+    /* border-left: var(--c-col-tree-border-width) solid var(--c-col-tree-border-color) !important; */
+    border: none !important;
+    background-color: transparent !important;
+    padding-left: 0.7rem;
+    padding-bottom: 0.2rem;
+    padding-right: 0.1rem;
+}
+/* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* - COLUMNS */
+    /* - site body left column */
+.site-body-left-column {
+    height: 100%;
+    max-height: 100%;
+    border-right: var(--c-column-leftRight-border-pkg);
+    background-color: var(--c-column-leftRight-bgcolor);
+    font-size: var(--c-column-leftRight-font-size) !important;
+    color: var(--c-tree-color) !important;
+    min-height: 0;    
+}
+    /* - site body right column */
+.site-body-right-column {
+    height:         100%;
+    max-height:     100%;
+    border-left: var(--c-column-leftRight-border-pkg);
+    background-color: var(--c-column-leftRight-bgcolor);
+    font-size: var(--c-column-leftRight-font-size) !important;
+    color: var(--c-column-leftRight-color) !important;
+    min-height: 0;
+}
+/* - site body center column */
+    /*.site-body-center-column {
+}*/
+    /* - published container center column */
+.published-container
+{
+	/* --footer-display: none; */
+	--logo-max-width: 200px;
+	--logo-max-height: none;
+    background-color: var(--c-column-center-bgcolor);
+}
+    /* - "on this page" header */
+.published-section-header {
+    color: var(--c-onthispage-color);
+}
+/* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/* SPY SCROLL ISSUE CODEX */
+    /* - the spy scroll issue - the outline active item is not correctly displayed */
+    /* Ensure the scroll-padding-top in the :root applies to the HTML element */
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 50px !important;
+}
+
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/*
+▄██ ████▄ 
+ ██  ▄▄██ 
+ ██ ▄▄▄█▀
+*/
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/*  THE PIRANHA HEADER */
+/* --- 1. THE SHARED ENGINE --- */
+.callout[data-callout-metadata~="piranha-header"] {
+    background-color: transparent !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 1.2rem 0 0.5rem 0 !important;
+    border: none !important; /* Standalone starts borderless */
+    border-radius: 0 !important;
+}
+
+/* --- 2. THE TOP-DOWN BORDER LOGIC --- */
+
+/* Apply the border to a piranha-header ONLY if it contains 
+   another piranha-header. This makes it the "parent thread."
+*/
+.callout[data-callout-metadata~="piranha-header"]:has(.callout[data-callout-metadata~="piranha-header"]) {
+    border-left: 1px solid rgba(var(--sienna), 0.2) !important;
+}
+
+/* Explicitly remove borders from any nested headers so they 
+   don't create that "scimitar" stacking effect.
+*/
+.callout[data-callout-metadata~="piranha-header"] .callout[data-callout-metadata~="piranha-header"] {
+    border-left: none !important;
+    margin-top: 1em !important;
+}
+
+/* --- 3. NESTING & ALIGNMENT --- */
+
+/* Reset margins for all content areas */
+.callout[data-callout-metadata~="piranha-header"] > .callout-content {
+    padding-left: 0.0rem !important;
+    margin: 0 0 0.5rem 0 !important;
+    /* Removed !important from display so Obsidian can hide it */
+    display: flow-root; 
+    border-radius: 0 !important;
+}
+
+/* RE-ENABLE THE TOGGLE: This ensures the content actually hides when collapsed */
+.callout[data-callout-metadata~="piranha-header"].is-collapsed > .callout-content {
+    display: none !important;
+}
+
+/* Indent text/lists, but let child callouts stay flush left */
+.callout[data-callout-metadata~="piranha-header"] > .callout-content > :not(.callout, ul, ol) {
+    margin-left: 0.9rem !important; 
+    margin-top: 1.0rem !important; /* paragaph margin */
+}
+/* PARAGRAPH SPACING: Target only the paragraphs inside the Piranha content */
+.callout[data-callout-metadata~="piranha-header"] > .callout-content p {
+    margin-top: 1rem !important;
+    margin-bottom: 0 !important; /* Resets the bottom so they don't double up */
+}
+
+/* PARAGRAPH SPACING: Optional: If you want the VERY first paragraph to sit closer to the header */
+.callout[data-callout-metadata~="piranha-header"] > .callout-content p:first-of-type {
+    margin-top: 0.3rem !important;
+}
+
+/* BORDER LOGIC: Consistently apply the line only to nested children */
+.callout[data-callout-metadata~="piranha-header"]:has(.callout[data-callout-metadata~="piranha-header"]) {
+    border-left: 1px solid rgba(var(--sienna), 0.2) !important;
+}
+
+.callout[data-callout-metadata~="piranha-header"] .callout[data-callout-metadata~="piranha-header"] {
+    border-left: none !important;
+    margin-top: 1em !important;
+}
+
+/* --- 4. TITLES & TYPOGRAPHY --- */
+
+.callout[data-callout-metadata~="piranha-header"] .callout-title {
+    background-color: transparent !important;
+    padding: 8px 0 8px 10px !important; 
+    display: flex !important;
+    align-items: center !important;
+    gap: 12px !important;
+    cursor: pointer;
+}
+
+.callout[data-callout-metadata~="piranha-header"] .callout-title-inner {
+    font-family: 'Dosis', sans-serif !important;
+    font-weight: 400 !important;
+    color: rgb(var(--sienna)) !important;
+    text-transform: uppercase;
+}
+
+/* Hide Icons & Style Folds */
+.callout[data-callout-metadata~="piranha-header"] .callout-icon { display: none !important; }
+.callout[data-callout-metadata~="piranha-header"] .callout-fold { color: rgb(var(--sienna)) !important; }
+
+/* --- 5. THE P-LEVELS --- */
+.callout[data-callout-metadata~="p1"] > .callout-title .callout-title-inner { font-size: 1.6em !important; }
+.callout[data-callout-metadata~="p2"] > .callout-title .callout-title-inner { font-size: 1.4em !important; }
+.callout[data-callout-metadata~="p3"] > .callout-title .callout-title-inner { font-size: 1.2em !important; }
+.callout[data-callout-metadata~="p4"] > .callout-title .callout-title-inner { font-size: 1.0em !important; }
+.callout[data-callout-metadata~="p5"] > .callout-title .callout-title-inner { font-size: 0.8em !important; }
+.callout[data-callout-metadata~="p6"] > .callout-title .callout-title-inner { font-size: 0.6em !important; }
+
+.callout[data-callout-metadata~="p1"] { margin: 1.2rem 0 1.1 !important; }
+.callout[data-callout-metadata~="p2"] { margin: 1.0rem 0 1.0 !important; }
+.callout[data-callout-metadata~="p3"] { margin: 0.8rem 0 0.9 !important; }
+.callout[data-callout-metadata~="p4"] { margin: 0.6rem 0 0.8 !important; }
+.callout[data-callout-metadata~="p5"] { margin: 0.4rem 0 0.7 !important; }
+.callout[data-callout-metadata~="p6"] { margin: 0.2rem 0 0.6 !important; }
+ 
+/* --- 5. LINK STYLING --- */
+
+/* Target all links within a Piranha Header */
+.callout[data-callout-metadata~="piranha-header"] a {
+    color: var(--c-links-intcolor) !important; /* Matches your header color */
+    text-decoration: underline;
+    text-decoration-color: var(--c-links-intcolor);
+    text-underline-offset: 3px;
+    transition: all 0.2s ease;
+}
+
+/* Hover effect for a "live" feel */
+.callout[data-callout-metadata~="piranha-header"] a:hover {
+    color: var(--c-links-inthover) !important;
+    text-decoration-color: var(--c-links-inthover);
+}
+
+
+
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/*
+▄██ ██  ██ 
+ ██ ▀█████ 
+ ██     ██
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* CALLOUT GALLEON CLASS CODEX (4C) */
+/* USE SYNTAX:  */
+/* 
+>[!info|galleon-class cipher] <span>#1</span> Cipher
+> Eat my shorts!
+> Later
+*/
+
+/* 1. THE SCOPED VARIABLES (Only active within the class container) */
+:is(.markdown-rendered, .markdown-published) .galleon-class {
+
+}
+
+/* 2. THE EXCLUSIVE SELECTOR (The "Gated" Entry) */
+/* This rule ONLY targets callouts with the exact metadata 'galleon-class' */
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata="galleon-class"].callout,
+.callout[data-callout-metadata~="galleon-class"].callout {
+    
+    /* RESET: Overriding Browser/Obsidian defaults for the container */
+    width: var(--c-galleon-width) !important;
+    max-width: var(--c-galleon-max-width) !important;
+    margin: var(--c-galleon-margin) !important;
+    padding: var(--c-galleon-padding) !important;
+
+    text-indent: 0 !important;
+    display: block !important;
+
+    line-height: var(--c-galleon-line-height) !important;
+
+    justify-self: center !important;
+
+    border-width: 1px !important;
+    border-radius: 4px !important;
+
+    font-size: var(--c-galleon-title-font-size) !important;
+    font-family: var(--c-galleon-font-family) !important;    
+}
+
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata="galleon-class"] .callout-title {
+
+
+    background-color: transparent !important; 
+    border: none !important;
+
+    width: fit-content !important;
+    height: var(--c-galleon-line-height) !important;      /* Explicitly lock height */
+    min-height: var(--c-galleon-line-height) !important;  /* Block any 37px inheritance */
+
+    /* Reset Obsidian's title padding which often causes the "jump" */
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+
+    display: inline-flex !important; 
+    align-items: center !important;  
+    justify-content: flex-start !important;
+    line-height: var(--c-galleon-line-height) !important;
+
+    align-items: center !important; 
+    gap: 10px !important;
+}
+
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata="galleon-class"] .callout-title-inner {
+    display: flex !important;
+    align-items: center !important; 
+    margin: 0 !important;         /* Kill any rogue paragraph margins */
+    padding: 0 !important;
+}
+
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="galleon-class"] .callout-title-inner > :is(div, p, span) {    
+    --nudge: -0px;
+
+    /* flexbox engine */ 
+    display: inline-flex !important; 
+    align-items: center !important;  
+    justify-content: flex-start !important;
+    
+    width: fit-content !important;
+    height: 100% !important;
+    box-sizing: border-box !important; 
+
+    margin: 0 !important;
+    padding: 0 !important;
+    
+    text-align: left !important;
+    text-indent: 0 !important;
+    text-transform: uppercase !important;
+    font-weight: 600 !important;
+
+    transform: translateY(var(--nudge));
+
+    color: var(--c-galleon-span-color) !important;
+    font-size: var(--c-galleon-span-font-size) !important;    
+
+}
+
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="galleon-class"] .callout-icon {
+    --icon-size: var(--c-galleon-icon-size); 
+    
+    display: inline-flex !important;
+    align-items: center !important; 
+    justify-content: center !important; 
+    height: 32px !important; 
+    width: 32px !important; /* Make it a perfect square hit-box */
+
+    /* Hide the default SVG */
+    & svg { display: none !important; }
+
+    /* Create the new icon area */
+    &::after {
+        content: "";
+        display: block;
+
+        margin: 0 !important;
+        padding: 0 !important;
+        
+        /* Use the variables we just defined */
+        width: var(--icon-size) !important;
+        height: var(--icon-size) !important;
+        
+        /* Inherit the text color */
+        background-color: currentColor !important; 
+        
+        /* Masking Setup */
+        -webkit-mask-size: contain;
+        mask-size: contain;
+        -webkit-mask-repeat: no-repeat;
+        mask-repeat: no-repeat;
+        
+        /* Prevents squishing in flex headers */
+        flex-shrink: 0 !important;
+    }
+}
+
+/* THIS IS NECESSARY TO CENTER THE TITLE ITEMS BECAUSE IT OVERRIDES THE DEFAULT BEHAVIOR */
+/* TARGET: The Title Bar itself */
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="galleon-class"] > .callout-title {
+    height: 32px !important;
+    min-height: 32px !important;
+    line-height: 1 !important; /* The unitless reset we discussed */
+    padding: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    text-transform: uppercase;
+}
+
+/* TARGET: The Inner Wrapper (where the text actually lives) */
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="galleon-class"] > .callout-title > .callout-title-inner {
+    display: flex !important;
+    align-items: center !important;
+    height: 32px !important;
+    line-height: 1 !important;
+    padding: 0 10px 0 0 !important;
+}
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="galleon-class"] > .callout-title > .callout-title-inner > span {
+    padding: 0 8px 0 4px !important;
+}
+/* TARGET: The Icon Container */
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="galleon-class"] > .callout-title > .callout-icon {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    height: 32px !important;
+}
+
+
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="galleon-class"] .callout-content > p,
+:is(.markdown-rendered, .markdown-published) .callout[data-callout-metadata~="galleon-class"] .callout-content :is(div, p, span, li) {
+    /* This reaches up to grab the color defined in your Skin */
+    color: var(--c-galleon-content-font-color) !important;
+    
+    /* Optional: Ensure the body font matches your Iron Age aesthetic */
+    font-family: var(--c-galleon-font-family, 'Dosis') !important;
+    font-size: var(--c-galleon-content-font-size) !important;
+    line-height: 1.5 !important;
+}
+
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/* GALLEON SKINS */
+
+/* --- INFORMATION BOX --- */
+.callout[data-callout-metadata~="information-box"] {
+    --callout-color:                    var(--information-box-color) !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+    text-indent: 0 !important;
+
+    background-color: rgba(var(--callout-color), 0.1) !important;
+    border: 1px solid rgb(var(--callout-color)) !important;    
+}
+.callout[data-callout-metadata~="information-box"] .callout-icon::after {
+    -webkit-mask-image:         var(--c-galleon-dataurl-information-box); 
+    mask-image:                 var(--c-galleon-dataurl-information-box);
+
+
+    align-self: center !important;
+    vertical-align: middle !important;
+    display: inline-block !important;
+}
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/*
+▄██ ███▀▀▀ 
+ ██ ▀▀███▄ 
+ ██ ▄▄▄██▀
+ */
+ /* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* VIDEO BOX CODEX */
+[class^="callout[data-callout^='videobox']"],
+[data-callout^="videobox"] {
+    position: relative !important;
+    overflow: hidden !important; /* Clips the massive icon clean at the borders */
+    padding: 1.25rem !important;
+    border-radius: 6px !important;
+    background-color: rgba(var(--raisin-black), 0.01) !important;
+    border: 1px solid rgba(var(--cardinal), 0.5) !important;
+    color: rgb(var(--bark)) !important;
+    font-size: 1em !important;
+}
+
+[data-callout^="videobox"] .callout-title {
+    padding-bottom: 0rem;
+    border-bottom: 0px solid var(--background-modifier-border);
+    margin-bottom: 0.1rem;
+    color: rgb(var(--bark));
+    font-size: 1.3em;
+}
+[data-callout^="videobox"] .callout-content p {
+    font-size: 0.8em !important;
+}
+[data-callout^="videobox"] .callout-icon {
+    display: none !important;
+}
+
+/* AGENDA BOX CODEX */
+/* SUBJECT   
+/* USAGE:
+> [!agenda-identity] Self-Identity Framework
+> - [ ] Stabilize the primary ego construct.
+> - [ ] Map out systemic redundancies in the pattern array.
+> - [ ] Verify core variables are insulated from exterior modification.
+*/
+
+
+/* Targets any callout block where the type attributes begin with "agenda-" */
+[class^="callout[data-callout^='agenda-']"],
+[data-callout^="agenda-"] {
+    position: relative !important;
+    overflow: hidden !important; /* Clips the massive icon clean at the borders */
+    padding: 1.25rem !important;
+    border-radius: 6px !important;
+    background-color: var(--background-secondary) !important;
+    border: 1px solid var(--background-modifier-border) !important;
+}
+
+/* Base structural engine for the watermark graphic */
+[data-callout^="agenda-"]::before {
+    content: "";
+    position: absolute;
+    
+    /* Pushes it to the lower right quadrant and lets it spill past margins */
+    bottom: -10%;
+    right: -40%;
+    width: 100%;
+    height: 100%;
+    
+    /* Vector Bounds Handling */
+    -webkit-mask-size:     contain !important;
+    mask-size:             contain !important;
+    -webkit-mask-position: center !important;
+    mask-position:         center !important;
+    -webkit-mask-repeat:   no-repeat !important;
+    mask-repeat:           no-repeat !important;
+
+    /* Aesthetic styling */
+    background-color: var(--c-galleon-content-font-color) !important;
+    opacity: 0.05; /* Barely-there watermark texture */
+    
+    z-index: 1 !important;
+    pointer-events: none !important;
+}
+
+/* Forces the text content array to ride safely on top of the mask layer */
+[data-callout^="agenda-"] .callout-content {
+    position: relative !important;
+    z-index: 2 !important;
+}
+
+/* Optional: Removes the standard icon and colors from the header for an infobox look */
+[data-callout^="agenda-"] .callout-title {
+    padding-bottom: 0rem;
+    border-bottom: 1px solid var(--background-modifier-border);
+    margin-bottom: 0.1rem;
+}
+[data-callout^="agenda-"] .callout-icon {
+    display: none !important;
+}
+
+/* =========================================================
+   2. DYNAMIC MAPPER SELECTORS (Add asset variants down here)
+   ========================================================= */
+[data-callout="agenda-self-identity"]::before {
+    --c-agenda-mask:        var(--c-dataurl-self-identity);
+    -webkit-mask-image:     var(--c-agenda-mask) !important;
+    mask-image:             var(--c-agenda-mask) !important;
+}
+
+[data-callout="agenda-subjectivity"]::before {
+    --c-agenda-mask:        var(--c-dataurl-subjectivity);
+    -webkit-mask-image:     var(--c-agenda-mask) !important;
+    mask-image:             var(--c-agenda-mask) !important;
+}
+
+[data-callout="agenda-healthy"]::before {
+    --c-agenda-mask:        var(--c-dataurl-healthy);
+    -webkit-mask-image:     var(--c-agenda-mask) !important;
+    mask-image:             var(--c-agenda-mask) !important;;
+}
+
+[data-callout="agenda-self-love"]::before {
+    --c-agenda-mask:        var(--c-dataurl-self-love);
+    -webkit-mask-image:     var(--c-agenda-mask) !important;
+    mask-image:             var(--c-agenda-mask) !important;;
+}
+
+/* =========================================================
+   3. BACKGROUND SUPPRESSION UTILITY
+   ========================================================= */
+/* Targets the callout when you append '|no-icon' to the tag */
+.callout[data-callout-metadata*="no-icon"]::before {
+    display: none !important;
+}
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/*
+▄██ ▄██▀▀▀ 
+ ██ ██▄▄▄  
+ ██ ▀█▄▄█▀
+*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* LEARNING POINTS CODEX */
+/* 1. THE MAIN CONTAINER RESET */
+.markdown-rendered h3,
+.publish-renderer h3,
+.cm-base.cm-embed-mode .HyperMD-header-3 {
+    /* Shifts layout to block structure to prevent children from creating rows */
+    display: block !important;
+    width: 100% !important;
+    margin: 3rem 0 !important;
+    padding: 0rem 0 !important;
+    text-align: center !important;
+    
+    /* Ensure no background/borders from base themes inherit down */
+    border: none !important;
+    background: transparent !important;
+}
+
+/* 2. THE TYPOGRAPHY ENGINE */
+.markdown-rendered h3,
+.publish-renderer h3,
+.cm-base.cm-embed-mode .HyperMD-header-3 {
+    /* --- THE TEXT ENGINE: MANIPULATE ONLY THIS VALUE FOR YOUR TEXT SIZE --- */
+    font-size: 1.5rem !important; 
+    
+    font-family: var(--c-font-family), sans-serif !important;
+    font-weight: 400 !important;
+    text-transform: none !important;
+    color: var(--c-bark) !important;
+    line-height: 1.4 !important; /* Slightly increased to give the text breathing room */
+}
+
+/* 3. THE TOP DECORATION (Forced onto its own row above the text) */
+.markdown-rendered h3::before,
+.publish-renderer h3::before,
+.cm-base.cm-embed-mode .HyperMD-header-3::before {
+    content: "╭────── · · ☾ ❁ ☽ · · ──────╮\A" !important; /* '\A' forces a native line break */
+    display: block !important;
+    
+    /* Hardcoded Dimensions */
+    font-family: var(--c-font-family) !important;
+    font-size: var(--c-font-size) !important;
+    font-weight: 400 !important;
+    color: rgba(var(--c-bark), 1.0) !important;
+    margin-bottom: 0.5rem !important;
+    white-space: pre !important; /* Essential to parse the line break character */
+    
+    /* Layout Reset */
+    letter-spacing: normal !important;
+    text-transform: none !important;
+}
+
+/* 4. THE BOTTOM DECORATION (Forced onto its own row below the text) */
+.markdown-rendered h3::after,
+.publish-renderer h3::after,
+.cm-base.cm-embed-mode .HyperMD-header-3::after {
+    content: "•─ · · ♡ · · ─•" !important; /* '\A' forces a native line break before the art */
+    display: block !important;
+    
+    /* Hardcoded Dimensions */
+    font-family: var(--c-font-family) !important;
+    font-size: var(--c-font-size) !important;
+    font-weight: 400 !important; 
+    color: rgba(var(--c-bark), 1.0) !important;
+    margin-top: 0.5rem !important;
+    white-space: pre !important; /* Essential to parse the line break character */
+    
+    /* Layout Reset */
+    letter-spacing: normal !important;
+    text-transform: none !important;
+}
+
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* ENDS CODEX */
+    /* OBSIDIAN APP USAGE:
+    <div class="bookend"></div>
+    */
+
+.bookend {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 100% !important;
+    margin: 2.5rem 0 !important;
+    padding: 0rem 0 !important;
+    text-align: center !important;
+        
+    /* Text Typography Configurations */
+    font-family: var(--c-font-family), sans-serif !important;
+    font-weight: 400 !important;
+    text-transform: none !important;
+    color: var(--c-bark) !important;
+    line-height: 1.2 !important;
+}
+.bookend::before {
+    content: "⊰ ✿ ⊱" !important; 
+    display: block !important;
+    
+    /* Hardcoded Dimensions */
+    font-family: var(--c-font-family) !important;
+    font-weight: 400 !important;
+    font-size: var(--c-font-size) !important;
+    color: rgba(var(--c-bark), 1.0) !important;
+    margin-bottom: 2rem !important;
+    opacity: 0.4 !important;
+    white-space: pre !important;
+    
+    /* Layout Reset to ensure it doesn't inherit text properties */
+    letter-spacing: normal !important;
+    text-transform: none !important;
+}
+
+.sectend {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 100% !important;
+    margin: 2.5rem 0 !important;
+    padding: 0rem 0 !important;
+    text-align: center !important;
+        
+    /* Text Typography Configurations */
+    font-family: var(--c-font-family), sans-serif !important;
+    font-weight: 400 !important;
+    text-transform: none !important;
+    color: var(--c-bark) !important;
+    line-height: 1.2 !important;
+}
+.sectend::before {
+    content: "•─ · · SECTION END · · ─•" !important; 
+    display: block !important;
+    
+    /* Hardcoded Dimensions */
+    font-family: var(--c-font-family) !important;
+    font-weight: 400 !important;
+    font-size: calc(var(--c-font-size) * 0.75) !important;
+    text-transform: uppercase !important;
+    color: rgba(var(--c-bark), 1.0) !important;
+    margin-bottom: 0rem !important;
+    margin-top: 1rem !important;
+    opacity: 0.4 !important;
+    white-space: pre !important;
+    
+    /* Layout Reset to ensure it doesn't inherit text properties */
+    letter-spacing: normal !important;
+    text-transform: none !important;
+}
+.sectend::after {
+    content: "꒷" !important; 
+    display: block !important;
+    
+    /* Hardcoded Dimensions */
+    font-family: var(--c-font-family) !important;
+    font-weight: 400 !important;
+    font-size: calc(var(--c-font-size) * 0.8) !important;
+    color: rgba(var(--c-bark), 1.0) !important;
+    margin-bottom: 1rem !important;
+    opacity: 0.4 !important;
+    white-space: pre !important;
+    
+    /* Layout Reset to ensure it doesn't inherit text properties */
+    letter-spacing: normal !important;
+    text-transform: none !important;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* MISERY POINTS CODEX */
+    /* OBSIDIAN APP USAGE:
+    <div class="misery-point">MISERY POINTS</div>
+    */
+.misery-point {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 100% !important;
+    margin: 3rem 0 2rem 0 !important;
+    padding: 0rem 0 !important;
+    text-align: center !important;
+
+    /* --- THE TEXT ENGINE: MANIPULATE ONLY THIS VALUE FOR YOUR TEXT SIZE --- */
+    font-size: 1.5rem !important; /* <<-- Change this to whatever size you want! */
+    
+    /* Text Typography Configurations */
+    font-family: var(--c-font-family), sans-serif !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    color: var(--c-bark) !important;
+    line-height: 1.2 !important;
+}
+
+/* 1. THE TOP DECORATION (Locked Size) */
+.misery-point::before {
+    content: "╭ · · · · · · · · -` ♡ ´- · · · · · · · · ╮" !important; 
+    display: block !important;
+    
+    /* Hardcoded Dimensions */
+    font-family: var(--c-font-family) !important;
+    font-size: var(--c-font-size) !important;
+    font-weight: 400 !important;
+    color: rgba(var(--c-bark), 1.0) !important;
+    margin-bottom: 0.5rem !important;
+    white-space: pre !important;
+    
+    /* Layout Reset to ensure it doesn't inherit text properties */
+    letter-spacing: normal !important;
+    text-transform: none !important;
+}
+
+/* 2. THE BOTTOM DECORATION (Locked Size) */
+.misery-point::after {
+    content: "╰ · · · ᛝ · · · ╯" !important; 
+    display: block !important;
+    
+    /* Hardcoded Dimensions */
+    font-family: var(--c-font-family) !important;
+    font-size: var(--c-font-size) !important;
+    font-weight: 400 !important; 
+    color: rgba(var(--c-bark), 1.0) !important;
+    margin-bottom: 0rem !important;
+    margin-top: 0.5rem !important;
+    white-space: pre !important;
+    
+    /* Layout Reset to ensure it doesn't inherit text properties */
+    letter-spacing: normal !important;
+    text-transform: none !important;
+}
+
+.misery-point-neglect {
+    display: block !important; /* Ensures the element treats margins/padding correctly */
+    
+    /* Typography settings can stay on the base class (they inherit downwards) */
+    font-family: 'Dosis', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: calc(var(--c-font-size)* 0.75) !important;
+    color: rgb(var(--sienna)) !important;
+    text-transform: uppercase !important;
+    line-height: 1.2 !important;
+    text-align: left !important;
+}
+.misery-point-neglect::before {
+    content: "What might happen if I neglect this?" !important;
+    display: inline-block !important;
+}
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* SECTION FLOWERS CODEX */
+    /* OBSIDIAN APP USAGE:
+    <div class="section-flowers">DEMONSTRATIONS</div>
+    */
+.section-flowers {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 100% !important;
+    margin: 3rem 0 2rem 0 !important;
+    padding: 0rem 0 !important;
+    text-align: center !important;
+    gap: 15px !important;
+    pointer-events: none;
+    user-select: none;
+
+    /* --- THE TEXT ENGINE: MANIPULATE ONLY THIS VALUE FOR YOUR TEXT SIZE --- */
+    font-size: calc(var(--c-font-size)* 0.8) !important;
+    
+    /* Text Typography Configurations */
+    font-family: var(--c-font-family), sans-serif !important;
+    font-weight: 450 !important;
+    text-transform: uppercase !important;
+    color: var(--c-bark) !important;
+    line-height: 1.2 !important; /* Tight line height keeps it perfectly level with the art */
+    white-space: nowrap !important;
+}
+
+/* 1. THE TOP DECORATION (Locked Size) */
+.section-flowers::before {
+    content: "❀⊱───────" !important; 
+    display: inline-block !important;
+    
+    /* Hardcoded Dimensions */
+    font-family: var(--c-font-family) !important;
+    font-size: calc(var(--c-font-size)* 0.70) !important;
+    font-weight: 400 !important;
+    color: rgba(var(--c-bark), 1.0) !important;
+    margin: 0rem !important;
+    white-space: pre !important;
+    
+    /* Layout Reset to ensure it doesn't inherit text properties */
+    letter-spacing: normal !important;
+    text-transform: none !important;
+    vertical-align: center !important;
+}
+
+/* 2. THE BOTTOM DECORATION (Locked Size) */
+.section-flowers::after {
+    content: "───────⊰❀" !important; 
+    display: inline-block !important;
+    
+    /* Hardcoded Dimensions */
+    font-family: var(--c-font-family) !important;
+    font-size: calc(var(--c-font-size)* 0.70) !important;
+    font-weight: 400 !important; 
+    color: rgba(var(--c-bark), 1.0) !important;
+    margin: 0rem !important;
+    white-space: pre !important;
+    
+    /* Layout Reset to ensure it doesn't inherit text properties */
+    letter-spacing: normal !important;
+    text-transform: none !important;
+}
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* EXPLORATORY QUESTIONS CODEX */
+    /* OBSIDIAN APP USAGE:
+    <div class="exploratory-questions">001 TITLE</div>
+    */
+.exploratory-questions {
+    display: block !important; /* Ensures the element treats margins/padding correctly */
+    
+    /* Typography settings can stay on the base class (they inherit downwards) */
+    font-family: 'Dosis', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: calc(var(--c-font-size)* 0.8) !important;
+    color: rgb(var(--sienna)) !important;
+    text-transform: uppercase !important;
+    font-style: normal !important;
+    line-height: 1.2 !important;
+    text-align: center !important;    
+}
+.exploratory-questions::before {
+    display: inline-block !important;
+    
+}
+
+.exploratory-questions1 {
+    display: inline !important;    
+}
+.exploratory-questions1::before {
+    content: "➊";
+    font-size: calc(var(--c-font-size)* 1.1) !important;
+    display: inline-block !important;
+    margin-top: 1rem !important;    
+}
+
+.exploratory-questions2 {
+    display: inline !important;        
+}
+.exploratory-questions2::before {
+    content: "➋";
+    font-size: calc(var(--c-font-size)* 1.1) !important;
+    display: inline-block !important;
+    margin-top: 1rem !important;    
+}
+
+.exploratory-questions3 {
+    display: inline !important;        
+}
+.exploratory-questions3::before {
+    content: "➌";
+    font-size: calc(var(--c-font-size)* 1.1) !important;
+    display: inline-block !important;
+    margin-top: 1rem !important;    
+}
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* DIV ALTERATION TAGS */
+
+/* REDPOINT CODEX */
+.redpoint {
+    display: block !important; /* Ensures the element treats margins/padding correctly */
+    margin-bottom: 0.5rem !important;
+    
+    /* Typography settings can stay on the base class (they inherit downwards) */
+    font-family: 'Dosis', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: calc(var(--c-font-size)* 0.8) !important;
+    color: rgb(var(--sienna)) !important;
+    text-transform: uppercase !important;
+    line-height: 1.2 !important;
+    text-align: left !important;
+}
+.redpoint-center {
+    display: block !important; /* Ensures the element treats margins/padding correctly */
+    margin-bottom: 0.5rem !important;
+    
+    /* Typography settings can stay on the base class (they inherit downwards) */
+    font-family: 'Dosis', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: calc(var(--c-font-size)* 0.8) !important;
+    color: rgb(var(--sienna)) !important;
+    text-transform: uppercase !important;
+    line-height: 1.2 !important;
+    text-align: center !important;
+}
+
+/* GOLDPOINT CODEX */
+.goldpoint {
+    display: block !important; /* Ensures the element treats margins/padding correctly */
+    margin-bottom: 0.5rem !important;
+    
+    /* Typography settings can stay on the base class (they inherit downwards) */
+    font-family: 'Dosis', sans-serif !important;
+    font-weight: 500 !important;
+    font-size: calc(var(--c-font-size)* 0.8) !important;
+    color: rgb(204, 119, 0) !important;
+    text-transform: uppercase !important;
+    line-height: 1.2 !important;
+    text-align: left !important;
+}
+.goldpoint-center {
+    display: block !important; /* Ensures the element treats margins/padding correctly */
+    margin-bottom: 0.5rem !important;
+    
+    /* Typography settings can stay on the base class (they inherit downwards) */
+    font-family: 'Dosis', sans-serif !important;
+    font-weight: 500 !important;
+    font-size: calc(var(--c-font-size)* 0.8) !important;
+    color: rgb(204, 119, 0) !important;
+    text-transform: uppercase !important;
+    line-height: 1.2 !important;
+    text-align: center !important;
+}
+.goldpoint-center-hearts {
+    display: block !important; /* Ensures the element treats margins/padding correctly */
+    margin-bottom: 0.5rem !important;
+    
+    /* Typography settings can stay on the base class (they inherit downwards) */
+    font-family: 'Dosis', sans-serif !important;
+    font-weight: 500 !important;
+    font-size: calc(var(--c-font-size)* 0.8) !important;
+    color: rgb(204, 119, 0) !important;
+    text-transform: uppercase !important;
+    line-height: 1.2 !important;
+    text-align: center !important;
+}
+.goldpoint-center-hearts::before {
+    display: block !important;
+    content: "───────♡───────" !important; 
+    margin-bottom: 0.5rem !important;
+    
+    /* Typography settings can stay on the base class (they inherit downwards) */
+    font-family: 'Dosis', sans-serif !important;
+    font-weight: 500 !important;
+    font-size: calc(var(--c-font-size)* 0.8) !important;
+    color: rgb(204, 119, 0) !important;
+    text-transform: uppercase !important;
+    line-height: 1.2 !important;
+    text-align: center !important;
+}
+.goldpoint-center-hearts::after {
+    display: block !important;
+    content: "───────♡───────" !important; 
+    margin: 0.7rem auto !important;
+    
+    /* Typography settings can stay on the base class (they inherit downwards) */
+    font-family: 'Dosis', sans-serif !important;
+    font-weight: 500 !important;
+    font-size: calc(var(--c-font-size)* 0.6) !important;
+    color: rgb(204, 119, 0) !important;
+    text-transform: uppercase !important;
+    line-height: 1.2 !important;
+    text-align: center !important;
+}
+
+/* THOUGHT EXPERIMENT CODEX */
+.thought-experiment {
+    display: block !important; /* Ensures the element treats margins/padding correctly */
+    margin-bottom: 0rem !important;
+    
+    /* Typography settings can stay on the base class (they inherit downwards) */
+    font-family: 'Dosis', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: calc(var(--c-font-size)* 0.9) !important;
+    color: rgb(var(--sienna)) !important;
+    text-transform: uppercase !important;
+    line-height: 1.2 !important;
+    text-align: left !important;
+    border-bottom: 1px solid rgba(var(--sienna), 0.4) !important;
+}
+.thought-experiment-sub {
+    display: block !important; /* Ensures the element treats margins/padding correctly */
+    margin-bottom: 0.5rem !important;
+    
+    /* Typography settings can stay on the base class (they inherit downwards) */
+    font-family: 'Dosis', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: calc(var(--c-font-size)* 0.8) !important;
+    color: rgba(var(--raisin-black), 0.6) !important;
+    text-transform: uppercase !important;
+    line-height: 1.2 !important;
+    text-align: right !important;
+    border-bottom: 1px solid rgba(var(--raisin-black), 0.0) !important;
+}
+
+.thought-experiment-story {
+    display: block !important; /* Ensures the element treats margins/padding correctly */
+    margin: 1rem auto 0 auto  !important;
+    
+    /* Typography settings can stay on the base class (they inherit downwards) */
+    font-family: 'Dosis', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: calc(var(--c-font-size)* 0.90) !important;
+    color: rgba(var(--bark), 1.0) !important;
+    text-transform: normal !important;
+    line-height: 1.3 !important;
+    text-align: left !important;
+    justify-self: center !important;
+    width: 95% !important;
+    border-radius: 10px 10px 0 0 !important;
+    border: 1px solid rgba(var(--raisin-black), 0.1) !important;
+    background-color: rgba(var(--raisin-black), 0.02) !important;
+    padding: 1rem !important;
+}
+
+.thought-experiment-story::before {
+    content:"set up";
+    display: inline-block !important;
+    font-size: calc(var(--c-font-size)*0.8) !important;
+    color: rgba(var(--sienna), 1) !important;
+    width: 100% !important;
+    text-align: center !important;
+    text-transform: uppercase !important;
+    padding: 0 0 0.4rem 0 !important;
+}
+
+.thought-experiment-quest::before {
+    content:"question";
+    display: inline-block !important;
+    font-size: calc(var(--c-font-size)*0.8) !important;
+    color: rgba(var(--sienna), 1) !important;
+    width: 100% !important;
+    text-align: center !important;
+    text-transform: uppercase !important;
+    padding: 0 0 0.4rem 0 !important;
+}
+
+.thought-experiment-quest {
+    display: block !important; /* Ensures the element treats margins/padding correctly */
+    margin: 1rem 0 1.5rem 0 !important;
+    
+    /* Typography settings can stay on the base class (they inherit downwards) */
+    font-family: 'Dosis', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: calc(var(--c-font-size)* 0.8) !important;
+    color: rgba(var(--bark), 1.0) !important;
+    text-transform: normal !important;
+    line-height: 1.2 !important;
+    text-align: justify !important;
+    justify-self: center !important;
+    width: 95% !important;
+    border-radius: 0 0 10px 10px !important;
+    border: 1px solid rgba(var(--sienna), 0.2) !important;
+    background-color: rgba(var(--sienna), 0.01) !important;
+    padding: 0.8rem !important;
+    margin: 0 0 1rem 0 !important;
+}
+
+
+
+/* GOALPOINT CODEX */
+.goalpoint {
+    display: block !important; /* Ensures the element treats margins/padding correctly */
+    margin: 1rem 0 1.5rem 0 !important;
+    
+    /* Typography settings can stay on the base class (they inherit downwards) */
+    font-family: 'Dosis', sans-serif !important;
+    font-weight: 400 !important;
+    font-size: calc(var(--c-font-size)* 1.05) !important;
+    color: rgba(var(--bark), 1.0) !important;
+    text-transform: normal !important;
+    line-height: 1.2 !important;
+    text-align: center !important;
+    justify-self: center !important;
+    width: 80% !important;
+}
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* UTILITY CLASSES CODEX */
+.announce {
+    font-family: 'Dosis', sans-serif !important;
+    font-size: 1.25rem !important;
+    color: rgba(var(--raisin-black), 1.0);
+    display: block !important;
+    text-align: center !important;
+    margin: 0 0 1em 0 !important;
+    align-self: center !important;
+}
+
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* ROOTEND SEPARATOR CODEX */
+
+.rootend {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 100% !important;
+    margin: 1rem 0 !important;
+    padding: 0rem 0 !important;
+    text-align: center !important;
+        
+    /* Text Typography Configurations */
+    font-family: var(--c-font-family), sans-serif !important;
+    font-weight: 400 !important;
+    text-transform: none !important;
+    color: var(--c-bark) !important;
+    line-height: 1.2 !important;
+}
+.rootend::before {
+    content: "༺ ♞ ༻" !important; 
+    display: block !important;
+    
+    /* Hardcoded Dimensions */
+    font-family: var(--c-font-family) !important;
+    font-weight: 400 !important;
+    font-size: var(--c-font-size) !important;
+    color: rgba(var(--c-bark), 1.0) !important;
+    margin-bottom: 1rem !important;
+    opacity: 0.4 !important;
+    white-space: pre !important;
+    
+    /* Layout Reset to ensure it doesn't inherit text properties */
+    letter-spacing: normal !important;
+    text-transform: none !important;
+}
+
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/*           
+▄██ ██████ 
+ ██   ▄██▀ 
+ ██  ██▀   
+/*
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++    */
+/* breakout CLASS */
+.callout[data-callout-metadata~="breakout"] {
+    /* 1. SCIM-VARS */
+    --edge:        var(--bloom);
+    --bg:          var(--bloom);
+
+    /* 2. STRIP CALLOUT BAGGAGE */
+    background-color: rgba(var(--bg), 0.03) !important;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;        
+    
+    /* 3. REBUILD AS BLADE-QUOTE */
+    border: 1px solid rgba(var(--cerulean), 1) !important;
+    
+        
+    padding: 0 !important;
+    margin: 1.5rem auto 0 auto !important;
+    width: 50% !important;
+    max-width: 55% !important;
+}
+
+/* Hide the icon and title if you want it to be a pure quote */
+.callout[data-callout-metadata~="breakout"] .callout-icon {
+    display: none !important;
+}
+
+.callout[data-callout-metadata~="breakout"] .callout-title {
+    background-color: rgba(var(--cerulean), 0.50) !important;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;        
+    padding: 0.1rem !important;
+    margin: 0 auto !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    justify-content: center !important;
+}
+
+.callout[data-callout-metadata~="breakout"] .callout-title-inner {
+    background-color: rgba(var(--bloom), 0.0) !important;
+    font-family: 'Dosis', sans-serif !important;
+    font-size: calc(var(--c-font-size)* 0.8) !important;
+    color:  rgba(255, 255, 255, 1.0) !important;
+    text-transform: uppercase  !important;
+    text-align: center !important;
+    text-justify: center !important;
+    margin: 0 auto !important;
+    padding: 0 auto !important;
+    min-height: 25px !important;
+    height: 25px !important;
+    max-height: 25px !important;
+}
+
+.callout[data-callout-metadata~="breakout"] .callout-content::before {
+    display: block; 
+    font-family: 'Dosis', sans-serif !important;
+    font-size: calc(var(--c-font-size)* 0.7) !important;
+    font-weight: 400 !important;
+    color: rgba(var(--raisin-black), 1);
+    margin: 0 auto !important;
+    padding: 0.3rem !important;
+    text-align: center !important;
+    content: "There is more to this!"
+}
+
+/* Styling the content to feel like an artisan quote */
+.callout[data-callout-metadata~="breakout"] .callout-content p {
+    font-family: 'Dosis', sans-serif !important;
+    font-size: calc(var(--c-font-size)* 0.7) !important;
+    font-weight: 400 !important;
+    color: rgba(var(--raisin-black), 1);
+    margin: 0 auto !important;
+    padding-bottom: 0.5rem !important;
+    text-align: center !important;
+}
+
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/

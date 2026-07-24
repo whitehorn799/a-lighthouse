@@ -1,3 +1,10 @@
-@use "./variables.scss" as *;
+/* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* USAGE DICTIONARY */
 
-// put your custom CSS here!
+
+/* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* IMPORT DICTIONARY */
+@import "snippets/root-palette";
+@import "snippets/theme-lighthouse";
+@import "snippets/explicit-bindings"
+
