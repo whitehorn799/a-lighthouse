@@ -1,0 +1,126 @@
+/*
+▄█████ ▄▄▄▄▄  ▄▄▄  ▄▄▄▄   ▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄   ▄▄▄  ▄▄▄▄  
+▀▀▀▄▄▄ ██▄▄  ██▀██ ██▄█▄ ██▀▀▀ ██▄██ ██▄██ ██▀██ ██▄█▄ 
+█████▀ ██▄▄▄ ██▀██ ██ ██ ▀████ ██ ██ ██▄█▀ ██▀██ ██ ██ 
+*/
+
+/* ==========================================
+   CENTERED & FUNCTIONAL SEARCH BAR
+   ========================================== */
+
+.search {
+  width: 100% !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  margin-bottom: 1.5rem !important;
+
+  & > .search-button {
+    width: 100% !important;
+    max-width: 280px !important; /* Keeps it neatly proportioned */
+    height: 2.2rem !important;
+    display: flex !important;
+    justify-content: center !important; /* Horizontally center text + icon */
+    align-items: center !important;
+    padding: 0 1rem !important;
+    
+    background-color: rgba(255, 255, 255, 0.1) !important;
+    border: 1px solid var(--c-sidebar-border-color, rgba(255, 255, 255, 0.2)) !important;
+    border-radius: 6px !important;
+    cursor: pointer !important;
+
+    p, span {
+      color: #ffffff !important;
+      opacity: 0.9;
+      margin: 0 !important;
+      text-align: center !important;
+    }
+
+    svg, svg path, svg circle, svg line {
+      fill: #ffffff !important;
+      stroke: #ffffff !important;
+      opacity: 0.9;
+      margin-right: 0.5rem !important;
+    }
+
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.2) !important;
+      border-color: rgba(255, 255, 255, 0.4) !important;
+    }
+  }
+}
+
+/* ==========================================
+   COMPACT FLOATING SEARCH MODAL (NO BLUR)
+   ========================================== */
+
+/* 1. Remove background blur and full-screen overlay */
+.search-container,
+#search-container {
+  background: transparent !important; /* Removes dark backdrop tint */
+  backdrop-filter: none !important;    /* Kills the page blur entirely */
+  -webkit-backdrop-filter: none !important;
+  align-items: flex-start !important; /* Align to top instead of full screen center */
+  padding-top: 5vh !important;
+}
+
+/* 2. Style the search modal into a sleek floating card */
+.search-container .search-space,
+#search-container > div {
+  width: 90% !important;
+  max-width: 650px !important;       /* Compact card width */
+  max-height: 70vh !important;       /* Keeps search results manageable */
+  background-color: var(--c-sidebar-bg, #3c5377) !important; /* Matches your dusk blue */
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.4) !important; /* Clean drop-shadow */
+  overflow: hidden !important;
+}
+
+/* 3. Style search input field inside the popup */
+.search-space input {
+  background-color: rgba(0, 0, 0, 0.2) !important;
+  color: #ffffff !important;
+  border: none !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15) !important;
+  padding: 1rem 1.2rem !important;
+  font-size: 1.1rem !important;
+  outline: none !important;
+}
+
+/* 4. Style search result list items */
+.search-space .result-card {
+  background: transparent !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08) !important;
+  
+  a {
+    color: #ffffff !important;
+  }
+
+  &:hover, 
+  &[aria-selected="true"] {
+    background-color: rgba(255, 255, 255, 0.12) !important;
+  }
+}
+
+/* ==========================================
+   KILL SEARCH PAGE BLUR ENTIRELY
+   ========================================== */
+
+/* 1. Target all combinations Quartz uses to blur the main site */
+body:has(.search-container.active) .page,
+body:has(#search-container.active) .page,
+body.search-active .page,
+.page.search-open,
+#quartz-body.blur,
+.page {
+  filter: none !important;
+  -webkit-filter: none !important;
+}
+
+/* 2. Optional: If Quartz dims the background with opacity, keep it crisp */
+.search-container {
+  background: rgba(0, 0, 0, 0.3) !important; /* Soft semi-transparent dim (no blur) */
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+}

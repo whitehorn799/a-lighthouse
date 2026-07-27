@@ -1,15 +1,14 @@
 ---
 title: Home
-tags:
-publish: true
-permalink: home.html
-status: done
-type:
-aliases:
-  - index
-tool:
-last-updated: July 23, 2026 15:52
-first-created: March 31, 2026 17:11
+description: "xxx"
+draft: false
+unlisted: true
+tags: 
+aliases: 
+date: July 24, 2026 12:42
+lastmod: July 27, 2026 17:26
+enableToc:  true
+cssclasses: 
 ---
 
 

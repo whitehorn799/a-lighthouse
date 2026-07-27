@@ -1,0 +1,11 @@
+/*
+██  ██ ▄▄▄▄▄  ▄▄▄  ▄▄▄▄  ▄▄▄▄▄ ▄▄▄▄   ▄▄▄▄ 
+██████ ██▄▄  ██▀██ ██▀██ ██▄▄  ██▄█▄ ███▄▄ 
+██  ██ ██▄▄▄ ██▀██ ████▀ ██▄▄▄ ██ ██ ▄▄██▀ 
+*/
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--c-font-header) !important;
+  color: rgba(var(--c-header-color), 1) !important;
+  text-transform: uppercase !important;
+}

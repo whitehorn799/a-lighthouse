@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Dosis
+      body: Dosis
+      code: Noto Sans Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#3C5377"
+        lightgray: "#3C5377"
+        gray: "#3C5377"
+        darkgray: "#3C5377"
+        dark: "#3C5377"
+        secondary: "#00A5DF"
+        tertiary: "#3C5377"
+        highlight: rgba(22, 128, 158, 0.15)
+        textHighlight: "#F1EDEE"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#FFFFFF"
+        lightgray: "#3C5377"
+        gray: "#3C5377"
+        darkgray: "#3C5377"
+        dark: "#3C5377"
+        secondary: "#00A5DF"
+        tertiary: "#3C5377"
+        highlight: rgba(22, 128, 158, 0.15)
+        textHighlight: "#F1EDEE"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -74,7 +74,7 @@ plugins:
       position: right
       priority: 30
   - source: "@quartz-community/crawl-links"
-    enabled: true
+    enabled: false
     options:
       markdownLinkResolution: shortest
     order: 60
@@ -144,11 +144,17 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      title: Site Explorer
+      folderClickBehavior: collapse
+      folderDefaultState: collapse
+      useSavedState: true
+      filterFn: "node => !node.file?.frontmatter?.unlisted"
     layout:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -161,17 +167,17 @@ plugins:
       groupOptions:
         grow: true
   - source: "@quartz-community/backlinks"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 50
   - source: "@quartz-community/article-title"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 10
   - source: "@quartz-community/content-meta"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
@@ -186,19 +192,19 @@ plugins:
       position: left
       priority: 10
   - source: "@quartz-community/darkmode"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 30
       group: toolbar
   - source: "@quartz-community/reader-mode"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 5

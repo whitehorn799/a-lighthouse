@@ -39,23 +39,84 @@
   --copper:               /* #A67B5B */   166, 123, 91;
   --sienna:               /* #A44028 */   164, 64, 40;
   --gold:                 /* #CC7700 */   204, 119, 0;
-  
-  
   --dusk-blue:            /* #3C5377 */   60, 83, 119;
-  --white:                 /* #FFFFFF */   255, 255, 255;
+  --white:                /* #FFFFFF */   255, 255, 255;
+  --amber:                /* #FFE082 */   255, 224, 130;
+
   /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
-  /* LIGHT THEME VARIABLES DICTIONARY */
-  --theme-lt-bg:          rgba(var(--white), 1.0);
-  --theme-lt-blocks:      rgba(var(--dusk-blue), 1.0);
-  --theme-lt-heavy:       rgba(var(--dusk-blue), 1.0);
-  --theme-lt-body-text:   rgba(var(--dusk-blue), 1.0);
-  --theme-lt-titles:      rgba(var(--dusk-blue), 1.0);
-  --theme-lt-links:       rgba(var(--sky), 1.0);
-  --theme-lt-hover:       rgba(var(--dusk-blue), 1.0);
-  --theme-lt-accent:      rgba(var(--cerulean), 1.0);
-  --theme-lt-highlight:   rgba(var(--smoke-white), 1.0);
+  /* MY COLOR VARIABLES DICTIONARY (OBSOLETE) */
+  --c-body-color:                     rgba(var(--dusk-blue), 1.0);
+  --c-code-color:                     rgba(var(--dusk-blue), 1.0);
+  --c-page-bg:                        rgba(var(--dusk-blue), 1.0);
+  --c-header-color:                   rgba(var(--dusk-blue), 1.0);
+
+  --c-center-bg:                      rgba(var(--white), 1);
+  --c-center-border:                  transparent;
+
+  --c-sidebar-bg:                     rgba(var(--dusk-blue), 1.0);
+  --c-sidebar-color:                  rgba(var(--white), 1.0);
+
+  --c-sidebar-folder-bg:              rgba(var(--mint-cream), 0.05);
+  --c-sidebar-folder-color:           rgba(var(--mint-cream), 1.0);
+
+
+
+  --c-sidebar-title-color:            rgba(var(--white), 1.0);
+  --c-sidebar-links-color:            rgba(var(--white), 1.0);
+  --c-sidebar-links-hover:            rgba(var(--mint-cream), 1.0);
+  --c-sidebar-border-color:           transparent;
+
+  --c-sidebar-links-active:           rgba(var(--mint-cream), 0.2);
+  --c-sidebar-links-active-color:     rgba(var(--white), 1);
+
+  --c-sidebar-highlight:              rgba(var(--amber), 0.22);
+  --c-sidebar-highlight-text:         rgba(var(--white), 1);
+
+  --c-explorer-border-color:          rgba(var(--white), 0.1);
+
+
+  --c-links-extcolor:                 rgba(var(--jungle), 1.0);
+  --c-links-exthover:                 rgba(var(--bloom), 1.0); 
+  --c-links-extvisited:               rgba(var(--jungle), 1.0);
+  --c-links-intcolor:                 rgba(var(--sky), 1.0);  
+  --c-links-inthover:                 rgba(var(--bloom), 1.0); 
+  --c-links-intvisited:               rgba(var(--sky), 1.0); 
+  --c-links-unresolved:               rgba(var(--wenge), 1.0);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
-  /* DARK THEME VARIABLES DICTIONARY */
+  /* LIGHT THEME VARIABLES DICTIONARY (OBSOLETE) */
+  --theme-lt-bg:          rgba(var(--white), 1.0);          /* light */ 
+  --theme-lt-blocks:      rgba(var(--dusk-blue), 1.0);      /* lightgray */ 
+  --theme-lt-heavy:       rgba(var(--dusk-blue), 1.0);      /* gray */ 
+  --theme-lt-body-text:   rgba(var(--dusk-blue), 1.0);      /* darkgray */ 
+  --theme-lt-titles:      rgba(var(--dusk-blue), 1.0);      /* dark */ 
+  --theme-lt-links:       rgba(var(--sky), 1.0);            /* secondary */
+  --theme-lt-hover:       rgba(var(--dusk-blue), 1.0);      /* tertiary */
+  --theme-lt-accent:      rgba(var(--cerulean), 1.0);       /* highlight */ 
+  --theme-lt-highlight:   rgba(var(--smoke-white), 1.0);    /* textHighlight */ 
+  /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+  /* DARK THEME VARIABLES DICTIONARY (OBSOLETE) */
   --theme-dt-bg:          rgba(var(--white), 1.0);
   --theme-dt-blocks:      rgba(var(--dusk-blue), 1.0);
   --theme-dt-heavy:       rgba(var(--dusk-blue), 1.0);
@@ -65,9 +126,5 @@
   --theme-dt-hover:       rgba(var(--dusk-blue), 1.0);
   --theme-dt-accent:      rgba(var(--cerulean), 1.0);
   --theme-dt-highlight:   rgba(var(--smoke-white), 1.0);
-  /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
-  /* THEME FONT VARIABLES DICTIONARY */
-  --c-font-header:        "Dosis", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  --c-font-body:          "Dosis", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  --c-font-code:          "Dosis", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+
 }

@@ -1,12 +1,11 @@
 ---
-title: 
-tags:
-permalink: 
-status: 
-type: 
-alias: 
-tool: 
-last-updated: 
-first-created: 
+title: "xxx"
+description: "xxx"
+draft: false
+tags: 
+aliases: 
+date: 
+lastmod: 
+enableToc:  
 cssclasses: 
 ---

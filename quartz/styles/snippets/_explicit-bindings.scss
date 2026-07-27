@@ -5,32 +5,59 @@
 */
 
 body {
-  background-color: var(--light) !important;
-  color: var(--darkgray) !important;
-  font-family: var(--bodyFont) !important;
+  color: var(--c-body-color) !important;
+  font-family: var(--c-font-body) !important; /* Direct token binding */
 }
 
-h1, h2, h3, h4, h5, h6,
 .page-title,
 .article-title {
-  font-family: var(--headerFont) !important;
-  color: var(--dark) !important;
-}
-
-a,
-a.internal,
-a.external,
-.page-title a,
-.sidebar a {
-  color: var(--secondary) !important;
-  
-  &:hover {
-    color: var(--tertiary) !important;
-  }
+  color:            var(--c-header-color) !important;
+  font-family:      var(--c-font-header) !important; /* Direct token binding */  
 }
 
 code, 
 pre {
-  font-family: var(--codeFont) !important;
+  color:            var(--c-code-color) !important;
+  font-family:      var(--c-font-code) !important;  
 }
 
+
+/* ==========================================
+   PURE SCSS LOGO REPLACEMENT (NO TSX MATCH)
+   ========================================== */
+
+h2.page-title {
+  margin: 0 0 0 0 !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100% !important;
+
+  a {
+    display: block !important;
+    width: 200px !important;            /* Adjust width to fit your logo */
+    max-width: 200px !important;
+    height: 200px !important;            /* Adjust height to fit your logo */
+    max-height: 200px !important;
+    margin: 0 auto !important;
+    
+    /* 1. Hide the "Quartz 5" plain text visually */
+    font-size: 0 !important;
+    color: transparent !important;
+    
+    /* 2. Inject logo as background image */
+    background-image: url("/static/logo.png") !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+  }
+}
+
+
+details.note-properties.metadata-container,
+.metadata-container,
+.note-properties,
+.frontmatter,
+div[data-frontmatter] {
+  display: none !important;
+}

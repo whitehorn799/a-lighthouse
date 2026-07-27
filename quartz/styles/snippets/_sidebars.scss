@@ -1,0 +1,223 @@
+/*
+▄█████ ▄▄ ▄▄▄▄  ▄▄▄▄▄ ▄▄▄▄   ▄▄▄  ▄▄▄▄   ▄▄▄▄ 
+▀▀▀▄▄▄ ██ ██▀██ ██▄▄  ██▄██ ██▀██ ██▄█▄ ███▄▄ 
+█████▀ ██ ████▀ ██▄▄▄ ██▄█▀ ██▀██ ██ ██ ▄▄██▀ 
+*/
+/* Sticky positioning so sidebar scrolls smoothly on long notes */
+/* ==========================================
+   SIDEBAR LAYOUT & TYPOGRAPHY
+   ========================================== */
+
+@media (min-width: 1200px) {
+  .sidebar {
+    position: sticky;
+    top: 2rem;
+    max-height: calc(100vh - 4rem);
+    overflow-y: auto;
+    
+    /* Custom Scrollbar for sidebars */
+    scrollbar-width: thin;
+    scrollbar-color: rgba(255, 255, 255, 0.25) transparent;
+
+    &::-webkit-scrollbar {
+      width: 6px;
+    }
+    &::-webkit-scrollbar-track {
+      background: transparent;
+    }
+    &::-webkit-scrollbar-thumb {
+      background-color: rgba(255, 255, 255, 0.2);
+      border-radius: 10px;
+      &:hover { background-color: rgba(255, 255, 255, 0.4); }
+    }
+  }
+}
+
+.sidebar,
+.sidebar.left,
+.sidebar.right {
+  color: var(--c-sidebar-color) !important;
+  background-color: var(--c-sidebar-bg) !important; 
+  padding: 1.5rem 1rem;
+
+  .toc-title, 
+  .backlinks-title {
+    font-family: var(--headerFont) !important;
+    color: var(--c-sidebar-title-color) !important;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--c-font-header, var(--headerFont)) !important;
+    color: var(--c-sidebar-title-color) !important;
+  }
+
+  .toc-header {
+    border-bottom: 1px solid var(--c-sidebar-links-color) !important;
+  }
+
+  /* Universal Sidebar Link Rules (Includes Explorer, ToC, Backlinks) */
+  a,
+  a.internal,
+  a.external,
+  .explorer a,
+  .toc a,
+  .backlinks a {
+    color: var(--c-sidebar-links-color) !important;
+    text-decoration: none !important;
+    opacity: 1 !important;
+
+    &:hover,
+    &:visited:hover {
+      color: var(--c-sidebar-links-hover) !important;
+      text-decoration: underline !important;
+    }
+
+    &:visited {
+      color: var(--c-sidebar-links-color) !important;
+    }
+  }
+
+  /* Search Text Highlights (<mark> tags) */
+  mark,
+  .highlight {
+    background-color: var(--c-sidebar-highlight) !important;
+    color: var(--c-highlight-text, #ffffff) !important;                             
+    padding: 0.1em 0.3em;
+    border-radius: 4px;
+  }
+}
+
+/* Sidebar Border Container Rules */
+.sidebar.right {
+  border-left: 1px solid var(--c-sidebar-border-color);
+  margin-left: 0 !important; 
+  display: block !important;
+}
+
+.sidebar.left {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important; /* Horizontally centers all direct children */   
+    gap: 0.5rem !important; 
+    border-right: 1px solid var(--c-sidebar-border-color);
+}
+
+/*
+██████ ▄▄ ▄▄ ▄▄▄▄  ▄▄     ▄▄▄  ▄▄▄▄  ▄▄▄▄▄ ▄▄▄▄  
+██▄▄   ▀█▄█▀ ██▄█▀ ██    ██▀██ ██▄█▄ ██▄▄  ██▄█▄ 
+██▄▄▄▄ ██ ██ ██    ██▄▄▄ ▀███▀ ██ ██ ██▄▄▄ ██ ██ 
+*/
+
+.sidebar .explorer {
+    border: 1px solid var(--c-explorer-border-color) !important;
+    border-radius: 5px !important;
+    padding: 5px !important;
+
+  /* 1. Collapse Arrow Icons */
+  .folder-icon {
+    color: var(--c-sidebar-links-color) !important;
+
+    svg, svg path { 
+      fill: var(--c-sidebar-links-color) !important;
+      stroke: var(--c-sidebar-links-color) !important;
+      height: 10px !important;
+      width: auto !important;
+    }
+  }
+
+  /* 2. Text Elements: Folders, Notes, Spans, & Titles */
+  a,
+  .folder-button,
+  .folder-title,
+  .file-title,
+  span,
+  li {
+    color: var(--c-sidebar-folder-color) !important;
+    opacity: 1 !important;
+    text-decoration: none !important;
+  }
+
+  /* 3. Combined Hover States (Folders, Notes, & Arrows) */
+  .folder-container:hover,
+  a:hover,
+  .folder-button:hover {
+    .folder-title,
+    .file-title,
+    a,
+    span {
+      color: var(--c-sidebar-links-hover) !important;
+      text-decoration: underline !important;
+    }
+
+    .folder-icon svg,
+    .folder-icon svg path {
+      fill: var(--c-sidebar-links-hover) !important;
+      stroke: var(--c-sidebar-links-hover) !important;
+    }
+  }
+
+  /* 4. Active Note Highlight Pill & Text */
+  .active {
+    background-color: var(--c-sidebar-links-active) !important;
+    color: var(--c-sidebar-links-active-color, var(--c-sidebar-links-hover)) !important;
+    font-weight: 600 !important;
+    border-radius: 6px;
+    padding: 0.1rem 0.6rem 0.1rem 0.3rem;
+    transition: background-color 0.15s ease-in-out;
+  }
+  .folder-container {
+        background-color: var(--c-sidebar-folder-bg) !important;
+  }
+}
+
+/* ==========================================
+   EXPLORER TOGGLE TITLE FIX
+   ========================================== */
+
+button.mobile-explorer, 
+button.desktop-explorer {
+  background-color: transparent !important;
+  color: #FFFFFF !important;
+  opacity: 1 !important;
+
+  h2, p, span {
+    color: #FFFFFF !important;
+    opacity: 1 !important;
+    font-weight: 600;
+  }
+
+  svg {
+    fill: #FFFFFF !important;
+    stroke: #FFFFFF !important;
+    opacity: 1 !important;
+  }
+
+  &:hover {
+    h2, p, span {
+      color: var(--c-sidebar-links-hover, #81D4FA) !important;
+    }
+    svg {
+      fill: var(--c-sidebar-links-hover, #81D4FA) !important;
+      stroke: var(--c-sidebar-links-hover, #81D4FA) !important;
+    }
+  }
+}
+
+/* ==========================================
+   PREVENT FOLDER NAVIGATING TO INDEX PAGES
+   ========================================== */
+
+.sidebar .explorer {
+  /* Disable pointer clicks on the <a> link tag inside folder titles */
+  .folder-container > a,
+  .folder-title {
+    pointer-events: none !important; /* Prevents center page navigation */
+    cursor: pointer !important;
+  }
+
+  /* Keep the parent button clickable for expanding/collapsing */
+  .folder-container,
+  .folder-button {
+    cursor: pointer !important;
+  }
+}
