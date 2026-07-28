@@ -4,5 +4,5 @@
 
 **Below is a stealth embed that is linked.**
 
-![[Home|linked]]
+![[index|linked]]
 
