@@ -1,8 +1,16 @@
 ---
 title: Self-identity
-first-created: May 18, 2026 11:59
-last-updated: July 20, 2026 14:40
+description: "xxx"
+draft: false
+unlisted: false
+tags: 
+aliases: 
+date: July 27, 2026 17:35
+lastmod: July 27, 2026 22:17
+enableToc:  true
+cssclasses: 
 ---
+
 >[!roottop] **Root**
 > [[Love]] > [[Instinct]] > [[Self-aware]] > Self-identity
 > %% [[❤️]] > [[🐊]] > [[💡]] > [[🎁]] %% ^baaf6d

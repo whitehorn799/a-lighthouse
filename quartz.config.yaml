@@ -74,7 +74,7 @@ plugins:
       position: right
       priority: 30
   - source: "@quartz-community/crawl-links"
-    enabled: false
+    enabled: true
     options:
       markdownLinkResolution: shortest
     order: 60
@@ -172,7 +172,7 @@ plugins:
       position: right
       priority: 50
   - source: "@quartz-community/article-title"
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 10

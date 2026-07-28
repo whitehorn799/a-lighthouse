@@ -7,6 +7,7 @@
 body {
   color: var(--c-body-color) !important;
   font-family: var(--c-font-body) !important; /* Direct token binding */
+  font-size: var(--c-font-size) !important;
 }
 
 .page-title,
@@ -61,3 +62,20 @@ details.note-properties.metadata-container,
 div[data-frontmatter] {
   display: none !important;
 }
+
+/*
+██  ██ ▄▄▄▄▄  ▄▄▄  ▄▄▄▄  ▄▄▄▄▄ ▄▄▄▄   ▄▄▄▄ 
+██████ ██▄▄  ██▀██ ██▀██ ██▄▄  ██▄█▄ ███▄▄ 
+██  ██ ██▄▄▄ ██▀██ ████▀ ██▄▄▄ ██ ██ ▄▄██▀ 
+*/
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--c-font-header) !important;
+    color: rgba(var(--c-header-color), 1) !important;
+    text-transform: uppercase !important;
+  }
+
+  .article-title {
+    font-size: calc(var(--c-font-size-h1) * 1.5) !important;
+  }
+

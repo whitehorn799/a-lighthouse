@@ -24,28 +24,28 @@
     align-items: center !important;
     padding: 0 1rem !important;
     
-    background-color: rgba(255, 255, 255, 0.1) !important;
+    background-color: var(--c-searchbar-bg-color) !important;
     border: 1px solid var(--c-sidebar-border-color, rgba(255, 255, 255, 0.2)) !important;
     border-radius: 6px !important;
     cursor: pointer !important;
 
     p, span {
-      color: #ffffff !important;
+      color: var(--c-csearchbar-color) !important;
       opacity: 0.9;
       margin: 0 !important;
       text-align: center !important;
     }
 
     svg, svg path, svg circle, svg line {
-      fill: #ffffff !important;
-      stroke: #ffffff !important;
+      fill: var(--c-csearchbar-fill) !important;
+      stroke: var(--c-csearchbar-stroke) !important;
       opacity: 0.9;
       margin-right: 0.5rem !important;
     }
 
     &:hover {
-      background-color: rgba(255, 255, 255, 0.2) !important;
-      border-color: rgba(255, 255, 255, 0.4) !important;
+      background-color: var(--c-searchbar-bg-color-hover) !important;
+      border-color: var(--c-searchbar-bg-color-hover-border) !important;
     }
   }
 }
@@ -70,8 +70,8 @@
   width: 90% !important;
   max-width: 650px !important;       /* Compact card width */
   max-height: 70vh !important;       /* Keeps search results manageable */
-  background-color: var(--c-sidebar-bg, #3c5377) !important; /* Matches your dusk blue */
-  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  background-color: var(--searchbar-container-bg) !important; /* Matches your dusk blue */
+  border: 1px solid var(--c-searchbar-bg-color-hover-border) !important;
   border-radius: 12px !important;
   box-shadow: 0 12px 32px rgba(0, 0, 0, 0.4) !important; /* Clean drop-shadow */
   overflow: hidden !important;

@@ -1,0 +1,132 @@
+/*
+██  ██ ▄▄▄▄▄▄ ▄▄ ▄▄    ▄▄ ▄▄▄▄▄▄ ▄▄ ▄▄▄▄▄  ▄▄▄▄ 
+██  ██   ██   ██ ██    ██   ██   ██ ██▄▄  ███▄▄ 
+▀████▀   ██   ██ ██▄▄▄ ██   ██   ██ ██▄▄▄ ▄▄██▀ 
+*/
+
+/*
+▄████▄ ▄▄  ▄▄ ▄▄  ▄▄  ▄▄▄  ▄▄ ▄▄ ▄▄  ▄▄  ▄▄▄▄ ▄▄▄▄▄     ██ ▄▄▄▄▄▄ 
+██▄▄██ ███▄██ ███▄██ ██▀██ ██ ██ ███▄██ ██▀▀▀ ██▄▄  ▄▄▄ ██   ██   
+██  ██ ██ ▀██ ██ ▀██ ▀███▀ ▀███▀ ██ ▀██ ▀████ ██▄▄▄     ██   ██   
+*/
+/* USAGE:
+<div class="announce-it" style="xxx">xxx</div>
+*/
+
+.announce-it {
+    font-family: 'Dosis', sans-serif !important;
+    font-size: 1.25rem !important;
+    color: rgba(var(--raisin-black), 1.0);
+    display: block !important;
+    text-align: center !important;
+    margin: 0 0 1em 0 !important;
+    align-self: center !important;
+}
+
+/*
+▄████▄ ▄▄  ▄▄ ▄▄  ▄▄  ▄▄▄  ▄▄ ▄▄ ▄▄  ▄▄  ▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄▄ 
+██▄▄██ ███▄██ ███▄██ ██▀██ ██ ██ ███▄██ ██▀██  ██   ██▄▄  
+██  ██ ██ ▀██ ██ ▀██ ▀███▀ ▀███▀ ██ ▀██ ▀███▀  ██   ██▄▄▄ 
+*/
+/* USAGE:
+> [!announote|tac]
+> 
+*/
+    /* 1. Base Announote Style (Excludes shh-note variant) */
+    .callout[data-callout="announote"]:not([data-callout-metadata~="shh-note"]) {
+    background-color: var(--c-announote-bg) !important;
+    
+    border: 1px solid var(--c-announote-border-color) !important;
+    border-top: 6px solid var(--c-announote-border-color) !important;
+    border-radius: 6px !important;
+    
+    padding: 0.7rem 1.5rem !important; /* Fixed invalid 'auto' padding */
+    margin: 1.5rem auto !important;
+    width: 75% !important;
+    max-width: 100% !important; /* Safety constraint for mobile screens */
+    }
+
+    /* 2. Hide Title & Icon (Pure Quote Mode) */
+    .callout[data-callout="announote"] {
+    .callout-icon,
+    .callout-title {
+        display: none !important;
+    }
+
+    /* Typography */
+    .callout-content p {
+        font-family: var(--c-announote-font-family, inherit) !important;
+        font-size: var(--c-announote-font-size, 1.1rem) !important;
+        font-style: italic !important;
+        font-weight: var(--c-announote-font-weight, normal) !important;
+        color: var(--c-announote-color) !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    /* Default Alignment Variable */
+    --callout-text-align: left;
+
+    /* Apply Alignment */
+    .callout-content :is(p, .el-p, div) {
+        text-align: var(--callout-text-align) !important;
+    }
+
+    /* Metadata Text Align Overrides (| tac, | tar, | tal, | taj) */
+    &[data-callout-metadata~="tac"] .callout-content :is(p, .el-p, div) {
+        text-align: center !important;
+    }
+    &[data-callout-metadata~="tar"] .callout-content :is(p, .el-p, div) {
+        text-align: right !important;
+    }
+    &[data-callout-metadata~="tal"] .callout-content :is(p, .el-p, div) {
+        text-align: left !important;
+    }
+    &[data-callout-metadata~="taj"] .callout-content :is(p, .el-p, div) {
+        text-align: justify !important;
+    }
+    }
+
+    /*
+    ▄█████ ▄▄ ▄▄ ▄▄ ▄▄     ███  ██  ▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄▄ 
+    ▀▀▀▄▄▄ ██▄██ ██▄██ ▄▄▄ ██ ▀▄██ ██▀██  ██   ██▄▄  
+    █████▀ ██ ██ ██ ██     ██   ██ ▀███▀  ██   ██▄▄▄ 
+    */
+    /* USAGE:
+    > [!announote|shh-note tac]
+    >
+    */
+
+    .callout[data-callout="announote"][data-callout-metadata~="shh-note"] {
+    background-color: transparent !important;
+    border: none !important;
+    padding: 0.5rem 1.5rem !important;
+    margin: 1.5rem auto !important;
+    width: 90% !important;
+
+    .callout-content p {
+        font-size: 1.1rem !important;
+        font-style: normal !important;
+        color: var(--c-announote-shh-color, rgba(255, 255, 255, 0.5)) !important;
+        margin: 0 !important;
+        text-align: center !important;
+    }
+    }
+
+    .callout[data-callout-metadata~="shh-center"] .callout-title-inner {
+    display: flex !important;
+    justify-content: center !important;
+    text-align: center !important;
+    }
+/*
+██████ ▄▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄▄▄   ▄████▄ ▄▄    ▄▄  ▄▄▄▄ ▄▄  ▄▄ 
+  ██   ██▄▄  ▀█▄█▀   ██     ██▄▄██ ██    ██ ██ ▄▄ ███▄██ 
+  ██   ██▄▄▄ ██ ██   ██     ██  ██ ██▄▄▄ ██ ▀███▀ ██ ▀██ 
+*/
+/* USAGE:
+"<div class="color-point ta-xxx">xxx</div>"
+*/
+.tal { --ta-align: left; }
+.tac { --ta-align: center; }
+.tar { --ta-align: right; }
+.taj { --ta-align: justify; }

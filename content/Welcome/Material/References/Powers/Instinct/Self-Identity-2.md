@@ -1,16 +1,17 @@
 ---
-title: Self-Identity
+title: Self-Identity-2
+description: xxx
+draft: false
+unlisted: false
 tags:
-publish: true
-permalink: self-identity
-status:
-type: lesson
-alias: How special am I?
-tool:
-last-updated: June 02, 2026 14:38
-first-created: May 18, 2026 11:59
+aliases:
+date: July 27, 2026 17:35
+lastmod: July 27, 2026 22:17
+enableToc: true
 cssclasses:
 ---
+
+
 
 > [!warning] Work in Progress
 > This page is [[unfinished]]. Please check back later!

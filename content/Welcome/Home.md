@@ -2,7 +2,7 @@
 title: Home
 description: "xxx"
 draft: false
-unlisted: true
+unlisted: false
 tags: 
 aliases: 
 date: July 24, 2026 12:42
@@ -11,21 +11,20 @@ enableToc:  true
 cssclasses: 
 ---
 
-
+asdf
 
 ![[banner1.png|center|300]]
 
 
 
-<div class="announce" style="border-top: 1px solid rgba(0,0,0, 0.2); padding: 1em 0 0 0; margin: 1.75em 0.5 0em 0.5em !important; color: rgba(0,0,0, 0.6); font-size: 1.2rem !important;">Welcome to the customized personal-growth program:</div>
-<div class="announce" style="padding: 0em; margin: 0 0.5em 0.5em 0.5em !important; color: rgba(60, 83, 119, 1.0); font-size: 1.75rem !important;"><strong>A Lighthouse</strong>.</div>
-<div class="announce" style="border-bottom: 1px solid rgba(0,0,0, 0.2); padding: 1em 0; margin: 0em 0.5 1.75em 0.5em !important; color: rgba(0,0,0, 0.6); font-size: 0.9rem !important;">Are you tired of life? Exhausted from struggling to find motivation? Many of us aren't taught how to find our personal power, let alone our motivation. There is no shame in asking for help and talking about our problems. Let us help you look inside yourself to find your own light. Maybe you will become a lighthouse for someone else.</div>
+<div class="announce-it" style="border-top: 1px solid rgba(0,0,0, 0.2); padding: 1em 0 0 0; margin: 1.75em 0.5 0em 0.5em !important; color: rgba(0,0,0, 0.6); font-size: 1.2rem !important;">Welcome to the customized personal-growth program:</div>
+<div class="announce-it" style="padding: 0em; margin: 0 0.5em 0.5em 0.5em !important; color: rgba(60, 83, 119, 1.0); font-size: 1.75rem !important;"><strong>A Lighthouse</strong>.</div>
+<div class="announce-it" style="border-bottom: 1px solid rgba(0,0,0, 0.2); padding: 1em 0; margin: 0em 0.5 1.75em 0.5em !important; color: rgba(0,0,0, 0.6); font-size: 0.9rem !important;">Are you tired of life? Exhausted from struggling to find motivation? Many of us aren't taught how to find our personal power, let alone our motivation. There is no shame in asking for help and talking about our problems. Let us help you look inside yourself to find your own light. Maybe you will become a lighthouse for someone else.</div>
 
-<div class="bookend"></div>
 
-<div class="redpoint-center"><strong><u>NOTICE</u></strong> <br>THE PROGRAM AND WEBSITE ARE UNDER DEVELOPMENT</div>
+>[!announote|tac]
+><strong><u>NOTICE</u></strong> <br>We are preparing the website so that we may share organized information with you. </div>
 
-<div style="justify-self: center; width: 60%; text-align: center; font-size: 1rem;">We are preparing the website so that we may share organized information with you. </div>
 
 <hr>
 

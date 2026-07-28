@@ -1,0 +1,62 @@
+/*
+██ ▄▄   ▄▄  ▄▄▄   ▄▄▄▄ ▄▄▄▄▄  ▄▄▄▄ 
+██ ██▀▄▀██ ██▀██ ██ ▄▄ ██▄▄  ███▄▄ 
+██ ██   ██ ██▀██ ▀███▀ ██▄▄▄ ▄▄██▀ 
+*/
+/* USAGE:
+![[banner1.png|center|flip-h]]
+![[banner1.png|right|300]]
+![[banner1.png|left|250]]
+*/
+.center img,
+.markdown-rendered img,
+article img {
+
+  /* 1. Horizontal Flip */
+  &[alt*="flip-h"] {
+    transform: scaleX(-1);
+  }
+
+  /* 2. Centered Images */
+  &[alt*="center"] {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    float: none !important;
+  }
+
+  /* 3. Left Floated Images (Text wraps around) */
+  &[alt*="left"] {
+    float: left !important;
+    margin-right: 1.5rem !important;
+    margin-bottom: 1rem !important;
+    margin-top: 0.5rem !important;
+  }
+
+  /* 4. Right Floated Images (Text wraps around) */
+  &[alt*="right"] {
+    float: right !important;
+    margin-left: 1.5rem !important;
+    margin-bottom: 1rem !important;
+    margin-top: 0.5rem !important;
+  }
+
+  /* 5. Clear floats for following paragraphs/headings */
+  &[alt*="clear"] {
+    clear: both !important;
+  }
+}
+
+/* Clearfix for paragraphs wrapping floated images */
+.center p {
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+/* Prevent oversized fixed-width images from breaking mobile layouts */
+.center img[width] {
+  max-width: 100% !important;
+  height: auto !important;
+}

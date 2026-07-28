@@ -4,11 +4,11 @@
 
 /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
 /* IMPORT DICTIONARY */
-@import "snippets/root-palette";
-@import "snippets/root-fonts";
+@import "snippets/root";
 @import "snippets/explicit-bindings";
-@import "snippets/center-page";
-@import "snippets/sidebars";
-@import "snippets/headers";
+@import "snippets/page";
 @import "snippets/links";
-@import "snippets/searchbar"
+@import "snippets/searchbar";
+@import "./snippets/captionator";
+@import "./snippets/images";
+@import "./snippets/utilities";

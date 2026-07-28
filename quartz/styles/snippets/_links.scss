@@ -1,0 +1,90 @@
+/*
+██     ▄▄ ▄▄  ▄▄ ▄▄ ▄▄  ▄▄▄▄ 
+██     ██ ███▄██ ██▄█▀ ███▄▄ 
+██████ ██ ██ ▀██ ██ ██ ▄▄██▀ 
+*/
+
+/* 1. Standard Internal Links (Existing Notes) */
+a.internal {
+  color: var(--c-links-intcolor) !important;
+  text-decoration: underline;
+  text-decoration-color: var(--c-links-intcolor);
+  background-color: transparent !important;
+
+  &:hover {
+    color: var(--c-links-inthover) !important;
+  }
+}
+
+/* 2. External Links (Outbound Websites) */
+a.external {
+  color: var(--c-links-extcolor) !important;
+  text-decoration: underline;
+  text-decoration-color: var(--c-links-extcolor);
+  background-color: transparent !important;
+
+  &::after {
+    content: " ↗";
+    font-size: 0.8em;
+    opacity: 0.7;
+  }
+
+  &:hover {
+    color: var(--c-links-exthover) !important;
+    text-decoration-color: var(--c-links-exthover) !important;
+  }
+}
+
+/* 3. Unresolved Links (Notes that don't exist yet in content/) */
+a.internal.unresolved {
+  color: var(--c-links-unresolved) !important;
+  text-decoration: dashed underline !important;
+  opacity: 0.8;
+  cursor: help;
+
+  &:hover {
+    color: var(--c-links-inthover) !important; /* Highlights missing notes in orange/red */
+    opacity: 1;
+  }
+}
+
+/* 1. Visited Links (Pages already read) */
+a.internal:visited {
+  color: var(--c-links-intvisited) !important;
+}
+a.external:visited {
+  color: var(--c-links-extvisited) !important;
+}
+/* Ensure hover state still triggers cleanly over visited state */
+a.internal:visited:hover {
+  color: var(--c-links-inthover) !important;
+}
+a.external:visited:hover {
+  color: var(--c-links-exthover) !important;
+}
+
+/* Keep underline color matching the hover color */
+a.internal:hover,
+a.internal:visited:hover {
+  color: var(--c-links-inthover) !important;
+  text-decoration-color: var(--c-links-inthover) !important;
+}
+
+a.external:hover,
+a.external:visited:hover {
+  color: var(--c-links-exthover) !important;
+  text-decoration-color: var(--c-links-exthover) !important;
+}
+
+/* Hide ONLY floating hover preview cards */
+.popover {
+  display: none !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
+
+/* If you need to hide content inside active hover popups without touching the main article: */
+div.popover-inner,
+.popover > .popover-inner {
+  display: none !important;
+}
