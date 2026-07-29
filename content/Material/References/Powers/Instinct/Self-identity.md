@@ -11,7 +11,7 @@ enableToc:  true
 cssclasses: 
 ---
 
->[!roottop] **Root**
+>[!breadthread]
 > [[Love]] > [[Instinct]] > [[Self-aware]] > Self-identity
 > %% [[❤️]] > [[🐊]] > [[💡]] > [[🎁]] %% ^baaf6d
 

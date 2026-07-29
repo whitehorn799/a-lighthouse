@@ -11,8 +11,8 @@
   --page-width: 750px; /* Locked center width */
 }
 
-/* Keep Quartz's Grid engine intact, but override track dimensions */
-@media (min-width: 1200px) {
+/* 1. Full Desktop (3 Columns) - Viewports 1024px and wider */
+@media (min-width: 1024px) {
   #quartz-body,
   .page > #quartz-body {
     display: grid !important;
@@ -21,15 +21,53 @@
     width: 100% !important;
     margin: 0 auto !important;
 
-    /* 
-      3-COLUMN GRID TRACKS:
-      [Left Sidebar] -> 1fr (takes remaining flexible space)
-      [Center Page]  -> var(--page-width) (locked strictly to 750px)
-      [Right Sidebar] -> 1fr (takes remaining flexible space)
-    */
-    grid-template-columns: minmax(220px, 1fr) var(--page-width) minmax(220px, 1fr) !important;
+    /* 3-Column Layout: [Left Sidebar] [Center Content] [Right Sidebar] */
+    grid-template-columns: minmax(200px, 1fr) minmax(auto, var(--page-width)) minmax(200px, 1fr) !important;
     grid-template-areas: "sidebar-left center sidebar-right" !important;
-    align-items: start !important; /* Critical for position: sticky to work */
+    align-items: start !important;
+  }
+
+  .sidebar {
+    position: sticky !important;
+    top: 2rem !important;
+    max-height: calc(100vh - 4rem) !important;
+    overflow-y: auto !important;
+  }
+}
+
+/* 2. Narrow Desktop / Tablet View (2 Columns) - Viewports between 768px and 1023px */
+@media (min-width: 768px) and (max-width: 1023px) {
+  #quartz-body,
+  .page > #quartz-body {
+    display: grid !important;
+    gap: 1rem !important;
+    width: 100% !important;
+    margin: 0 auto !important;
+    padding: 0 1rem !important;
+
+    /* 2-Column Layout: [Left Sidebar] [Center Content] */
+    grid-template-columns: 240px 1fr !important;
+    grid-template-areas: "sidebar-left center" !important;
+    align-items: start !important;
+  }
+
+  /* Move Right Sidebar out of the grid or flow it below */
+  .sidebar.right {
+    display: none !important; /* Hides table of contents on narrow screens to protect content width */
+  }
+}
+
+/* 3. Mobile View - Under 768px */
+@media (max-width: 767px) {
+  #quartz-body,
+  .page > #quartz-body {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+  }
+
+  .center {
+    width: 100% !important;
   }
 }
 

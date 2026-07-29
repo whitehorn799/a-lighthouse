@@ -69,13 +69,53 @@ div[data-frontmatter] {
 ██  ██ ██▄▄▄ ██▀██ ████▀ ██▄▄▄ ██ ██ ▄▄██▀ 
 */
 
-  h1, h2, h3, h4, h5, h6 {
-    font-family: var(--c-font-header) !important;
-    color: rgba(var(--c-header-color), 1) !important;
-    text-transform: uppercase !important;
-  }
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--c-font-header) !important;
+  color: rgba(var(--c-header-color), 1) !important;
+  text-transform: uppercase !important;
+}
 
-  .article-title {
-    font-size: calc(var(--c-font-size-h1) * 1.5) !important;
-  }
+.article-title {
+  font-size: calc(var(--c-font-size-h1) * 1.5) !important;
+}
 
+hr {
+  border: none !important;
+  height: 1px !important;
+  background: linear-gradient(90deg, transparent, var(--c-hr-color), transparent) !important;
+  margin: 2rem 0 !important;
+}  
+                                                 
+▄█████  ▄▄▄  ▄▄    ▄▄     ▄▄▄  ▄▄ ▄▄ ▄▄▄▄▄▄ ▄▄▄▄ 
+██     ██▀██ ██    ██    ██▀██ ██ ██   ██  ███▄▄ 
+▀█████ ██▀██ ██▄▄▄ ██▄▄▄ ▀███▀ ▀███▀   ██  ▄▄██▀ 
+                                                 
+/* ==========================================
+   GLOBAL CALLOUT PARAGRAPH SPACING FIX
+   ========================================== */
+
+/* 1. Remove injected pseudo-elements on all paragraphs inside callouts */
+blockquote.callout p::after,
+blockquote.callout p::before,
+.callout p::after,
+.callout p::before {
+  content: none !important;
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* 2. Collapse trailing bottom margins on the last paragraph inside any callout */
+blockquote.callout p:last-child,
+.callout-content p:last-child {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* 3. Hide any empty paragraphs created by double line breaks */
+blockquote.callout p:empty,
+.callout-content p:empty {
+  display: none !important;
+}

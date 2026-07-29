@@ -1,24 +1,24 @@
 ---
 title: Program Overview
-tags:
-publish: true
-permalink: overview.html
-status: done
-type: information
-alias:
-tool:
-last-updated: May 20, 2026 12:43
-first-created: May 16, 2026 17:29
-cssclasses:
+description: "See what we are about"
+draft: false
+unlisted: false
+tags: 
+aliases: 
+date: July 28, 2026 22:39
+lastmod: July 29, 2026 08:55
+enableToc:  true
+cssclasses: 
 ---
 
+>[!breadthread]
+> [[Index|Home]] >
 
 # The Program
-<div class="bookend"></div>
 
-## Core Philosophy
-<br>
-<div class="color-point cp1 tac"><strong><u>FIRST</u></strong> <br>LOVE AS THE ULTIMATE ENVIRONMENT</div>
+
+We have a core philosophy that revolves around support, knowledge, and empowerment.
+## Love as the Ultimate Environment
 
 This program operates under a single, all-encompassing premise: **Love is not a passive emotion; it is the ultimate, all-accepting environment.**
 

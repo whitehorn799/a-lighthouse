@@ -9,9 +9,14 @@ configuration:
   locale: en-US
   baseUrl: a-lighthouse.org
   ignorePatterns:
-    - private
-    - templates
+    - z-arc
+    - z-backend 
     - .obsidian
+    - tag-index
+    - "tag index"
+    - "tag-index/**"
+    - tags
+    - "tags/**"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

@@ -68,7 +68,7 @@ Early captains could not sail a massive boat, such as a galley, by themselves. I
 **Crew Member: The Cook**
 The cook symbolizes the energy needed to get through a day. Kitchen utensils, such as forks and spoons, symbolize the tools we use to get energy.
 
-In the Captain's Manual, the cook is the student's study habit, and the utensils are the techniques that assist learning, such as the [[Word Surgery]] or [[Lexicon Ledger]]. When a student sees material that needs to be studied, a natural feeling of resistance occurs, and they don't want to work. Instead, try to think of it like eating. Tables and charts are used for education, just like utensils are used for getting food. We all need education just as much as we need food.
+In the Captain's Manual, the cook is the student's study habit, and the utensils are the techniques that assist learning, such as the [[z-arc/Captain's Manual/Utensils/Word Surgery]] or [[Lexicon Ledger]]. When a student sees material that needs to be studied, a natural feeling of resistance occurs, and they don't want to work. Instead, try to think of it like eating. Tables and charts are used for education, just like utensils are used for getting food. We all need education just as much as we need food.
 
 **Crew Member: The Shantyman**
 A sea shanty is a song sailors sing to keep productive during the work day. They needed to do a lot of hard work, and the rhythm of the song helped them all work together.

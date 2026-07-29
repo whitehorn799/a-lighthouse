@@ -104,60 +104,79 @@
     --c-links-intvisited:               rgba(var(--sky), 1.0); 
     --c-links-unresolved:               rgba(var(--wenge), 1.0);
 
+    --c-hr-color:                       rgba(var(--raisin-black), 0.3);
+
+
+/*
+██████ ▄▄▄▄▄  ▄▄▄ ▄▄▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄  ▄▄▄▄▄  ▄▄▄▄ 
+██▄▄   ██▄▄  ██▀██  ██   ██ ██ ██▄█▄ ██▄▄  ███▄▄ 
+██     ██▄▄▄ ██▀██  ██   ▀███▀ ██ ██ ██▄▄▄ ▄▄██▀ 
+*/
 
   /*
-  ██████ ▄▄▄▄▄  ▄▄▄ ▄▄▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄  ▄▄▄▄▄  ▄▄▄▄ 
-  ██▄▄   ██▄▄  ██▀██  ██   ██ ██ ██▄█▄ ██▄▄  ███▄▄ 
-  ██     ██▄▄▄ ██▀██  ██   ▀███▀ ██ ██ ██▄▄▄ ▄▄██▀ 
+  ▄████▄ ▄▄  ▄▄ ▄▄  ▄▄  ▄▄▄  ▄▄ ▄▄ ▄▄  ▄▄  ▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄▄ 
+  ██▄▄██ ███▄██ ███▄██ ██▀██ ██ ██ ███▄██ ██▀██  ██   ██▄▄  
+  ██  ██ ██ ▀██ ██ ▀██ ▀███▀ ▀███▀ ██ ▀██ ▀███▀  ██   ██▄▄▄ 
+  */
+  --c-announote-border-color:             rgba(var(--red-ochre), 1);
+  --c-announote-bg:                       rgba(var(--bloom), 0.03);
+
+  --c-announote-width:                    25%;
+
+  --c-announote-color:                    var(--c-body-color);
+  --c-announote-font-family:              var(--c-font-family);
+  --c-announote-font-size:                calc(var(--c-font-size)* 1.1);
+  --c-announote-font-weight:              var(--c-font-weight); 
+
+  --c-announote-shh-color:                rgba(var(--dusk-blue), 0.4);
+  /*
+  ▄▄▄▄  ▄▄▄▄  ▄▄▄▄▄  ▄▄▄  ▄▄▄▄ ▄▄▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄  ▄▄▄▄▄  ▄▄▄  ▄▄▄▄  
+  ██▄██ ██▄█▄ ██▄▄  ██▀██ ██▀██  ██   ██▄██ ██▄█▄ ██▄▄  ██▀██ ██▀██ 
+  ██▄█▀ ██ ██ ██▄▄▄ ██▀██ ████▀  ██   ██ ██ ██ ██ ██▄▄▄ ██▀██ ████▀ 
+  */
+  --c-breadthread-border-color:             rgba(var(--mint-cream), 1.0);
+  --c-breadthread-border-color-bot:         var(--c-hr-color);
+
+  --c-breadthread-bg:                       transparent;
+
+  --c-breadthread-width:                    100%;
+
+  --c-breadthread-color:                    var(--c-body-color);
+  --c-breadthread-font-family:              var(--c-font-family);
+  --c-breadthread-font-size:                calc(var(--c-font-size)* 0.85);
+  --c-breadthread-font-weight:              var(--c-font-weight); 
+
+  /*
+  ▄█████  ▄▄▄  ▄▄▄▄ ▄▄▄▄▄▄ ▄▄  ▄▄▄  ▄▄  ▄▄  ▄▄▄ ▄▄▄▄▄▄ ▄▄▄  ▄▄▄▄  
+  ██     ██▀██ ██▄█▀  ██   ██ ██▀██ ███▄██ ██▀██  ██  ██▀██ ██▄█▄ 
+  ▀█████ ██▀██ ██     ██   ██ ▀███▀ ██ ▀██ ██▀██  ██  ▀███▀ ██ ██ 
   */
 
-    /*
-    ▄████▄ ▄▄  ▄▄ ▄▄  ▄▄  ▄▄▄  ▄▄ ▄▄ ▄▄  ▄▄  ▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄▄ 
-    ██▄▄██ ███▄██ ███▄██ ██▀██ ██ ██ ███▄██ ██▀██  ██   ██▄▄  
-    ██  ██ ██ ▀██ ██ ▀██ ▀███▀ ▀███▀ ██ ▀██ ▀███▀  ██   ██▄▄▄ 
-    */
-      --c-announote-border-color:             rgba(var(--red-ochre), 0.1);
-      --c-announote-bg:                       rgba(var(--bloom), 0.03);
+  --c-captionator-bgcolor:                rgba(var(--smoke-white), 0.1);    
+  --c-captionator-font-size:              calc(var(--c-font-body) - 0.1em);
+  --c-captionator-font-color:             rgba(var(--raisin-black), 0.85);
 
-      --c-announote-width:                    25%;
+  --c-captionator-credit-font-size:       0.7rem;
+  --c-captionator-credit-font-color:      rgba(var(--raisin-black), 0.5);
 
-      --c-announote-color:                    var(--c-body-color);
-      --c-announote-font-family:              var(--c-font-family);
-      --c-announote-font-size:                calc(var(--c-font-size)* 1.1);
-      --c-announote-font-weight:              var(--c-font-weight); 
+  --c-captionator-border-pkg:             1px solid rgba(var(--dusk-blue), 0.8); 
+  /*
+  ▄█████ ▄▄▄▄▄  ▄▄▄  ▄▄▄▄   ▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄   ▄▄▄  ▄▄▄▄  
+  ▀▀▀▄▄▄ ██▄▄  ██▀██ ██▄█▄ ██▀▀▀ ██▄██ ██▄██ ██▀██ ██▄█▄ 
+  █████▀ ██▄▄▄ ██▀██ ██ ██ ▀████ ██ ██ ██▄█▀ ██▀██ ██ ██ 
+  */
+  --c-searchbar-bg-color:                 rgba(var(--white), 0.1);
+  --c-searchbar-bg-color-hover:           rgba(var(--white), 0.2);
+  --c-searchbar-bg-color-hover-border:    rgba(var(--white), 0.4);
 
-      --c-announote-shh-color:                rgba(var(--dusk-blue), 0.4);
-    /*
-    ▄█████  ▄▄▄  ▄▄▄▄ ▄▄▄▄▄▄ ▄▄  ▄▄▄  ▄▄  ▄▄  ▄▄▄ ▄▄▄▄▄▄ ▄▄▄  ▄▄▄▄  
-    ██     ██▀██ ██▄█▀  ██   ██ ██▀██ ███▄██ ██▀██  ██  ██▀██ ██▄█▄ 
-    ▀█████ ██▀██ ██     ██   ██ ▀███▀ ██ ▀██ ██▀██  ██  ▀███▀ ██ ██ 
-    */
-
-      --c-captionator-bgcolor:                rgba(var(--smoke-white), 0.1);    
-      --c-captionator-font-size:              calc(var(--c-font-body) - 0.1em);
-      --c-captionator-font-color:             rgba(var(--raisin-black), 0.85);
-
-      --c-captionator-credit-font-size:       0.7rem;
-      --c-captionator-credit-font-color:      rgba(var(--raisin-black), 0.5);
-
-      --c-captionator-border-pkg:             1px solid rgba(var(--dusk-blue), 0.8); 
-    /*
-    ▄█████ ▄▄▄▄▄  ▄▄▄  ▄▄▄▄   ▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄   ▄▄▄  ▄▄▄▄  
-    ▀▀▀▄▄▄ ██▄▄  ██▀██ ██▄█▄ ██▀▀▀ ██▄██ ██▄██ ██▀██ ██▄█▄ 
-    █████▀ ██▄▄▄ ██▀██ ██ ██ ▀████ ██ ██ ██▄█▀ ██▀██ ██ ██ 
-    */
-      --c-searchbar-bg-color:                 rgba(var(--white), 0.1);
-      --c-searchbar-bg-color-hover:           rgba(var(--white), 0.2);
-      --c-searchbar-bg-color-hover-border:    rgba(var(--white), 0.4);
-
-      --c-searchbar-container-bg:             rgba(var(--dusk-blue), 1);
+  --c-searchbar-container-bg:             rgba(var(--dusk-blue), 1);
 
 
-      --c-csearchbar-fill:                    rgba(var(--white), 0.0);
-      --c-csearchbar-stroke:                  rgba(var(--white), 1);
-      --c-csearchbar-color:                   rgba(var(--white), 1);
+  --c-csearchbar-fill:                    rgba(var(--white), 0.0);
+  --c-csearchbar-stroke:                  rgba(var(--white), 1);
+  --c-csearchbar-color:                   rgba(var(--white), 1);
 
 
 
-      
+  
 }

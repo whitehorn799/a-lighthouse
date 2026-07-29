@@ -8,6 +8,9 @@ If copying files back and forth gets repetitive as you make edits:
 You can open Obsidian, click **"Open folder as vault"** at the bottom left, and choose your quartz/content/ folder directly.
 
 # Build Server
+Must be done inside Quartz project directory:
+C:\Git-hub\a-lighthouse
+
 ```
 npx quartz build --serve
 ```

@@ -1,0 +1,38 @@
+/*
+▄▄▄▄  ▄▄▄▄  ▄▄▄▄▄  ▄▄▄  ▄▄▄▄ ▄▄▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄  ▄▄▄▄▄  ▄▄▄  ▄▄▄▄  
+██▄██ ██▄█▄ ██▄▄  ██▀██ ██▀██  ██   ██▄██ ██▄█▄ ██▄▄  ██▀██ ██▀██ 
+██▄█▀ ██ ██ ██▄▄▄ ██▀██ ████▀  ██   ██ ██ ██ ██ ██▄▄▄ ██▀██ ████▀ 
+*/
+/* USAGE:
+> [!breadthread]
+> 
+*/
+
+.callout[data-callout="breadthread"] {
+    background-color: var(--c-breadthread-bg) !important;
+
+    border: 0px solid var(--c-breadthread-border-color) !important;
+    border-top: 3px solid var(--c-breadthread-border-color) !important;
+    border-bottom: 1px solid var(--c-breadthread-border-color) !important;
+
+    border-radius: 0px !important;
+
+
+    width: var(--c-breadthread-width) !important;
+    max-width: 100% !important; /* Safety constraint for mobile screens */
+    margin: 0 0.2rem 0 !important;
+    padding: 0.2rem 0 0.5rem 0 !important;
+    .callout-content p {
+        font-family: var(--c-breadthread-font-family) !important;
+        font-size: var(--c-breadthread-font-size) !important;
+        font-style: italic !important;
+        font-weight: var(--c-breadthread-font-weight) !important;
+        color: var(--c-breadthread-color) !important;
+        margin: 0.1rem 0 0 0 !important;
+        padding: 0 !important;
+    }
+    .callout-icon,
+    .callout-title {
+    display: none !important;
+    }
+}
