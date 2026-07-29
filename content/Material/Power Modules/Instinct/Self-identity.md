@@ -1,19 +1,19 @@
 ---
 title: Self-identity
-description: "xxx"
+description: ""
 draft: false
 unlisted: false
 tags: 
 aliases: 
-date: July 27, 2026 17:35
-lastmod: July 27, 2026 22:17
+date: July 29, 2026 14:13
+lastmod: July 29, 2026 14:14
 enableToc:  true
 cssclasses: 
 ---
 
 >[!breadthread]
-> [[Love]] > [[Instinct]] > [[Self-aware]] > Self-identity
-> %% [[❤️]] > [[🐊]] > [[💡]] > [[🎁]] %% ^baaf6d
+> [[Home]] > Power Modules > [[Love]] > [[Instinct]] > [[Self-aware]] > Self-identity
+> %% [[❤️]] > [[🐊]] > [[💡]] > [[🎁]] %% ^baa
 
 # Self-identity
 

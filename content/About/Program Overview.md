@@ -14,83 +14,66 @@ cssclasses:
 >[!breadthread]
 > [[Index|Home]] >
 
-# The Program
+# The Philosophy
 
 
-We have a core philosophy that revolves around support, knowledge, and empowerment.
+We have a core philosophy that revolves around support, knowledge, and empowerment. The following points embody this philosophy.
 ## Love as the Ultimate Environment
 
 This program operates under a single, all-encompassing premise: **Love is not a passive emotion; it is the ultimate, all-accepting environment.**
 
 Love is the space in which both the light and the dark parts of human experience are allowed to exist without judgment. Every experience is a human experience. We do not look to escape the darkness or bypass hardships; we face the darkness in the shade of the light. That means we use our personal power to stand strong, not run away, suppress, or hide. Because love accepts all, every failure is a step forward. 
 
-<br>
-<div class="color-point cp1 tac"><strong><u>SECOND</u></strong> <br>PERSONAL POWER</div>
+## Personal Power
 
 You already have your own personal power, but the modern world has intentionally or accidentally severed our access to it. Whatever the reason, we have forgotten it. The knowledge on how to reclaim it is left unspoken, and we are left without a light to feel our way through life's challenges. 
 
 This program identifies over 100 abilities that we collectively call "personal power". It consists of your many awarenesses, strengths, stability, agency, and more. These are already a part of you, but they are like muscles that need to be trained. It might take a lifetime to find your personal power by looking everywhere it isn't. Instead, we teach you how to look inside yourself.
 
-<br>
-<div class="color-point cp1 tac"><strong><u>THIRD</u></strong> <br>SOVEREIGNTY OF GOOD</div>
-
-Since love is the acceptance of all, the program strives for a preference toward good as opposed to evil. We refer to this preference as the "**sovereignty of good**".
-
-Love cherishes both good and evil, but the drive of love is to accept, support, and prioritize, while evil is to reject, isolate, or victimize. Progress and growth are the preferred path to idleness, but growth isn't exclusive to positivity. We can grow negatively, too. 
+## Sovereignty of Good
+Since love is the acceptance of all, the program strives for a preference toward good as opposed to evil. We refer to this preference as the "[[Sovereignty of Good]]".
 
 While each person chooses their own preference, the program prefers a positive growth that is the least destructive and the most considerate of all choices. Further, it is our own belief that we are all one in togetherness, and striving for love means accepting one's own preferences while coexisting respectfully with everyone else's.
 
-<br>
-<div class="color-point cp1 tac"><strong><u>FOURTH</u></strong> <br>TEXT IS DEAD</div>
+## Strength from Speech
+Speaking the truth will set you free. It's a stronger person who speaks their life than who types or writes it because true understanding comes from inner knowledge. 
 
-Books and videos can give you information, but they cannot give you discernment. They cannot work through your personal issues. They are static because they say the same thing whether you understand them or not. True alignment with your inherent power requires a living dialectic, which is a dialogue where you are actively listened to, cross-examined without judgment. You are encouraged to make your own truths, while the traits of this program serve as a supportive framework.
+Books and videos cannot work through your personal issues because they say the same thing, whether you understand them or not. True alignment with your inherent power requires a dialogue where you are both listened to and cross-examined without judgment. You are encouraged to make your own truths, while the traits of this program serve as a supportive framework.
 
-A dialectic is represented in the following cycle:
-- Thesis: the initial idea
-- Antithesis: an opposing argument
-- Synthesis: a new, evolved understanding
+<hr>
 
-Socrates, a great inspiration to this program, practiced dialectic without passing judgments. He believed that text only appears to make people wise, text is a replacement for memory, and text provides only a shallow understanding. Using text places knowledge outside the self, while true power of it inhabits the mind.
-
-He argued that asking a book questions provides no clarifying answers because the words only repeat themselves. He preferred discussion over text since clarification of meaning was more accessible and each session was personal. 
-
-Even Marcus Aurelius, the famous Stoic and Roman emperor, agreed with this philosophy, but he was surrounded by flatterers. He wrote journals and played a dialectic between himself, like playing a solo chess match where each side strove to win. Whatever dialectic is chosen, the goal is to test the participant's understanding.
-
-
-<div class="bookend"></div>
-
-## Methodology
+# The Methodology
 The program is structured to respect your energy and time. We move away from lectures and focus on active, practical, and, ultimately, interactive sessions. 
 
-<br>
-<div class="color-point cp1 tac"><strong><u>ONE</u></strong><BR> Modular, High-Density Lessons</div>
+## Modular 
+Each of the abilities in your personal powers is examined in practical supplemental material provided for free on this website. Look in the Site Explorer under "Power Modules".
 
-Each of the abilities in your personal powers is examined in practical lessons. Each module focuses on one aspect at a time to maintain focus and reduces being overwhelmed. You are given solid ground to stand on before moving forward.
+Each Power Module focuses on one aspect at a time to maintain focus and reduce feeling overwhelmed. You are given solid ground to stand on before moving forward.
 
-<br>
-<div class="color-point cp1 tac"><strong><u>TWO</u></strong><BR> Techniques </div>
+## Questioning
+This helps you to uncover specific, internal blockages or blind spots by forming a dialogue, wherein two people examine an issue without judgment. We use the [[Socratic Method]] and [[Socratic Dialectic|Dialectic]].
 
-We do not lecture. We provide insight through practical lessons.
+## Thought Experiments
+We strip away your mental loops to see your private reality as compared to reality itself. By using imagined situations, we practice the thought patterns that steer you straight. We also notice the patterns that leave you stuck.
+## Focus Points
+We use [[Learning Points]] & [[Misery Points]] to identify friction, suffering, or repetitive patterns. They become noticeable details that can result in misery or growth.
 
-- **Socratic questioning:** This helps you to uncover specific, internal blockages or blind spots by forming a dialectic, wherein two people examine an issue without judgment.
-- **Thought Experiments:** We strip away your mental loops to see your private reality as compared to reality itself.
-- **[[Learning Points]] & [[Misery Points]]:** We identify the exact moments where friction, suffering, or repetitive patterns occur in your life. We transform them into observable, conscious detail. We learn how neglecting to address hardships can lead to miseries. 
-- **Demonstrations:** To illustrate the lessons behind your personal power, we will demonstrate the meaning through short stories, symbolism, and poignant observations. These reveal hidden insights and glaring mistakes.
-- **Mnemonic Devices:** We use clever sayings to help you recall the lessons, similar to PEMDAS (from math class), the alphabet song, and the months of the year song. These act like automatic memory refreshers at a moment's notice because they are simple, sometimes silly, phrases.
+## Demonstrations
+To illustrate the ideas behind your personal power, we demonstrate the meaning through short stories, symbolism, and poignant analogies. These reveal hidden insights and glaring mistakes.
 
-<br>
-<div class="color-point cp1 tac"><strong><u>THREE</u></strong><BR> Support Levels</div>
+## Mnemonic Devices
+We use clever sayings to help you recall the lessons, similar to PEMDAS (from math class), the alphabet song, and the months of the year song. Mnemonics act like automatic memory refreshers at a moment's notice because they are simple and sometimes silly.
 
-We provide self-guided materials through YouTube and supplemental materials. Everyone is free to move through those at their own volition. 
-- **Level 1, Supporter:** Free access to the YouTube videos. These are fast, packed, and generalized navigation points that can apply to anyone. They help to identify patterns.
-- **Level 2, Member:** The YouTube channel membership provides longer, deeper insights into specific abilities in your personal power, exploratory questions, and prompts for personal reflection.
-- **Level 3, Correspondent:** This is for those who want regular, scheduled one-on-one guidance sessions. I don't see myself as your guru, therapist, or teacher, and you are not my student, pupil, or follower. I do not preach, lecture, or judge you. We are co-examiners of your current situation, and I just facilitate the session. I listen, ask the questions to help you untangle your blockages, confront your shadows with you, and guide you to peace so that you can unlock your power. You decide when to stop.
+## Support Levels
+We provide self-guided materials through [YouTube](https://www.youtube.com/@A-Lighthouse) and supplemental materials. Everyone is free to move through those at their own volition. 
+- **Level 1, Supporter:** Free access to the YouTube videos and the Power Modules. These are fast, packed, and generalized navigation points that can apply to anyone. Our video offerings are being built.
+- **Level 2, Member:** The YouTube channel membership provides longer, deeper insights into specific abilities in your personal power, exploratory questions, and prompts for personal reflection. 
+- **Level 3, [[Correspondent]]:** This is for those who want regular, scheduled one-on-one guidance sessions with me.
+	- [[Contact]] me to become a Correspondent.
 
-Regarding Socrates's idea of dialectic debate, the YouTube videos and materials may not be enough to enlighten a person to their personal power. He believed text makes the human memory lazy, hence our usage of mnemonics. Discussion is a genuine test of memory so that the understanding of the principles serves the participant better, not the texts. 
+Regarding Socrates's idea of the dialectic, our YouTube videos and Power Modules may not be enough to enlighten a person to their personal power. 
 
-This is why the one-on-one discussion in support level 3 is the ideal form of self discovery. Static media has its limitations. For example, a person might understand an ability of their power, but somehow they may not be able to access it. 
-
-<div class="sectend"></div>
+This is why the one-on-one discussion in support level 3 is the ideal form of empowerment because media doesn't synthesize for you. For example, a person might understand an ability of their power, but somehow they may not know how to use it. 
 
 <hr>
 
@@ -116,11 +99,4 @@ A: The symbolism in the program delivers powerful messages appropriate to your p
 **Q: What if I need help?**
 A: You can ask for help through the personal consultation portion of the program. Finding your support group (your friends, your loved ones, professional help, and whoever else you trust) can help you stand on your own two feet. One day, by working through your particular hardships, you will be strong enough to stand on your own. 
 
-<div class="sectend"></div>
 
-<hr>
-
-
-
-%%footer_start%%
-<span class="log-sign-off">2026-07-06 13:46</span>
