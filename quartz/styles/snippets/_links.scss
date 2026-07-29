@@ -24,9 +24,7 @@ a.external {
   background-color: transparent !important;
 
   &::after {
-    content: " ↗";
-    font-size: 0.8em;
-    opacity: 0.7;
+    display: none !important;
   }
 
   &:hover {

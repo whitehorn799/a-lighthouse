@@ -1,16 +1,17 @@
 ---
-title: Correspondnet Interview
-tags:
-publish: true
-permalink: interview
-status:
-type: information
-alias:
-tool:
-last-updated: May 23, 2026 15:51
-first-created: May 23, 2026 15:51
-cssclasses:
+title: Interview
+description: ""
+draft: false
+unlisted: false
+tags: 
+aliases: 
+date: July 29, 2026 14:47
+lastmod: July 29, 2026 16:03
+enableToc:  true
+cssclasses: 
 ---
+>[!breadthread]
+> [[Index|Home]] > [[Correspondent]] >
 
 This is the process through which we can find out what we should work on first. No matter what it is, we have to focus on one issue at a time. We cannot be distracted away from it until it is understood and a goal is planned.
 

@@ -161,6 +161,23 @@
 
   --c-captionator-border-pkg:             1px solid rgba(var(--dusk-blue), 0.8); 
   /*
+▄█████▄ ▄▄ ▄▄  ▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄▄  ▄▄▄  ▄▄ ▄▄ ▄▄▄▄▄▄ 
+██ ▄ ██ ██ ██ ██▀██  ██   ██▄▄  ██▀██ ██ ██   ██   
+▀█████▀ ▀███▀ ▀███▀  ██   ██▄▄▄ ▀███▀ ▀███▀   ██   
+     ▀▀
+*/
+  --c-quoteout-border-color:             rgba(var(--mint-cream), 1.0);
+  --c-quoteout-border-color-bot:         var(--c-hr-color);
+
+  --c-quoteout-bg:                       rgba(var(--mint-cream), 0.1);
+
+  --c-quoteout-width:                    100%;
+
+  --c-quoteout-color:                    var(--c-body-color);
+  --c-quoteout-font-family:              var(--c-font-family);
+  --c-quoteout-font-size:                calc(var(--c-font-size)* 1.1);
+  --c-quoteout-font-weight:              var(--c-font-weight); 
+/*
   ▄█████ ▄▄▄▄▄  ▄▄▄  ▄▄▄▄   ▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄   ▄▄▄  ▄▄▄▄  
   ▀▀▀▄▄▄ ██▄▄  ██▀██ ██▄█▄ ██▀▀▀ ██▄██ ██▄██ ██▀██ ██▄█▄ 
   █████▀ ██▄▄▄ ██▀██ ██ ██ ▀████ ██ ██ ██▄█▀ ██▀██ ██ ██ 

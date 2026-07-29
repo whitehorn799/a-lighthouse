@@ -1,38 +1,43 @@
 ---
 title: Orientation
+description: ""
+draft: false
+unlisted: false
 tags:
-publish: true
-permalink: orientation
-status: done
-type: information
-alias:
-tool:
-last-updated: July 06, 2026 18:27
-first-created: May 13, 2026 14:54
+aliases:
+date: July 29, 2026 14:47
+lastmod: July 29, 2026 18:30
+enableToc: true
 cssclasses:
 ---
 
-# AGENDA
-1. Start from Nothing
-2. Prepare Yourself
-3. Agreements
+>[!breadthread]
+> [[Index|Home]] > Program >
 
-<div class="sectend"></div>
+>[!announote|tac]
+>This orientation is for anyone. If you want to get the full experience, you begin the journey here.
 
 <hr>
 
 # Start from Nothing
-Adopting lessons from wisdom is an effective way to adapt into one's own intuition. This program takes great inspiration from many philosophers, but the overarching theme comes from the father of Western Philosophy, Socrates.
 
-From his famous words, "I know that I know nothing," we begin your journey. This "intellectual humility" is not a literal admission of total ignorance. We understand some things fairly well, but we do so only with the information we can sense. Humans don't see the whole truth at once, only pieces at a time. 
+<div class="quoteout-wrapper">
+  <div class="quoteout">
+    <h1>
+     I <span style="color:#C94427">know</span> that I know <span style="color:#C94427">nothing.</span>
+     </h1>
+    <h4>&mdash;Socrates<br></h4>
+  </div>
+</div>
 
-The first step is to admit how little we can be absolutely certain of. When you do this, it softens your ego and allows it to admit mistakes with dignity intact. While it may be difficult to accept, in this program, you start from zero. Accept the following points:
+Wisdom begins here. This "intellectual humility" doesn't mean total ignorance. Understand that ignorance is the absence of knowledge. Since we don't know everything, we're all ignorant. 
+
 - You know nothing.
 - You control nothing.
 - You are nothing.
 - Life means nothing.
 
-"You know nothing." This is one of Socrates's biggest conclusions. No one knows anything for sure. Just like Mario can't know everything about Mario World because he's part of the experiment of the video game life, we can't know everything about our life in the real world. We might think we know in order to survive something, and that's one necessary thing, but we don't actually know anything for certain. If we leave room for doubt, our mind remains open, not closed. We take no conclusions—except we don't know—so that we don't become attached to our ideas. We can let them go and adopt new ones relatively easily.
+Admit to yourself how little we can be absolutely certain of. Ignore your ego when it argues this point. You are capable of making mistakes with your dignity intact. We start at zero.
 
 
 > [!info|scimitar sheath]
@@ -44,7 +49,7 @@ In doing this, you may feel like you have stepped backward. Is that a good thing
 - You are everything. 
 - Life means what you say.
 
-<div class="sectend"></div>
+
 
 <hr>
 

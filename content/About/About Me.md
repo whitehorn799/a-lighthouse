@@ -19,11 +19,13 @@ cssclasses:
 >I am not a professional psychologist nor a trained counselor. 
 
 # Who I Am
-I am a nearly fifty-year-old man, an introvert, a keen observer, a pattern recognizer, a deep listener, and a fellow navigator of this noisy and sometimes lonesome world. I am from the USA and have lived in Asia since 2012. 
+I am a nearly fifty-year-old man, an introvert, a keen observer, a pattern recognizer, a deep listener, an English teacher, a graphic designer, and a fellow navigator of this noisy and sometimes lonesome world. I am from the USA and have lived in Asia since 2012. 
+
+*Docendo discumus*; by teaching, we learn.
 
 
 # Why Am I Doing This
-For a long time, I watched the institutions around us fail to prepare people for the actual weight of living. I even participated in the education system as a teacher, and I suggested changes as a starry-eyed idealist to administrations that weren't interested. I watched people—intelligent, capable people—exhaust themselves swimming against a relentless current of stress. They follow people who seem fake, deeply flawed, or out for clout and money. However, they only end up more exhausted than when they started.
+For a long time, I have watched the institutions around us fail to prepare people for the actual weight of living in a society. I even participated in the education system as a teacher, and, as a starry-eyed idealist, I suggested changes to administrations that weren't interested. I watched intelligent, capable people exhaust themselves against relentless stress. They follow people who seem fake, deeply flawed, or out for clout and money. Yet despite their efforts, they end up more exhausted than when they started.
 
 I built this program because I had found a way that helped me find my own strength. I learned how to let go, to follow through, and to learn how to stop fighting for control. In doing that, I realized that personal power isn't something you find outside of yourself. 
 
@@ -40,4 +42,4 @@ We figure things out together.
 # Who I Am Not
 I'm not a person who is clamoring for attention or followers. I have never been a fan of the traditional "expert" model because I tend to leave room for doubt, even for the experts. I believe in science because it's the best way we can understand our world. I also believe in the spirituality of humanity. 
 
-I am not a guru, a clinician, or someone who claims to have solved the entire world’s problems. People have different backgrounds and circumstances. 
+I am not a guru, a clinician, or someone who claims to have solved the entire world’s problems. People have different backgrounds and circumstances. I don't see myself as your therapist, teacher, or superior, and you are not my student, client, or follower. I do not preach, lecture, or judge you. One of the things that I've learned is to see myself in people. When I do that, they become me, and I become them.
