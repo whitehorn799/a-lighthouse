@@ -1,0 +1,84 @@
+/*
+██     ▄▄ ▄▄  ▄▄ ▄▄ ▄▄ ▄▄▄▄▄ ▄▄▄▄  ▄▄▄▄▄ ▄▄   ▄▄ ▄▄▄▄  ▄▄▄▄▄ ▄▄▄▄  
+██     ██ ███▄██ ██▄█▀ ██▄▄  ██▀██ ██▄▄  ██▀▄▀██ ██▄██ ██▄▄  ██▀██ 
+██████ ██ ██ ▀██ ██ ██ ██▄▄▄ ████▀ ██▄▄▄ ██   ██ ██▄█▀ ██▄▄▄ ████▀ 
+*/
+/* 
+   USAGE: Linked Stealth Embed (Left Accent Border, Capped Height, Link Visible)
+   > [!linkedembed]
+   > ![[Note#^block-id]]
+*/
+
+blockquote.callout[data-callout="linkedembed"] {
+  // Container & Left Accent Border Setup
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-height: fit-content !important;
+  max-height: fit-content !important; 
+  height: auto !important;
+  
+  margin: 1rem 0 !important;
+  padding: 0 0 0 0.85rem !important; // Breathing room after accent line
+  overflow: hidden !important; // Clips content overflowing max-height cleanly
+  
+  background: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+  border-left: 3px solid var(--c-links-intcolor) !important;
+  border-radius: 0 !important;
+
+  // 1. Hide Callout Header & Icon
+  > .callout-title {
+    display: none !important;
+  }
+
+  // 2. Transclude Inner Resets
+  blockquote.transclude,
+  .transclude-inner,
+  .callout-content {
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: hidden !important;
+    border: none !important;
+    border-left: none !important;
+    background: transparent !important;
+  }
+
+  // 3. FORCE-SHOW SOURCE LINK (Overrides global transclude link hide)
+  blockquote.transclude a.transclude-src,
+  blockquote.transclude a.internal.internal-link.transclude-src,
+  blockquote.transclude .transclude-src {
+    display: inline-flex !important;
+    visibility: visible !important;
+    pointer-events: auto !important;
+    margin-top: 0.5rem !important;
+    font-size: 0.85rem !important;
+    opacity: 0.8;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+  // 4. Typography & Paragraph Flow Normalization
+  p {
+    margin-block-start: 0 !important;
+    margin-block-end: var(--c-p-spacing, 1rem) !important;
+    padding: 0 !important;
+    color: var(--c-cleanembed-color, inherit);
+    font-size: var(--c-cleanembed-font-size, 1rem);
+    font-family: var(--c-cleanembed-font-family, inherit);
+    line-height: var(--line-height-normal, 1.5);
+
+    &:last-of-type {
+      margin-bottom: 0 !important;
+      margin-block-end: 0 !important;
+    }
+
+    &:empty,
+    &:has(> br:only-child):not(:only-child) {
+      display: none !important;
+    }
+  }
+}

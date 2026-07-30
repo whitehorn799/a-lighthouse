@@ -1,2 +1,4 @@
+> [!cleanembed]
+> ![[xxx#^xxx]]
 
-![[xxx#^xxx|cleanembed]]
+^xxx

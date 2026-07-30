@@ -106,6 +106,18 @@
 
     --c-hr-color:                       rgba(var(--raisin-black), 0.3);
 
+    /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+    /* PARAGRAPH DICTIONARY */
+    --c-p-margins:                      0.5rem 0 0 0;
+    --c-p-margins-center:               1.0rem auto 0 auto;
+    --c-p-margins-pp:                   1.0rem 0 0 0;
+    --c-p-margins-center-pp:            1.0rem auto 0 auto;
+    --c-p-margin-start:                 0.5rem;
+    --c-p-margin-end:                   1rem;
+    --c-p-margin-start-pp:              1rem;
+    --c-p-margin-end-pp:                1rem;    
+    --c-p-spacing:                      1rem;
+
 
 /*
 ██████ ▄▄▄▄▄  ▄▄▄ ▄▄▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄  ▄▄▄▄▄  ▄▄▄▄ 
@@ -161,22 +173,39 @@
 
   --c-captionator-border-pkg:             1px solid rgba(var(--dusk-blue), 0.8); 
   /*
-▄█████▄ ▄▄ ▄▄  ▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄▄  ▄▄▄  ▄▄ ▄▄ ▄▄▄▄▄▄ 
-██ ▄ ██ ██ ██ ██▀██  ██   ██▄▄  ██▀██ ██ ██   ██   
-▀█████▀ ▀███▀ ▀███▀  ██   ██▄▄▄ ▀███▀ ▀███▀   ██   
-     ▀▀
-*/
-  --c-quoteout-border-color:             rgba(var(--mint-cream), 1.0);
-  --c-quoteout-border-color-bot:         var(--c-hr-color);
+  ▄█████ ▄▄    ▄▄▄▄▄  ▄▄▄  ▄▄  ▄▄ ▄▄▄▄▄ ▄▄   ▄▄ ▄▄▄▄  ▄▄▄▄▄ ▄▄▄▄  
+  ██     ██    ██▄▄  ██▀██ ███▄██ ██▄▄  ██▀▄▀██ ██▄██ ██▄▄  ██▀██ 
+  ▀█████ ██▄▄▄ ██▄▄▄ ██▀██ ██ ▀██ ██▄▄▄ ██   ██ ██▄█▀ ██▄▄▄ ████▀ 
+  */
+    --c-cleanembed-color:                  var(--c-body-color);
+    --c-cleanembed-font-family:            var(--c-font-family);
+    --c-cleanembed-font-size:              var(--c-font-size);
+    --c-cleanembed-font-weight:            var(--c-font-weight); 
 
-  --c-quoteout-bg:                       rgba(var(--mint-cream), 0.1);
+    --c-cleanembed-head-color:             var(--c-body-color);
+    --c-cleanembed-head-font:              var(--c-font-family);
+    --c-cleanembed-head-font-size:         var(--c-font-size);
+    --c-cleanembed-head-font-weight:       calc(var(--c-font-weight) + 200);
+  /*
+  ▄█████▄ ▄▄ ▄▄  ▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄▄  ▄▄▄  ▄▄ ▄▄ ▄▄▄▄▄▄ 
+  ██ ▄ ██ ██ ██ ██▀██  ██   ██▄▄  ██▀██ ██ ██   ██   
+  ▀█████▀ ▀███▀ ▀███▀  ██   ██▄▄▄ ▀███▀ ▀███▀   ██   
+      ▀▀
+  */
+  --c-quoteout-border-color:            rgba(var(--mint-cream), 1.0);
+  --c-quoteout-border-color-bot:        var(--c-hr-color);
 
-  --c-quoteout-width:                    100%;
+  --c-quoteout-h1-color:                rgba(var(--red-ochre), 1.0);
+  --c-quoteout-h4-color:                rgba(var(--white), 1.0);
 
-  --c-quoteout-color:                    var(--c-body-color);
-  --c-quoteout-font-family:              var(--c-font-family);
-  --c-quoteout-font-size:                calc(var(--c-font-size)* 1.1);
-  --c-quoteout-font-weight:              var(--c-font-weight); 
+  --c-quoteout-bg:                      rgba(var(--mint-cream), 0.1);
+
+  --c-quoteout-width:                   100%;
+
+  --c-quoteout-color:                   var(--c-body-color);
+  --c-quoteout-font-family:             var(--c-font-family);
+  --c-quoteout-font-size:               calc(var(--c-font-size)* 1.1);
+  --c-quoteout-font-weight:             var(--c-font-weight); 
 /*
   ▄█████ ▄▄▄▄▄  ▄▄▄  ▄▄▄▄   ▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄   ▄▄▄  ▄▄▄▄  
   ▀▀▀▄▄▄ ██▄▄  ██▀██ ██▄█▄ ██▀▀▀ ██▄██ ██▄██ ██▀██ ██▄█▄ 

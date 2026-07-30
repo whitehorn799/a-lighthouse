@@ -1,0 +1,102 @@
+/*
+▄█████ ▄▄    ▄▄▄▄▄  ▄▄▄  ▄▄  ▄▄ ▄▄▄▄▄ ▄▄   ▄▄ ▄▄▄▄  ▄▄▄▄▄ ▄▄▄▄  
+██     ██    ██▄▄  ██▀██ ███▄██ ██▄▄  ██▀▄▀██ ██▄██ ██▄▄  ██▀██ 
+▀█████ ██▄▄▄ ██▄▄▄ ██▀██ ██ ▀██ ██▄▄▄ ██   ██ ██▄█▀ ██▄▄▄ ████▀ 
+*/
+/* 
+   USAGE 1: Stealth Embed (No Title, No Icon, No Border)
+   > [!cleanembed]
+   > ![[Note#^block-id]]
+
+   USAGE 2: Stealth Embed with Title (Has Title, No Icon, No Border)
+   > [!cleanembed-head] Title Text Here
+   > ![[Note#^block-id]]
+*/
+
+// --- Global Transclude Reset (Hides the Quartz source link globally) ---
+blockquote.transclude a.transclude-src,
+blockquote.transclude a.internal.internal-link.transclude-src,
+blockquote.transclude .transclude-src {
+  display: none !important;
+}
+
+// --- Shared Base Resets for both .cleanembed and .cleanembed-head ---
+blockquote.callout:is([data-callout="cleanembed"], [data-callout="cleanembed-head"]) {
+  // Container Resets (Strips Quartz default callout/blockquote styling)
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  border-left: none !important;
+  background: transparent !important;
+  box-shadow: none !important;
+
+  // Inner Transclude Resets (Strips nested blockquote left borders)
+  blockquote.transclude,
+  .transclude-inner,
+  .callout-content {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    border-left: none !important;
+    background: transparent !important;
+    overflow: visible !important;
+  }
+
+  // Paragraph Flow Normalization
+  p {
+    margin-block-start: 0 !important;
+    margin-block-end: var(--c-p-spacing, 1rem) !important;
+    color: var(--c-cleanembed-color, inherit);
+    font-size: var(--c-cleanembed-font-size, 1rem);
+    font-family: var(--c-cleanembed-font-family, inherit);
+    line-height: var(--line-height-normal, 1.5);
+
+    &:last-of-type {
+      margin-bottom: 0 !important;
+      margin-block-end: 0 !important;
+    }
+
+    &:empty,
+    &:has(> br:only-child):not(:only-child) {
+      display: none !important;
+    }
+  }
+}
+
+// -------------------------------------------------------------------------
+// 1. [!cleanembed] — Pure Stealth (Completely hides title bar)
+// -------------------------------------------------------------------------
+blockquote.callout[data-callout="cleanembed"] {
+  > .callout-title {
+    display: none !important;
+  }
+}
+
+/*
+▄█████ ▄▄    ▄▄▄▄▄  ▄▄▄  ▄▄  ▄▄ ▄▄▄▄▄ ▄▄   ▄▄ ▄▄▄▄  ▄▄▄▄▄ ▄▄▄▄    ██  ██ ▄▄▄▄▄  ▄▄▄  ▄▄▄▄  
+██     ██    ██▄▄  ██▀██ ███▄██ ██▄▄  ██▀▄▀██ ██▄██ ██▄▄  ██▀██   ██████ ██▄▄  ██▀██ ██▀██ 
+▀█████ ██▄▄▄ ██▄▄▄ ██▀██ ██ ▀██ ██▄▄▄ ██   ██ ██▄█▀ ██▄▄▄ ████▀   ██  ██ ██▄▄▄ ██▀██ ████▀ 
+*/
+blockquote.callout[data-callout="cleanembed-head"] {
+  > .callout-title {
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 0 0.4rem 0 !important;
+    border: none !important;
+    background: transparent !important;
+    
+    // Hide default SVG/Icon container
+    .callout-icon {
+      display: none !important;
+    }
+
+    // Header Typography
+    .callout-title-inner {
+      color: var(--c-cleanembed-color, inherit);
+      font-weight: var(--c-cleanembed-head-font-weight, 600);
+      font-size: var(--c-cleanembed-head-font-size, 1.1rem);
+      font-family: var(--c-cleanembed-head-font-family, inherit);
+      text-align: var(--ta-align, left);
+    }
+  }
+}

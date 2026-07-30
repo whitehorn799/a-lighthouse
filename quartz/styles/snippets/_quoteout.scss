@@ -19,38 +19,56 @@ USAGE 2 (Quote + Translation + Citation):
 /* center the quoteout in the page */
 .quoteout-wrapper {
    display: flex;
-   height: 100vh;
+   height: auto;
    padding: 0 20px;
 }
 
 /* quoteout main style */
 .quoteout {
     position: relative;
-    font-family: 'Barlow Condensed', sans-serif;
-    max-width: 620px;
+    font-family: var(--c-font-family), sans-serif;
+    max-width: 80%;
     margin: 80px auto;
     align-self: center;
+      // Add this inside your .quoteout block:
+    h1 {
+        // 1. Hide the anchor icon (and any SVG inside it)
+        a.internal,
+        a.hashtag,
+        .anchor,
+        svg {
+        display: none !important;
+        }
+
+        // 2. Disable link pointer and underline if the title itself is a link
+        a {
+        pointer-events: none;
+        text-decoration: none;
+        color: inherit;
+        }
+    }
 }
 
 /* quoteout header */
 .quoteout h1 {
-    font-family: 'Abril Fatface', cursive;
+    font-family: var(--c-quoteout-font-family);
     position: relative; /* for pseudos */
-    color: #e74848;
-   font-size: clamp(1.4rem, 0.8rem + 2.5vmin, 2.4rem);
+    color: var(--c-quoteout-h1-color);
+    font-size: clamp(1.4rem, var(--c-quoteout-font-size) + 1.5vmin, 2.4rem);
     font-weight: normal;
     line-height: 1;
     margin: 0;
-    border: 2px solid #C94427;
+    border: 2px solid var(--c-quoteout-h1-color);
     border-radius:20px;
-    padding: 25px;
+    padding: 30px;
+    text-align: left;
 }
 
 /* quoteout right double quotes */
 .quoteout h1:after {
     content:"";
     position: absolute;
-    border: 2px solid #e74848;
+    border: 2px solid var(--c-quoteout-h1-color);
     border-radius: 0 100% 0 0;
     width: 60px;
     height: 60px;
@@ -65,7 +83,7 @@ USAGE 2 (Quote + Translation + Citation):
     content:"";
     position: absolute;
     width: 80px;
-    border: 6px solid #fff;
+    border: 6px solid var(--c-quoteout-h4-color);
     bottom: -3px;
     left: 50px;
     z-index: 2;
@@ -83,7 +101,7 @@ USAGE 2 (Quote + Translation + Citation):
 /* quoteout subheader */
 .quoteout h4 {
     position: relative;
-    color: #ffffff;
+    color: var(--c-quoteout-h4-color);
     font-size: clamp(0.8em, 0.6em + 1.2vw, 1.4em);
     font-weight: 400;
     line-height: 1.2;

@@ -21,14 +21,11 @@ cssclasses:
 
 # Start from Nothing
 
-<div class="quoteout-wrapper">
-  <div class="quoteout">
-    <h1>
-     I <span style="color:#C94427">know</span> that I know <span style="color:#C94427">nothing.</span>
-     </h1>
-    <h4>&mdash;Socrates<br></h4>
-  </div>
-</div>
+> [!cleanembed]
+> ![[Socrates#^socrates-know]]
+
+^socrates-know-context
+
 
 Wisdom begins here. This "intellectual humility" doesn't mean total ignorance. Understand that ignorance is the absence of knowledge. Since we don't know everything, we're all ignorant. 
 

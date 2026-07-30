@@ -15,6 +15,19 @@ cssclasses: collector-embeds
 > [!warning] Work in Progress
 > This page is [[unfinished]]. Please check back later!
 
+Listed by speaker
+
+<hr>
+
+# S
+
+## Socrates
+I know that I know nothing. 
+- [[Orientation#^socrates-know-context|context]]
+
+
+
+
 
 [[Self-Love#^quote7|7]]
 You can't pour from an empty cup. 
