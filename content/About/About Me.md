@@ -21,7 +21,10 @@ cssclasses:
 # Who I Am
 I am a nearly fifty-year-old man, an introvert, a keen observer, a pattern recognizer, a deep listener, an English teacher, a graphic designer, and a fellow navigator of this noisy and sometimes lonesome world. I am from the USA and have lived in Asia since 2012. 
 
-*Docendo discumus*; by teaching, we learn.
+> [!cleanembed]
+> ![[Docendo Discimus#^docendo]]
+
+^doscendo-context
 
 
 # Why Am I Doing This

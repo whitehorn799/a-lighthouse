@@ -13,9 +13,32 @@
 @import "./snippets/images";
 @import "./snippets/utilities";
 @import "./snippets/announote";
-@import "./snippets/breadthread";
 @import "./snippets/quoteout";
 @import "./snippets/cleanembed";
 @import "./snippets/linkedembed";
 
 
+// In your custom.scss / custom CSS snippet
+
+// 1. Target the common parent container
+.before-body,
+main > header {
+  display: flex;
+  flex-direction: column;
+}
+
+// 2. Force Article Title to render first
+.article-title,
+h1.title,
+[data-plugin="article-title"] {
+  order: 1;
+}
+
+// 3. Force Breadcrumbs to render second (underneath)
+.breadcrumb-container,
+nav.breadcrumb,
+.breadcrumbs,
+[data-plugin="breadcrumbs"] {
+  order: 2;
+  margin-top: 0.5rem; // Gives breathing room below the title
+}

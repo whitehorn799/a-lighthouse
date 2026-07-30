@@ -1,0 +1,210 @@
+/*
+█████▄ ▄▄▄▄  ▄▄▄▄▄  ▄▄▄  ▄▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄   ▄▄▄  ▄▄ ▄▄    
+██▄▄██ ██▄█▄ ██▄▄  ██▀██ ██▀██  ██   ██▄█▄ ██▀██ ██ ██    
+██▄▄█▀ ██ ██ ██▄▄▄ ██▀██ ████▀  ██   ██ ██ ██▀██ ██ ██▄▄▄ 
+*/
+
+:root {
+  --main-color: #b6ceff;
+  --hover-color: #527cff;
+  --icon: "\f105";
+  --border-color: #ddd;
+}
+
+.breadtrail-wrapper {
+  font-family: var(--bodyFont, 'Roboto', sans-serif);
+  box-shadow: 0px 0px 10px var(--lightGray, rgba(0, 0, 0, 0.1));
+  width: 100%; // Resized from 70vw to fit native Quartz layout containers
+  max-width: 100%;
+  margin: 1.25rem auto;
+
+  // Local scoping for links inside breadtrail
+  a, 
+  a:visited {
+    text-decoration: none;
+    color: var(--secondary);
+    transition: color ease-in-out 0.3s, background ease-in-out 0.2s;
+  }
+}
+
+.header {
+  margin: 0 auto;
+  overflow: hidden;
+  border-bottom: 1px solid var(--lightGray, #e5e5e5);
+}
+
+.body {
+  padding-top: 1.25rem;
+}
+
+.content {
+  display: flex;
+  flex-flow: column nowrap;
+  height: 100%;
+  padding: 0.9375rem 1.25rem;
+}
+
+.logo-and-nav-wrap {
+  display: flex;
+  align-items: center;
+}
+
+.site-nav-wrap {
+  padding-left: 1.875rem;
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: var(--secondary);
+  overflow: hidden;
+  width: fit-content;
+}
+
+.logo-wrap {
+  padding: 0 1.25rem;
+  width: var(--sidebar-width, 280px);
+}
+
+.nav {
+  display: flex;
+  white-space: nowrap;
+  overflow: hidden;
+  padding-right: 1.875rem;
+}
+
+// -------------------------------------------------------------------------
+// BREADPIECE WRAPPER & HOVER STATES
+// -------------------------------------------------------------------------
+
+.breadpiece-wrap {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex: 0 auto;
+  flex-shrink: 1000;
+  display: inline-block;
+  padding: 10px 5px 15px 0;
+  border-bottom: 1px solid transparent;
+  color: var(--secondary);
+  position: relative;
+  transition: transform ease-in-out 0.3s;
+
+  // Optional background gradient overlay (hidden by default)
+  &:before {
+    content: '';
+    background-image: linear-gradient(-33deg, #ff0d64 0, #9c3483 100%);
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+    transition: transform ease-in-out 0.5s;
+    transform: scaleX(0);
+    transform-origin: left top;
+    display: none; // Toggle to 'block' if needed
+  }
+
+  // Underline animation line
+  &:after {
+    content: '';
+    position: absolute;
+    bottom: 100%;
+    left: 28px;
+    top: 36px;
+    width: 100%;
+    height: 1px;
+    background: var(--tertiary, var(--highlight));
+    transform: scale3d(0, 1, 1);
+    transform-origin: 0% 50%;
+    transition: transform ease-in-out 0.15s 0.1s, opacity ease-in-out 0.25s;
+    opacity: 0.5;
+  }
+
+  // Hover Interactions
+  &:hover {
+    flex: 1 0 auto;
+    opacity: 1;
+    color: var(--tertiary);
+    transform: translateY(-2px);
+    transition: transform ease-in-out 0.4s;
+
+    &:before {
+      transform: scaleX(1);
+    }
+
+    &:after {
+      transform: scale3d(1, 1, 1);
+      opacity: 1;
+      transition: opacity ease-in-out 0.1s, transform ease-in-out 0.2s;
+    }
+
+    a {
+      color: var(--tertiary);
+    }
+
+    .sep {
+      i {
+        transform: translateX(8px);
+        color: var(--tertiary);
+        transition: transform ease-in-out 0.3s;
+      }
+    }
+
+    ~ .single-breadpiece-wrap {
+      transition: transform ease-in-out 0.4s;
+    }
+  }
+
+  // First item special styling
+  &:first-child {
+    flex: 0 0 auto;
+    flex-shrink: 0.5;
+    font-weight: normal;
+    color: var(--tertiary);
+    opacity: 1;
+
+    &:after {
+      left: 0;
+    }
+
+    .sep {
+      display: none;
+    }
+  }
+
+  // Last item special styling
+  &:last-child {
+    flex: 1 0 auto !important;
+    font-weight: normal;
+
+    a {
+      color: var(--tertiary);
+    }
+
+    &:hover {
+      transform: translateY(0);
+      flex: 1 0 auto !important;
+
+      &:after {
+        display: none;
+      }
+    }
+  }
+}
+
+// -------------------------------------------------------------------------
+// INNER PIECES & SEPARATORS
+// -------------------------------------------------------------------------
+
+.breadpiece {
+  flex: 0 1 auto;
+}
+
+.sep {
+  padding-left: 10px;
+  padding-right: 10px;
+
+  i.fa:before {
+    content: var(--icon, "›"); // Fallback to standard chevron if FontAwesome is missing
+    transition: transform ease-in-out 0.2s;
+  }
+}

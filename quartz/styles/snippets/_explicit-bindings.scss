@@ -64,19 +64,78 @@ div[data-frontmatter] {
 }
 
 /*
+█████▄ ▄▄▄▄  ▄▄▄▄▄  ▄▄▄  ▄▄▄▄   ▄▄▄▄ ▄▄▄▄  ▄▄ ▄▄ ▄▄   ▄▄ ▄▄▄▄   ▄▄▄▄ 
+██▄▄██ ██▄█▄ ██▄▄  ██▀██ ██▀██ ██▀▀▀ ██▄█▄ ██ ██ ██▀▄▀██ ██▄██ ███▄▄ 
+██▄▄█▀ ██ ██ ██▄▄▄ ██▀██ ████▀ ▀████ ██ ██ ▀███▀ ██   ██ ██▄█▀ ▄▄██▀ 
+*/
+/* =========================================================================
+   QUARTZ COMMUNITY BREADCRUMBS & TITLE POSITIONING
+   ========================================================================= */
+
+/* 1. Force Breadcrumbs UNDER Article Title */
+body .popover-hint {
+  display: flex !important;
+  flex-direction: column !important;
+
+  h1.article-title {
+    order: 1 !important;
+  }
+
+  nav.breadcrumbs.container {
+    order: 2 !important;
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+  }
+}
+
+/* 2. Standard Links (Folders) */
+.breadcrumb-element a,
+.breadcrumb-element a:visited {
+  color: var(--c-breadcrumbs-color) !important;
+  text-decoration: none !important;
+  transition: color 0.2s ease-in-out;
+}
+
+.breadcrumb-element a:hover {
+  color: var(--c-links-inthover) !important;
+  text-decoration: underline !important;
+}
+
+/* 3. Separators (Flat Rule) */
+.breadcrumb-element p {
+  color: var(--c-breadcrumbs-separator-color) !important;
+}
+
+/* 4. Last Child / Current Page (Flat Rule) */
+/* Overrides standard link styles, strips clickability, and applies active color */
+.breadcrumb-element:last-child a,
+.breadcrumb-element:last-child a:visited,
+.breadcrumb-element:last-child a:hover,
+.breadcrumb-element:last-child a:active,
+.breadcrumb-element:last-child span {
+  color: var(--c-breadcrumbs-active-color) !important;
+  font-weight: 500 !important;
+  pointer-events: none !important; /* Disables click behavior */
+  cursor: default !important;     /* Changes cursor from hand pointer to default arrow */
+  text-decoration: none !important;
+}
+
+
+/*
 ██  ██ ▄▄▄▄▄  ▄▄▄  ▄▄▄▄  ▄▄▄▄▄ ▄▄▄▄   ▄▄▄▄ 
 ██████ ██▄▄  ██▀██ ██▀██ ██▄▄  ██▄█▄ ███▄▄ 
 ██  ██ ██▄▄▄ ██▀██ ████▀ ██▄▄▄ ██ ██ ▄▄██▀ 
 */
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--c-font-header) !important;
+  font-family: var(--c-font-body) !important;
   color: rgba(var(--c-header-color), 1) !important;
   text-transform: uppercase !important;
 }
 
 .article-title {
   font-size: calc(var(--c-font-size-h1) * 1.5) !important;
+  font-family: var(--c-font-body) !important;
 }
 
 hr {

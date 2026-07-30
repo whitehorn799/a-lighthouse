@@ -13,12 +13,12 @@
     --c-font-weight:  400;
     --c-font-size-h1: 1.75rem;
 
-    --c-font-header: "Dosis", sans-serif;
-    --c-font-body:   "Dosis", sans-serif;
-    --c-font-code:   "Dosis", sans-serif;
+    --c-font-header:            "Playfair Display", sans-serif; /* Julius Sans One, Unica One */
+    --c-font-body:              "Dosis", sans-serif; /* Monda Regular */
+    --c-font-code:              "Dosis", sans-serif;
 
     /* Quartz default variables */
-    --headerFont: var(--c-font-header);
+    --headerFont: var(--c-font-body);
     --bodyFont:   var(--c-font-body);
     --codeFont:   var(--c-font-code);
 
@@ -105,18 +105,22 @@
     --c-links-unresolved:               rgba(var(--wenge), 1.0);
 
     --c-hr-color:                       rgba(var(--raisin-black), 0.3);
-
-    /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
-    /* PARAGRAPH DICTIONARY */
-    --c-p-margins:                      0.5rem 0 0 0;
-    --c-p-margins-center:               1.0rem auto 0 auto;
-    --c-p-margins-pp:                   1.0rem 0 0 0;
-    --c-p-margins-center-pp:            1.0rem auto 0 auto;
-    --c-p-margin-start:                 0.5rem;
-    --c-p-margin-end:                   1rem;
-    --c-p-margin-start-pp:              1rem;
-    --c-p-margin-end-pp:                1rem;    
-    --c-p-spacing:                      1rem;
+  /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+  /* BREADCRUMBS DICTIONARY */
+  --c-breadcrumbs-color:                rgba(var(--sky), 1.0);
+  --c-breadcrumbs-separator-color:      rgba(var(--cardinal), 1.0);
+  --c-breadcrumbs-active-color:         rgba(var(--raisin-black), 0.5);
+  /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+  /* PARAGRAPH DICTIONARY */
+  --c-p-margins:                      0.5rem 0 0 0;
+  --c-p-margins-center:               1.0rem auto 0 auto;
+  --c-p-margins-pp:                   1.0rem 0 0 0;
+  --c-p-margins-center-pp:            1.0rem auto 0 auto;
+  --c-p-margin-start:                 0.5rem;
+  --c-p-margin-end:                   1rem;
+  --c-p-margin-start-pp:              1rem;
+  --c-p-margin-end-pp:                1rem;    
+  --c-p-spacing:                      1rem;
 
 
 /*
@@ -140,7 +144,7 @@
   --c-announote-font-size:                calc(var(--c-font-size)* 1.1);
   --c-announote-font-weight:              var(--c-font-weight); 
 
-  --c-announote-shh-color:                rgba(var(--dusk-blue), 0.4);
+  --c-announote-shh-color:                rgba(var(--raisin-black), 0.5);
   /*
   ▄▄▄▄  ▄▄▄▄  ▄▄▄▄▄  ▄▄▄  ▄▄▄▄ ▄▄▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄  ▄▄▄▄▄  ▄▄▄  ▄▄▄▄  
   ██▄██ ██▄█▄ ██▄▄  ██▀██ ██▀██  ██   ██▄██ ██▄█▄ ██▄▄  ██▀██ ██▀██ 
@@ -197,6 +201,7 @@
 
   --c-quoteout-h1-color:                rgba(var(--red-ochre), 1.0);
   --c-quoteout-h4-color:                rgba(var(--white), 1.0);
+  --c-quoteout-accent1:                 rgba(var(--red-ochre), 1.0);
 
   --c-quoteout-bg:                      rgba(var(--mint-cream), 0.1);
 
@@ -206,6 +211,11 @@
   --c-quoteout-font-family:             var(--c-font-family);
   --c-quoteout-font-size:               calc(var(--c-font-size)* 1.1);
   --c-quoteout-font-weight:             var(--c-font-weight); 
+  --c-quoteout-cite-font-size:          clamp(0.8em, 0.6em + 1.2vw, 1.4em);
+
+  --c-quoteout-foreign-font-size:       clamp(0.4em, 0.3em + 1.2vw, 1.0em);
+  --c-quoteout-foreign-color:           rgba(var(--raisin-black), 0.5);
+  
 /*
   ▄█████ ▄▄▄▄▄  ▄▄▄  ▄▄▄▄   ▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄   ▄▄▄  ▄▄▄▄  
   ▀▀▀▄▄▄ ██▄▄  ██▀██ ██▄█▄ ██▀▀▀ ██▄██ ██▄██ ██▀██ ██▄█▄ 

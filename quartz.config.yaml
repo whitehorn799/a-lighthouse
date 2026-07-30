@@ -21,7 +21,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Dosis
+      header: Playfair Display
       body: Dosis
       code: Noto Sans Mono
     colors:
@@ -180,7 +180,7 @@ plugins:
     enabled: true
     layout:
       position: beforeBody
-      priority: 10
+      priority: 50
   - source: "@quartz-community/content-meta"
     enabled: false
     layout:
@@ -209,7 +209,7 @@ plugins:
       priority: 35
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 5

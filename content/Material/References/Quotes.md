@@ -1,15 +1,14 @@
 ---
 title: Quotes
-tags:
-publish: true
-permalink: quotes
-status:
-type: reference
-alias:
-tool: Archive
-last-updated: July 09, 2026 17:19
-first-created: April 17, 2026 19:39
-cssclasses: collector-embeds
+description: "Lessons to live by."
+draft: false
+unlisted: false
+tags: 
+aliases: 
+date: July 30, 2026 10:23
+lastmod: July 30, 2026 14:09
+enableToc:  true
+cssclasses: 
 ---
 
 > [!warning] Work in Progress
@@ -19,11 +18,15 @@ Listed by speaker
 
 <hr>
 
+# P
+## Proverbs
+[[About Me#^doscendo-context|By teaching, we learn.]]
+
+
 # S
 
 ## Socrates
-I know that I know nothing. 
-- [[Orientation#^socrates-know-context|context]]
+[[Orientation#^socrates-know-context|I know that I know nothing.]]
 
 
 

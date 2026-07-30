@@ -143,12 +143,12 @@
 
   .toc-title, 
   .backlinks-title {
-    font-family: var(--headerFont) !important;
+    font-family: var(--c-font-body) !important;
     color: var(--c-sidebar-title-color) !important;
   }
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: var(--c-font-header, var(--headerFont)) !important;
+    font-family: var(--c-font-body) !important;
     color: var(--c-sidebar-title-color) !important;
   }
 
