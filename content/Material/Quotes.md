@@ -1,6 +1,6 @@
 ---
 title: Quotes
-description: "Lessons to live by."
+description: "Lessons to live by"
 draft: false
 unlisted: false
 tags: 
@@ -11,38 +11,34 @@ enableToc:  true
 cssclasses: 
 ---
 
-> [!warning] Work in Progress
-> This page is [[unfinished]]. Please check back later!
-
 Listed by speaker
 
 <hr>
 
+# H
+[[Forest for the Trees#^quote8|>>>]] We can't see the forest for the trees. – John Heywood, 1546 ^8quote
+
 # P
 ## Proverbs
-[[About Me#^doscendo-context|By teaching, we learn.]]
+[[About Me#^doscendo-context|>>>]] By teaching, we learn.
+
+[[Self-Love#^quote7|>>>]] You can't pour from an empty cup. ^7quote
 
 
 # S
 
 ## Socrates
-[[Orientation#^socrates-know-context|I know that I know nothing.]]
+[[Orientation#^socrates-know-context|>>>]] I know that I know nothing.
 
 
 
 
 
-[[Self-Love#^quote7|7]]
-You can't pour from an empty cup. 
-*— Unknown* ^7quote
 
 
-[[Forest for the Trees#^quote8|8]]
-"We can't see the forest for the trees."  
-– John Heywood, 1546 ^8quote
 
 # Note
-> [!info|scimitar sheath]
+> [!announote|shh-note tac]
 > Click the box to learn more about the context.
 <hr> 
 

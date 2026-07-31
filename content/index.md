@@ -3,13 +3,21 @@ title: index
 description: "A Lighthouse for Personal Growth"
 draft: false
 unlisted: false
-tags: 
+tags:
 aliases: 
 date: July 24, 2026 12:42
 lastmod: July 30, 2026 17:53
 enableToc:  true
 cssclasses: 
 ---
+
+<style>
+  h1.article-title {
+    display: none !important;
+  }
+</style>
+
+
 <div class="announce-it" style="padding: 1em 0 0 0; margin: 1.75em 0.5 0em 0.5em !important; color: rgba(0,0,0, 0.6); font-size: 1.2rem !important;">Welcome to the customized personal-growth program:</div>
 <div class="announce-it" style="padding: 0em; margin: 0 0.5em 0.5em 0.5em !important; color: rgba(60, 83, 119, 1.0); font-size: 1.75rem !important;"><strong>A Lighthouse</strong>.</div>
 <div class="announce-it" style="padding: 0em; margin: 0 0.5em 0.5em 0.5em !important; font-size: 1.0rem !important; text-align: center; color: rgba(60, 83, 119, 0.7);"><strong>Solid. Still</strong>.</div>

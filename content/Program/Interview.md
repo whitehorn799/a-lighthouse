@@ -1,6 +1,6 @@
 ---
 title: Interview
-description: ""
+description: "A summary of your situation"
 draft: false
 unlisted: false
 tags: 
@@ -11,8 +11,7 @@ enableToc:  true
 cssclasses: 
 ---
 
-# Interview
-The interview is so that you can explain your situation. We can find out what to work on first. No matter what it is, we have to focus on one issue at a time. We cannot be distracted away from it until it is understood and a goal is planned.
+The interview is used to help you explain your situation. We can find out what to work on first. No matter what it is, we have to focus on one issue at a time. We cannot be distracted away from it until it is understood and a goal is planned.
 
 How it works:
 1. **Interview Questions:** you answer the questions in the [form](https://docs.google.com/document/d/1lEBlF6KCsa4aiFdhqk20NUy_noW_dtHD32A0azZQBG4/edit?tab=t.0).

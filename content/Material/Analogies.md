@@ -15,12 +15,16 @@ cssclasses:
 > [!warning] Work in Progress
 > This page is [[unfinished]]. Please check back later!
 
+
+# O 
+[[The One-Finned Fish]]
+- [[Perspective#^forest|Context]]
+
+
 # Note
 > [!info|scimitar sheath]
 > Click the box to learn more about the context.
 
-[[The One-Finned Fish]]
-- [[Perspective#^forest|Context]]
 
 [[Forest for the Trees]]: 
 - [[Perspective#^forest|Context]]

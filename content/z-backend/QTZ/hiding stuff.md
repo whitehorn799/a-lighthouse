@@ -33,10 +33,21 @@ Use the filterFn information.
       priority: 50
 ```
 
-# YAML
+## YAML
+This will hide from search
+
 ```
 ---
 title: My Private Note
 draft: true
 ---
+```
+
+## Hide Article Title
+```
+<style>
+  h1.article-title {
+    display: none !important;
+  }
+</style>
 ```
