@@ -1,4 +1,4 @@
 > [!captionator|center]
 > ![[powers-self-awareness.png|600]]
-> *Teacher kelly* 
+> *Teacher Kelly* 
 > *Self-Awareness*

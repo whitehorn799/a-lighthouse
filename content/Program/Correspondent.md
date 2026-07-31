@@ -1,25 +1,19 @@
 ---
 title: Correspondent
-description: One-on-One Dialogue
+description: ""
 draft: false
 unlisted: false
-tags:
-aliases:
-date: July 29, 2026 14:02
-lastmod: July 29, 2026 14:02
-enableToc: true
-cssclasses:
+tags: 
+aliases: 
+date: July 30, 2026 17:55
+lastmod: July 31, 2026 11:12
+enableToc:  true
+cssclasses: 
 ---
->[!breadthread]
-> [[Index|Home]] >
-
 
 
 # Sign Up
 [Send me an email](mailto:signup@a-lighthouse.org)
-
-
-
 
 >[!announote|taj]
 >We are like two detectives observing facts to find the truth. 

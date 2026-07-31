@@ -76,6 +76,7 @@ div[data-frontmatter] {
 body .popover-hint {
   display: flex !important;
   flex-direction: column !important;
+  margin-bottom: 1rem !important;
 
   h1.article-title {
     order: 1 !important;
@@ -83,8 +84,6 @@ body .popover-hint {
 
   nav.breadcrumbs.container {
     order: 2 !important;
-    margin-top: 0.5rem;
-    margin-bottom: 1.5rem;
   }
 }
 
@@ -94,6 +93,7 @@ body .popover-hint {
   color: var(--c-breadcrumbs-color) !important;
   text-decoration: none !important;
   transition: color 0.2s ease-in-out;
+  font-size: var(--c-breadcrumbs-font-size) !important;  
 }
 
 .breadcrumb-element a:hover {
@@ -104,6 +104,7 @@ body .popover-hint {
 /* 3. Separators (Flat Rule) */
 .breadcrumb-element p {
   color: var(--c-breadcrumbs-separator-color) !important;
+  font-size: var(--c-breadcrumbs-font-size) !important;
 }
 
 /* 4. Last Child / Current Page (Flat Rule) */
@@ -114,6 +115,7 @@ body .popover-hint {
 .breadcrumb-element:last-child a:active,
 .breadcrumb-element:last-child span {
   color: var(--c-breadcrumbs-active-color) !important;
+  font-size: var(--c-breadcrumbs-font-size) !important;
   font-weight: 500 !important;
   pointer-events: none !important; /* Disables click behavior */
   cursor: default !important;     /* Changes cursor from hand pointer to default arrow */
@@ -136,6 +138,9 @@ h1, h2, h3, h4, h5, h6 {
 .article-title {
   font-size: calc(var(--c-font-size-h1) * 1.5) !important;
   font-family: var(--c-font-body) !important;
+  padding-bottom: 1rem !important;
+  margin-bottom: 0.3rem !important;
+  border-bottom: 1px solid var(--c-hr-color) !important;
 }
 
 hr {
@@ -144,11 +149,11 @@ hr {
   background: linear-gradient(90deg, transparent, var(--c-hr-color), transparent) !important;
   margin: 2rem 0 !important;
 }  
-                                                 
+/*                                            
 ▄█████  ▄▄▄  ▄▄    ▄▄     ▄▄▄  ▄▄ ▄▄ ▄▄▄▄▄▄ ▄▄▄▄ 
 ██     ██▀██ ██    ██    ██▀██ ██ ██   ██  ███▄▄ 
 ▀█████ ██▀██ ██▄▄▄ ██▄▄▄ ▀███▀ ▀███▀   ██  ▄▄██▀ 
-                                                 
+*/                                                 
 /* ==========================================
    GLOBAL CALLOUT PARAGRAPH SPACING FIX
    ========================================== */

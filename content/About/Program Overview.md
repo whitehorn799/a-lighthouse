@@ -10,16 +10,9 @@ lastmod: July 29, 2026 08:55
 enableToc:  true
 cssclasses: 
 ---
-
->[!breadthread]
-> [[Index|Home]] >
-
 # The Philosophy
-
-
 We have a core philosophy that revolves around support, knowledge, and empowerment. The following points embody this philosophy.
 ## Love as the Ultimate Environment
-
 This program operates under a single, all-encompassing premise: **Love is not a passive emotion; it is the ultimate, all-accepting environment.**
 
 Love is the space in which both the light and the dark parts of human experience are allowed to exist without judgment. Every experience is a human experience. We do not look to escape the darkness or bypass hardships; we face the darkness in the shade of the light. That means we use our personal power to stand strong, not run away, suppress, or hide. Because love accepts all, every failure is a step forward. 

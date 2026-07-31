@@ -12,11 +12,6 @@ configuration:
     - z-arc
     - z-backend 
     - .obsidian
-    - tag-index
-    - "tag index"
-    - "tag-index/**"
-    - tags
-    - "tags/**"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

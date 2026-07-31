@@ -11,9 +11,7 @@ enableToc: true
 cssclasses:
 ---
 
-
-
->[!announote|tac]
+>[!announote|shh-note tac]
 >This orientation is for anyone. If you want to get the full experience, you begin the journey here.
 
 <hr>

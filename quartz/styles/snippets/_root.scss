@@ -108,8 +108,9 @@
   /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
   /* BREADCRUMBS DICTIONARY */
   --c-breadcrumbs-color:                rgba(var(--sky), 1.0);
-  --c-breadcrumbs-separator-color:      rgba(var(--cardinal), 1.0);
-  --c-breadcrumbs-active-color:         rgba(var(--raisin-black), 0.5);
+  --c-breadcrumbs-separator-color:      rgba(var(--red-ochre), 0.5);
+  --c-breadcrumbs-active-color:         rgba(var(--raisin-black), 0.6);
+  --c-breadcrumbs-font-size:            calc(var(--c-font-size) * 0.9);
   /* -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
   /* PARAGRAPH DICTIONARY */
   --c-p-margins:                      0.5rem 0 0 0;

@@ -1,15 +1,14 @@
 ---
 title: Concepts
-tags:
-publish: true
-permalink: quotes
-status:
-type: reference
-alias:
-tool: Archive
-last-updated: June 02, 2026 19:22
-first-created: April 17, 2026 19:39
-cssclasses:
+description: ""
+draft: false
+unlisted: false
+tags: 
+aliases: 
+date: July 30, 2026 17:55
+lastmod: July 31, 2026 13:26
+enableToc:  true
+cssclasses: 
 ---
 
 > [!warning] Work in Progress

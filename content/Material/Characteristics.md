@@ -1,16 +1,16 @@
 ---
 title: Characteristics
-tags:
-publish: true
-permalink: characteristics.html
-status: 
-type: reference
-alias: 
-tool: Archive
-last-updated: May 21, 2026 18:05
-first-created: May 18, 2026 17:46
-cssclasses: collector-embeds
+description: ""
+draft: false
+unlisted: false
+tags: 
+aliases: 
+date: July 30, 2026 17:55
+lastmod: July 31, 2026 13:27
+enableToc:  true
+cssclasses: 
 ---
+
 
 > [!warning] Work in Progress
 > This page is [[unfinished]]. Please check back later!

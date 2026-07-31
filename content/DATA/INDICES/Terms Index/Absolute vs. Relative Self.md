@@ -1,3 +1,15 @@
+---
+title: Absolute vs. Relative Self
+description: ""
+draft: true
+unlisted: false
+tags: 
+aliases: 
+date: July 30, 2026 17:55
+lastmod: July 31, 2026 13:06
+enableToc:  true
+cssclasses: 
+---
 # Absolute vs. Relative Self
 AKA separate vs connected self
 

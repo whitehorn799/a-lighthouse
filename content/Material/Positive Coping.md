@@ -1,7 +1,19 @@
+---
+title: Positive Coping
+description: "Healthy ways to cope"
+draft: false
+unlisted: false
+tags: 
+aliases: 
+date: July 30, 2026 17:55
+lastmod: July 31, 2026 10:26
+enableToc:  true
+cssclasses: 
+---
 # Challenge Your Thoughts
 
 [Credit](https://copingresourcecenter.com/coping-with-negative-thoughts/)
-<br>
+
 1. Identify the Distortion
 2. Examine the Evidence
 3. Double-Standard Method
@@ -12,7 +24,7 @@
 8. Semantic Method
 9. Re-attribution
 10. Cost-Benefit Analysis
-<div class="sectend"></div>
+
 
 <hr>
 
@@ -24,7 +36,7 @@ You can use the body to actively destress.
 3. Breathwork: Slow, deep, or elongated exhales (such as box breathing or sighing) signal your brain to activate the parasympathetic nervous system, naturally reducing the physiological intensity of the emotion.
 4. Vagal Toning (Voo Sound): Making a deep, low "vooooo" sound in your chest vibrates the vagus nerve, which helps to calm the nervous system and release trapped survival energy.
 5. Physical Release (Tremoring or Shaking): Releasing built-up stress, anger, or anxiety by gently shaking your hands, arms, or legs to help your nervous system discharge the tension.
-<div class="sectend"></div>
+
 
 <hr>
 
@@ -37,7 +49,7 @@ If you have urges to harm, you can try these steps to stop the cycle.
 - **Distract** yourself by changing scenery.
 - **Relax** your mind by focusing on the body or environment.
 
-<div class="bookend"></div>
+
 
 1. Somatic interrupt
 	- hold a piece of ice until it melts

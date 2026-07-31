@@ -1,3 +1,15 @@
+---
+title: Glossary
+description: ""
+draft: false
+unlisted: false
+tags: 
+aliases: 
+date: July 30, 2026 17:55
+lastmod: July 31, 2026 13:26
+enableToc:  true
+cssclasses: 
+---
 # A
 [[Absolute vs. Relative Self]] <br>
 <small>AKA Separate vs. Connected Self</small> <br>

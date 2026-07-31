@@ -11,10 +11,6 @@ enableToc: true
 cssclasses:
 ---
 
-
->[!breadthread]
-> [[Index|Home]] >
-
 >[!announote|tac]
 >I am not a professional psychologist nor a trained counselor. 
 

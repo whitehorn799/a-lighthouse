@@ -1,16 +1,16 @@
 ---
 title: Analogies
-tags: analogy
-publish: true
-permalink: analogies.html
-status:
-type: reference
-alias:
-tool: Archive
-last-updated: May 22, 2026 14:15
-first-created: May 18, 2026 17:46
-cssclasses: collector-embeds
+description: "Metaphors for understanding"
+draft: false
+unlisted: false
+tags: 
+aliases: 
+date: July 30, 2026 17:55
+lastmod: July 31, 2026 13:27
+enableToc:  true
+cssclasses: 
 ---
+
 
 > [!warning] Work in Progress
 > This page is [[unfinished]]. Please check back later!

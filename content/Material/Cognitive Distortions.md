@@ -1,4 +1,16 @@
-https://www.therapistaid.com/worksheets/cognitive-distortions 
+---
+title: Cognitive Distortions
+description: "Misguided thinking patterns"
+draft: false
+unlisted: false
+tags: 
+aliases: 
+date: July 30, 2026 17:55
+lastmod: July 31, 2026 13:26
+enableToc:  true
+cssclasses: 
+---
+[Credit](https://www.therapistaid.com/worksheets/cognitive-distortions )
 
 
 # All-Or-Nothing

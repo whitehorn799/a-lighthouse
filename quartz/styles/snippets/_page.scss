@@ -218,6 +218,15 @@
 ██▄▄   ▀█▄█▀ ██▄█▀ ██    ██▀██ ██▄█▄ ██▄▄  ██▄█▄ 
 ██▄▄▄▄ ██ ██ ██    ██▄▄▄ ▀███▀ ██ ██ ██▄▄▄ ██ ██ 
 */
+/* Hide a specific folder item from the Explorer tree */
+.explorer div[data-folderpath*="DATA" i],
+.explorer div[data-slug*="DATA" i],
+.explorer div[data-path*="DATA" i],
+.explorer div[data-for*="DATA" i],
+.explorer .folder-container:has([data-folderpath*="DATA" i]),
+.explorer .folder-container:has([data-slug*="DATA" i]) {
+  display: none !important;
+}
 
 .sidebar .explorer {
     border: 1px solid var(--c-explorer-border-color) !important;
