@@ -1,6 +1,6 @@
 ---
 title: A Lighthouse for Personal Growth
-description: "A Lighthouse for Personal Growth"
+description: "Solid. Still."
 draft: false
 unlisted: false
 tags:
