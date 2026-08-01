@@ -24,37 +24,6 @@ pre {
 }
 
 
-/* ==========================================
-   PURE SCSS LOGO REPLACEMENT (NO TSX MATCH)
-   ========================================== */
-
-h2.page-title {
-  margin: 0 0 0 0 !important;
-  display: flex !important;
-  justify-content: center !important;
-  align-items: center !important;
-  width: 100% !important;
-
-  a {
-    display: block !important;
-    width: 200px !important;            /* Adjust width to fit your logo */
-    max-width: 200px !important;
-    height: 200px !important;            /* Adjust height to fit your logo */
-    max-height: 200px !important;
-    margin: 0 auto !important;
-    
-    /* 1. Hide the "Quartz 5" plain text visually */
-    font-size: 0 !important;
-    color: transparent !important;
-    
-    /* 2. Inject logo as background image */
-    background-image: url("/static/logo.png") !important;
-    background-size: contain !important;
-    background-repeat: no-repeat !important;
-    background-position: center !important;
-  }
-}
-
 
 details.note-properties.metadata-container,
 .metadata-container,
@@ -184,3 +153,5 @@ blockquote.callout p:empty,
 .callout-content p:empty {
   display: none !important;
 }
+
+

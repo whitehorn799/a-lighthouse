@@ -3,6 +3,45 @@
 ██▄▄█▀ ██▀██ ██ ▄▄ ██▄▄   
 ██     ██▀██ ▀███▀ ██▄▄▄  
 */
+
+
+/* =========================================================================
+   MOBILE LAYOUT FIXES (max-width: 768px)
+   ========================================================================= */
+
+@media screen and (max-width: 768px) {
+  /* Prevent sidebars from eating 1/3 of the screen width */
+  #quartz-body {
+    display: flex !important;
+    flex-direction: column !important;
+    padding: 0 !important; /* Removes the 16px asymmetric outer blue border space */
+    margin: 0 !important;
+    width: 100% !important;
+  }
+
+  /* Make the central content take full viewport width */
+  #quartz-body div.center {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 1rem !important; /* Controlled padding for content readability */
+    box-sizing: border-box !important;
+  }
+
+  /* Reset left sidebar width and alignment so it doesn't push div.center */
+  #quartz-body .sidebar.left {
+    width: 100% !important;
+    position: static !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* Match right sidebar behavior on mobile */
+  #quartz-body .sidebar.right {
+    width: 100% !important;
+  }
+}
+
+
 /* ==========================================
    1. QUARTZ GRID ARCHITECTURE OVERRIDE
    ========================================== */
@@ -67,6 +106,50 @@
   }
 
   .center {
+    width: 100% !important;
+  }
+}
+
+/* ==========================================
+   PURE SCSS LOGO REPLACEMENT (Responsive)
+   ========================================== */
+
+h2.page-title {
+  margin: 0 !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100% !important;
+
+  a {
+    display: block !important;
+    font-size: 0 !important;
+    color: transparent !important;
+    background-image: url("/static/logo.png") !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    
+    /* Responsive sizing */
+    width: 200px !important;
+    height: 200px !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+  }
+}
+
+/* On mobile screens, scale the logo down so it doesn't eat screen space */
+@media (max-width: 767px) {
+  h2.page-title a {
+    width: 80px !important;  /* Scaled down for mobile header */
+    height: 80px !important;
+  }
+
+  /* Reset left sidebar background & padding on mobile to kill the blue border glitch */
+  #quartz-body .sidebar.left {
+    background: transparent !important;
+    padding: 0 !important;
+    margin: 0 !important;
     width: 100% !important;
   }
 }

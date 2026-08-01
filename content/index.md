@@ -1,12 +1,12 @@
 ---
-title: index
+title: A Lighthouse for Personal Growth
 description: "A Lighthouse for Personal Growth"
 draft: false
 unlisted: false
 tags:
 aliases: 
 date: July 24, 2026 12:42
-lastmod: July 30, 2026 17:53
+lastmod: August 01, 2026 09:32
 enableToc:  true
 cssclasses: 
 ---
