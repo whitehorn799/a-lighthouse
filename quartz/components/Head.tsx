@@ -78,6 +78,8 @@ export default (() => {
               property="og:image:type"
               content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
             />
+            <meta property="og:image:width" content="1200" />
+            <meta property="og:image:height" content="630" />
           </>
         )}
 

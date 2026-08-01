@@ -1,0 +1,3 @@
+[submodule "quartz/plugins/community/og-image"]
+	path = quartz/plugins/community/og-image
+	url = https://github.com/quartz-community/og-image.git

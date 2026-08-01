@@ -1,13 +1,14 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: A Lighthouse for Personal Growth
-  pageTitleSuffix: ""
+  pageTitle: A Lighthouse
+  pageTitleSuffix: " for Personal Growth"
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
   baseUrl: a-lighthouse.org
+  socialImage: "static/og-image.png"
   ignorePatterns:
     - z-arc
     - z-backend 
