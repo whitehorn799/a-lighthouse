@@ -1,6 +1,6 @@
 ---
-title: About Me
-description: ""
+title: Mr. Whitehorn
+description: "The facilitator of the program"
 draft: false
 unlisted: false
 tags:
@@ -14,7 +14,14 @@ cssclasses:
 >[!announote|tac]
 >I am not a professional psychologist nor a trained counselor. 
 
+I created the program with a lot of help from countless resources. Most of all, the program was borne of was my own drive to answer existential questions that taxed me since I was a toddler. Questions like these: who am I; where am I; why am I here; what's the meaning of it all; how do I become a better person?
+
+I didn't stumble upon an ancient tablet, I wasn't visited by a ghost, nor do I hold exclusive knowledge. What I do have is happiness, satisfying answers to my questions, and a willingness to share with others. All I did was write down how I found it, and I am sharing it with you.
+
+
 # Who I Am
+Hello, I go by Mr. Whitehorn. I am the facilitator of the program.
+
 I am a nearly fifty-year-old man, an introvert, a keen observer, a pattern recognizer, a deep listener, an English teacher, a graphic designer, and a fellow navigator of this noisy and sometimes lonesome world. I am from the USA and have lived in Asia since 2012. 
 
 > [!cleanembed]

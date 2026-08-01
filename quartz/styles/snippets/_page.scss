@@ -335,6 +335,16 @@ h2.page-title {
   display: none !important;
 }
 
+/* Hide active page from Site Explorer if the page has 'hide-breadcrumbs' */
+#quartz-body:has(article.hide-breadcrumbs) .explorer a.nav-file-title.is-active {
+  display: none !important;
+}
+
+/* Optional: Also hide the bullet/list wrapper so there isn't blank vertical spacing */
+#quartz-body:has(article.hide-breadcrumbs) .explorer li:has(a.nav-file-title.is-active) {
+  display: none !important;
+}
+
 .sidebar .explorer {
     border: 1px solid var(--c-explorer-border-color) !important;
     border-radius: 5px !important;

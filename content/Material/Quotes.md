@@ -20,7 +20,7 @@ Listed by speaker
 
 # P
 ## Proverbs
-[[About Me#^doscendo-context|>>>]] By teaching, we learn.
+[[Mr. Whitehorn#^doscendo-context|>>>]] By teaching, we learn.
 
 [[Self-Love#^quote7|>>>]] You can't pour from an empty cup. ^7quote
 

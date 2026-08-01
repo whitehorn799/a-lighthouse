@@ -23,4 +23,4 @@ How it works:
 7. **Positive Coping:** you can consider using [[positive coping]] to help you through troubling emotions.
 
 # Schedule Interview
-To schedule an interview, please contact me by email [signup@a-lighthouse.org]](mailto:signup@a-lighthouse.org). 
+To schedule an interview, please contact me by email [signup@a-lighthouse.org](mailto:signup@a-lighthouse.org). 

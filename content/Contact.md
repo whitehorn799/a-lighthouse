@@ -1,23 +1,25 @@
 ---
 title: Contact
-description: "Contact Me"
+description: "Get in touch with the facilitator"
 draft: false
 unlisted: false
 tags: 
+  - no-breadcrumbs
 aliases: 
 date: July 29, 2026 13:47
-lastmod: July 31, 2026 11:03
+lastmod: August 01, 2026 16:20
 enableToc:  true
-cssclasses: 
 ---
 
 
 # Email
 ###### Arrange an Interview
-[Email me here](mailto:signup@a-lighthouse.org) if you want to have a one-on-one [[interview]] to become a [[correspondent]]
+[signup@a-lighthouse.org](mailto:signup@a-lighthouse.org): Email me here if you want to have a one-on-one [[interview]] to become a [[correspondent]].
 ###### Comments, suggestions, complaints
-[Send me a message!](mailto:contact@a-lighthouse.org)
+[contact@a-lighthouse.org](mailto:contact@a-lighthouse.org) Email me here if you want to send me a comment.
 
 # Social Media
+The YouTube channel is the prominent platform used for the program. 
+
 - [YouTube](https://www.youtube.com/@A-Lighthouse) 
 - [Instagram](https://www.instagram.com/a_lightouse/) 

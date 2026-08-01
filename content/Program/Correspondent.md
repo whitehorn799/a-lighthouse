@@ -11,12 +11,6 @@ enableToc:  true
 cssclasses: 
 ---
 
+In terms of the program, a correspondent is someone who needs one-on-one guidance with the program facilitator, [[Mr. Whitehorn]], for a small fee. 
 
-# Sign Up
-[Send me an email](mailto:signup@a-lighthouse.org)
-
->[!announote|taj]
->We are like two detectives observing facts to find the truth. 
-
-
-We observe [[Objective Reverence]]. I listen, ask the questions to help you untangle your blockages, confront your shadows with you, and guide you to peace so that you can unlock your power. You decide when to stop.
+To sign up, send an email here: [signup@a-lighthouse.org](mailto:signup@a-lighthouse.org).

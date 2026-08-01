@@ -55,16 +55,13 @@ There are also texts online that can capture the main idea of each lesson. They 
 
 <hr>
 
-# About the Facilitator
-My name is Brandon, and I created the program with a lot of help from countless resources. Most of all, the program was borne of was my own drive to answer existential questions that taxed me since I was a toddler. Questions like these: who am I; where am I; why am I here; what's the meaning of it all; how do I become a better person?
+# The Facilitator
 
-I didn't stumble upon an ancient tablet, I wasn't visited by a ghost, nor do I hold exclusive knowledge. What I do have is happiness, satisfying answers to my questions, and a willingness to share with others. All I did was write down how I found it. 
-
-Learn more [[About Me]].
+Learn more about [[Mr. Whitehorn]] who organized and facilitates the program.
 
 <hr>
 
-# Lighthouse Metaphor
+# "A Lighthouse" Metaphor
 The lighthouse symbolism represents a beacon of hope in a world of turmoil. It symbolizes our method of reclaiming your ability to navigate life efficiently, effectively, and still leave room to grow.
 
 A lighthouse is still and bright so that you may choose your path in the shade between light and darkness. Life is a balance between hardships and victories. Take back your power to walk between them with grace. There are many "lighthouses" along the coast. This is not the only way, but it is one of them.

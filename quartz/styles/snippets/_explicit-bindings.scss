@@ -38,6 +38,17 @@ div[data-frontmatter] {
 ██▄▄██ ██▄█▄ ██▄▄  ██▀██ ██▀██ ██▀▀▀ ██▄█▄ ██ ██ ██▀▄▀██ ██▄██ ███▄▄ 
 ██▄▄█▀ ██ ██ ██▄▄▄ ██▀██ ████▀ ▀████ ██ ██ ▀███▀ ██   ██ ██▄█▀ ▄▄██▀ 
 */
+/* HIDE BREADCRUMBS
+Usage:
+cssclasses: 
+  - hide-breadcrumbs
+*/
+#quartz-body:has(article.hide-breadcrumbs) nav.breadcrumb-container,
+#quartz-body:has(article.hide-breadcrumbs) .page-header nav[aria-label="breadcrumbs"] {
+  display: none !important;
+}
+
+
 /* =========================================================================
    QUARTZ COMMUNITY BREADCRUMBS & TITLE POSITIONING
    ========================================================================= */
@@ -64,6 +75,7 @@ body .popover-hint {
   text-decoration: none !important;
   transition: color 0.2s ease-in-out;
   font-size: var(--c-breadcrumbs-font-size) !important;  
+  opacity: 0.6 !important;
 }
 
 .breadcrumb-element a:hover {

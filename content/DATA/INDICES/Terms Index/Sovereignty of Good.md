@@ -1,14 +1,15 @@
 ---
 title: Sovereignty of Good
-description: ""
+description: "The intention of unity"
 draft: false
 unlisted: false
-tags: 
+tags:
 aliases: 
 date: July 29, 2026 13:14
-lastmod: July 29, 2026 13:14
+lastmod: August 01, 2026 16:35
 enableToc:  true
 cssclasses: 
+  - hide-breadcrumbs
 ---
 
 Love cherishes both good and evil, but it is driven by intention, preference, and growth toward unity.
