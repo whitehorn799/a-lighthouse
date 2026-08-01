@@ -18,11 +18,11 @@ cssclasses:
 </style>
 
 
-<div class="announce-it" style="padding: 1em 0 0 0; margin: 1.75em 0.5 0em 0.5em !important; color: rgba(0,0,0, 0.6); font-size: 1.2rem !important;">Welcome to the customized personal-growth program:</div>
-<div class="announce-it" style="padding: 0em; margin: 0 0.5em 0.5em 0.5em !important; color: rgba(60, 83, 119, 1.0); font-size: 1.75rem !important;"><strong>A Lighthouse</strong>.</div>
-<div class="announce-it" style="padding: 0em; margin: 0 0.5em 0.5em 0.5em !important; font-size: 1.0rem !important; text-align: center; color: rgba(60, 83, 119, 0.7);"><strong>Solid. Still</strong>.</div>
+<div class="announce-it" style="padding: 1rem 0 0 0; margin: 1.75rem auto 1.75rem auto !important; text-align: center; color: rgba(0,0,0, 0.6); font-size: 1.2rem !important; align-self: center !important; max-width: 300px; width: 90%;">Welcome to the customized personal-growth program:</div>
+<div class="announce-it" style="padding: 0rem; margin: 0rem auto 0.5rem auto !important; color: rgba(60, 83, 119, 1.0); font-size: 1.75rem !important; align-self: center !important; max-width: 250px; width: 80%;"><strong>A Lighthouse</strong>.</div>
+<div class="announce-it" style="padding: 0rem; margin: 0rem auto 0.5rem auto !important; font-size: 1.0rem !important; text-align: center; color: rgba(60, 83, 119, 0.7); align-self: center !important; max-width: 250px; width: 80%;"><strong>Solid. Still</strong>.</div>
 
-<div class="announce-it" style="padding: 1em 0; margin: 0em 0.5 1.75em 0.5em !important; color: rgba(0,0,0, 0.6); font-size: 0.9rem !important; text-align: justify !important; width: 55% !important; justify-self: center;" >
+<div class="announce-it" style="padding: 1rem 0; margin: 0 auto 1.75rem auto !important; color: rgba(0,0,0, 0.6); font-size: 0.9rem !important; text-align: justify !important; align-self: center !important; max-width: 250px; width: 80%;">
 Have you ever wondered who you are? Do you feel exhausted from struggling to find motivation? It’s time to stop shouting at obstacles in your life and start flowing around them. Stop the idea of chasing happiness and realize you are already a complete person.<br><br>
 Learn to embrace the dark parts of you just as well as the light parts. In the shade, where the light meets the dark, reclaim your right to the knowledge you have been denied. Remember, you needn’t enter A Lighthouse; you needn’t go toward it. Keep it in sight, and avoid the traps.
 </div>
