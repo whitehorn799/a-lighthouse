@@ -1,0 +1,86 @@
+/*                                                                                                               
+██ ▄▄  ▄▄ ▄▄ ▄▄ ▄▄  ▄▄▄▄ ▄▄ ▄▄▄▄  ▄▄     ▄▄▄   ▄▄▄▄ ▄▄ ▄▄ 
+██ ███▄██ ██▄██ ██ ███▄▄ ██ ██▄██ ██    ██▀██ ██▀▀▀ ██▄█▀ 
+██ ██ ▀██  ▀█▀  ██ ▄▄██▀ ██ ██▄█▀ ██▄▄▄ ▀███▀ ▀████ ██ ██ 
+*/
+/* USAGE:
+> [!invisiblock]
+> This content is wrapped in a completely invisible block.
+> No title, background, border, or icon will render.
+
+> [!invisiblock|title] Section Header Title
+> This content retains the title above it styled using your invisiblock variables!
+*/
+
+.callout[data-callout="invisiblock"] {
+  background-color: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
+
+  margin: var(--c-invisiblock-margins) !important;
+  margin-block-start: var(--c-invisiblock-margin-start) !important;
+  margin-block-end: var(--c-invisiblock-margin-end) !important;
+
+  /* Title Styling */
+  .callout-title {
+    font-family: var(--c-invisiblock-font-family) !important;
+    font-size: var(--c-invisiblock-font-size) !important;
+    font-weight: var(--c-invisiblock-font-weight) !important;
+    color: var(--c-invisiblock-color) !important;
+    padding: 0 !important;
+  }
+
+  /* Hide Icon */
+  .callout-icon {
+    display: none !important;
+  }
+
+  /* Content Frame Restructuring */
+  .callout-content {
+    padding: 0 !important;
+    margin: 0 !important;
+
+    p {
+      font-family: var(--c-invisiblock-font-family) !important;
+      font-size: var(--c-invisiblock-font-size) !important;
+      font-weight: var(--c-invisiblock-font-weight) !important;
+      color: var(--c-invisiblock-color) !important;
+      line-height: var(--line-height-normal, 1.5) !important;
+      text-align: left !important;
+      padding: 0 !important;
+
+      & + p {
+        margin: var(--c-invisiblock-margins-pp) !important;
+        margin-block-start: var(--c-invisiblock-margin-start-pp) !important;
+        margin-block-end: var(--c-invisiblock-margin-end-pp) !important;
+      }
+    }
+
+    /* List Resets */
+    :is(ul, ol) {
+      margin: 0 0 1rem 0 !important;
+      padding-inline-start: 1.5rem !important;
+    }
+
+    li {
+      font-family: var(--c-invisiblock-font-family) !important;
+      font-size: var(--c-invisiblock-font-size) !important;
+      font-weight: var(--c-invisiblock-font-weight) !important;
+      color: var(--c-invisiblock-color) !important;
+      line-height: var(--line-height-normal, 1.5) !important;
+    }
+  }
+
+  /* ========================================================================= */
+  /* TITLE TOGGLE SWITCH                                                        */
+  /* ========================================================================= */
+  
+  /* Hides the title bar IF metadata does NOT contain 'title' AND title is empty/default */
+  &:not([data-callout-metadata*="title"]) .callout-title {
+    display: none !important;
+  }
+}

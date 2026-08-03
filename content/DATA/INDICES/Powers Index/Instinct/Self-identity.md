@@ -1,56 +1,75 @@
 ---
 title: Self-identity
-description: ""
+description: A solid identity
 draft: false
 unlisted: false
-tags: 
-aliases: 
+tags:
+aliases:
 date: July 29, 2026 14:13
 lastmod: July 29, 2026 14:14
-enableToc:  true
-cssclasses: 
+enableToc: true
+cssclasses:
+  - hide-breadcrumbs
 ---
 
->[!breadthread]
-> [[Home]] > Power Modules > [[Love]] > [[Instinct]] > [[Self-aware]] > Self-identity
-> %% [[❤️]] > [[🐊]] > [[💡]] > [[🎁]] %% ^baa
+%% [[❤️]] > [[🐊]] > [[💡]] > [[🎁]] %% ^baa
 
-# Self-identity
 
-![[🎁-📝|cleanembed]]
+> [!cleanembed]
+> ![[🎁-📝#^selfid-def]]
 
-**Moral** 
-You can't love others if you don't love yourself. ^mor
 
-**Mnemonic** 
-^mne
-1. You are never separated from love.
-2. A defenseless port invites pirates.
+<br>
+
+
+> [!cleanembed]
+> ![[🎁-📝#^selfid-moral]] 
+
+
+<br>
+
+
+> [!cleanembed]
+> ![[🎁-📝#^selfid-mnemonic]] 
+
+
+<br>
+
+
+> [!cleanembed]
+> ![[🎁-📝#^selfid-story]] 
+
+
+<br>
+
 
 %%**Glossary**
 [[🎁-📚|Self-identity Terms]]%%
 
-**Illustrative Story**
-[[Mrs. Huang's Story]]
-[[Mr. Turner's Story]]
-[[Sarah's Story]]
-
-<div class="fader-one">hello</div>
-
 ## Goal
-<div class="goal-point tac">Know yourself more so that you make better choices.</div>
+
+> [!cleanembed]
+> ![[🎁-📝#^selfid-goal]] 
+
 
 <br>
 
-1. You will know what the self wants, its worth, its principles, its uniqueness, that its actions matter, and that its current beliefs are filtered away from indoctrination and toward intuition. 
-2. You will know what you prefer by feeling what's right (alignment, resonance) and what feels wrong (misalignment, dissonance) through intuition.
+> [!cleanembed]
+> ![[🎁-📝#^selfid-goalpoints]] 
+
 
 <br>
-<div class="color-point cp1 tal">CONSIDERATIONS</div>
 
-- The self is as special as every other because it's not a competition of uniqueness but a celebration of variety.
-	- You are as special as a potato in a basket of potatoes. You might have a special shape, have a fuller flavor, and be a bit more robust, but you are a single potato among many. 
-- In this process of defining self-identity, there is no judgment, and there isn't a plea for validation. We're just being aware that you are unique. 
+> [!cleanembed]
+> ![[🎁-📝#^selfid-consider]] 
+
+
+<br>
+
+> [!cleanembed]
+> ![[🎁-📝#^selfid-considerpoints]] 
+
+
 ## Learning Points
 
 1. Where am I?

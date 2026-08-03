@@ -3,6 +3,10 @@
 ▀▀▀▄▄▄ ██▄▄  ██▀██ ██▄█▄ ██▀▀▀ ██▄██ ██▄██ ██▀██ ██▄█▄ 
 █████▀ ██▄▄▄ ██▀██ ██ ██ ▀████ ██ ██ ██▄█▀ ██▀██ ██ ██ 
 */
+/* Hide links/results in the search UI that point to pages tagged with 'no-search' */
+.search-container .results-container a[href*="selfid"] {
+  display: none !important;
+}
 
 /* ==========================================
    CENTERED & FUNCTIONAL SEARCH BAR

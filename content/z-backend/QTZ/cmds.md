@@ -3,6 +3,11 @@ https://a-lighthouse.org?v=2
 
 Change the 2 to various other combinations to clear the cache.
 
+```
+Remove-Item -Recurse -Force public, .quartz-cache -ErrorAction SilentlyContinue
+npx quartz build --serve
+```
+
 # Copy Obsidian Vault
 ```
 Copy-Item -Path "E:\2024 Brandon Artworks\Teacher Kelly\A-Lighthouse\*" -Destination "content" -Recurse -Force

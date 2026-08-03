@@ -1,0 +1,27 @@
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/*
+▄█████  ▄▄▄  ▄▄     ▄▄▄  ▄▄▄▄    █████▄  ▄▄▄  ▄▄ ▄▄  ▄▄ ▄▄▄▄▄▄ ▄▄▄▄ 
+██     ██▀██ ██    ██▀██ ██▄█▄   ██▄▄█▀ ██▀██ ██ ███▄██   ██  ███▄▄ 
+▀█████ ▀███▀ ██▄▄▄ ▀███▀ ██ ██   ██     ▀███▀ ██ ██ ▀██   ██  ▄▄██▀ 
+*/
+/* USAGE:
+ "<div class="color-point cp1">XX</div>" 
+ "<div class="color-point cp2 tac">XX</div>" 
+*/
+.color-point {
+    display: block !important;
+    margin-bottom: 0.5rem !important;
+    
+    font-family: var(--c-color-point-font) !important;
+    font-weight: var(--c-color-point-font-weight) !important;
+    font-size: var(--c-color-point-font-size) !important;
+    text-transform: uppercase !important;
+    line-height: 1.2 !important;
+    
+    /* Fallback to 'left' or 'center' if no alignment class is passed */
+    text-align: var(--ta-align, left);
+    color: var(--c-color-point-color) !important;
+}
+
+.cp1 { --c-color-point-color: var(--c-color-point-one) !important; }
+.cp2 { --c-color-point-color: var(--c-color-point-two) !important; }

@@ -1,4 +1,6 @@
 <br>
 
->[!info|invisiblock-title] xxx
-> 
+>[!invisiblock|title]  
+>
+
+<br>

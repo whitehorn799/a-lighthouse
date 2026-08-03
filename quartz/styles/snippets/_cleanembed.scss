@@ -13,16 +13,16 @@
    > ![[Note#^block-id]]
 */
 
-// --- Global Transclude Reset (Hides the Quartz source link globally) ---
+/* --- Global Transclude Reset (Hides the Quartz source link globally) --- */
 blockquote.transclude a.transclude-src,
 blockquote.transclude a.internal.internal-link.transclude-src,
 blockquote.transclude .transclude-src {
   display: none !important;
 }
 
-// --- Shared Base Resets for both .cleanembed and .cleanembed-head ---
+/* --- Shared Base Resets for both .cleanembed and .cleanembed-head --- */
 blockquote.callout:is([data-callout="cleanembed"], [data-callout="cleanembed-head"]) {
-  // Container Resets (Strips Quartz default callout/blockquote styling)
+  /* Container Resets (Strips Quartz default callout/blockquote styling) */
   margin: 0 !important;
   padding: 0 !important;
   border: none !important;
@@ -30,7 +30,7 @@ blockquote.callout:is([data-callout="cleanembed"], [data-callout="cleanembed-hea
   background: transparent !important;
   box-shadow: none !important;
 
-  // Inner Transclude Resets (Strips nested blockquote left borders)
+  /* Inner Transclude Resets (Strips nested blockquote left borders) */
   blockquote.transclude,
   .transclude-inner,
   .callout-content {
@@ -42,7 +42,7 @@ blockquote.callout:is([data-callout="cleanembed"], [data-callout="cleanembed-hea
     overflow: visible !important;
   }
 
-  // Paragraph Flow Normalization
+  /* Paragraph Flow Normalization */
   p {
     margin-block-start: 0 !important;
     margin-block-end: var(--c-p-spacing, 1rem) !important;
@@ -61,21 +61,45 @@ blockquote.callout:is([data-callout="cleanembed"], [data-callout="cleanembed-hea
       display: none !important;
     }
   }
+
+  /* List Resets - Stripped of top/bottom margins */
+  :is(ul, ol) {
+    margin-top: 0 !important;
+    margin-right: 0 !important;
+    margin-bottom: 0 !important;
+    margin-left: 0 !important;
+    padding-inline-start: 1.5rem !important;
+
+    &:last-child {
+      margin-bottom: 0 !important;
+    }
+  }
+
+  li {
+    color: var(--c-cleanembed-color, inherit);
+    font-size: var(--c-cleanembed-font-size, 1rem);
+    font-family: var(--c-cleanembed-font-family, inherit);
+    line-height: var(--line-height-normal, 1.5);
+
+    &:last-child {
+      margin-bottom: 0 !important;
+    }
+  }
 }
 
-// -------------------------------------------------------------------------
-// 1. [!cleanembed] — Pure Stealth (Completely hides title bar)
-// -------------------------------------------------------------------------
+/* -------------------------------------------------------------------------
+ 1. [!cleanembed] — Pure Stealth (Completely hides title bar)
+ -------------------------------------------------------------------------
+*/
 blockquote.callout[data-callout="cleanembed"] {
   > .callout-title {
     display: none !important;
   }
 }
 
-/*
-▄█████ ▄▄    ▄▄▄▄▄  ▄▄▄  ▄▄  ▄▄ ▄▄▄▄▄ ▄▄   ▄▄ ▄▄▄▄  ▄▄▄▄▄ ▄▄▄▄    ██  ██ ▄▄▄▄▄  ▄▄▄  ▄▄▄▄  
-██     ██    ██▄▄  ██▀██ ███▄██ ██▄▄  ██▀▄▀██ ██▄██ ██▄▄  ██▀██   ██████ ██▄▄  ██▀██ ██▀██ 
-▀█████ ██▄▄▄ ██▄▄▄ ██▀██ ██ ▀██ ██▄▄▄ ██   ██ ██▄█▀ ██▄▄▄ ████▀   ██  ██ ██▄▄▄ ██▀██ ████▀ 
+/* -------------------------------------------------------------------------
+ 2. [!cleanembed-head] — Stealth with Header
+ -------------------------------------------------------------------------
 */
 blockquote.callout[data-callout="cleanembed-head"] {
   > .callout-title {
@@ -84,13 +108,13 @@ blockquote.callout[data-callout="cleanembed-head"] {
     padding: 0 0 0.4rem 0 !important;
     border: none !important;
     background: transparent !important;
-    
-    // Hide default SVG/Icon container
+
+    /* Hide default SVG/Icon container */
     .callout-icon {
       display: none !important;
     }
 
-    // Header Typography
+    /* Header Typography */
     .callout-title-inner {
       color: var(--c-cleanembed-color, inherit);
       font-weight: var(--c-cleanembed-head-font-weight, 600);

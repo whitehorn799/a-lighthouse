@@ -32,7 +32,7 @@
 /* USAGE:
 "<div class="color-point ta-xxx">xxx</div>"
 */
-.tal { --ta-align: left; }
-.tac { --ta-align: center; }
-.tar { --ta-align: right; }
-.taj { --ta-align: justify; }
+.tal { --ta-align: left !important; text-align: left !important; }
+.tac { --ta-align: center !important; text-align: center !important; }
+.tar { --ta-align: right !important; text-align: right !important; }
+.taj { --ta-align: justify !important; text-align: justify !important; }

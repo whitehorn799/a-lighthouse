@@ -1,0 +1,26 @@
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
+/*
+ ▄████   ▄▄▄   ▄▄▄  ▄▄      ▄▄▄▄   ▄▄▄  ▄▄ ▄▄  ▄▄ ▄▄▄▄▄▄ 
+██  ▄▄▄ ██▀██ ██▀██ ██  ▄▄▄ ██▄█▀ ██▀██ ██ ███▄██   ██   
+ ▀███▀  ▀███▀ ██▀██ ██▄▄▄   ██    ▀███▀ ██ ██ ▀██   ██   
+*/
+/* USAGE:
+ "<div class="goal-point tac">XX</div>" 
+*/
+.goal-point {
+    display: block !important;
+    margin: 1.5rem auto 1.5rem !important;
+    
+    font-family: var(--c-font-family);
+    font-weight: var(--c-goal-point-font-weight) !important;
+    font-size: var(--c-goal-point-font-size) !important;
+    color: var(--c-goal-point-color) !important;
+    text-transform: normal !important;
+    line-height: 1.2 !important;
+    
+    /* Fallback to 'left' or 'center' if no alignment class is passed */
+    text-align: var(--ta-align, left);
+    justify-self: center !important;
+    width: var(--c-goal-point-width) !important;
+    max-width: var(--c-goal-point-width) !important;
+}

@@ -191,6 +191,44 @@
     --c-cleanembed-head-font:              var(--c-font-family);
     --c-cleanembed-head-font-size:         var(--c-font-size);
     --c-cleanembed-head-font-weight:       calc(var(--c-font-weight) + 200);
+
+
+/*
+▄█████  ▄▄▄  ▄▄     ▄▄▄  ▄▄▄▄    █████▄  ▄▄▄  ▄▄ ▄▄  ▄▄ ▄▄▄▄▄▄ ▄▄▄▄ 
+██     ██▀██ ██    ██▀██ ██▄█▄   ██▄▄█▀ ██▀██ ██ ███▄██   ██  ███▄▄ 
+▀█████ ▀███▀ ██▄▄▄ ▀███▀ ██ ██   ██     ▀███▀ ██ ██ ▀██   ██  ▄▄██▀ 
+*/
+    --c-color-point-one:                        rgba(var(--sienna), 1.0);
+    --c-color-point-two:                        rgba(var(--gold), 1.0);
+    --c-color-point-font-size:                  var(--c-font-size-80);
+    --c-color-point-font-weight:                var(--c-font-weight);
+    --c-color-point-font:                       var(--c-font-family);
+
+/*
+ ▄████   ▄▄▄   ▄▄▄  ▄▄      ▄▄▄▄   ▄▄▄  ▄▄ ▄▄  ▄▄ ▄▄▄▄▄▄ 
+██  ▄▄▄ ██▀██ ██▀██ ██  ▄▄▄ ██▄█▀ ██▀██ ██ ███▄██   ██   
+ ▀███▀  ▀███▀ ██▀██ ██▄▄▄   ██    ▀███▀ ██ ██ ▀██   ██   
+*/
+    --c-goal-point-color:                       rgba(var(--sienna), 1.0);
+    --c-goal-point-font-size:                   calc(var(--c-font-size)* 1.05);
+    --c-goal-point-font-weight:                 var(--c-font-weight);
+    --c-goal-point-width:    
+
+/*                                                                                                               
+██ ▄▄  ▄▄ ▄▄ ▄▄ ▄▄  ▄▄▄▄ ▄▄ ▄▄▄▄  ▄▄     ▄▄▄   ▄▄▄▄ ▄▄ ▄▄ 
+██ ███▄██ ██▄██ ██ ███▄▄ ██ ██▄██ ██    ██▀██ ██▀▀▀ ██▄█▀ 
+██ ██ ▀██  ▀█▀  ██ ▄▄██▀ ██ ██▄█▀ ██▄▄▄ ▀███▀ ▀████ ██ ██ 
+*/
+  --c-invisiblock-font-family:              inherit;
+  --c-invisiblock-font-size:                1rem;
+  --c-invisiblock-font-weight:              400;
+  --c-invisiblock-color:                    inherit;
+  --c-invisiblock-margins:                  0;
+  --c-invisiblock-margin-start:             0;
+  --c-invisiblock-margin-end:               1rem;
+  --c-invisiblock-margins-pp:               0;
+  --c-invisiblock-margin-start-pp:          0.5rem;
+  --c-invisiblock-margin-end-pp:            0;
   /*
   ▄█████▄ ▄▄ ▄▄  ▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄▄  ▄▄▄  ▄▄ ▄▄ ▄▄▄▄▄▄ 
   ██ ▄ ██ ██ ██ ██▀██  ██   ██▄▄  ██▀██ ██ ██   ██   

@@ -166,4 +166,16 @@ blockquote.callout p:empty,
   display: none !important;
 }
 
-
+/*
+▄█████ ▄▄▄▄▄  ▄▄▄  ▄▄▄▄   ▄▄▄▄ ▄▄ ▄▄ 
+▀▀▀▄▄▄ ██▄▄  ██▀██ ██▄█▄ ██▀▀▀ ██▄██ 
+█████▀ ██▄▄▄ ██▀██ ██ ██ ▀████ ██ ██ 
+*/
+/* Hide search results for notes tagged with 'hide-search' */
+.search-container {
+  .result-card:has(a[data-slug*="hide-search"]),
+  a.result-card[data-slug*="hide-search"],
+  a[href*="hide-search"] {
+    display: none !important;
+  }
+}

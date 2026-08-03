@@ -16,7 +16,7 @@ Listed by speaker
 <hr>
 
 # H
-[[Forest for the Trees#^quote8|>>>]] We can't see the forest for the trees. – John Heywood, 1546 ^8quote
+[[Forest for the Trees#^quote8|>>>]] Heywood, John: We can't see the forest for the trees. ^8quote
 
 # P
 ## Proverbs
@@ -43,7 +43,6 @@ Listed by speaker
 <hr> 
 
 ![[The Powers#^perception]]
-![[About Teacher Kelly#^docendo]]
 ![[Perspective#^mile]]
 ![[Perspective#^hell]]
 ![[Perspective#^midas]]
@@ -55,12 +54,10 @@ Listed by speaker
 
 
 
-
+``
 
 %%
 ![[Ego#^2]]
 ![[Ego#^3]] 
 %%
 
-%%footer_start%%
-<span class="log-sign-off">2026-05-26 11:24</span>
