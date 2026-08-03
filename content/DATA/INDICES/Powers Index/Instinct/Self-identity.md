@@ -46,7 +46,7 @@ cssclasses:
 %%**Glossary**
 [[🎁-📚|Self-identity Terms]]%%
 
-## Goal
+# Goal
 
 > [!cleanembed]
 > ![[🎁-📝#^selfid-goal]] 
@@ -55,31 +55,18 @@ cssclasses:
 <br>
 
 > [!cleanembed]
-> ![[🎁-📝#^selfid-goalpoints]] 
-
-
-<br>
-
-> [!cleanembed]
 > ![[🎁-📝#^selfid-consider]] 
 
 
-<br>
+<hr>
 
-> [!cleanembed]
-> ![[🎁-📝#^selfid-considerpoints]] 
-
-
-## Learning Points
+# Learning Points
 
 1. Where am I?
 2. Who am I?
 3. What do I want?
 
-<hr>
-
-
-# 1. Where am I?
+## 1. Where am I?
 
 
 <div class="color-point cp1 tal">Ask this because</div>
@@ -96,16 +83,15 @@ cssclasses:
 	- showing that the ego is a mortal part of you that lasts as long as you are alive, which can be equated to subjectivity;
 	- explaining that the world's idea of "soul" is an immortal part of you that lasts forever, which can be equated to objectivity.
 
-<hr>
+### Misery Points 
 
-## Misery Points 
-ᛝ · · · Anxiety
-ᛝ · · · Disorientation
-ᛝ · · · Inflated Ego
-ᛝ · · · Disconnected
-ᛝ · · · Loneliness
-ᛝ · · · Unsupported
-## 1.1 Scale
+- Anxiety 
+- Disorientation
+- Inflated Ego
+- Disconnected
+- Loneliness
+- Unsupported
+### 1.1 Scale
 Our universe is both vast and tiny, wide and narrow, shallow and deep. You will be thrilled at how big you can be and amazed at how small you are. 
 
 When you click the Scale of the Universe 2 by [Cary Huang](https://www.htwins.net/) below, you will see an interactive scale of the universe. At the bottom of the screen, there is a scrollbar. Dragging the circle left goes deeper into the micro (small) universe. You'll see things like rice and a grain of salt. Dragging the circle right goes deeper into the macro (big) universe, where you'll see stars and galaxies. You are encouraged to go left first, then go right.
@@ -116,7 +102,7 @@ When you click the Scale of the Universe 2 by [Cary Huang](https://www.htwins.ne
 	- How do you feel after seeing that?
 	- Do you feel big, small, or free?
 
-## 1.2 Understanding Environment
+### 1.2 Understanding Environment
 Science informs that an organism can never be removed from the environment. No matter where an organism is, it exists within an environment.
 
 The environment is understood in several ways, but these are the scenes or places in which you find yourself. 
@@ -160,13 +146,13 @@ These are things that only you can perceive mentally.
 - Much more!
 
 
-## 1.3 Moral
+### 1.3 Moral
 You are never separated from love, even if you feel that you are. You cannot see the air, yet it's there. Love knows and supports you, but it pushes you to grow in ways that unite rather than divide. When the time for survival mode reaches its end, love is ready and waiting to receive you.
 
 
 <hr>
 
-# 2. Who am I?
+## 2. Who am I?
 
 <div class="color-point cp1 tal">Ask this because</div>
 
@@ -183,7 +169,7 @@ You are never separated from love, even if you feel that you are. You cannot see
 <hr>
 
 
-## Misery Points
+### Misery Points
 
 ᛝ · · · Compliant
 ᛝ · · · Unprincipled
@@ -192,7 +178,7 @@ You are never separated from love, even if you feel that you are. You cannot see
 ᛝ · · · Worthlessness
 ᛝ · · · Meaninglessness
 ᛝ · · · Performative Relationships
-## 2.1 Validation
+### 2.1 Validation
 
 ![[Validation#^validation|cleanembed]]
 
@@ -219,7 +205,7 @@ No matter what you do, the experiences you have will teach you something. The mo
 
 
 
-## 2.2 Six-String Guitar
+### 2.2 Six-String Guitar
 In the program, your self-identity is composed of 6 important aspects, and we use a six-string guitar to illustrate the understanding of how these aspects work together. Each of the below aspects, or strings, are explained later.
 
 ![[Six-String Guitar#^six-string-block|cleanembed]]
@@ -247,7 +233,7 @@ Finding what validates you is important because validation gives us the energy t
 
 You can use this chart to see what makes you feel validated. Write it down so that it's easier to remember. 
 
-## 2.3 Activities
+### 2.3 Activities
 **The Bumpy Key** 
 You are special because there is only one of you. What we are going to do now is talk about how only you fit in certain situations. What we are doing here isn't a way to exaggerate the truth, but to reveal the exact truth. This is not just an attempt to charm you. ^bumpy-key
 
@@ -303,7 +289,7 @@ Give yourself a chance to really think on this, and don't give up before you get
 
 <div class="bookend"></div>
 
-## 2.4 Moral
+### 2.4 Moral
 You are almost undefinable, but you are knowable. Just like reality, there are so many aspects to who you are, it might be impossible to know all of them. The fact is the more you know yourself, the easier you can give yourself the gift of your personal power.
 
 You matter because we need you, only most of us don’t know it.
@@ -315,7 +301,7 @@ You matter because we need you, only most of us don’t know it.
 
 
 
-# 3. What do I want?
+## 3. What do I want?
 
 <div class="color-point cp1 tal">You should ask this because</div>
 
@@ -338,7 +324,7 @@ You matter because we need you, only most of us don’t know it.
 
 <div class="bookend"></div>
 
-## 3.1 Desire
+### 3.1 Desire
 If you understand what desire is, it becomes easier to find it. 
 
 **Definition of Desire:**
@@ -357,9 +343,8 @@ What happens next? Either you are strong enough to know and accept the risks, or
 #### Finding Desire
 We can use the first two learning points for self-identity to find desire. We develop a formula that accounts for the questions you have answered already. It's called the [[Desire Formula]].
 
-#### 
 
-## 3.2 Moral
+### 3.2 Moral
 Learning what you desire is the third step. You first must learn how to desire. To learn how to desire, you must do one of two things (both at the same time is good): experience the world by taking agency and by knowing who you are so that you can gift yourself with something appropriate. 
 
 It’s like buying a gift for someone that you don’t know: you don’t know where to start, so you go the safe route and buy something practical. This is safe, but it doesn’t always work.
