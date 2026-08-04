@@ -120,15 +120,14 @@ The environment is understood in several ways, but these are the scenes or place
 
 <br>
 
-<div class="cleanembed-head tal">Love as the ultimate environment</div>
 
+> [!cleanembed-head] **Love as the ultimate environment**
+> ![[Love#^love-environ]]
 
-![[Love as the Ultimate Environment#^love-environ|cleanembed]]
-
-**Micro and macro environments**
+**Micro and macro environments**<br>
 These are the worlds that we saw stretched across the Scale of the Universe 2 presentation. These may not play an immediate role in your life, but they help to establish the rules of reality.
 
-**Immediate, external environment**
+**Immediate, external environment**<br>
 This is the parts of reality that are closest to you, such as:
 - Country
 - Culture & Tradition

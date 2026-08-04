@@ -1,0 +1,103 @@
+/*
+██████ ▄▄▄  ▄▄ ▄▄  ▄▄ ▄▄▄▄▄▄ ▄▄▄▄   ▄▄▄  ▄▄ ▄▄ 
+██▄▄  ██▀██ ██ ███▄██   ██   ██▄██ ██▀██ ▀█▄█▀ 
+██    ██▀██ ██ ██ ▀██   ██   ██▄█▀ ▀███▀ ██ ██ 
+*/
+/* USAGE:
+> [!faintbox]
+> This content is wrapped in a slightly darker faint box with 0.5rem padding, rounded corners, and no icon or title bar.
+
+> [!faintbox|title] Card Header
+> This content renders with a custom title header at the top!
+*/
+
+blockquote.callout[data-callout="faintbox"] {
+  /* Box Appearance */
+  background-color: var(--c-faintbox-bg) !important;
+  border: 1px solid var(--c-faintbox-border) !important;
+  border-radius: 8px !important;
+  box-shadow: none !important;
+  width: 100% !important;
+  margin: 1rem 0 !important;
+  padding: 0 !important;
+  overflow: hidden;
+
+  /* Hide Icon */
+  .callout-icon {
+    display: none !important;
+  }
+
+  /* Header / Title Styling */
+  .callout-title {
+    padding: 0.5rem 0.5rem 0 0.5rem !important;
+    margin: 0 !important;
+    border: none !important;
+    background: transparent !important;
+
+    .callout-title-inner p {
+      font-weight: 600 !important;
+      color: var(--c-faintbox-color) !important;
+      text-transform: uppercase !important;
+    }
+  }
+
+  /* Title Toggle Switch: Hide title container IF metadata does NOT contain 'title' */
+  &:not([data-callout-metadata*="title"]) .callout-title {
+    display: none !important;
+  }
+
+  /* Inner Transclude Resets */
+  blockquote.transclude,
+  .transclude-inner,
+  .callout-content {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 0.5rem 0.5rem 0.5rem!important; /* 0.5rem padding for callout content */
+    margin: 0 !important;
+    overflow: visible !important;
+
+    /* Paragraph Normalization */
+    p {
+      margin-block-start: 0 !important;
+      margin-block-end: 0.5rem !important;
+      padding: 0 !important;
+      color: var(--dark, inherit);
+      line-height: var(--line-height-normal, 1.5);
+
+      /* Eliminates margin on the final paragraph */
+      &:last-of-type,
+      &:last-child {
+        margin-bottom: 0 !important;
+        margin-block-end: 0 !important;
+      }
+
+      /* Strips empty <p> tags and single <br> paragraphs */
+      &:empty,
+      &:has(> br:only-child):not(:only-child) {
+        display: none !important;
+      }
+    }
+
+    /* List Resets - Flushes top/bottom spacing */
+    :is(ul, ol) {
+      margin-top: 0 !important;
+      margin-right: 0 !important;
+      margin-bottom: 0 !important;
+      margin-left: 0 !important;
+      padding-inline-start: 1.5rem !important;
+
+      &:last-child {
+        margin-bottom: 0 !important;
+      }
+    }
+
+    li {
+      line-height: var(--line-height-normal, 1.5);
+
+      &:last-child {
+        margin-bottom: 0 !important;
+      }
+    }
+  }
+}

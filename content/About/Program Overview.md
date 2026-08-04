@@ -39,7 +39,7 @@ Books and videos cannot work through your personal issues because they say the s
 The program is structured to respect your energy and time. We move away from lectures and focus on active, practical, and, ultimately, interactive sessions. 
 
 ## Modular 
-Each of the abilities in your personal powers is examined in practical supplemental material provided for free on this website. Look in the Site Explorer under "Power Modules".
+Each of the abilities in your personal powers is examined in practical supplemental material provided for free on this website here: [[Power Modules]].
 
 Each Power Module focuses on one aspect at a time to maintain focus and reduce feeling overwhelmed. You are given solid ground to stand on before moving forward.
 

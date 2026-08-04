@@ -166,6 +166,31 @@ blockquote.callout p:empty,
   display: none !important;
 }
 
+
+/*
+██     ▄▄  ▄▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄ 
+██     ██ ███▄▄   ██  ███▄▄ 
+██████ ██ ▄▄██▀   ██  ▄▄██▀ 
+*/
+#quartz-body {
+  :is(ul, ol) {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+}
+/*
+█████▄  ▄▄▄  ▄▄▄▄   ▄▄▄   ▄▄▄▄ ▄▄▄▄   ▄▄▄  ▄▄▄▄  ▄▄ ▄▄  ▄▄▄▄ 
+██▄▄█▀ ██▀██ ██▄█▄ ██▀██ ██ ▄▄ ██▄█▄ ██▀██ ██▄█▀ ██▄██ ███▄▄ 
+██     ██▀██ ██ ██ ██▀██ ▀███▀ ██ ██ ██▀██ ██    ██ ██ ▄▄██▀ 
+*/
+
+#quartz-body {
+  :is(p) {
+    margin-block-end: var(--c-p-spacing, 1rem) !important;
+    margin-bottom: var(--c-p-spacing, 1rem) !important;
+  }
+}
+
 /*
 ▄█████ ▄▄▄▄▄  ▄▄▄  ▄▄▄▄   ▄▄▄▄ ▄▄ ▄▄ 
 ▀▀▀▄▄▄ ██▄▄  ██▀██ ██▄█▄ ██▀▀▀ ██▄██ 
@@ -178,4 +203,30 @@ blockquote.callout p:empty,
   a[href*="hide-search"] {
     display: none !important;
   }
+}
+
+/*
+██████ ▄▄▄▄   ▄▄▄  ▄▄  ▄▄  ▄▄▄▄  ▄▄▄▄ ▄▄    ▄▄ ▄▄ ▄▄▄▄  ▄▄▄▄▄ 
+  ██   ██▄█▄ ██▀██ ███▄██ ███▄▄ ██▀▀▀ ██    ██ ██ ██▀██ ██▄▄  
+  ██   ██ ██ ██▀██ ██ ▀██ ▄▄██▀ ▀████ ██▄▄▄ ▀███▀ ████▀ ██▄▄▄ 
+*/
+/* --- Global Transclude Reset (Hides Quartz source link & strips outer blockquote margins) --- */
+blockquote.transclude {
+  margin: 0 !important;
+  margin-block-start: 0 !important;
+  margin-block-end: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 0 !important;
+  padding-block-start: 0 !important;
+  padding-block-end: 0 !important;
+}
+
+/* Zero out margins on all paragraphs inside ANY transclude globally */
+#quartz-body blockquote.transclude p {
+  margin-block-start: 0 !important;
+  margin-block-end: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 0 !important;
 }
