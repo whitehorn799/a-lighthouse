@@ -6,7 +6,7 @@ unlisted: false
 tags:
 aliases:
 date: July 29, 2026 14:13
-lastmod: July 29, 2026 14:14
+lastmod: August 04, 2026 18:14
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -61,10 +61,36 @@ cssclasses:
 <hr>
 
 # Learning Points
+These are the focus of this lesson. Just under the questions are the [[Misery Points]], what you might feel if you haven't answered these questions.
 
-1. Where am I?
-2. Who am I?
-3. What do I want?
+1. <div class="color-point cp1 tal">Where am I?</div>
+
+	- Anxiety
+	- Disorientation
+	- Inflated Ego
+	- Disconnected
+	- Loneliness
+	- Unsupported
+2. <div class="color-point cp1 tal">Who am I?</div>
+
+	- Compliant
+	- Unprincipled
+	- Easily Manipulated
+	- Helplessness
+	- Worthlessness
+	- Meaninglessness
+	- Performative Relationships
+
+3. <div class="color-point cp1 tal">What do I want?</div>
+
+	- Resentment
+	- Apathy
+	- Envy
+	- Chronic Burnout
+	- Existential Drift
+
+
+<hr>
 
 ## 1. Where am I?
 
@@ -83,21 +109,12 @@ cssclasses:
 	- showing that the ego is a mortal part of you that lasts as long as you are alive, which can be equated to subjectivity;
 	- explaining that the world's idea of "soul" is an immortal part of you that lasts forever, which can be equated to objectivity.
 
-### Misery Points 
 
-- Anxiety 
-- Disorientation
-- Inflated Ego
-- Disconnected
-- Loneliness
-- Unsupported
 ### 1.1 Scale
+
 Our universe is both vast and tiny, wide and narrow, shallow and deep. You will be thrilled at how big you can be and amazed at how small you are. 
 
 When you click the Scale of the Universe 2 by [Cary Huang](https://www.htwins.net/) below, you will see an interactive scale of the universe. At the bottom of the screen, there is a scrollbar. Dragging the circle left goes deeper into the micro (small) universe. You'll see things like rice and a grain of salt. Dragging the circle right goes deeper into the macro (big) universe, where you'll see stars and galaxies. You are encouraged to go left first, then go right.
-
-<br>
-
 - [Scale of the Universe 2](https://htwins.net/scale2/)
 	- How do you feel after seeing that?
 	- Do you feel big, small, or free?
@@ -108,6 +125,8 @@ Science informs that an organism can never be removed from the environment. No m
 The environment is understood in several ways, but these are the scenes or places in which you find yourself. 
 
 The environment is understood in several ways, but these are the scenes or places in which you find yourself. 
+
+<br>
 
 **Environment Outline**
 - Love as the Ultimate Environment
@@ -124,11 +143,14 @@ The environment is understood in several ways, but these are the scenes or place
 > [!cleanembed-head] **Love as the ultimate environment**
 > ![[Love#^love-environ]]
 
+
+
 **Micro and macro environments**<br>
 These are the worlds that we saw stretched across the Scale of the Universe 2 presentation. These may not play an immediate role in your life, but they help to establish the rules of reality.
 
 **Immediate, external environment**<br>
 This is the parts of reality that are closest to you, such as:
+
 - Country
 - Culture & Tradition
 - Climate
@@ -136,7 +158,7 @@ This is the parts of reality that are closest to you, such as:
 - Career
 - Everything else!
 
-**Internal environment**
+**Internal environment**<br>
 These are things that only you can perceive mentally.
 - Private Reality
 - Intuition & Imagination
@@ -167,16 +189,6 @@ You are never separated from love, even if you feel that you are. You cannot see
 
 <hr>
 
-
-### Misery Points
-
-ᛝ · · · Compliant
-ᛝ · · · Unprincipled
-ᛝ · · · Easily Manipulated
-ᛝ · · · Helplessness
-ᛝ · · · Worthlessness
-ᛝ · · · Meaninglessness
-ᛝ · · · Performative Relationships
 ### 2.1 Validation
 
 ![[Validation#^validation|cleanembed]]
@@ -310,16 +322,6 @@ You matter because we need you, only most of us don’t know it.
 4. It uncovers the traps that will slow your pace and the states that define it.
 
 
-<div class="misery-point">MISERY POINTS</div>
-
-<div class="misery-point-neglect"></div>
-
-
-ᛝ · · · Resentment
-ᛝ · · · Apathy (The Gray State)
-ᛝ · · · Envy
-ᛝ · · · Chronic Burnout
-ᛝ · · · Existential Drift
 
 <div class="bookend"></div>
 

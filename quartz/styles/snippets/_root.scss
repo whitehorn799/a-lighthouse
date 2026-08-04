@@ -129,6 +129,14 @@
 ██▄▄   ██▄▄  ██▀██  ██   ██ ██ ██▄█▄ ██▄▄  ███▄▄ 
 ██     ██▄▄▄ ██▀██  ██   ▀███▀ ██ ██ ██▄▄▄ ▄▄██▀ 
 */
+  /*
+  ▄████▄  ▄▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄   ▄▄▄  ▄▄ ▄▄ 
+  ██▄▄██ ██▀▀▀   ██   ██▄██ ██▀██ ▀█▄█▀ 
+  ██  ██ ▀████   ██   ██▄█▀ ▀███▀ ██ ██ 
+  */
+    --c-actbox-bg:                            rgba(var(--soft-linen), 0.25);
+    --c-actbox-border:                        rgba(var(--dusk-blue), 0.3);
+    --c-actbox-color:                         rgba(var(--dusk-blue), 1);
 
   /*
   ▄████▄ ▄▄  ▄▄ ▄▄  ▄▄  ▄▄▄  ▄▄ ▄▄ ▄▄  ▄▄  ▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄▄ 
@@ -190,8 +198,6 @@
     --c-cleanembed-head-font:             var(--c-font-family);
     --c-cleanembed-head-font-size:        var(--c-font-size);
     --c-cleanembed-head-font-weight:      calc(var(--c-font-weight) + 200);
-    --c-cleanembed-br-spacing:            var(--c-p-spacing);
-
 /*
 ▄█████  ▄▄▄  ▄▄     ▄▄▄  ▄▄▄▄    █████▄  ▄▄▄  ▄▄ ▄▄  ▄▄ ▄▄▄▄▄▄ ▄▄▄▄ 
 ██     ██▀██ ██    ██▀██ ██▄█▄   ██▄▄█▀ ██▀██ ██ ███▄██   ██  ███▄▄ 
