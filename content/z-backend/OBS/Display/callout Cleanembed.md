@@ -6,5 +6,5 @@ This is a stealth embed with a block reference without links.
 ^socrates-know-context
 
 This is also a stealth embed, but with a title.
-> [!cleanembed-head] Stelth
+> [!cleanembed-title] Stealth
 > ![[Socrates#^socrates-know]]

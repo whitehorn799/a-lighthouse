@@ -9,7 +9,7 @@
    > ![[Note#^block-id]]
 
    USAGE 2: Stealth Embed with Title (Has Title, No Icon, No Border)
-   > [!cleanembed-head] Title Text Here
+   > [!cleanembed-title] Title Text Here
    > ![[Note#^block-id]]
 */
 /* --- Global Transclude Reset (Hides the Quartz source link globally) --- */
@@ -19,8 +19,8 @@ blockquote.transclude .transclude-src {
   display: none !important;
 }
 
-/* --- Shared Base Resets for both .cleanembed and .cleanembed-head --- */
-blockquote.callout:is([data-callout="cleanembed"], [data-callout="cleanembed-head"]) {
+/* --- Shared Base Resets for both .cleanembed and .cleanembed-title --- */
+blockquote.callout:is([data-callout="cleanembed"], [data-callout="cleanembed-title"]) {
   /* Container Resets (Strips Quartz default callout/blockquote styling) */
   margin: 0 !important;
   padding: 0 !important;
@@ -111,10 +111,10 @@ blockquote.callout[data-callout="cleanembed"] {
 }
 
 /* -------------------------------------------------------------------------
- 2. [!cleanembed-head] — Stealth with Header
+ 2. [!cleanembed-title] — Stealth with Header
  -------------------------------------------------------------------------
 */
-blockquote.callout[data-callout="cleanembed-head"] {
+blockquote.callout[data-callout="cleanembed-title"] {
   > .callout-title {
     display: block !important;
     margin: 0 !important;
@@ -130,17 +130,17 @@ blockquote.callout[data-callout="cleanembed-head"] {
     /* Header Typography */
     .callout-title-inner {
       color: var(--c-cleanembed-color, inherit);
-      font-weight: var(--c-cleanembed-head-font-weight, 600);
-      font-size: var(--c-cleanembed-head-font-size, 1.1rem);
-      font-family: var(--c-cleanembed-head-font-family, inherit);
+      font-weight: var(--c-cleanembed-title-font-weight, 600);
+      font-size: var(--c-cleanembed-title-font-size, 1.1rem);
+      font-family: var(--c-cleanembed-title-font-family, inherit);
       text-align: var(--ta-align, left);
       padding: 0 !important;
     }
   }
 }
 
-/* Target title paragraphs inside cleanembed-head with ID-level specificity */
-#quartz-body blockquote.callout[data-callout="cleanembed-head"] {
+/* Target title paragraphs inside cleanembed-title with ID-level specificity */
+#quartz-body blockquote.callout[data-callout="cleanembed-title"] {
   .callout-title p,
   .callout-title-inner p {
     margin: 0 !important;
@@ -150,4 +150,9 @@ blockquote.callout[data-callout="cleanembed-head"] {
     margin-bottom: 0 !important;
     padding: 0 !important;
   }
+}
+
+#quartz-body .callout:is([data-callout="cleanembed"], [data-callout="cleanembed-title"]) .table-container {
+  margin: 0 !important;
+  padding: 0 !important;
 }

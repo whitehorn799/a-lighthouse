@@ -12,18 +12,20 @@ cssclasses:
 ---
 
 
-> [!warning] Work in Progress
-> This page is [[unfinished]]. Please check back later!
-
+# H
+[[Human Tree Analogy]]
+- [[Self-identity#^human-tree-context-1|Context]]
 
 # O 
 [[The One-Finned Fish]]
 - [[Perspective#^forest|Context]]
 
 
-# Note
-> [!info|scimitar sheath]
-> Click the box to learn more about the context.
+# T
+[[The Gift Analogy]]
+- [[Therapy#Commentary|Context]]
+
+
 
 
 [[Forest for the Trees]]: 

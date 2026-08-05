@@ -25,13 +25,17 @@
   margin-block-start: var(--c-invisiblock-margin-start) !important;
   margin-block-end: var(--c-invisiblock-margin-end) !important;
 
-  /* Title Styling */
-  .callout-title {
+  /* Title Styling & Direct Text Overrides */
+  .callout-title,
+  .callout-title-inner,
+  .callout-title-inner p,
+  .callout-title p {
     font-family: var(--c-invisiblock-font-family) !important;
     font-size: var(--c-invisiblock-font-size) !important;
     font-weight: var(--c-invisiblock-font-weight) !important;
     color: var(--c-invisiblock-color) !important;
     padding: 0 !important;
+    margin: 0 !important;
   }
 
   /* Hide Icon */
@@ -76,11 +80,23 @@
   }
 
   /* ========================================================================= */
-  /* TITLE TOGGLE SWITCH                                                        */
+  /* TITLE TOGGLE SWITCH                                                       */
   /* ========================================================================= */
   
   /* Hides the title bar IF metadata does NOT contain 'title' AND title is empty/default */
   &:not([data-callout-metadata*="title"]) .callout-title {
     display: none !important;
   }
+}
+
+/* =========================================================================
+   INVISIBLOCK TITLE SPECIFICITY OVERRIDE (UNNESTED)
+   ========================================================================= */
+#quartz-body .callout[data-callout="invisiblock"] :is(.callout-title, .callout-title-inner, .callout-title-inner p, .callout-title p) {
+  font-family: var(--c-invisiblock-font-family) !important;
+  font-size: var(--c-invisiblock-font-size) !important;
+  font-weight: var(--c-invisiblock-title-weight) !important;
+  color: var(--c-invisiblock-title-color) !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }

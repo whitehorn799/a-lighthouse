@@ -6,7 +6,7 @@ unlisted: false
 tags:
 aliases:
 date: July 29, 2026 14:13
-lastmod: August 04, 2026 18:14
+lastmod: August 05, 2026 14:50
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -110,7 +110,8 @@ These are the focus of this lesson. Just under the questions are the [[Misery Po
 	- explaining that the world's idea of "soul" is an immortal part of you that lasts forever, which can be equated to objectivity.
 
 
-### 1.1 Scale
+### 1.1 Activity: Scale
+^universe-scale
 
 Our universe is both vast and tiny, wide and narrow, shallow and deep. You will be thrilled at how big you can be and amazed at how small you are. 
 
@@ -124,10 +125,6 @@ Science informs that an organism can never be removed from the environment. No m
 
 The environment is understood in several ways, but these are the scenes or places in which you find yourself. 
 
-The environment is understood in several ways, but these are the scenes or places in which you find yourself. 
-
-<br>
-
 **Environment Outline**
 - Love as the Ultimate Environment
 	- Micro and Macro Environments
@@ -140,7 +137,7 @@ The environment is understood in several ways, but these are the scenes or place
 <br>
 
 
-> [!cleanembed-head] **Love as the ultimate environment**
+> [!cleanembed-title] **Love as the ultimate environment**
 > ![[Love#^love-environ]]
 
 
@@ -204,8 +201,12 @@ A person stands between an internal and external world. We can picture these rel
 > [!breakout] BREAKOUT!
 > [[Self-identity Cross#^cross-breakout|>>>]]
 
-#### For the Inexperienced
-If you are a young person, knowing who you are can start any time you are ready to ask these questions. Science suggests that the human brain doesn't fully develop until you are 25 years old. If you've lived a sheltered life, sitting into complacency can feel like quicksand. You sit still because it feels like moving is dangerous. If you don't move, eventually you will just sink. 
+#### For Youngsters and the Sheltered
+If you are a young person, knowing who you are can start any time you are ready to ask these questions. Science suggests that the human brain doesn't fully develop until you are 25 years old. 
+
+Whether you are young or you don't have much experience with life, existence can become a drag. That's because you have grown comfortable with the status quo; you've hit a happy medium. When you start thinking of getting out there in life, you remember the pain it causes. 
+
+Therefore, you avoid activity because it feels like moving is dangerous, but this mindset is like being in quicksand. If you don't move, eventually you will just sink. 
 
 The existential questions asked regarding self-identity are heavy. Sometimes, the reality is that it takes time and experiences to discover the answers for yourself. Before your self-identity is realized, it's a good idea to involve yourself in various activities. 
 
@@ -220,84 +221,41 @@ No matter what you do, the experiences you have will teach you something. The mo
 ### 2.2 Six-String Guitar
 In the program, your self-identity is composed of 6 important aspects, and we use a six-string guitar to illustrate the understanding of how these aspects work together. Each of the below aspects, or strings, are explained later.
 
-![[Six-String Guitar#^six-string-block|cleanembed]]
 
+> [!cleanembed]
+> ![[Six-String Guitar#^six-string-block]]
 
+^six-string-context-1
+
+<br>
 
 > [!breakout] Breakout! 
 > [[Six-String Guitar#^six-string-breakout|>>>]] 
+> 
+#### Locus of Control
+Remember, the [[locus of control]] describes how you seek [[validation]], from the external or internal world. It's called the locus of "control" because it gives control over your mental state to the internal world (you) or the external worlds (other people and events). <br><br>
 
 
-
-<div class="bookend"></div>
-
-###### Locus of Control
-Remember, the [[Locus of Control|locus of control]] describes how you seek [[Validation|validation]], from the external or internal world. It's called the locus of "control" because it gives control over your mental state to the internal world (you) or the external worlds (other people and events). <br><br>
-
-
-<div class="color-point cp1 tal">How to Find Your Locus of Control</div> 
-
+**How to Find Your Locus of Control**<br>
 Finding what validates you is important because validation gives us the energy to keep going. Think about moving through a room, but no one looks at or engages you. Depending on your locus of control, you could feel fine or like a ghost. 
 
-![[Absolute vs. Relative Self#^absolute-relative-chart|cleanembed]]
+<br>
+<div class="color-point cp1 tac">Absolute vs. Relative Self Chart</div>
+
+> [!cleanembed] 
+> ![[Absolute vs. Relative Self#^absolute-relative-chart]]
+
+
+
+^xxx
 
 You can use this chart to see what makes you feel validated. Write it down so that it's easier to remember. 
 
 ### 2.3 Activities
-**The Bumpy Key** 
-You are special because there is only one of you. What we are going to do now is talk about how only you fit in certain situations. What we are doing here isn't a way to exaggerate the truth, but to reveal the exact truth. This is not just an attempt to charm you. ^bumpy-key
+- [[Bumpy Key]]
+- [[Belief, Flaw, Purpose]]
+- [[Robot Copy]]
 
-- Think of an ordinary key. It has weird, irregular bumps along the length of it. This combination of peaks and valleys fits a certain lock, and if they don’t match exactly, the lock remains locked. 
-- Now, imagine that the key is you. 
-- Can you explain how this key and lock symbolizes why you matter to the world?
-
-Take a moment to think on it. What is the purpose of a key and a lock? When you are ready, reveal my opinion below.
-
-> [!info|piranha-header p6]- One Opinion
-> The lock symbolizes your purpose in life. All of those weird bumps and valleys on the key represent your uniqueness: how you think, what you do, your natural talents, your skills, and more. Only that specific configuration of bumps or uniqueness fit that lock. Only you can do the things that certain people need in certain situations. No matter what you do, you will be there when you are needed, and you will easily fill the role. It's life; that can't be avoided. However, don't convince yourself that this is not true for you. That is the trap, and that is completely avoidable. 
-
-<div class="bookend"></div>
-
-
-**Belief, Flaw, Purpose** 
-This short exercise is not enough to tell you exactly who you are, but it teaches you how to start. This question is so difficult that it might take people their whole lives to understand it. Don’t feel bad if you feel like you still don’t know. The best way to search for the answers is to sit in silence, remove distractions, and ask yourself questions about yourself. ^belief-flaw
-- What do I like?
-- What do I dislike?
-- What do I believe?
-- Who can I trust?
-
-The answers can bring clarity of thought, especially if you remember them!
-- Write down:
-	- one secret belief you have, even if no one else believes it,
-	- a flaw that you love about yourself,
-	- and one purpose that you have.
-- Now, suppose you are a colorful painting. Your colors are made up of what you wrote down: your belief, your flaw, and your purpose.
-- What does that look like?
-
-As we go into the next exercise, the question you face might seem insensitive. However, this is just an exercise! We are asking this question so that you know the answer.
-
-Don't filter your thoughts. Allow yourself to think openly, and don't be negative toward what thoughts come up. Be honest with yourself and follow your instinct for this exercise. Say what you feel, and when you do that, you will notice a release of pressure and a sense of being heard.
-
-<div class="bookend"></div>
-
-**Robot Copy** ^robot-copy
-- Think of an ordinary pencil with your name on it. If you lose that pencil, you can replace it with another because it does the same job. 
-- What about you? Suppose there is a robot that copies you exactly.
-- The next question might seem insensitive, but it's asked with respect. We are exploring, therefore, don't filter your thoughts. Be honest, and feel free to say what comes to mind.
-<br>
-
-
-<div class="goldpoint-center-hearts">Why does the world need you?</div> 
-
-Give yourself a chance to really think on this, and don't give up before you get a meaningful answer. Find a quiet place, turn off your phone, ask yourself this question, and listen to what comes. Don't worry about being wrong or right; just say what your answer is. When you are ready, click on the "One Opinion" line below to hear my answer.
-
-> [!info|piranha-header p6]- One Opinion
-> The robot will have its own experiences and thoughts as time changes it. It might make decisions that I might not make. Machines can’t have emotions, only logic. They have no needs. They might be knowledgeable but not skillful. 
-> 
-> Whatever beliefs, flaws, or purpose you choose, those represent you. You are the painting, and those are the colors. If you change even one of those colors, your painting would look different, and you would be a different version of you. While this lesson cannot tell you who you are, it gives you the tools to find how you are made special.
-
-
-<div class="bookend"></div>
 
 ### 2.4 Moral
 You are almost undefinable, but you are knowable. Just like reality, there are so many aspects to who you are, it might be impossible to know all of them. The fact is the more you know yourself, the easier you can give yourself the gift of your personal power.
@@ -305,15 +263,11 @@ You are almost undefinable, but you are knowable. Just like reality, there are s
 You matter because we need you, only most of us don’t know it.
 
 
-<div class="sectend"></div>
-
 <hr>
-
-
 
 ## 3. What do I want?
 
-<div class="color-point cp1 tal">You should ask this because</div>
+<div class="color-point cp1 tal">Ask this because</div>
 
 1. It reveals what you truly want and encourages to realize your dream, not the social one.
 2. It teaches that true desire is active, creative, and full of challenges.
@@ -322,47 +276,41 @@ You matter because we need you, only most of us don’t know it.
 
 
 
-<div class="bookend"></div>
-
 ### 3.1 Desire
 If you understand what desire is, it becomes easier to find it. 
 
-**Definition of Desire:**
-![[Desire#^desire|cleanembed]]
+
+> [!cleanembed-title] **Definition of Desire**
+> ![[Desire#^definition]]
+
+^desire-context-1
 
 <br>
 
-![[Desire#^desire-pains|cleanembed]]
+> [!cleanembed]
+> ![[Desire#^desire-pains]]
 
-
+#### Traps and States
 What happens next? Either you are strong enough to know and accept the risks, or you fall into [[Traps]] or [[States]], for better or worse.
 
+### 3.2 Finding Desire
+We can use the first two learning points for self-identity to find desire. We develop a formula that accounts for the questions you have answered already. It's called the desire formula.
 
-<div class="bookend"></div>
-
-#### Finding Desire
-We can use the first two learning points for self-identity to find desire. We develop a formula that accounts for the questions you have answered already. It's called the [[Desire Formula]].
-
-
-### 3.2 Moral
+> [!breakout] BREAKOUT!
+> [[Desire Formula|>>>]]
+### 3.3 Moral
 Learning what you desire is the third step. You first must learn how to desire. To learn how to desire, you must do one of two things (both at the same time is good): experience the world by taking agency and by knowing who you are so that you can gift yourself with something appropriate. 
 
 It’s like buying a gift for someone that you don’t know: you don’t know where to start, so you go the safe route and buy something practical. This is safe, but it doesn’t always work.
 
-
-<div class="sectend"></div>
 
 <hr>
 
 # Conclusion
 By now, you may see a pattern developing: be human, be you, and involve yourself in the world. Everyone has their own reality; they wish for it to be real, but reality only reflects what happens, not dreams. When we try, we are met with friction: the stress of effort, the sting of failure, and the drain of disappointment. We see those as mistakes that set us back, but they are the steps that teach. We learn what is best for us, what doesn’t fit us, and we grow from that. 
 
-**Human Tree Analogy**
-![[Human Tree#^human-tree|cleanembed]]
+> [!cleanembed-title] Human Tree Analogy
+> ![[Human Tree Analogy#^human-tree]]
 
-%%
-[[xxx#^def|Definition]]
-[[xxx#^mor|Moral]]
-[[xxx#^mne|Mnemonic]]
-%%
+^human-tree-context-1
 

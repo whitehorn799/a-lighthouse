@@ -1,2 +1,2 @@
-> [!info|breakout] BREAKOUT!
+> [!breakout] BREAKOUT!
 > [[xxx#^xxx|>>>]]

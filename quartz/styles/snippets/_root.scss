@@ -204,10 +204,10 @@
     --c-cleanembed-font-family:           var(--c-font-family);
     --c-cleanembed-font-size:             var(--c-font-size);
     --c-cleanembed-font-weight:           var(--c-font-weight); 
-    --c-cleanembed-head-color:            var(--c-body-color);
-    --c-cleanembed-head-font:             var(--c-font-family);
-    --c-cleanembed-head-font-size:        var(--c-font-size);
-    --c-cleanembed-head-font-weight:      calc(var(--c-font-weight) + 200);
+    --c-cleanembed-title-color:            var(--c-body-color);
+    --c-cleanembed-title-font:             var(--c-font-family);
+    --c-cleanembed-title-font-size:        var(--c-font-size);
+    --c-cleanembed-title-font-weight:      calc(var(--c-font-weight) + 200);
 /*
 ▄█████  ▄▄▄  ▄▄     ▄▄▄  ▄▄▄▄    █████▄  ▄▄▄  ▄▄ ▄▄  ▄▄ ▄▄▄▄▄▄ ▄▄▄▄ 
 ██     ██▀██ ██    ██▀██ ██▄█▄   ██▄▄█▀ ██▀██ ██ ███▄██   ██  ███▄▄ 
@@ -241,10 +241,12 @@
 ██ ███▄██ ██▄██ ██ ███▄▄ ██ ██▄██ ██    ██▀██ ██▀▀▀ ██▄█▀ 
 ██ ██ ▀██  ▀█▀  ██ ▄▄██▀ ██ ██▄█▀ ██▄▄▄ ▀███▀ ▀████ ██ ██ 
 */
-  --c-invisiblock-font-family:              inherit;
+  --c-invisiblock-font-family:              var(--c-font-body);
   --c-invisiblock-font-size:                1rem;
   --c-invisiblock-font-weight:              400;
-  --c-invisiblock-color:                    inherit;
+  --c-invisiblock-color:                    var(--c-body-color);
+  --c-invisiblock-title-color:              rgba(var(--dusk-blue),1);
+  --c-invisiblock-title-weight:             600;
   --c-invisiblock-margins:                  0;
   --c-invisiblock-margin-start:             0;
   --c-invisiblock-margin-end:               0rem;

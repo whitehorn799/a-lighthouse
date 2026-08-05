@@ -103,7 +103,22 @@ body .popover-hint {
   cursor: default !important;     /* Changes cursor from hand pointer to default arrow */
   text-decoration: none !important;
 }
+.breadcrumb-container {
+    gap: 0rem !important;  
+}
 
+/* =========================================================================
+   High Specificity Overrides (Must sit outside the main block)
+   ========================================================================= */
+#quartz-body .breadcrumb-element p {
+  color: var(--c-breadcrumbs-separator-color) !important;
+  font-size: var(--c-breadcrumbs-font-size) !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  text-align: center !important;
+  margin: 0 auto !important;
+  padding: 0 0.5rem !important;
+}
 
 /*
 ██  ██ ▄▄▄▄▄  ▄▄▄  ▄▄▄▄  ▄▄▄▄▄ ▄▄▄▄   ▄▄▄▄ 
