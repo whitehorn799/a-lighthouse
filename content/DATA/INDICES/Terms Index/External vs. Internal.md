@@ -13,7 +13,7 @@ This is in regard to locus of control or self-validation when considering the re
 >
 > If you are firmly based in the internal world, you give control over your validation to yourself. By doing so, you rely on the deep, personal connection to your "soul", or your core being on an existential level. You may feel deep, meaningful connections with your purpose in life, people, and places. You may have a very wide perspective on the external world. 
 > 
-> In this program, this is illustrated as a [[Self-Identity Cross|vertical movement]], a transcendence above the external world or an immanence with it. It's a feature of the "absolute self".
+> In this program, this is illustrated as a [[Self-identity Cross|vertical movement]], a transcendence above the external world or an immanence with it. It's a feature of the "absolute self".
 > 
 > <div class="redpoint">External</div>
 > 
@@ -21,5 +21,5 @@ This is in regard to locus of control or self-validation when considering the re
 > 
 > If you are entirely based in the external world, you give control over your validation to the people around you and the events in your life. You may be an ego-driven person, and you may have a narrow perspective on the world. You value merit, recognition, and competition. You get validation from material rewards, such as praise, reputation, or possessions.  
 > 
-> In the program, this is a [[Self-Identity Cross|lateral movement]] because it symbolizes interactions with events and otherwise [[Equal-but-different|equal-but-different]] people. It's a feature of the "relative self".
+> In the program, this is a [[Self-identity Cross|lateral movement]] because it symbolizes interactions with events and otherwise [[Equal-but-different|equal-but-different]] people. It's a feature of the "relative self".
 > ^external-internal-block

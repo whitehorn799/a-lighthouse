@@ -1,0 +1,141 @@
+/*
+█████▄ ▄▄▄▄  ▄▄▄▄▄  ▄▄▄  ▄▄ ▄▄  ▄▄▄  ▄▄ ▄▄ ▄▄▄▄▄▄ 
+██▄▄██ ██▄█▄ ██▄▄  ██▀██ ██▄█▀ ██▀██ ██ ██   ██   
+██▄▄█▀ ██ ██ ██▄▄▄ ██▀██ ██ ██ ▀███▀ ▀███▀   ██   
+*/
+/* USAGE:
+> [!info|breakout] BREAKOUT!
+> [[xxx#^xxx|>>>]]
+*/
+/* =========================================================================
+   1. BASE CALLOUT STYLES
+   ========================================================================= */
+#quartz-body .callout[data-callout="breakout"] {
+  display: block !important;
+  clear: both !important;
+
+  /* Centered Block Sizing & Spacing */
+  width: 35% !important;
+  min-width: 160px !important;
+  max-width: 35% !important;
+  margin: 1.5rem auto 2rem auto !important;
+
+  background-color: var(--c-breakout-bg) !important;
+  border: 1px solid var(--c-breakout-border) !important;
+  border-radius: 6px !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+  overflow-x: hidden !important;
+  overflow-y: visible !important;
+
+  /* Hide callout icon */
+  .callout-icon {
+    display: none !important;
+  }
+
+  /* Title Container */
+  .callout-title {
+    background-color: var(--c-breakout-title-bg) !important;
+    border-radius: 5px 5px 0 0 !important;
+    padding: 0.1rem !important;
+    margin: 0 auto !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    justify-content: center !important;
+    box-sizing: border-box !important;
+  }
+
+  /* Inner Title Text */
+  .callout-title-inner {
+    background-color: var(--c-breakout-title-bg) !important;
+    font-family: var(--c-font-family) !important;
+    font-size: calc(var(--c-font-size) * 0.8) !important;
+    text-transform: uppercase !important;
+    text-align: center !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
+  }
+
+  /* Content Pseudo-header Banner */
+  .callout-content {
+    box-sizing: border-box !important;
+    overflow-x: hidden !important;
+
+    &::before {
+      display: block;
+      font-family: var(--c-font-family) !important;
+      font-size: calc(var(--c-font-size) * 0.8) !important;
+      font-weight: 400 !important;
+      color: var(--c-body-color) !important;
+      margin: 0 auto !important;
+      padding: 0.4rem 0 0 !important;
+      text-align: center !important;
+      content: "There is more to this!";
+    }
+
+    /* Paragraph Overrides */
+    p {
+      --c-p-margin-end-pp: 0;
+      --c-p-margin-start-pp: 0;
+
+      margin-block-start: var(--c-p-margin-start-pp) !important;
+      margin-block-end: var(--c-p-margin-end-pp) !important;
+      font-family: var(--c-font-family) !important;
+      font-size: calc(var(--c-font-size) * 0.8) !important;
+      font-weight: 400 !important;
+      color: rgba(var(--raisin-black), 1);
+      padding-bottom: 0rem !important;
+      text-align: center !important;
+    }
+
+    /* Out-specifying Markdown wrapper nodes */
+    > :is(div:has(p), div.el-p, div) :is(p, text) {
+      --c-p-margin-end-pp: 0;
+      --c-p-margin-start-pp: 0;
+      margin-block-start: var(--c-p-margin-start-pp) !important;
+      margin-block-end: var(--c-p-margin-end-pp) !important;
+    }
+  }
+}
+
+/* =========================================================================
+   2. UNNESTED HEADER & SIBLING OVERRIDES
+   ========================================================================= */
+
+/* Ensure all subsequent headers clear the callout entirely */
+#quartz-body .callout[data-callout="breakout"] ~ :is(h1, h2, h3, h4, h5, h6, .heading-wrapper) {
+  clear: both !important;
+  display: block !important;
+}
+
+/* Force padding space above a heading that directly follows the callout */
+#quartz-body .callout[data-callout="breakout"] + :is(h1, h2, h3, h4, h5, h6, .heading-wrapper) {
+  padding-top: 2.5rem !important;
+  margin-top: 0 !important;
+}
+
+/* Fallback top margin for direct non-heading siblings */
+#quartz-body .callout[data-callout="breakout"] + :not(h1, h2, h3, h4, h5, h6, .heading-wrapper) {
+  margin-top: 2rem !important;
+}
+
+/* =========================================================================
+   3. HIGH SPECIFICITY OVERRIDES
+   ========================================================================= */
+#quartz-body blockquote.callout[data-callout="breakout"] {
+  /* Reset Quartz blockquote inline margins */
+  margin-inline-start: auto !important;
+  margin-inline-end: auto !important;
+  margin-inline: auto !important;
+
+  .callout-title-inner,
+  .callout-title-inner p,
+  .callout-title p {
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    text-align: center !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    color: var(--c-breakout-title-color) !important;
+  }
+}

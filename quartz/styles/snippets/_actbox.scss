@@ -102,6 +102,26 @@ blockquote.callout[data-callout="actbox"] {
     }
   }
 }
+/* =========================================================================
+   2. UNNESTED HEADER & SIBLING OVERRIDES
+   ========================================================================= */
+
+/* Ensure all subsequent headers clear the callout entirely */
+#quartz-body .callout[data-callout="actbox"] ~ :is(h1, h2, h3, h4, h5, h6, .heading-wrapper) {
+  clear: both !important;
+  display: block !important;
+}
+
+/* Force padding space above a heading that directly follows the callout */
+#quartz-body .callout[data-callout="actbox"] + :is(h1, h2, h3, h4, h5, h6, .heading-wrapper) {
+  padding-top: 2.5rem !important;
+  margin-top: 0 !important;
+}
+
+/* Fallback top margin for direct non-heading siblings */
+#quartz-body .callout[data-callout="actbox"] + :not(h1, h2, h3, h4, h5, h6, .heading-wrapper) {
+  margin-top: 2rem !important;
+}
 
 /* -------------------------------------------------------------------------
    High Specificity Overrides (Must sit outside the main block)

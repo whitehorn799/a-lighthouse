@@ -1,17 +1,30 @@
-# Self-identity Cross
-> [!info|invisiblock] 
+---
+title: "Self-identity Cross"
+description: ""
+draft: false
+unlisted: false
+tags: 
+aliases: 
+date: August 04, 2026 19:20
+lastmod: August 05, 2026 11:45
+enableToc:  true
+cssclasses: 
+---
+
+> [!invisiblock] 
 > >[!captionator|center]
 > >  ![[self-identity-cross-1.png]]
 > >  *A Lighthouse* 
-> >  *Self-identity Cross*
-> > ^self-identity-cross-pic
+> >   
+> 
+> ^pic
 > 
 > In the middle is the "balance" spot, where most people should aim to be. Extending vertically outward is the internal world axis, and the external world axis draws itself horizontally. <br>
 > Notice that in the background is the ultimate environment of love to support and accept all activities.
-> ^self-identity-cross-block
+
+^my-block
 
 <br>
-
 ## Axes 
 ^cross-breakout
 
@@ -43,3 +56,8 @@ You may believe that the world is actually hostile to you. It may seem like no o
 > You can believe whatever you want, but allowing your belief to disconnect you from reality is harmful.
 
 Idealist or victim, these are teh extremes of life. Survival depends on your ability to navigate the external world while maintaining the internal one. They depend on each other, which is why you must strive for balance.
+
+
+# See Also
+
+[[Self-identity#2.1 Validation|The self-identity cross in context]]

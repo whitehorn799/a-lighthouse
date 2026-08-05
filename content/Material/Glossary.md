@@ -1,6 +1,6 @@
 ---
 title: Glossary
-description: ""
+description: "Dictionary of terms"
 draft: false
 unlisted: false
 tags: 
@@ -14,7 +14,7 @@ cssclasses:
 [[Absolute vs. Relative Self]] <br>
 <small>AKA Separate vs. Connected Self</small> <br>
 [[Alignment vs. Misalignment]] <br>
-<small>AKA Resonance vs. Dissonance</small> <br>
+<small>AKA Resonance vs. Dissonance</small> <br> ^d00ba1
 
 
 

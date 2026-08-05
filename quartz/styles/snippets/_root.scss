@@ -172,6 +172,16 @@
   --c-breadthread-font-weight:              var(--c-font-weight); 
 
   /*
+  █████▄ ▄▄▄▄  ▄▄▄▄▄  ▄▄▄  ▄▄ ▄▄  ▄▄▄  ▄▄ ▄▄ ▄▄▄▄▄▄ 
+  ██▄▄██ ██▄█▄ ██▄▄  ██▀██ ██▄█▀ ██▀██ ██ ██   ██   
+  ██▄▄█▀ ██ ██ ██▄▄▄ ██▀██ ██ ██ ▀███▀ ▀███▀   ██   
+  */ 
+    --c-breakout-bg:                            rgba(var(--soft-linen), 0.3);
+    --c-breakout-border:                        rgba(var(--sky), 1);
+    --c-breakout-title-bg:                      rgba(var(--dusk-blue), 1);
+    --c-breakout-title-color:                   rgba(var(--white), 1);
+
+  /*
   ▄█████  ▄▄▄  ▄▄▄▄ ▄▄▄▄▄▄ ▄▄  ▄▄▄  ▄▄  ▄▄  ▄▄▄ ▄▄▄▄▄▄ ▄▄▄  ▄▄▄▄  
   ██     ██▀██ ██▄█▀  ██   ██ ██▀██ ███▄██ ██▀██  ██  ██▀██ ██▄█▄ 
   ▀█████ ██▀██ ██     ██   ██ ▀███▀ ██ ▀██ ██▀██  ██  ▀███▀ ██ ██ 

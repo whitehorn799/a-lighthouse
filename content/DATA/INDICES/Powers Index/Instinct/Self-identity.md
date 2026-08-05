@@ -160,6 +160,7 @@ This is the parts of reality that are closest to you, such as:
 
 **Internal environment**<br>
 These are things that only you can perceive mentally.
+
 - Private Reality
 - Intuition & Imagination
 - Positive & Negative Conscience
@@ -191,17 +192,17 @@ You are never separated from love, even if you feel that you are. You cannot see
 
 ### 2.1 Validation
 
-![[Validation#^validation|cleanembed]]
+> [!cleanembed]
+> ![[Validation#^definition]]
 
-A person stands between an internal and external world. We can picture these relationships by looking at a figure.
+^validation-context-1
 
+A person stands between an internal and external world. We can picture these relationships by looking at an illustration called the [[Self-identity Cross]].
 
-
-![[Self-Identity Cross#^self-identity-cross-block|cleanembed]]
-
+^self-identity-cross-context-1
 
 > [!breakout] BREAKOUT!
-> [[Self-Identity Cross#^cross-breakout|>>>]]
+> [[Self-identity Cross#^cross-breakout|>>>]]
 
 #### For the Inexperienced
 If you are a young person, knowing who you are can start any time you are ready to ask these questions. Science suggests that the human brain doesn't fully develop until you are 25 years old. If you've lived a sheltered life, sitting into complacency can feel like quicksand. You sit still because it feels like moving is dangerous. If you don't move, eventually you will just sink. 
@@ -235,8 +236,6 @@ Remember, the [[Locus of Control|locus of control]] describes how you seek [[Val
 
 
 <div class="color-point cp1 tal">How to Find Your Locus of Control</div> 
-
-^locus-control-how
 
 Finding what validates you is important because validation gives us the energy to keep going. Think about moving through a room, but no one looks at or engages you. Depending on your locus of control, you could feel fine or like a ghost. 
 
