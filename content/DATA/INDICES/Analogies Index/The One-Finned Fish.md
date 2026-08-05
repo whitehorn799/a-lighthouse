@@ -1,13 +1,17 @@
 ---
-title: The One-Finned Fish
-first-created: June 12, 2026 13:22
-last-updated: June 13, 2026 10:53
+title: "The One-Finned Fish"
+description: "A parable"
+draft: false
+unlisted: false
+tags: 
+aliases: 
+date: August 05, 2026 17:28
+lastmod: August 05, 2026 17:42
+enableToc:  true
+cssclasses: 
+  - hide-breadcrumbs
 ---
 
-[[Analogies]] > See in Context
-<hr>
-
-# The One-Finned Fish
 There was once a fish with one fin, called You, who swam in the Sea of Life, which was very deep and was in constant motion. The amount of effort it took You to swim even a few feet caused exhaustion. After all, You only had one fin, so it was wiser to stick to the Shallows where the current was more stable.
 
 > [!captionator|center]
@@ -105,7 +109,6 @@ A sudden realization occurred: in Life, You really is a small thing.
 > *Original artwork by Teacher Kelly* 
 > *You swimming away with They.*
 
-<div class="bookend"></div>
 
 # Moral
 
@@ -120,4 +123,7 @@ You may begin to have overwhelming feelings that you are being selfish, and you 
 
 Remaining with people who hold you back may eventually make you feel like a prisoner. You would remain in a situation from which your heart is screaming for you to move on. Freedom is a right that should be understood, learned, and accepted. Love is stronger, and love should maintain all bonds, despite distances or the passage of time.
 
-<div class="bookend"></div>
+<hr>
+
+# See Also
+- [[Analogies]]
