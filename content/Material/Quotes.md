@@ -1,12 +1,16 @@
 ---
 title: Quotes
 description: "Lessons to live by"
+permalink: Quotes
 draft: false
 unlisted: false
+stealth: false
+robots: 
+password: 
 tags: 
 aliases: 
-date: July 30, 2026 10:23
-lastmod: July 30, 2026 14:09
+date: August 06, 2026 12:22
+lastmod: August 06, 2026 15:12
 enableToc:  true
 cssclasses: 
 ---

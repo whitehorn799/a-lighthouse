@@ -1,14 +1,18 @@
 ---
 title: Contact
 description: "Get in touch with the facilitator"
+permalink: Contact
 draft: false
 unlisted: false
+stealth: false
+robots: 
+password: 
 tags: 
-  - no-breadcrumbs
 aliases: 
-date: July 29, 2026 13:47
-lastmod: August 01, 2026 16:20
+date: August 06, 2026 12:22
+lastmod: August 06, 2026 15:12
 enableToc:  true
+cssclasses: 
 ---
 
 

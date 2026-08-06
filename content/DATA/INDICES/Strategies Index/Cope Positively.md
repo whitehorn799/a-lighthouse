@@ -1,15 +1,20 @@
 ---
-title: Positive Coping
+title: Cope Positively
 description: "Healthy ways to cope"
+permalink: Cope-Positively
 draft: false
 unlisted: false
+stealth: false
+robots: 
+password: 
 tags: 
 aliases: 
-date: July 30, 2026 17:55
-lastmod: July 31, 2026 10:26
+date: August 06, 2026 12:22
+lastmod: August 06, 2026 15:11
 enableToc:  true
 cssclasses: 
 ---
+
 # Challenge Your Thoughts
 
 [Credit](https://copingresourcecenter.com/coping-with-negative-thoughts/)

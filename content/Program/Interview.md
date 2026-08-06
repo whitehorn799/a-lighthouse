@@ -19,8 +19,8 @@ How it works:
 3. **Identify Personal Powers:** I will offer some personal power traits that you can start focusing on.
 4. **Choose Target:** you choose the personal power you want to work on. Once we choose, we focus on that topic. Achieving this goal may take longer than our time together. The goal will be complete when you choose.
 5. **Cycle:** we can choose to continue our time together by choosing a different target once the previous one is complete.
-6. **Positive Strategies:** you can use [[positive strategies]] to help you tackle the struggles.
-7. **Positive Coping:** you can consider using [[positive coping]] to help you through troubling emotions.
+6. **Positive Strategies:** you can use [[Strategies]] to help you tackle the struggles.
+7. **Positive Coping:** you can consider using [[Cope Positively]] to help you through troubling emotions.
 
 # Schedule Interview
 To schedule an interview, please contact me by email [signup@a-lighthouse.org](mailto:signup@a-lighthouse.org). 

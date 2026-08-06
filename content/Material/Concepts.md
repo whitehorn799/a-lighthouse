@@ -1,18 +1,19 @@
 ---
 title: Concepts
-description: ""
+description: "Interesting ideas"
+permalink: Concepts
 draft: false
 unlisted: false
+stealth: false
+robots: 
+password: 
 tags: 
 aliases: 
-date: July 30, 2026 17:55
-lastmod: July 31, 2026 13:26
+date: August 06, 2026 12:22
+lastmod: August 06, 2026 15:09
 enableToc:  true
 cssclasses: 
 ---
-
-> [!warning] Work in Progress
-> This page is [[unfinished]]. Please check back later!
 
 **Boundary:** 
 a rule that says how others may treat you

@@ -1,15 +1,20 @@
 ---
 title: Glossary
 description: "Dictionary of terms"
+permalink: Glossary
 draft: false
 unlisted: false
+stealth: false
+robots: 
+password: 
 tags: 
 aliases: 
-date: July 30, 2026 17:55
-lastmod: July 31, 2026 13:26
+date: August 06, 2026 12:22
+lastmod: August 06, 2026 15:10
 enableToc:  true
 cssclasses: 
 ---
+
 # A
 [[Absolute vs. Relative Self]] <br>
 <small>AKA Separate vs. Connected Self</small> <br>

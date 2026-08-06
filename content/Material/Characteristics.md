@@ -1,12 +1,16 @@
 ---
-title: Characteristics
-description: ""
+title: "Characteristics"
+description: "Notable traits"
+permalink: Characteristics
 draft: false
 unlisted: false
+stealth: false
+robots: 
+password: 
 tags: 
 aliases: 
-date: July 30, 2026 17:55
-lastmod: July 31, 2026 13:27
+date: August 06, 2026 12:22
+lastmod: August 06, 2026 15:08
 enableToc:  true
 cssclasses: 
 ---
