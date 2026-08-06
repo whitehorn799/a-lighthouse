@@ -22,6 +22,9 @@ This is the location of the free, modular material. The material here describe t
 
 What you see on this page is a cascading outline. 
 
+# Updates
+The program is being built in real time. As a module is finished, it will be uploaded to the site. To be informed of updates, you can join our [Discord](https://discord.gg/AbBmWFvr7v) server. For now, the Discord server is not a place to chat but to publish announcements and updates.
+
 <hr>
 
 

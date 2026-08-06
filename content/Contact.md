@@ -23,7 +23,6 @@ cssclasses:
 [contact@a-lighthouse.org](mailto:contact@a-lighthouse.org) Email me here if you want to send me a comment.
 
 # Social Media
-The YouTube channel is the prominent platform used for the program. 
-
-- [YouTube](https://www.youtube.com/@A-Lighthouse) 
-- [Instagram](https://www.instagram.com/a_lightouse/) 
+- [Discord](https://discord.gg/AbBmWFvr7v)
+	- For now, the Discord server is not a place to chat but to publish announcements and updates.
+- [YouTube](https://www.youtube.com/@A-Lighthouse) %%[Instagram](https://www.instagram.com/a_lightouse/) %%
