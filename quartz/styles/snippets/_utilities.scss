@@ -22,7 +22,34 @@
     margin: 0 0 1em 0 !important;
     align-self: center !important;
 }
+/*
+██████ ▄▄▄  ▄▄▄▄  ▄▄▄▄▄ ▄▄▄▄  
+██▄▄  ██▀██ ██▀██ ██▄▄  ██▀██ 
+██    ██▀██ ████▀ ██▄▄▄ ████▀ 
+*/
+.faded,
+.faded a,
+a:has(> .faded) {
+  opacity: 0.15; /* Low visibility */
+  transition: opacity 0.2s ease-in-out;
+  display: inline-block;
+  cursor: pointer;
+  
+  /* Strip all link underlines & borders */
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  background-image: none !important; /* Removes custom Quartz link underline gradients */
+}
 
+/* Optional hover feedback */
+.faded:hover,
+.faded a:hover,
+a:has(> .faded):hover {
+  opacity: 0.6;
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
 
 /*
 ██████ ▄▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄▄▄   ▄████▄ ▄▄    ▄▄  ▄▄▄▄ ▄▄  ▄▄ 
@@ -52,3 +79,32 @@
   margin-right: 0 !important;
 }
 .taj { --ta-align: justify !important; text-align: justify !important; }
+
+/*
+██  ██ ▄████▄ ██▄  ▄██ ██     
+ ▀██▀  ██▄▄██ ██ ▀▀ ██ ██     
+  ██   ██  ██ ██    ██ ██████ 
+*/
+/* HIDE BREADCRUMBS
+Usage:
+cssclasses: 
+  - hide-breadcrumbs
+*/
+
+#quartz-body:has(article.hide-article-title) :is(h1.article-title, .page-header h1.article-title) {
+  display: none !important;
+}
+
+#quartz-body:has(article.hide-breadcrumbs) nav.breadcrumb-container,
+#quartz-body:has(article.hide-breadcrumbs) .page-header nav[aria-label="breadcrumbs"] {
+  display: none !important;
+}
+
+/* Hide search results for notes tagged with 'hide-search' */
+.search-container {
+  .result-card:has(a[data-slug*="hide-search"]),
+  a.result-card[data-slug*="hide-search"],
+  a[href*="hide-search"] {
+    display: none !important;
+  }
+}

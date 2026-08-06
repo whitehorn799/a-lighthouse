@@ -1,10 +1,32 @@
-# Love
+---
+title: "helio"
+description: ""
+permalink: ☀️
+draft: false
+unlisted: true
+stealth: true
+robots: noindex, nofollow
+password: bj-Word-1337
+tags: 
+aliases: 
+date: August 06, 2026 10:16
+lastmod: August 06, 2026 10:23
+enableToc:  false
+cssclasses: 
+  - hide-article-title
+  - hide-breadcrumbs
+---
 
-> [!info|scimitar]
+
+
+
+
+> [!announote]
 > <span STYLE="display: block; font-weight: 500; text-align: center;">THIS IS A REMINDER</span> <span style = "display: block; font-size: 1.5rem; text-align: center;">Listen; question.</span> <span style="display: block; text-align: center;"> Explain when they are confused.</span><span style="display: block; font-size: 1.2rem; text-align: center;">Name the fears.</span>
 
 <hr>
 
+# Top
 
 [[❤️]] [[Love]]
 - [[🐊]] [[Instinct]]
@@ -108,8 +130,6 @@
 			- [[⚛️]] [[Encompassing Unity]]
 			- [[🍂]] [[Impermanence Acceptance]]
 
-
-<div class="sectend"></div>
 
 <hr>
 

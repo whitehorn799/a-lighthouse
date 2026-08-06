@@ -129,12 +129,15 @@ blockquote.callout[data-callout="actbox"] {
 #quartz-body blockquote.callout[data-callout="actbox"] {
   .callout-title-inner,
   .callout-title-inner p,
-  .callout-title p {
+  .callout-title p,
+  .callout-title :is(p) {
     font-weight: 600 !important;
     color: var(--c-actbox-color) !important;
     text-transform: uppercase !important;
     text-align: center !important;
     margin: 0 auto !important;
+    margin-block-end: 0 !important; /* Overrides the generic p rule */
+    margin-bottom: 0 !important;       /* Overrides the generic p rule */
     padding: 0 !important;
   }
 }

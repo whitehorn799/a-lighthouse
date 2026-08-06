@@ -9,13 +9,13 @@ date: July 24, 2026 12:42
 lastmod: August 01, 2026 09:32
 enableToc:  true
 cssclasses: 
+  - hide-article-title
 ---
+<span class="faded">[[☀️ helio|✦]]</span>
 
-<style>
-  h1.article-title {
-    display: none !important;
-  }
-</style>
+
+%% <a href="/DATA/FACILITATE/☀️ helio" class="faded">✦</a> %%
+
 
 
 <div class="announce-it" style="padding: 1rem 0 0 0; margin: 1.75rem auto 1.75rem auto !important; text-align: center; color: rgba(0,0,0, 0.6); font-size: 1.2rem !important; align-self: center !important; max-width: 300px; width: 90%;">Welcome to the customized personal-growth program:</div>
@@ -25,7 +25,7 @@ cssclasses:
 <div class="announce-it" style="padding: 1rem 0; margin: 0 auto 1.75rem auto !important; color: rgba(0,0,0, 0.6); font-size: 0.9rem !important; text-align: justify !important; align-self: center !important; max-width: 250px; width: 80%;">
 Have you ever wondered who you are? Do you feel exhausted from struggling to find motivation? It’s time to stop shouting at obstacles in your life and start flowing around them. Stop the idea of chasing happiness and realize you are already a complete person.<br><br>
 Learn to embrace the dark parts of you just as well as the light parts. In the shade, where the light meets the dark, reclaim your right to the knowledge you have been denied. Remember, you needn’t enter A Lighthouse; you needn’t go toward it. Keep it in sight, and avoid the traps.
-</div>
+</div> 
 
 
 <hr>
@@ -64,7 +64,7 @@ Learn more about [[Mr. Whitehorn]] who organized and facilitates the program.
 # "A Lighthouse" Metaphor
 The lighthouse symbolism represents a beacon of hope in a world of turmoil. It symbolizes our method of reclaiming your ability to navigate life efficiently, effectively, and still leave room to grow.
 
-A lighthouse is still and bright so that you may choose your path in the shade between light and darkness. Life is a balance between hardships and victories. Take back your power to walk between them with grace. There are many "lighthouses" along the coast. This is not the only way, but it is one of them.
+A lighthouse is still and bright so that you may choose your path in the shade between light and darkness. Life is a balance between hardships and victories. Take back your power to walk between them with grace. There are many "lighthouses" along the coast. This is not the only way, but it is one of them. 
 
 <hr>
 
@@ -81,7 +81,3 @@ In alphabetical order:
 - [Hsingyu Tsai] (https://www.instagram.com/hs1ngyu?igsh=OGhrejBxMmx0enEz&utm_source=qr)
 - Huang Hsin-wei
 - Jason%%
-
-
-%%footer_start%%
-<span class="log-sign-off">2026-07-06 18:48</span>

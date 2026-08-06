@@ -82,14 +82,24 @@ cssclasses:
 
 ## Meaning
 
-|**Property**|**Type**|**What it controls**|
-|---|---|---|
-|**`title`**|String|Overrides the H1 header and tab title (wrap in quotes if it contains colons or special characters).|
-|**`description`**|String|Used for SEO meta tags and search preview cards.|
-|**`draft`**|Boolean|Set to `true` to hide the page completely from public builds.|
-|**`publish`**|Boolean|Set to `false` to suppress publication.|
-|**`tags`**|List|Generates tag pages and tag-based filtering in Quartz.|
-|**`aliases`**|List|Keeps internal Obsidian `[[links]]` intact if you rename the file.|
-|**`date`**|Date (`YYYY-MM-DD`)|Defines the created date shown on page footers and RSS feeds.|
-|**`enableToc`**|Boolean|Set to `false` on specific pages to hide the Table of Contents sidebar.|
-|**`cssclasses`**|List|Applies custom CSS classes directly to the body wrapper of this specific page.|
+| **Property**      | **Type**            | **What it controls**                                                                                |
+| ----------------- | ------------------- | --------------------------------------------------------------------------------------------------- |
+| **`title`**       | String              | Overrides the H1 header and tab title (wrap in quotes if it contains colons or special characters). |
+| **`description`** | String              | Used for SEO meta tags and search preview cards.                                                    |
+| **`draft`**       | Boolean             | Set to `true` to hide the page completely from public builds.                                       |
+| **`publish`**     | Boolean             | Set to `false` to suppress publication.                                                             |
+| **`tags`**        | List                | Generates tag pages and tag-based filtering in Quartz.                                              |
+| **`aliases`**     | List                | Keeps internal Obsidian `[[links]]` intact if you rename the file.                                  |
+| **`date`**        | Date (`YYYY-MM-DD`) | Defines the created date shown on page footers and RSS feeds.                                       |
+| **`enableToc`**   | Boolean             | Set to `false` on specific pages to hide the Table of Contents sidebar.                             |
+| **`cssclasses`**  | List                | Applies custom CSS classes directly to the body wrapper of this specific page.                      |
+| 
+
+## PW Pro
+|**Frontmatter Tag**|**Built to Web Server?**|**Direct URL Accessible?**|**Requires Password?**|**Appears in Search / Graph / Explorer?**|**Indexed by Google?**|**Primary Use Case**|
+|---|---|---|---|---|---|---|
+|`draft: true`|**No** (Build skips entirely)|**No** (Returns 404)|**No**|**No**|**No**|Private local-only notes kept strictly inside your Obsidian vault.|
+|`password: "..."`|**Yes** (Encrypted HTML)|**Yes**|**Yes**|**Yes** (Unless `unlisted: true`)|**Partial** (URL indexed, content unreadable)|Protecting page content while leaving the page discoverable in site navigation.|
+|`unlisted: true`|**Yes**|**Yes**|**No** (Unless `password` set)|**No** (Hidden from site search, RSS, explorer, graph)|**Yes** (Unless `robots` tag set)|Pages accessible only via direct link or internal markdown link.|
+|`stealth: true`|**Yes**|**Yes**|**No** (Unless `password` set)|**No** (Stays hidden even after unlocked)|**Yes** (Unless `robots` tag set)|Keeping sensitive or master pages hidden from discovery tools permanently.|
+|`robots: "noindex, nofollow"`|**Yes**|**Yes**|**No** (Unless `password` set)|**Yes** (Unless `unlisted: true`)|**No** (Blocked from Google & web crawlers)|Preventing search engines from indexing public or encrypted page URLs.|

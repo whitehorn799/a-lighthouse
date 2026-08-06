@@ -16,7 +16,7 @@ There was once a fish with one fin, called You, who swam in the Sea of Life, whi
 
 > [!captionator|center]
 > ![[fin0.png]]
-> *Original artwork by Teacher Kelly* 
+> *Original artwork by Mr. Whitehorn* 
 > *You, a one-finned fish.*
 
 However, over time, You became more and more curious about how deep the Sea of Life was. You knew that it must take a lot of effort to swim deeper. You tried many times, got nowhere, and had no choice but to be content in the Shallows.
@@ -25,7 +25,7 @@ You was not alone, though. There were friends and family to consider, and withou
 
 > [!captionator|center]
 > ![[fin1.png]]
-> *Original artwork by Teacher Kelly* 
+> *Original artwork by Mr. Whitehorn* 
 > *You in the Sea of Life.*
 
 In fact, You’s life was very comfortable. As a small fry, You’s parents watched out for predators or fishing humans. They let nothing happen to You. Parents in the Sea of Life always warned about the fishing boat, called Hardship.
@@ -34,7 +34,7 @@ In fact, You’s life was very comfortable. As a small fry, You’s parents watc
 
 > [!captionator|center]
 > ![[fin2.png]]
-> *Original artwork by Teacher Kelly* 
+> *Original artwork by Mr. Whitehorn* 
 > *You threatened by Hardship.*
 
 
@@ -49,7 +49,7 @@ Torn between choices, You didn’t know what to do.
 
 > [!captionator|center]
 > ![[fin3.png]]
-> *Original artwork by Teacher Kelly* 
+> *Original artwork by Mr. Whitehorn* 
 > *They swimming near You.*
 
 
@@ -82,7 +82,7 @@ Though it pained You's little heart, You made a choice to be happy. You could on
 
 > [!captionator|center]
 > ![[fin4.png]]
-> *Original artwork by Teacher Kelly* 
+> *Original artwork by Mr. Whitehorn* 
 > *You swimming away with They.*
 
 
@@ -94,7 +94,7 @@ Finally, You found a position under They where the current wasn’t so strong. Y
 
 > [!captionator|center]
 > ![[fin5.png]]
-> *Original artwork by Teacher Kelly* 
+> *Original artwork by Mr. Whitehorn* 
 > *You swimming away with They.*
 
 
@@ -106,7 +106,7 @@ A sudden realization occurred: in Life, You really is a small thing.
 
 > [!captionator|center]
 > ![[fin6.png]]
-> *Original artwork by Teacher Kelly* 
+> *Original artwork by Mr. Whitehorn* 
 > *You swimming away with They.*
 
 

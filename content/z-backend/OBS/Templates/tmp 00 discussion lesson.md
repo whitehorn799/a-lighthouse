@@ -1,4 +1,4 @@
-[[☀️ sun]] > Love > [[Instinct]] > [[Self-aware]] > [[Healthiness]], Iterations: 0
+[[☀️ helio]] > Love > [[Instinct]] > [[Self-aware]] > [[Healthiness]], Iterations: 0
 
 <hr> 
 

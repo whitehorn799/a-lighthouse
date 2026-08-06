@@ -1,6 +1,7 @@
 ---
 title: ""
 description: ""
+permalink: 
 draft: false
 unlisted: true
 stealth: true

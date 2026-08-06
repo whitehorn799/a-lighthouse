@@ -1,8 +1,19 @@
 ---
-title: The Powers
-first-created: April 18, 2026 16:54
-last-updated: June 02, 2026 19:39
+title: "The Powers"
+description: ""
+draft: false
+unlisted: true
+stealth: true
+robots: noindex, nofollow
+password: # bj-Word-1337
+tags: 
+aliases: 
+date: August 06, 2026 10:16
+lastmod: August 06, 2026 10:23
+enableToc:  true
+cssclasses: 
 ---
+
 > [!info|scimitar] 
 > We don't presume to know anything, nor do we wish to tell people how they should live their own lives.
 

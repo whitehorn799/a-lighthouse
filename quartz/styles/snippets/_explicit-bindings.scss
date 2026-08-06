@@ -38,15 +38,6 @@ div[data-frontmatter] {
 ██▄▄██ ██▄█▄ ██▄▄  ██▀██ ██▀██ ██▀▀▀ ██▄█▄ ██ ██ ██▀▄▀██ ██▄██ ███▄▄ 
 ██▄▄█▀ ██ ██ ██▄▄▄ ██▀██ ████▀ ▀████ ██ ██ ▀███▀ ██   ██ ██▄█▀ ▄▄██▀ 
 */
-/* HIDE BREADCRUMBS
-Usage:
-cssclasses: 
-  - hide-breadcrumbs
-*/
-#quartz-body:has(article.hide-breadcrumbs) nav.breadcrumb-container,
-#quartz-body:has(article.hide-breadcrumbs) .page-header nav[aria-label="breadcrumbs"] {
-  display: none !important;
-}
 
 
 /* =========================================================================
@@ -181,6 +172,35 @@ blockquote.callout p:empty,
   display: none !important;
 }
 
+/*
+██████ ▄▄  ▄▄  ▄▄▄▄ ▄▄▄▄  ▄▄ ▄▄ ▄▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄▄ ▄▄▄▄  █████▄  ▄▄▄   ▄▄▄▄ ▄▄▄▄▄ 
+██▄▄   ███▄██ ██▀▀▀ ██▄█▄ ▀███▀ ██▄█▀  ██   ██▄▄  ██▀██ ██▄▄█▀ ██▀██ ██ ▄▄ ██▄▄  
+██▄▄▄▄ ██ ▀██ ▀████ ██ ██   █   ██     ██   ██▄▄▄ ████▀ ██     ██▀██ ▀███▀ ██▄▄▄ 
+*/
+
+/* Password Input Field */
+input.encrypted-page-input {
+  color: var(--c-body-color) !important;            /* Text color */
+  background-color: transparent !important; /* Field background */
+  border: 1px solid var(--c-body-color) !important;  /* Readable border */
+  padding: 8px 12px;
+  border-radius: 4px;
+}
+
+/* Submit Button */
+button.encrypted-page-submit {
+  color: white !important;           /* Button text color */
+  background-color: var(--c-page-bg) !important; /* Primary theme color */
+  border: none !important;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+button.encrypted-page-submit:hover {
+  opacity: 0.85;
+}
 
 /*
 ██     ▄▄  ▄▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄ 
@@ -245,14 +265,7 @@ blockquote.callout p:empty,
 ▀▀▀▄▄▄ ██▄▄  ██▀██ ██▄█▄ ██▀▀▀ ██▄██ 
 █████▀ ██▄▄▄ ██▀██ ██ ██ ▀████ ██ ██ 
 */
-/* Hide search results for notes tagged with 'hide-search' */
-.search-container {
-  .result-card:has(a[data-slug*="hide-search"]),
-  a.result-card[data-slug*="hide-search"],
-  a[href*="hide-search"] {
-    display: none !important;
-  }
-}
+
 /* High Specificity Override for Search Button Text in Left Sidebar */
 #quartz-body .sidebar.left button.search-button p,
 #quartz-body button.search-button p {

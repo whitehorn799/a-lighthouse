@@ -8,10 +8,10 @@ configuration:
     provider: plausible
   locale: en-US
   baseUrl: a-lighthouse.org
-  socialImage: "static/og-image.png"
+  socialImage: static/og-image.png
   ignorePatterns:
     - z-arc
-    - z-backend 
+    - z-backend
     - .obsidian
   theme:
     fontOrigin: googleFonts
@@ -150,7 +150,7 @@ plugins:
       folderClickBehavior: collapse
       folderDefaultState: collapse
       useSavedState: true
-      filterFn: "node => !node.file?.frontmatter?.unlisted"
+      filterFn: node => !node.file?.frontmatter?.unlisted
     layout:
       position: left
       priority: 50
@@ -256,6 +256,14 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: github:quartz-community/encrypted-pages
+    enabled: true
+    options:
+      iterations: 600000
+      passwordField: password
+      unlistWhenEncrypted: false
+      outputPath: static/encryptedContentIndex.json
+    order: 900
 layout:
   groups:
     toolbar:
