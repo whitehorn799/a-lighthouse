@@ -1,18 +1,20 @@
 ---
 title: Cope Positively
 description: "Healthy ways to cope"
-permalink: Cope-Positively
+permalink: 
 draft: false
 unlisted: false
 stealth: false
 robots: 
 password: 
 tags: 
+  - strategy
 aliases: 
-date: August 06, 2026 12:22
-lastmod: August 06, 2026 15:11
+date: August 06, 2026 10:16
+lastmod: August 06, 2026 10:23
 enableToc:  true
 cssclasses: 
+  - hide-breadcrumbs
 ---
 
 # Challenge Your Thoughts

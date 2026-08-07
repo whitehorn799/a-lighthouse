@@ -1,39 +1,128 @@
 ---
-title: Perspective
+title: "Perspective"
+description: "Truth escapes detection"
+permalink:
+draft: true
+unlisted: false
+stealth: false
+robots:
+password:
 tags:
-publish: true
-permalink: perspective.html
-status:
-type: lesson
-alias: How can I appreciate myself and others more?
-tool:
-last-updated: July 09, 2026 21:15
-first-created: May 18, 2026 16:19
-cssclasses: 
+  - trait
+aliases:
+date: August 06, 2026 17:12
+lastmod: August 07, 2026 13:24
+enableToc: true
+cssclasses:
+  - hide-breadcrumbs
 ---
 
-**Root**
-[[Love]] > [[Instinct]] > [[Self-aware]] 
-%% [[❤️]] > [[🐊]] > [[💡]] %%
+
+
+> [!cleanembed]
+> ![[👁️‍🗨️-📝#^def]]
+
+
+<br>
+
+
+> [!cleanembed]
+> ![[👁️‍🗨️-📝#^moral]] 
+
+
+<br>
+
+
+> [!cleanembed]
+> ![[👁️‍🗨️-📝#^mnemonic]] 
+
+
+<br>
+
+
+> [!cleanembed]
+> ![[👁️‍🗨️-📝#^story]] 
+
+
+<br>
+
+# Goal
+
+> [!cleanembed]
+> ![[👁️‍🗨️-📝#^goal]] 
+
+%%
+<br>
+
+> [!cleanembed]
+> ![[👁️‍🗨️-📝#^consider]]  
+ 
+%%
+
 
 <hr>
 
-# Perspective 
-**Definition** 
-![[👁️‍🗨️-📝|define]] 
-^def
+# Learning Points
+These are the focus of this lesson. Just under the questions are the [[Misery Points]], what you might feel if you haven't answered these questions.
 
-**Moral** 
-You are special, and so is everyone else. ^mor
+1. <div class="color-point cp1 tal">Why don't people see things the way I do?</div>
+2. <div class="color-point cp1 tal">How can I see from their eyes?</div>
+3. <div class="color-point cp1 tal">How do I know if I am seeing clearly?</div> 
 
-**Mnemonic** 
-^mne
-1. A single eye is easily blinded.
-2. You are not the only ship sailing the ocean. 
+	- Ego Blindness
+	- Isolation
+	- Broken Trust
+	- Misplaced Expectations
+	- Off-balanced
+	- Reactionary
+	- Uncompromising
+	- Disappointment
+	- Burnout 
 
-**Illustrative Story**
-[[Mr. Jackson's Story]]
-[[Ms. Ahlmer's Story]]
+<hr>
+
+## 1. LP1
+
+
+<div class="color-point cp1 tal">Ask this because</div>
+
+- it **xxx** by: 
+	- xxx
+
+### 1.x Moral
+
+<hr>
+
+# Conclusion
+
+%%
+
+<hr>
+
+# See Also
+- xxx
+
+%%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ARCHIVED
+
+
+
 
 
 <div class="bookend"></div>
@@ -94,8 +183,10 @@ Let's learn how the monkey could improve its behavior by looking at this from a 
 ##### 1.1.3 The Details
 When we try to understand others, it can be hard to see the big idea when troubled by details. This was the monkey's problem, and this next world-famous analogy suggests that sometimes we don't recognize things when we are looking too closely at them. It symbolizes a tree as a detail of a problem and a forest as the problem itself. 
 
-**Analogy**
-[[Forest for the Trees]] ^forest
+> [!cleanembed]
+> ![[Forest for the Trees#^my-block]]
+
+^forest-context-1
 
 Picture yourself as the monkey. You see the fish swimming below you as you sit in your tree, and you panic. For you, the fish looks like it's drowning in the water.
 

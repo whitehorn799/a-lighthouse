@@ -1,6 +1,6 @@
 ---
-title: Self-identity
-description: A solid identity
+title: "Self-identity"
+description: "A solid identity"
 permalink:
 draft: false
 unlisted: false
@@ -8,6 +8,7 @@ stealth: false
 robots:
 password:
 tags:
+  - trait
 aliases:
 date: August 06, 2026 17:12
 lastmod: August 07, 2026 13:24
@@ -15,6 +16,7 @@ enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
+
 
 
 > [!cleanembed]
@@ -44,9 +46,6 @@ cssclasses:
 
 <br>
 
-
-%%**Glossary**
-[[🎁-📚|Self-identity Terms]]%%
 
 # Goal
 
@@ -311,3 +310,11 @@ By now, you may see a pattern developing: be human, be you, and involve yourself
 
 ^human-tree-context-1
 
+
+
+<hr>
+
+# See Also
+- [[Power Modules]]
+
+%%

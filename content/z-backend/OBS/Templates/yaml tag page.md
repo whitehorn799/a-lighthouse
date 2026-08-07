@@ -15,4 +15,5 @@ lastmod: August 06, 2026 10:23
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
+  - hide-article-title
 ---

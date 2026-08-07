@@ -1,7 +1,7 @@
 ---
 title: Cognitive Distortions
 description: "Misguided thinking patterns"
-permalink: Cognitive-Distortions
+permalink: 
 draft: false
 unlisted: false
 stealth: false

@@ -1,7 +1,7 @@
 ---
 title: ""
 description: ""
-draft: false
+draft: true
 unlisted: false
 tags: 
 aliases: 

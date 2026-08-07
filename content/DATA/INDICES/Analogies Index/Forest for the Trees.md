@@ -1,22 +1,38 @@
 ---
-title: "Forest for the Trees"
-description: "Blind to the scope"
-permalink: 
+title: Forest for the Trees
+description: Blind to the scope
+permalink:
 draft: false
 unlisted: false
 stealth: false
-robots: 
-password: 
-tags: 
+robots:
+password:
+tags:
   - analogy
-aliases: 
+  - quote
+aliases:
 date: August 06, 2026 17:12
 lastmod: August 07, 2026 13:44
-enableToc:  true
-cssclasses: 
+enableToc: true
+cssclasses:
   - hide-breadcrumbs
+  - hide-article-title
 ---
 
+<div class="quoteout-wrapper">
+  <div class="quoteout">
+    <h1>
+     We can't see <span class="accent1">the forest</span> for <span class="accent1">the trees</span>.
+     </h1>
+    <h4>&mdash; <a href="DATA/INDICES/Analogies Index/Forest for the trees">John Heywood</a><br></h4> 
+  </div>
+</div>
+
+^my-block
+
+<hr>
+
+# Analogy
 Imagine yourself in the middle of a forest. You are intensely focused on one tree, and as you examine the minute details of the bark, the leaves, and the roots, you suddenly feel lost. Nothing has changed for you because you're still focused on the tree. You have no idea where you are, but you know you are standing in front of a tree. You start to see more trees, but they all look the same. You are drawn to the variety of the configurations of branches, the striations of bark, and the transition of green leaves to brown ones. ​
 
 A man approaches you, and he says, "I've never seen you in this forest before. Who are you?"​
@@ -27,7 +43,6 @@ The stranger directs you to change your line of sight. He asks you to imagine a 
 
 "So you see," he says, "here you are lost in the idea of one singular problem. You don't know you are in a forest because you are looking at only trees. In other words, your problems are rather small in the scope of things. In your whole life and among the problems of the world, they're relatively trivial. Doesn't that make them less dreadful and easier to understand? You can move on, and make better decisions when you see the whole picture because you know more of what's going on. You're no longer lost in detail."
 
-![[Quotes#^8quote|define]]^quote8
 
 # Interpretation
 The trees symbolize the details of a situation, which can be blinding to a person who does not see beyond the details. The forest represents the general situation itself and its impact that the situation has on your life in the long term.
@@ -41,5 +56,4 @@ Your higher perspective helps to give you a third-person view of your life; you 
 <hr>
 
 # See Also
-- [[Analogies]]
-- [[Perspective#^forest|Perspective context]]
+- [[Perspective#^forest-context-1|Perspective context]]

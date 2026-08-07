@@ -36,3 +36,8 @@ Look inside the rooms as the timer ticks down:
 In all the rooms, a consensus is completely impossible because the objective, shared-reality input and subjects' physical defects has shattered perspective. The result of the experiment is that everyone is subjectively correct, and some are also objectively correct. Is there a third layer, a second objectivity, to this? We don't know!
 
 You don't have to possess infinite, absolute cosmic knowledge to be a sovereign being. If you are angry, anxious, or defensive, you are standing in a room with colored lighting. Your emotion is tinting every piece of data that hits your eyes. Furthermore, your past baggage—your personal 'color blindness'—filters that data even more. 
+
+<hr>
+
+# See Also
+- [[Perspective#^chroma]]

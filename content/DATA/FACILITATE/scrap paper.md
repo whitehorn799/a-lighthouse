@@ -13,3 +13,14 @@ lastmod: August 06, 2026 10:23
 enableToc:  true
 cssclasses: 
 ---
+
+
+**Moral** 
+You are special, and so is everyone else. ^mor
+
+**Mnemonic** 
+^mne
+1. A single eye is easily blinded.
+2. You are not the only ship sailing the ocean. 
+
+**Illustrative Story**
