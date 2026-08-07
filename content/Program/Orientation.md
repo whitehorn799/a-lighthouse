@@ -19,7 +19,7 @@ cssclasses:
 # Start from Nothing
 
 > [!cleanembed]
-> ![[Socrates#^socrates-know]]
+> ![[I know nothing#^socrates-know]]
 
 ^socrates-know-context
 

@@ -3,12 +3,12 @@ title: ""
 description: ""
 permalink: 
 draft: false
-unlisted: true
-stealth: true
+unlisted: false
+stealth: false
 robots: 
 password: 
 tags: 
-  - analogies
+  - 
 aliases: 
 date: August 06, 2026 10:16
 lastmod: August 06, 2026 10:23

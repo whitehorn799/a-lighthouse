@@ -1,14 +1,14 @@
 ---
 title: Scale of the Universe
 description: How much space you take
-permalink: scale-of-the-universe
+permalink: 
 draft: false
 unlisted: false
 stealth: false
 robots:
 password:
 tags:
-  - activities
+  - activity
 aliases:
 date: August 07, 2026 13:31
 lastmod: August 07, 2026 13:31

@@ -1,14 +1,14 @@
 ---
 title: "The Two Wolves"
 description: "Good and bad"
-permalink: The-Two-Wolves
+permalink: 
 draft: false
-unlisted: true
-stealth: true
+unlisted: false
+stealth: false
 robots: 
 password: 
 tags: 
-  - analogies
+  - analogy
 aliases: 
 date: August 06, 2026 10:16
 lastmod: August 06, 2026 10:23

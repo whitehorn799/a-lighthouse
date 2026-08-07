@@ -1,14 +1,14 @@
 ---
 title: "Human Tree Analogy"
 description: "Pain is growth"
-permalink: Human-Tree-Analogy
+permalink: 
 draft: false
 unlisted: false
 stealth: false
 robots: 
 password: 
 tags: 
-  - analogies
+  - analogy
 aliases: 
 date: August 06, 2026 17:12
 lastmod: August 07, 2026 13:46

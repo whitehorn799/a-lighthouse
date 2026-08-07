@@ -1,14 +1,14 @@
 ---
 title: "Docendo Discimus"
 description: "Teach to learn"
-permalink: Docendo-Discimus
+permalink: 
 draft: false
-unlisted: true
-stealth: true
+unlisted: false
+stealth: false
 robots: 
 password: 
 tags: 
-  - quotes
+  - quote
 aliases: 
 date: August 06, 2026 10:16
 lastmod: August 06, 2026 10:23
@@ -22,8 +22,13 @@ cssclasses:
      <span class="foreign">Docendo discimus.</span>
      By <span class="accent1">teaching</span>, we <span class="accent1">learn</span>.
      </h1>
-    <h4>&mdash; Proverb<br></h4> 
+    <h4>&mdash; <a href="DATA/INDICES/Quotes Index/Docendo Discimus">Proverb</a><br></h4> 
   </div>
 </div>
 
 ^docendo
+
+<hr>
+
+# See Also
+- [[Mr. Whitehorn#^docendo-context-1|Mr. Whitehorn context]]

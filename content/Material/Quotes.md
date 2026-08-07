@@ -1,7 +1,7 @@
 ---
-title: Quotes
+title: "Quotes"
 description: "Lessons to live by"
-permalink: Quotes
+permalink: 
 draft: false
 unlisted: false
 stealth: false

@@ -27,7 +27,7 @@ I am a nearly fifty-year-old man, an introvert, a keen observer, a pattern recog
 > [!cleanembed]
 > ![[Docendo Discimus#^docendo]]
 
-^doscendo-context
+^docendo-context-1
 
 
 # Why Am I Doing This

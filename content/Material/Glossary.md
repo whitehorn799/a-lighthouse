@@ -1,7 +1,7 @@
 ---
 title: Glossary
 description: "Dictionary of terms"
-permalink: Glossary
+permalink: 
 draft: false
 unlisted: false
 stealth: false
@@ -14,12 +14,14 @@ lastmod: August 06, 2026 15:10
 enableToc:  true
 cssclasses: 
 ---
-# Tags Index
-[Activities](/tags/activities)
-[Analogies](/tags/analogies)
-[Characteristics](/tags/characteristics)
-[Quotes](/tags/quotes)
-[Strategies](/tags/strategies)
+# Tags
+Search for things by category.<br><br>
+
+- [Activities](/tags/activity)
+- [Analogies](/tags/analogy)
+- [Characteristics](/tags/characteristic)
+- [Quotes](/tags/quote)
+- [Strategies](/tags/strategy)
 
 <hr>
 

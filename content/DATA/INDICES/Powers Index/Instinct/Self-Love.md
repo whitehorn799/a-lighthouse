@@ -250,8 +250,10 @@ In this program, [[Negative Wisdom]] is the understanding that negativity is mor
 
 This is a great way to show the interconnectedness of many aspects of the power within you because this is also a part of [[Emotional Resilience]]. Jump to this lesson to learn how to withstand negativity.
 
-**Quote**
-![[Quotes#^7quote|define]] ^quote7
+> [!cleanembed]
+> ![[Pour from an empty cup#^my-block]]
+
+^empty-cup-context-1
 
 
 First, we must love ourselves by setting the boundaries, and second, we become more resistant to negativity.

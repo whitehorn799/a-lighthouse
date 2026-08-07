@@ -1,7 +1,7 @@
 ---
 title: Contact
 description: "Get in touch with the facilitator"
-permalink: Contact
+permalink: 
 draft: false
 unlisted: false
 stealth: false

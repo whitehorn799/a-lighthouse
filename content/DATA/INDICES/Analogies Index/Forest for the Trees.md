@@ -1,13 +1,14 @@
 ---
 title: "Forest for the Trees"
 description: "Blind to the scope"
-permalink: Forest-for-the-Trees
+permalink: 
 draft: false
 unlisted: false
 stealth: false
 robots: 
 password: 
 tags: 
+  - analogy
 aliases: 
 date: August 06, 2026 17:12
 lastmod: August 07, 2026 13:44
