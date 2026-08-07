@@ -1,14 +1,19 @@
 ---
-title: ""
-description: ""
+title: "The Gift Analogy"
+description: "Hidden in the last place"
+permalink: The-Gift-Analogy
 draft: false
 unlisted: false
-tags:
-aliases:
-date: August 05, 2026 17:13
-lastmod: August 05, 2026 17:13
-enableToc: true
-cssclasses:
+stealth: false
+robots: 
+password: 
+tags: 
+  - analogies
+aliases: 
+date: August 06, 2026 17:12
+lastmod: August 07, 2026 13:49
+enableToc:  true
+cssclasses: 
   - hide-breadcrumbs
 ---
 
@@ -25,4 +30,4 @@ This is a tale where mother nature is giving gifts to all the animals except the
 
 # See Also
 - [[Analogies]]
-- [[Therapy]]
+- [[Therapy#Commentary|Therapy context]]

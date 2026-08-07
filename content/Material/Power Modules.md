@@ -15,16 +15,17 @@ enableToc: true
 cssclasses:
 ---
 
->[!announote|shh-note tac]
->We don't presume to know anything, nor do we wish to tell people how they should live their own lives nor what to believe.
+>[!announote|tac]
+>This material is under development. [[Power Modules#Updates|Click here]] for update notifications.
 
 
-This is the location of the free, modular material. The material here describe the traits that make up your personal power. We use a [[Power Modules#Cascading Outline|cascading outline]] to display the traits.
+This is the location of the free, modular material. The material here describe the traits that make up your personal power. We use a [[Power Modules#Cascading Outline|cascading outline]] to display the traits. 
 
-<hr>
+Disclaimer: We don't presume to know anything, nor do we wish to tell people how they should live their own lives nor what to believe. The material here is made available to everyone. However, it may not be a good fit for everyone.
 
-# Updates
-The program is being built in real time. As a module is finished, it will be uploaded to the site. To be informed of updates, you can join our [Discord](https://discord.gg/AbBmWFvr7v) server. For now, the Discord server is not a place to chat but to publish announcements and updates.
+
+<br>
+
 
 <hr>
 
@@ -154,3 +155,8 @@ By looking at how far to the right an item is pushed, your brain instantly knows
 1. Left side = The BIG topics.
     
 2. Right side = The TINY details hidden inside the big topics.
+
+<hr>
+
+# Updates
+The program is being built in real time. As a module is finished, it will be uploaded to the site. To be informed of updates, you can join our [Discord](https://discord.gg/AbBmWFvr7v) server. For now, the Discord server is not a place to chat but to publish announcements and updates.

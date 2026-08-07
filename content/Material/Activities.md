@@ -16,9 +16,11 @@ cssclasses:
 ---
 
 # B
-[[Self-identity#^belief-flaw-purpose|Belief, Flaw, Purpose]]
+[[Belief, Flaw, Purpose]]
+[[Bumpy Key]]
 
-[[Self-identity#^bumpy-key|Bumpy Key]]
+# R
+[[Robot Copy]]
 
 # S
-[[Self-identity#^universe-scale|Scale of the Universe]]
+[[Scale of the Universe]]

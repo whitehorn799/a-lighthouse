@@ -74,7 +74,7 @@ By seeing something from the eyes of another person, we become that person. It's
 ##### 1.1.1 The Cylinder
 To clearly demonstrate this, we'll use a metaphor. Let's take a look at this illustration. 
 
-![[Cylinder|linked]]
+![[Frame of Reference Cylinder|linked]]
 
 - In your own words, explain what is happening in the illustration. 
 - Think of a time in your life when this could have been useful to know. 
@@ -85,7 +85,7 @@ One of the best ways to change your frame of reference is to listen. Listen to y
 
 Alan Watts, who passed away in 1973, is one of my favorite modern-day philosophers. What we will do now is use his parable as an example of what not to do. Originally, it was meant to show how having good intentions to help can cause harm instead. Here, we want to use it as a metaphor for a frame of reference.
 
-![[Monkey and Fish|define]]
+![[Monkey and Fish Analogy|define]]
 
 See how the intention was great, but the monkey couldn't not picture things from the fish's frame of reference? That proves less helpful and more disastrous for the fish. Imagine the monkey's distraught when the fish passes out because it couldn't breathe. If the monkey new how to view the larger picture of how the environment works, the tragedy could have been prevented.
 

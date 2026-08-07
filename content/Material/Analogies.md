@@ -14,26 +14,26 @@ lastmod: August 06, 2026 15:07
 enableToc:  true
 cssclasses: 
 ---
-
+# F
+[[Forest for the Trees]]
 
 # H
 [[Human Tree Analogy]]
-- [[Self-identity#^human-tree-context-1|Context]]
 
 # O 
-[[The One-Finned Fish]]
-- [[Perspective#^forest|Context]]
+
 
 
 # T
 [[The Gift Analogy]]
-- [[Therapy#Commentary|Context]]
+[[The One-Finned Fish]]
 
 
 
 
-[[Forest for the Trees]]: 
-- [[Perspective#^forest|Context]]
+
+
+
 
 
 <hr> 

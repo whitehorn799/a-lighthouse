@@ -1,14 +1,20 @@
 ---
-title: Socrates
+title: "I know that I know nothing"
 description: ""
+permalink: socrates-know
 draft: false
-unlisted: false
+unlisted: true
+stealth: true
+robots: 
+password: 
 tags: 
+  - quotes
 aliases: 
-date: July 30, 2026 10:23
-lastmod: July 30, 2026 14:16
+date: August 06, 2026 10:16
+lastmod: August 06, 2026 10:23
 enableToc:  true
 cssclasses: 
+  - hide-breadcrumbs
 ---
 <div class="quoteout-wrapper">
   <div class="quoteout">

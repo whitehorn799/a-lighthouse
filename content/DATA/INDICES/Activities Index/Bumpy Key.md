@@ -1,9 +1,11 @@
 ---
 title: "Bumpy Key"
 description: "An activity about self-identity"
+permalink: Bumpy-Key
 draft: false
 unlisted: false
 tags: 
+  - activities
 aliases: 
 date: August 05, 2026 15:07
 lastmod: August 05, 2026 15:07
@@ -23,5 +25,8 @@ Take a moment to think on it. What is the purpose of a key and a lock? When you 
 # Moral
 The lock symbolizes your purpose in life. All of those weird bumps and valleys on the key represent your uniqueness: how you think, what you do, your natural talents, your skills, and more. Only that specific configuration of bumps or uniqueness fit that lock. Only you can do the things that certain people need in certain situations. No matter what you do, you will be there when you are needed, and you will easily fill the role. It's life; that can't be avoided. However, don't convince yourself that this is not true for you. That is the trap, and that is completely avoidable. 
 
+<hr>
+
 # See Also
-[[Self-identity]]
+- [[Activities]]
+- [[Self-identity]]

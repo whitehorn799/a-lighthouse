@@ -1,12 +1,17 @@
 ---
 title: "The One-Finned Fish"
-description: "A parable"
+description: "An original parable"
+permalink: The-One-Finned-Fish
 draft: false
 unlisted: false
+stealth: false
+robots: 
+password: 
 tags: 
+  - analogies
 aliases: 
-date: August 05, 2026 17:28
-lastmod: August 05, 2026 17:42
+date: August 06, 2026 17:12
+lastmod: August 07, 2026 13:48
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
@@ -125,5 +130,11 @@ Remaining with people who hold you back may eventually make you feel like a pris
 
 <hr>
 
+>[!announote|tac]
+>This is an original story illustrated and written by Mr. Whitehorn!
+
+<hr>
+
 # See Also
 - [[Analogies]]
+- [[Perspective#^one-finned|Perspective context]]

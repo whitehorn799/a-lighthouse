@@ -1,12 +1,21 @@
 ---
-title: Forest for the Trees
-first-created: July 09, 2026 18:40
-last-updated: July 09, 2026 18:44
+title: "Forest for the Trees"
+description: "Blind to the scope"
+permalink: Forest-for-the-Trees
+draft: false
+unlisted: false
+stealth: false
+robots: 
+password: 
+tags: 
+aliases: 
+date: August 06, 2026 17:12
+lastmod: August 07, 2026 13:44
+enableToc:  true
+cssclasses: 
+  - hide-breadcrumbs
 ---
-[[Analogies]] > See in [[Perspective#^forest|Context]]
-<hr>
 
-# Forest for the Trees
 Imagine yourself in the middle of a forest. You are intensely focused on one tree, and as you examine the minute details of the bark, the leaves, and the roots, you suddenly feel lost. Nothing has changed for you because you're still focused on the tree. You have no idea where you are, but you know you are standing in front of a tree. You start to see more trees, but they all look the same. You are drawn to the variety of the configurations of branches, the striations of bark, and the transition of green leaves to brown ones. ​
 
 A man approaches you, and he says, "I've never seen you in this forest before. Who are you?"​
@@ -27,3 +36,9 @@ We are often drawn in by our problems, and we get caught in this loop of emotion
 By changing your perspective from the "higher self" perspective in outer space, you can see yourself moving through the many details that work together to form our perceived problem. However, from that perspective, the problem becomes less impactful because you see a bigger picture.​
 
 Your higher perspective helps to give you a third-person view of your life; you are on the on the outside of your own life looking in. From there, you gain confidence and agency.
+
+<hr>
+
+# See Also
+- [[Analogies]]
+- [[Perspective#^forest|Perspective context]]

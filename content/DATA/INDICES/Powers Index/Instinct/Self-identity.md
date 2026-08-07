@@ -1,43 +1,45 @@
 ---
 title: Self-identity
 description: A solid identity
+permalink:
 draft: false
 unlisted: false
+stealth: false
+robots:
+password:
 tags:
 aliases:
-date: July 29, 2026 14:13
-lastmod: August 05, 2026 14:50
+date: August 06, 2026 17:12
+lastmod: August 07, 2026 13:24
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 
-%% [[❤️]] > [[🐊]] > [[💡]] > [[🎁]] %% ^baa
-
 
 > [!cleanembed]
-> ![[🎁-📝#^selfid-def]]
+> ![[🎁-📝#^def]]
 
 
 <br>
 
 
 > [!cleanembed]
-> ![[🎁-📝#^selfid-moral]] 
+> ![[🎁-📝#^moral]] 
 
 
 <br>
 
 
 > [!cleanembed]
-> ![[🎁-📝#^selfid-mnemonic]] 
+> ![[🎁-📝#^mnemonic]] 
 
 
 <br>
 
 
 > [!cleanembed]
-> ![[🎁-📝#^selfid-story]] 
+> ![[🎁-📝#^story]] 
 
 
 <br>
@@ -49,13 +51,13 @@ cssclasses:
 # Goal
 
 > [!cleanembed]
-> ![[🎁-📝#^selfid-goal]] 
+> ![[🎁-📝#^goal]] 
 
 
 <br>
 
 > [!cleanembed]
-> ![[🎁-📝#^selfid-consider]] 
+> ![[🎁-📝#^consider]] 
 
 
 <hr>
@@ -109,16 +111,11 @@ These are the focus of this lesson. Just under the questions are the [[Misery Po
 	- showing that the ego is a mortal part of you that lasts as long as you are alive, which can be equated to subjectivity;
 	- explaining that the world's idea of "soul" is an immortal part of you that lasts forever, which can be equated to objectivity.
 
-
 ### 1.1 Activity: Scale
 ^universe-scale
 
-Our universe is both vast and tiny, wide and narrow, shallow and deep. You will be thrilled at how big you can be and amazed at how small you are. 
-
-When you click the Scale of the Universe 2 by [Cary Huang](https://www.htwins.net/) below, you will see an interactive scale of the universe. At the bottom of the screen, there is a scrollbar. Dragging the circle left goes deeper into the micro (small) universe. You'll see things like rice and a grain of salt. Dragging the circle right goes deeper into the macro (big) universe, where you'll see stars and galaxies. You are encouraged to go left first, then go right.
-- [Scale of the Universe 2](https://htwins.net/scale2/)
-	- How do you feel after seeing that?
-	- Do you feel big, small, or free?
+> [!cleanembed]
+> ![[Scale of the Universe#^my-block]]
 
 ### 1.2 Understanding Environment
 Science informs that an organism can never be removed from the environment. No matter where an organism is, it exists within an environment.
@@ -310,7 +307,7 @@ It’s like buying a gift for someone that you don’t know: you don’t know wh
 By now, you may see a pattern developing: be human, be you, and involve yourself in the world. Everyone has their own reality; they wish for it to be real, but reality only reflects what happens, not dreams. When we try, we are met with friction: the stress of effort, the sting of failure, and the drain of disappointment. We see those as mistakes that set us back, but they are the steps that teach. We learn what is best for us, what doesn’t fit us, and we grow from that. 
 
 > [!cleanembed-title] Human Tree Analogy
-> ![[Human Tree Analogy#^human-tree]]
+> ![[Human Tree Analogy#^my-block]]
 
 ^human-tree-context-1
 

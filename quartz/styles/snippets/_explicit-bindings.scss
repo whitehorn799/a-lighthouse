@@ -278,7 +278,20 @@ button.encrypted-page-submit:hover {
   line-height: inherit !important;
   color: var(--c-sidebar-title-color) !important;
 }
+/*
+██████ ▄▄▄   ▄▄▄▄  ▄▄▄▄ ██ ▄▄  ▄▄ ▄▄▄▄  ▄▄▄▄▄ ▄▄ ▄▄ 
+  ██  ██▀██ ██ ▄▄ ███▄▄ ██ ███▄██ ██▀██ ██▄▄  ▀█▄█▀ 
+  ██  ██▀██ ▀███▀ ▄▄██▀ ██ ██ ▀██ ████▀ ██▄▄▄ ██ ██ 
+*/
 
+/* Hide the Tags folder/node from the Explorer component */
+.explorer {
+  /* Target folder items containing the link or text for 'tags' */
+  div[data-node-path="tags"],
+  li:has(a[href*="/tags"]) {
+    display: none !important;
+  }
+}
 
 /*
 ██████ ▄▄▄▄   ▄▄▄  ▄▄  ▄▄  ▄▄▄▄  ▄▄▄▄ ▄▄    ▄▄ ▄▄ ▄▄▄▄  ▄▄▄▄▄ 

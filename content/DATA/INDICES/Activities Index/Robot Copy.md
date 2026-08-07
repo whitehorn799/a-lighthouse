@@ -1,9 +1,11 @@
 ---
 title: "Robot Copy"
 description: "An activity about self-identity"
+permalink: Robot-Copy
 draft: false
 unlisted: false
 tags: 
+  - activities
 aliases: 
 date: August 05, 2026 15:12
 lastmod: August 05, 2026 15:12
@@ -32,5 +34,8 @@ The robot will have its own experiences and thoughts as time changes it. It migh
  
 Whatever beliefs, flaws, or purpose you choose, those represent you. You are the painting, and those are the colors. If you change even one of those colors, your painting would look different, and you would be a different version of you. While this lesson cannot tell you who you are, it gives you the tools to find how you are made special.
 
+<hr>
+
 # See Also
-[[Self-identity]]
+- [[Activities]]
+- [[Self-identity]]

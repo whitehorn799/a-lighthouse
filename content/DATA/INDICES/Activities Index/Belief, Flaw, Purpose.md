@@ -1,9 +1,11 @@
 ---
 title: "Belief, Flaw, Purpose"
 description: "An activity about self-identity"
+permalink: Belief-Flaw-Purpose
 draft: false
 unlisted: false
 tags: 
+  - activities
 aliases: 
 date: August 05, 2026 15:09
 lastmod: August 05, 2026 15:09
@@ -27,8 +29,10 @@ The answers can bring clarity of thought, especially if you remember them!
 - Now, suppose you are a colorful painting. Your colors are made up of what you wrote down: your belief, your flaw, and your purpose.
 - What does that look like?
 
+<hr>
 
 
 # See Also
-[[Self-identity]]
+- [[Activities]]
+- [[Self-identity]]
 

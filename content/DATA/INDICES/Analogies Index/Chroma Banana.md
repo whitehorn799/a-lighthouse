@@ -1,3 +1,22 @@
+---
+title: "Chroma Banana"
+description: "Don't believe your eyes"
+permalink: Chroma-Banana
+draft: false
+unlisted: false
+stealth: false
+robots: 
+password: 
+tags:
+  - analogies
+aliases: 
+date: August 06, 2026 17:12
+lastmod: August 07, 2026 14:53
+enableToc:  true
+cssclasses: 
+  - hide-breadcrumbs
+---
+
 Imagine a group of researchers who are running a tightly controlled sensory experiment. They set up three identical rooms and place a standard, perfectly ripe banana on a pedestal in the exact center of each room.
  
 They select nine test subjects. Unknown to the participants, several of them have varying degrees of color blindness. The subjects are divided into groups of three and led into their assigned rooms in total darkness. The researchers ensure that every single room contains at least one color-blind individual.
