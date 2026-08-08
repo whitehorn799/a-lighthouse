@@ -79,6 +79,6 @@ A lighthouse is still and bright so that you may choose your path in the shade b
 I want to give my vast gratitude to those who took time out of their schedule to help me. It means a lot. Though my words live and die, my appreciation is immortal!
 %%## Chinese Translation
 In alphabetical order:
-- [Hsingyu Tsai] (https://www.instagram.com/hs1ngyu?igsh=OGhrejBxMmx0enEz&utm_source=qr)
+- [Hsingyu Tsai](https://www.instagram.com/hs1ngyu?igsh=OGhrejBxMmx0enEz&utm_source=qr)
 - Huang Hsin-wei
 - Jason%%

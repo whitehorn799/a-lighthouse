@@ -1,4 +1,8 @@
 ---
+permalink: 
+stealth: false
+robots: 
+password: 
 title: Mr. Whitehorn
 description: "The facilitator of the program"
 draft: false
@@ -6,10 +10,15 @@ unlisted: false
 tags:
 aliases:
 date: July 29, 2026 13:06
-lastmod: July 29, 2026 14:19
+lastmod: August 08, 2026 12:30
 enableToc: true
 cssclasses:
 ---
+<br>
+
+![[mr-whitehorn-logo.png|center|300]]
+
+<br>
 
 >[!announote|tac]
 >I am not a professional psychologist nor a trained counselor. 

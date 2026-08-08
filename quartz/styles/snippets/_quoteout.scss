@@ -15,125 +15,137 @@ USAGE 2 (Quote + Translation + Citation):
 > *I came, I saw, I conquered.*
 > Julius Caesar
 */
-
 /* center the quoteout in the page */
 .quoteout-wrapper {
-   display: flex;
-   height: auto;
-   padding: 0 20px;
+  display: flex;
+  height: auto;
+  padding: 0 20px;
 }
 
 /* quoteout main style */
 .quoteout {
-    position: relative;
-    font-family: var(--c-font-family), sans-serif;
-    max-width: 80%;
-    margin: 40px auto;
-    align-self: center;
-      // Add this inside your .quoteout block:
-    h1 {
-        // 1. Hide the anchor icon (and any SVG inside it)
-        a.internal,
-        a.hashtag,
-        .anchor,
-        svg {
-        display: none !important;
-        }
-
-        // 2. Disable link pointer and underline if the title itself is a link
-        a {
-        pointer-events: none;
-        text-decoration: none;
-        color: inherit;
-        }
-    }
+  position: relative;
+  font-family: var(--c-font-family), sans-serif;
+  max-width: 80%;
+  margin: 40px auto;
+  align-self: center;
 }
 
 /* quoteout header */
 .quoteout h1 {
-    font-family: var(--c-quoteout-font-family);
-    position: relative; /* for pseudos */
-    color: var(--c-quoteout-h1-color);
-    font-size: clamp(1.2rem, var(--c-quoteout-font-size) + 1.0vmin, 2.2rem);
-    font-weight: normal;
-    line-height: 1;
-    margin: 0;
-    border: 2px solid var(--c-quoteout-h1-color);
-    border-radius:20px;
-    padding: 30px;
-    text-align: left;
+  font-family: var(--c-quoteout-font-family);
+  position: relative; /* for pseudos */
+  color: var(--c-quoteout-h1-color);
+  font-size: clamp(1.2rem, var(--c-quoteout-font-size) + 1vmin, 2.2rem);
+  font-weight: normal;
+  line-height: 1;
+  margin: 0;
+  border: 2px solid var(--c-quoteout-h1-color);
+  border-radius: 20px;
+  padding: 30px;
+  text-align: left;
 }
 
-
-/* quoteout right double quotes */
-.quoteout h1:after {
-    content:"";
-    position: absolute;
-    border: 2px solid var(--c-quoteout-h1-color);
-    border-radius: 0 100% 0 0;
-    width: 60px;
-    height: 60px;
-    bottom: -62px;
-    left: 50px;
-    border-bottom: none;
-    border-left: none;
-    z-index: 3; 
+/* Color classes inside h1 */
+.quoteout h1 .accent1 {
+  color: var(--c-quoteout-accent1);
 }
 
+.quoteout h1 .foreign {
+  display: block;
+  font-size: var(--c-quoteout-foreign-font-size);
+  font-family: var(--c-font-header);
+  color: var(--c-quoteout-foreign-color);
+  font-style: normal;
+  padding-bottom: 0.2rem;
+  text-transform: none;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+/* quoteout speech bubble tail (before) */
 .quoteout h1:before {
-    content:"";
-    position: absolute;
-    width: 80px;
-    border: 6px solid var(--c-quoteout-h4-color);
-    bottom: -3px;
-    left: 50px;
-    z-index: 2;
+  content: "";
+  position: absolute;
+  width: 80px;
+  border: 6px solid var(--c-quoteout-h4-color);
+  bottom: -3px;
+  left: 50px;
+  z-index: 2;
+  pointer-events: none;
+}
+
+/* quoteout right double quotes tail (after) */
+.quoteout h1:after {
+  content: "";
+  position: absolute;
+  border: 2px solid var(--c-quoteout-h1-color);
+  border-radius: 0 100% 0 0;
+  width: 60px;
+  height: 60px;
+  bottom: -62px;
+  left: 50px;
+  border-bottom: none;
+  border-left: none;
+  z-index: 3;
+  pointer-events: none;
 }
 
 /* increase header size after 600px */
 @media all and (min-width: 600px) {
-    .quoteout h1 {
-        font-size: 3rem;
-        line-height: 1.2;
-   }
-
+  .quoteout h1 {
+    font-size: 3rem;
+    line-height: 1.2;
+  }
 }
 
 /* quoteout subheader */
 .quoteout h4 {
-    position: relative;
-    color: var(--c-quoteout-h4-color);
-    font-size: var(--c-quoteout-cite-font-size);
-    font-weight: 400;
-    line-height: 1.2;
-    margin: 0;
-    padding-top: 15px;
-    z-index: 1;
-    margin-left:150px;
-    padding-left:12px;
+  position: relative;
+  color: var(--c-quoteout-h4-color);
+  font-size: var(--c-quoteout-cite-font-size);
+  font-weight: 400;
+  line-height: 1.2;
+  margin: 0;
+  padding-top: 15px;
+  z-index: 1;
+  margin-left: 150px;
+  padding-left: 12px;
 }
 
- 
 .quoteout h4:first-letter {
-  margin-left:-12px;
+  margin-left: -12px;
 }
 
-/* Color class for accents in quotes */
-.quoteout {
-  h1 {
-    .accent1 {
-      color: var(--c-quoteout-accent1);
-    }
-    .foreign {
-        display: block;
-        font-size: var(--c-quoteout-foreign-font-size);
-        font-family: var(--c-font-header);
-        color: var(--c-quoteout-foreign-color);
-        font-style: normal;
-        padding-bottom: 0.2rem;
-        text-transform: none;
-        text-align: center;
-        margin-bottom: 1rem;
-    }
-  }
+/* ==========================================================================
+   UN-NESTED OVERRIDES (Placed at top-level to maximize specificity)
+   ========================================================================== */
+
+/* Completely hide Quartz auto-generated header anchor links inside quoteout H1s */
+body .quoteout a.internal.internal-link,
+body .quoteout a.internal,
+body .quoteout a.anchor,
+body .quoteout .anchor {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  width: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Keep the citation link inside H4 visible and functional */
+body .quoteout h4 a.internal.internal-link,
+body .quoteout h4 a {
+  display: inline !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+
+/* Hide SVG icons inside the citation link if present */
+body .quoteout h4 a svg {
+  display: none !important;
 }

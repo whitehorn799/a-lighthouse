@@ -1,6 +1,6 @@
 ---
 title: "Self-identity"
-description: "A solid identity"
+description: "Start with yourself"
 permalink:
 draft: false
 unlisted: false

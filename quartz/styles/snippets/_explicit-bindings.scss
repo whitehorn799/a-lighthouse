@@ -39,7 +39,6 @@ div[data-frontmatter] {
 ██▄▄█▀ ██ ██ ██▄▄▄ ██▀██ ████▀ ▀████ ██ ██ ▀███▀ ██   ██ ██▄█▀ ▄▄██▀ 
 */
 
-
 /* =========================================================================
    QUARTZ COMMUNITY BREADCRUMBS & TITLE POSITIONING
    ========================================================================= */
@@ -59,19 +58,10 @@ body .popover-hint {
   }
 }
 
-/* 2. Standard Links (Folders) */
-.breadcrumb-element a,
-.breadcrumb-element a:visited {
-  color: var(--c-breadcrumbs-color) !important;
-  text-decoration: none !important;
-  transition: color 0.2s ease-in-out;
-  font-size: var(--c-breadcrumbs-font-size) !important;  
-  opacity: 0.6 !important;
-}
-
-.breadcrumb-element a:hover {
-  color: var(--c-links-inthover) !important;
-  text-decoration: underline !important;
+/* 2. Freeze all folders EXCEPT the home link */
+.breadcrumb-element:not(:first-child) a {
+  pointer-events: none !important;
+  cursor: default !important;
 }
 
 /* 3. Separators (Flat Rule) */
@@ -81,7 +71,6 @@ body .popover-hint {
 }
 
 /* 4. Last Child / Current Page (Flat Rule) */
-/* Overrides standard link styles, strips clickability, and applies active color */
 .breadcrumb-element:last-child a,
 .breadcrumb-element:last-child a:visited,
 .breadcrumb-element:last-child a:hover,
@@ -90,16 +79,18 @@ body .popover-hint {
   color: var(--c-breadcrumbs-active-color) !important;
   font-size: var(--c-breadcrumbs-font-size) !important;
   font-weight: 500 !important;
-  pointer-events: none !important; /* Disables click behavior */
-  cursor: default !important;     /* Changes cursor from hand pointer to default arrow */
+  pointer-events: none !important;
+  cursor: default !important;
   text-decoration: none !important;
+  opacity: 1 !important; /* Keep current page clearly visible */
 }
+
 .breadcrumb-container {
-    gap: 0rem !important;  
+  gap: 0rem !important;  
 }
 
 /* =========================================================================
-   High Specificity Overrides (Must sit outside the main block)
+   High Specificity Overrides
    ========================================================================= */
 #quartz-body .breadcrumb-element p {
   color: var(--c-breadcrumbs-separator-color) !important;
