@@ -1,15 +1,24 @@
 ---
-title: Program Overview
-description: "See what we are about"
+title: "Program Overview"
+description: "Learn about the program"
 draft: false
 unlisted: false
+stealth: false
+robots: 
+password: 
 tags: 
+slug: 
+  - program-overview
 aliases: 
-date: July 28, 2026 22:39
-lastmod: July 29, 2026 08:55
+permalink: 
+date: August 10, 2026 11:05
+lastmod: August 10, 2026 11:29
 enableToc:  true
 cssclasses: 
 ---
+
+
+
 # The Philosophy
 We have a core philosophy that revolves around support, knowledge, and empowerment. The following points embody this philosophy.
 ## Love as the Ultimate Environment

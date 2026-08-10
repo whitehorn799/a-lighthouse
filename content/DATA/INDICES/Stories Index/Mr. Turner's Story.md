@@ -1,3 +1,24 @@
+---
+title: "Mr. Turner's Story"
+description: "A story about self-identity"
+draft: false
+unlisted: false
+stealth: false
+robots: 
+password: 
+tags: 
+  - story
+slug: 
+  - turners-story
+aliases: 
+permalink: 
+date: August 10, 2026 11:05
+lastmod: August 10, 2026 11:55
+enableToc:  true
+cssclasses: 
+  - hide-breadcrumbs
+---
+
 **Word Count:** 545  
 **Duration 140wpm:** 3:54
 
@@ -14,3 +35,8 @@ It took him a while, and even though it seemed like the dumbest thing to do, he 
 Mr. Turner was stumbled through life without knowing who he was. He followed the life that people said was the way. He never thought to question them because he trusted the system. Mr. Turner's self-identity spoke up. He denied his self-identity's call to action because it was too painful to face, and it nearly ruined him. The moment he accepted his identity and value is the same moment things turned around, but a lot of damage had already been done.
 
 The moral of Mr. Turner's story is that you can't live comfortably while you deny yourself and what you truly want. It's wiser to learn who you are, what you want, and have the confidence to choose yourself over others.
+
+<hr>
+
+# See Also
+- [[Self-identity]]

@@ -1,7 +1,6 @@
 ---
 title: "The Gift Analogy"
 description: "Hidden in the last place"
-permalink: 
 draft: false
 unlisted: false
 stealth: false
@@ -9,7 +8,10 @@ robots:
 password: 
 tags: 
   - analogy
+slug: 
+  - the-gift-analogy
 aliases: 
+permalink: 
 date: August 06, 2026 17:12
 lastmod: August 07, 2026 13:49
 enableToc:  true

@@ -1,15 +1,14 @@
 ---
 title: "xxx"
 description: "xxx"
-permalink:
 draft: false
 unlisted: false
 stealth: false
 robots:
 password:
-tags:
-  - trait
-aliases:
+slug: 
+aliases: 
+permalink: 
 date: August 06, 2026 17:12
 lastmod: August 07, 2026 13:24
 enableToc: true

@@ -163,7 +163,7 @@ By seeing something from the eyes of another person, we become that person. It's
 ##### 1.1.1 The Cylinder
 To clearly demonstrate this, we'll use a metaphor. Let's take a look at this illustration. 
 
-![[Frame of Reference Cylinder|linked]]
+![[Frame of Reference Analogy|linked]]
 
 - In your own words, explain what is happening in the illustration. 
 - Think of a time in your life when this could have been useful to know. 

@@ -466,14 +466,26 @@ button.desktop-explorer {
   flex-direction: column !important;
 }
 
-/* 1. HIDE POWER INDEX (Case-insensitive href matching) */
-.explorer li:has(a[href*="power-index" i]),
-.explorer li:has(a[href*="power_index" i]),
-#explorer-content li:has(a[href*="power-index" i]) {
-  display: none !important;
+/* =========================================================
+   HIDE POWERS-INDEX ONLY (Preserves Parent Folders)
+   ========================================================= */
+
+/* Target the specific folder container or link node, NOT the parent list item */
+#quartz-body .explorer {
+  /* Hides the powers-index folder header itself */
+  .folder-container:has(a[href*="powers-index" i]),
+  .folder-container:has(button[data-folderpath*="powers-index" i]),
+  .folder-container[data-folderpath*="powers-index" i],
+
+  /* Hides direct list items that are strictly powers-index files/folders */
+  li:has(> .folder-container a[href*="powers-index" i]),
+  li:has(> a[href*="powers-index" i]),
+  li:has(> button[data-folderpath*="powers-index" i]) {
+    display: none !important;
+  }
 }
 
-/* 2. CUSTOM SORT ORDER */
+/* CUSTOM EXPLORER SORT ORDER */
 /* Default order for unlisted items */
 .explorer ul > li,
 #explorer-content ul > li {

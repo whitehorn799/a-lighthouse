@@ -1,7 +1,6 @@
 ---
 title: "The Two Wolves"
-description: "Good and bad"
-permalink: 
+description: "The conscience behind the scene"
 draft: false
 unlisted: false
 stealth: false
@@ -9,7 +8,10 @@ robots:
 password: 
 tags: 
   - analogy
+slug: 
+  - the-two-wolves
 aliases: 
+permalink: 
 date: August 06, 2026 10:16
 lastmod: August 06, 2026 10:23
 enableToc:  true

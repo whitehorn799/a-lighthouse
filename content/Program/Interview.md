@@ -1,15 +1,22 @@
 ---
-title: Interview
+title: "Interview"
 description: "A summary of your situation"
 draft: false
 unlisted: false
+stealth: false
+robots: 
+password: 
 tags: 
+slug: 
+  - interview
 aliases: 
-date: July 29, 2026 14:47
-lastmod: July 29, 2026 16:03
+permalink: 
+date: August 10, 2026 11:05
+lastmod: August 10, 2026 11:25
 enableToc:  true
 cssclasses: 
 ---
+
 
 The interview is used to help you explain your situation. We can find out what to work on first. No matter what it is, we have to focus on one issue at a time. We cannot be distracted away from it until it is understood and a goal is planned.
 

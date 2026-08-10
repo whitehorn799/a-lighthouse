@@ -1,7 +1,6 @@
 ---
 title: "I know that I know nothing"
-description: ""
-permalink: 
+description: "Intellectual humility is the start"
 draft: false
 unlisted: false
 stealth: false
@@ -9,7 +8,10 @@ robots:
 password: 
 tags: 
   - quote
+slug: 
+  - i-know-nothing
 aliases: 
+permalink: 
 date: August 06, 2026 10:16
 lastmod: August 06, 2026 10:23
 enableToc:  true

@@ -1,7 +1,6 @@
 ---
-title: Scale of the Universe
-description: How much space you take
-permalink: 
+title: "Scale of the Universe"
+description: "Understand your place"
 draft: false
 unlisted: false
 stealth: false
@@ -9,7 +8,10 @@ robots:
 password:
 tags:
   - activity
-aliases:
+slug: 
+  - scale-of-the-universe
+aliases: 
+permalink: 
 date: August 07, 2026 13:31
 lastmod: August 07, 2026 13:31
 enableToc: true

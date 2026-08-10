@@ -1,15 +1,22 @@
 ---
-title: Orientation
-description: ""
+title: "Orientation"
+description: "Getting started with the program"
 draft: false
 unlisted: false
-tags:
-aliases:
-date: July 29, 2026 14:47
-lastmod: July 30, 2026 14:35
-enableToc: true
-cssclasses:
+stealth: false
+robots: 
+password: 
+tags: 
+slug: 
+  - orientation
+aliases: 
+permalink: 
+date: August 10, 2026 11:05
+lastmod: August 10, 2026 11:24
+enableToc:  true
+cssclasses: 
 ---
+
 
 >[!announote|shh-note tac]
 >This orientation is for anyone. If you want to get the full experience, you begin the journey here.

@@ -1,12 +1,14 @@
 ---
 title: "Belief, Flaw, Purpose"
 description: "An activity about self-identity"
-permalink: 
 draft: false
 unlisted: false
 tags: 
   - activity
+slug: 
+  - belief-flaw-purpose
 aliases: 
+permalink: 
 date: August 05, 2026 15:09
 lastmod: August 05, 2026 15:09
 enableToc:  true

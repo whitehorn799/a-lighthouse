@@ -1,21 +1,24 @@
 ---
 title: "Self-identity"
 description: "Start with yourself"
-permalink:
 draft: false
 unlisted: false
 stealth: false
-robots:
-password:
+robots: 
+password: 
 tags:
   - trait
-aliases:
-date: August 06, 2026 17:12
-lastmod: August 07, 2026 13:24
-enableToc: true
-cssclasses:
+slug: 
+  - self-identity
+aliases: 
+permalink: 
+date: August 10, 2026 11:05
+lastmod: August 10, 2026 11:30
+enableToc:  true
+cssclasses: 
   - hide-breadcrumbs
 ---
+
 
 
 

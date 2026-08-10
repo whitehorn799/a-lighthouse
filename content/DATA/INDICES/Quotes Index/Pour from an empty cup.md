@@ -1,7 +1,6 @@
 ---
 title: "Pour from an empty cup"
-description: ""
-permalink: 
+description: "Prepare yourself to love better"
 draft: false
 unlisted: false
 stealth: false
@@ -9,7 +8,10 @@ robots:
 password: 
 tags: 
   - quote
+slug: 
+  - empty-cup
 aliases: 
+permalink: 
 date: August 06, 2026 10:16
 lastmod: August 06, 2026 10:23
 enableToc:  true

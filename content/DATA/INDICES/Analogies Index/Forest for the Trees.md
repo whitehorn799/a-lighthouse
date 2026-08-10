@@ -1,7 +1,6 @@
 ---
-title: Forest for the Trees
-description: Blind to the scope
-permalink:
+title: "Forest for the Trees"
+description: "Try to broaden your perspective"
 draft: false
 unlisted: false
 stealth: false
@@ -10,7 +9,10 @@ password:
 tags:
   - analogy
   - quote
-aliases:
+slug: 
+  - forest-for-the-trees
+aliases: 
+permalink: 
 date: August 06, 2026 17:12
 lastmod: August 07, 2026 13:44
 enableToc: true

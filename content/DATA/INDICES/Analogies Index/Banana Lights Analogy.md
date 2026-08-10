@@ -1,7 +1,6 @@
 ---
-title: "Chroma Banana"
+title: "Banana Lights Analogy"
 description: "Don't believe your eyes"
-permalink: 
 draft: false
 unlisted: false
 stealth: false
@@ -9,7 +8,10 @@ robots:
 password: 
 tags:
   - analogy
+slug: 
+  - banana-lights-analogy
 aliases: 
+permalink: 
 date: August 06, 2026 17:12
 lastmod: August 07, 2026 14:53
 enableToc:  true

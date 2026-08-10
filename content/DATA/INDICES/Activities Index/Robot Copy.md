@@ -1,12 +1,14 @@
 ---
 title: "Robot Copy"
 description: "An activity about self-identity"
-permalink: 
 draft: false
 unlisted: false
 tags: 
   - activity
+slug: 
+  - robot-copy
 aliases: 
+permalink: 
 date: August 05, 2026 15:12
 lastmod: August 05, 2026 15:12
 enableToc:  true

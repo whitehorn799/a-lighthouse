@@ -1,14 +1,14 @@
 ---
 title: "XXX-📝"
 description: ""
-permalink: 
 draft: false
 unlisted: true
 stealth: true
 robots: noindex, nofollow
 password: # bj-Word-1337
-tags: 
+slug: 
 aliases: 
+permalink: 
 date: August 06, 2026 10:16
 lastmod: August 06, 2026 10:23
 enableToc:  true

@@ -1,16 +1,23 @@
 ---
-title: A Lighthouse for Personal Growth
+title: "A Lighthouse for Personal Growth"
 description: "Solid. Still. Reclaim your power."
 draft: false
 unlisted: false
-tags:
+stealth: false
+robots: 
+password: 
+tags: 
+slug: 
+  - home
 aliases: 
-date: July 24, 2026 12:42
-lastmod: August 01, 2026 09:32
+permalink: 
+date: August 10, 2026 11:05
+lastmod: August 10, 2026 11:23
 enableToc:  true
 cssclasses: 
   - hide-article-title
 ---
+
 <span class="faded">[[☀️ helio|✦]]</span>
 
 

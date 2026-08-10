@@ -1,15 +1,22 @@
 ---
-title: Correspondent
-description: ""
+title: "Correspondent"
+description: "Sign up for a 1-on-1 session"
 draft: false
 unlisted: false
+stealth: false
+robots: 
+password: 
 tags: 
+slug: 
+  - correspondent
 aliases: 
-date: July 30, 2026 17:55
-lastmod: July 31, 2026 11:12
+permalink: 
+date: August 10, 2026 11:05
+lastmod: August 10, 2026 11:26
 enableToc:  true
 cssclasses: 
 ---
+
 
 In terms of the program, a correspondent is someone who needs one-on-one guidance with the program facilitator, [[Mr. Whitehorn]], for a small fee. 
 

@@ -1,12 +1,14 @@
 ---
 title: "Bumpy Key"
 description: "An activity about self-identity"
-permalink: 
 draft: false
 unlisted: false
 tags: 
   - activity
+slug: 
+  - bumpy-key
 aliases: 
+permalink: 
 date: August 05, 2026 15:07
 lastmod: August 05, 2026 15:07
 enableToc:  true

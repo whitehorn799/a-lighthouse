@@ -1,19 +1,24 @@
 ---
-permalink: 
-stealth: false
-robots: 
-password: 
 title: Mr. Whitehorn
 description: "The facilitator of the program"
 draft: false
 unlisted: false
-tags:
-aliases:
-date: July 29, 2026 13:06
-lastmod: August 08, 2026 12:30
-enableToc: true
-cssclasses:
+stealth: false
+robots: 
+password: 
+tags: 
+slug: 
+  - mr-whitehorn
+aliases: 
+  - whitehorn
+permalink: 
+date: August 10, 2026 11:05
+lastmod: August 10, 2026 11:21
+enableToc:  true
+cssclasses: 
 ---
+
+
 <br>
 
 ![[mr-whitehorn-logo.png|center|300]]

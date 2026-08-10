@@ -1,19 +1,22 @@
 ---
-title: Glossary
-description: "Dictionary of terms"
-permalink: 
+title: "Glossary"
+description: "A dictionary of terms"
 draft: false
 unlisted: false
 stealth: false
 robots: 
 password: 
 tags: 
+slug: 
+  - glossary
 aliases: 
-date: August 06, 2026 12:22
-lastmod: August 06, 2026 15:10
+permalink: 
+date: August 10, 2026 11:05
+lastmod: August 10, 2026 11:27
 enableToc:  true
 cssclasses: 
 ---
+
 # Tags
 Search for things by category.<br><br>
 

@@ -1,19 +1,24 @@
 ---
-title: Power Modules
-description: Your power stratified
-permalink: Power-Modules
+title: "Power Modules"
+description: "Your power stratified"
 draft: false
 unlisted: false
 stealth: false
-robots:
-password:
-tags:
-aliases:
-date: August 06, 2026 12:22
-lastmod: August 06, 2026 15:11
-enableToc: true
-cssclasses:
+robots: 
+password: 
+tags: 
+slug: 
+  - power-modules
+aliases: 
+permalink: 
+date: August 10, 2026 11:05
+lastmod: August 10, 2026 11:28
+enableToc:  true
+cssclasses: 
 ---
+
+
+
 
 >[!announote|tac]
 >This material is under development. [[Power Modules#Updates|Click here]] for update notifications.
