@@ -1,6 +1,6 @@
 ---
-title: Sovereignty of Good
-description: The intention of unity
+title: "Sovereignty of Good"
+description: "The intention of unity"
 draft: false
 unlisted: false
 stealth: false
@@ -13,7 +13,7 @@ aliases:
   - Principle Three
 permalink:
 date: August 10, 2026 12:19
-lastmod: August 10, 2026 15:04
+lastmod: August 10, 2026 17:42
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -21,13 +21,15 @@ cssclasses:
 
 
 >[!invisiblock] 
->>[!faintbox|title] Sovereignty of Good
+>>[!faintbox|title] The sovereignty of good drives you. 
 >>The Sovereignty of Good is the preference for connection over isolation, agency over victimhood, and respect over objectification because constructive growth is the only path that leads to a true and unifying peace.
 >
 >The [[Sovereignty of Good]] is this program's deliberate, conscious preference for healthy, unifying, and constructive growth over destructive, isolating self-centeredness. <br><br>
 >Because of Principle One, the ideas of good and evil are the same: they're accepted. However, this program strives for a preference toward conceptual "good", as opposed to "evil", actions. We offer help to those who share this preference.
 
 ^my-block
+
+<hr>
 
 # Program vs. Individual Choice
 >[!invisiblock] 

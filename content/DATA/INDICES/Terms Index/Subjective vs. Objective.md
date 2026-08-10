@@ -13,7 +13,7 @@ This is how we frame our view on internal and external environments.
 > <div class="redpoint">Shared Reality</div>
 > 
 > what's true in the objective view of the real world; changed by action
-> ^private-shared-block
+> 
 
 
 <hr>

@@ -135,3 +135,12 @@
   margin-block-start: 0 !important;
   margin-bottom: 1rem !important;
 }
+
+/* =========================================================================
+   COLOR-POINT MARGIN OVERRIDE (When inside Invisiblock)
+   ========================================================================= */
+
+#quartz-body .callout[data-callout="invisiblock"] .color-point {
+  margin-top: 0 !important;
+  margin-bottom: 0rem !important; 
+}

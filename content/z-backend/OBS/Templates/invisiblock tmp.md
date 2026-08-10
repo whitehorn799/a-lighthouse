@@ -1,8 +1,6 @@
-<br>
-
 >[!invisiblock] 
 >xxx <br><br>
 >xxx
 
-<br>
+^my-block
 

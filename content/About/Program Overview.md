@@ -19,15 +19,13 @@ cssclasses:
 
 
 
-# The Philosophy
-We have a core philosophy that revolves around support, knowledge, and empowerment. The following points embody this philosophy.
-
+# The Principles
 **Our Principles**
 1. Love is the ultimate environment.
-2. Personal power already lives in everyone. 
-3. The sovereignty of good drives us.
-4. Strength lies in speaking.
-5. Action begets change. 
+2. Personal power already lives in you. 
+3. The sovereignty of good drives you.
+4. Sovereign speech teaches you.
+5. Action changes you, and ambivalence binds you. 
 
 ## Principle One
 > [!cleanembed]
@@ -57,15 +55,27 @@ We have a core philosophy that revolves around support, knowledge, and empowerme
 ^sovereign-good-context-1
 
 
-## Strength from Speech
-Speaking the truth will set you free. It's a stronger person who speaks their life than who types or writes it because true understanding comes from inner knowledge. 
+## Principle Four
+^docendo-context-2
 
-Books and videos cannot work through your personal issues because they say the same thing, whether you understand them or not. True alignment with your inherent power requires a dialogue where you are both listened to and cross-examined without judgment. You are encouraged to make your own truths, while the traits of this program serve as a supportive framework.
+> [!cleanembed]
+> ![[Sovereign Speech#^my-block]]
 
-## Goal-oriented, Team Effort
+^sovereign-speech-context-1
+
+<br>
 
 
+> [!cleanembed]
+> ![[Sovereign Speech#^synthesis]]
 
+
+## Principle Five
+
+> [!cleanembed]
+> ![[Ascending Action#^my-block]]
+
+^ascending-action-context-1
 
 
 <hr>
@@ -76,7 +86,11 @@ The program is structured to respect your energy and time. We move away from lec
 
 
 ## Our Method
-Elenchus Elicitation is a directive bridge between two methods of counsel: motivation interview and the Socratic Elenchus. By using this method, we use the empathy of motivation interviewing to support one's private reality and to reveal ambivalence so as to uncover unhealthy secondary gain patterns. We then take that ambivalence and compare it against the shared reality to logically manage expectations. Finally, the bridge of the Elenchus Elicitation method, we reconcile the differences between unrealistic expectations of one's private reality and the actuality of the physics behind our shared reality. We identify the traits of one's personal power that, if nurtured with achievable goals, will bring one closer to a harmonic inner peace that helps them expand their perspectives with emotional and logical understanding. 
+> [!cleanembed]
+> ![[Elenchus Elicitation#^my-block]]
+
+^elenchus-elicit-context-1
+
 ## Modular 
 Each of the abilities in your personal powers is examined in practical supplemental material provided for free on this website here: [[Power Modules]].
 

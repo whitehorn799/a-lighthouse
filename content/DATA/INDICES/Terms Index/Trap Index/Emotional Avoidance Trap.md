@@ -3,14 +3,23 @@ title: "Emotional Avoidance Trap"
 description: "How your emotions trap you"
 draft: false
 unlisted: false
+stealth: false
+robots: 
+password: 
 tags: 
+  - trap
+slug: 
+  - emotional-avoidance-trap
 aliases: 
-date: August 05, 2026 15:59
-lastmod: August 05, 2026 16:00
+permalink: 
+date: August 10, 2026 16:05
+lastmod: August 10, 2026 20:07
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
 ---
+
+
 > [!invisiblock]
 >One of the biggest traps of all is encountered in so many situations. Your emotions are great tools, but if they're ignored, they're incredible obstacles. <br><br>
 >Suppose you have a deep desire to accomplish a goal. If you are strong in your agency and your identity, you may understand the work and sacrifice that come with accomplishing that desire.<br><br> 
@@ -26,5 +35,4 @@ cssclasses:
 <hr>
 
 # See Also
-- [[Traps]]
 - [[Self-identity#Traps and States|Self-identity]]

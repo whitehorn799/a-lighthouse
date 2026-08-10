@@ -1,12 +1,18 @@
 ---
 title: "Limiting Beliefs"
-description: ""
+description: "Imposing beliefs that hold you back"
 draft: false
 unlisted: false
+stealth: false
+robots: 
+password: 
 tags: 
+slug: 
+  - limiting-beliefs
 aliases: 
-date: August 05, 2026 12:55
-lastmod: August 05, 2026 17:28
+permalink: 
+date: August 10, 2026 16:05
+lastmod: August 10, 2026 20:00
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs

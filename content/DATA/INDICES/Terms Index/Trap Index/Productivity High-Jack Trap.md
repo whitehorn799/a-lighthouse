@@ -3,10 +3,17 @@ title: "Productivity High-Jack Trap"
 description: "Busybodiness"
 draft: false
 unlisted: false
+stealth: false
+robots: 
+password: 
 tags: 
+  - trap
+slug: 
+  - productivity-high-jack-trap
 aliases: 
-date: August 05, 2026 15:59
-lastmod: August 05, 2026 16:00
+permalink: 
+date: August 10, 2026 16:05
+lastmod: August 10, 2026 20:11
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
@@ -21,5 +28,4 @@ cssclasses:
 <hr>
 
 # See Also
-- [[Traps]]
 - [[Self-identity#Traps and States|Self-identity]]

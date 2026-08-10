@@ -12,7 +12,7 @@ slug:
 aliases: 
 permalink: 
 date: August 10, 2026 11:05
-lastmod: August 10, 2026 11:27
+lastmod: August 10, 2026 20:31
 enableToc:  true
 cssclasses: 
 ---
@@ -24,8 +24,10 @@ Search for things by category.<br><br>
 - [Analogies](/tags/analogy)
 - [Characteristics](/tags/characteristic)
 - [Quotes](/tags/quote)
-- [Strategies](/tags/strategy)
+- [States](/tags/state)
 - [Stories](/tags/story)
+- [Strategies](/tags/strategy)
+- [Traps](/tags/trap)
 
 
 %% QUOTES
@@ -97,7 +99,12 @@ the real world in which everyone and everything lives ^shared-reality
 [[Alignment vs. Misalignment]] <br>
 <small>AKA Resonance vs. Dissonance</small> <br> ^d00ba1
 
+[[Ambivalence State]] <br>
+[[Ascending Action]] <br>
+
 # C
+
+[[Pressure-Relief Trap#^codependence|Codependence]]
 
 
 # D
@@ -108,11 +115,13 @@ the real world in which everyone and everything lives ^shared-reality
 
 # E
 [[Eisenhower Matrix]] <br>
+[[Elenchus Elicitation]] <br>
 [[Equal-but-different]] <br>
 [[External vs. Internal]] <br>
 <small>AKA Outer vs. Inner; Extrinsic vs. Intrinsic</small> <br>
 
-
+# F
+[[Friction]] <br>
 
 # H
 [[Horizontal vs. Vertical Movement]] <br>
@@ -151,10 +160,15 @@ the real world in which everyone and everything lives ^shared-reality
 
 [[Six-String Guitar]] <br>
 [[Socratic Dialectic]] <br>
+[[Socratic Elenchus]] <br>
+[[Socratic Method]] <br>
+[[Sovereign Speech]] <br>
 [[Sovereignty of Good]] <br>
 [[States]] <br>
 [[Subjective vs. Objective]] <br>
 <small>AKA Frame of Reference, Perspective</small>
+[[Surrogate Transcendence]] <br>
+
 
 
 # T

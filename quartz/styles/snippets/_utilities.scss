@@ -59,26 +59,36 @@ a:has(> .faded):hover {
 /* USAGE:
 "<div class="color-point ta-xxx">xxx</div>"
 */
-.tal {
-  --ta-align: left !important;
-  text-align: left !important;
-  margin-left: 0 !important;
-}
 
-.tac {
-  --ta-align: center !important;
-  text-align: center !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
+#quartz-body {
+  .tal, .callout .tal {
+    --ta-align: left !important;
+    text-align: left !important;
+    margin-left: 0 !important;
+    margin-right: auto !important;
+  }
 
-.tar {
-  --ta-align: right !important;
-  text-align: right !important;
-  margin-left: auto !important;
-  margin-right: 0 !important;
+  .tac, .callout .tac {
+    --ta-align: center !important;
+    text-align: center !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: block !important; /* Forces block width so text-align centers properly */
+  }
+
+  .tar, .callout .tar {
+    --ta-align: right !important;
+    text-align: right !important;
+    margin-left: auto !important;
+    margin-right: 0 !important;
+    display: block !important;
+  }
+
+  .taj, .callout .taj {
+    --ta-align: justify !important;
+    text-align: justify !important;
+  }
 }
-.taj { --ta-align: justify !important; text-align: justify !important; }
 
 /*
 ██  ██ ▄████▄ ██▄  ▄██ ██     
