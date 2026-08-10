@@ -1,59 +1,91 @@
 ---
-title: "Program Overview"
-description: "Learn about the program"
+title: Program Overview
+description: Learn about the program
 draft: false
 unlisted: false
 stealth: false
-robots: 
-password: 
-tags: 
-slug: 
+robots:
+password:
+tags:
+slug:
   - program-overview
-aliases: 
-permalink: 
+aliases:
+permalink:
 date: August 10, 2026 11:05
 lastmod: August 10, 2026 11:29
-enableToc:  true
-cssclasses: 
+enableToc: true
+cssclasses:
 ---
 
 
 
 # The Philosophy
 We have a core philosophy that revolves around support, knowledge, and empowerment. The following points embody this philosophy.
-## Love as the Ultimate Environment
-This program operates under a single, all-encompassing premise: **Love is not a passive emotion; it is the ultimate, all-accepting environment.**
 
-Love is the space in which both the light and the dark parts of human experience are allowed to exist without judgment. Every experience is a human experience. We do not look to escape the darkness or bypass hardships; we face the darkness in the shade of the light. That means we use our personal power to stand strong, not run away, suppress, or hide. Because love accepts all, every failure is a step forward. 
+**Our Principles**
+1. Love is the ultimate environment.
+2. Personal power already lives in everyone. 
+3. The sovereignty of good drives us.
+4. Strength lies in speaking.
+5. Action begets change. 
 
-## Personal Power
+## Principle One
+> [!cleanembed]
+> ![[Love as the Ultimate Environment#^my-block]]
 
-You already have your own personal power, but the modern world has intentionally or accidentally severed our access to it. Whatever the reason, we have forgotten it. The knowledge on how to reclaim it is left unspoken, and we are left without a light to feel our way through life's challenges. 
+^love-environ-context-1
 
-This program identifies over 100 abilities that we collectively call "personal power". It consists of your many awarenesses, strengths, stability, agency, and more. These are already a part of you, but they are like muscles that need to be trained. It might take a lifetime to find your personal power by looking everywhere it isn't. Instead, we teach you how to look inside yourself.
 
-## Sovereignty of Good
-Since love is the acceptance of all, the program strives for a preference toward good as opposed to evil. We refer to this preference as the "[[Sovereignty of Good]]".
+## Principle Two
 
-While each person chooses their own preference, the program prefers a positive growth that is the least destructive and the most considerate of all choices. Further, it is our own belief that we are all one in togetherness, and striving for love means accepting one's own preferences while coexisting respectfully with everyone else's.
+> [!cleanembed]
+> ![[Personal Power#^my-block]]
+
+<br>
+
+> [!cleanembed]
+> ![[Personal Power#^using-power]]
+
+^personal-power-context-1
+
+
+## Principle Three
+
+> [!cleanembed]
+> ![[Sovereignty of Good#^my-block]]
+
+^sovereign-good-context-1
+
 
 ## Strength from Speech
 Speaking the truth will set you free. It's a stronger person who speaks their life than who types or writes it because true understanding comes from inner knowledge. 
 
 Books and videos cannot work through your personal issues because they say the same thing, whether you understand them or not. True alignment with your inherent power requires a dialogue where you are both listened to and cross-examined without judgment. You are encouraged to make your own truths, while the traits of this program serve as a supportive framework.
 
+## Goal-oriented, Team Effort
+
+
+
+
+
 <hr>
+
 
 # The Methodology
 The program is structured to respect your energy and time. We move away from lectures and focus on active, practical, and, ultimately, interactive sessions. 
 
+
+## Our Method
+Elenchus Elicitation is a directive bridge between two methods of counsel: motivation interview and the Socratic Elenchus. By using this method, we use the empathy of motivation interviewing to support one's private reality and to reveal ambivalence so as to uncover unhealthy secondary gain patterns. We then take that ambivalence and compare it against the shared reality to logically manage expectations. Finally, the bridge of the Elenchus Elicitation method, we reconcile the differences between unrealistic expectations of one's private reality and the actuality of the physics behind our shared reality. We identify the traits of one's personal power that, if nurtured with achievable goals, will bring one closer to a harmonic inner peace that helps them expand their perspectives with emotional and logical understanding. 
 ## Modular 
 Each of the abilities in your personal powers is examined in practical supplemental material provided for free on this website here: [[Power Modules]].
 
 Each Power Module focuses on one aspect at a time to maintain focus and reduce feeling overwhelmed. You are given solid ground to stand on before moving forward.
 
-## Questioning
-This helps you to uncover specific, internal blockages or blind spots by forming a dialogue, wherein two people examine an issue without judgment. We use the [[Socratic Method]] and [[Socratic Dialectic|Dialectic]].
+## Reconciliation
+We start with deep empathy, using Motivational Interviewing to help you explore your internal world without judgment. Then, we bring in the clarity of the Socratic Dialectic. We compare your internal assumptions against the real-world "physics" of the world to understand how to make goals toward your personal power.
+
+Our method acts as the bridge between these two. We validate your real emotional needs, but we help you stop using hidden coping strategies (aka, secondary gain loops) that keep you stuck in conflict with a false comfort and safety. Instead of fighting reality or hiding from it, you learn how to align who you are with what actually is. This helps reveal specific, internal blockages or blind spots.
 
 ## Thought Experiments
 We strip away your mental loops to see your private reality as compared to reality itself. By using imagined situations, we practice the thought patterns that steer you straight. We also notice the patterns that leave you stuck.

@@ -1,6 +1,6 @@
 ---
 title: Mr. Whitehorn
-description: "The facilitator of the program"
+description: "A facilitator of the program"
 draft: false
 unlisted: false
 stealth: false
@@ -63,3 +63,19 @@ We figure things out together.
 I'm not a person who is clamoring for attention or followers. I have never been a fan of the traditional "expert" model because I tend to leave room for doubt, even for the experts. I believe in science because it's the best way we can understand our world. I also believe in the spirituality of humanity. 
 
 I am not a guru, a clinician, or someone who claims to have solved the entire world’s problems. People have different backgrounds and circumstances. I don't see myself as your therapist, teacher, or superior, and you are not my student, client, or follower. I do not preach, lecture, or judge you. One of the things that I've learned is to see myself in people. When I do that, they become me, and I become them.
+
+# About the Logo
+The Mr. Whitehorn logo has a story behind its symbolism, and it is an adaptation from my old, hand-drawn logo I created circa 1999. Both the old and the new logos represent my personal journey, and they serve as reminders of how I accepted my dark side so that I may grow. The significance illustrates the combination of good and evil, a fusion between Carl Jung’s Abraxas and Plato’s Ultimate Good. It’s a trophy not for bragging rights, but in reverent memorial to accepting fear, darkness, and negativity as sourced from the self, not an outsourced, controlling evil. It represents the marriage of light and dark in the ultimate environment of love such that one appreciates the struggles of life because of the resulting triumphs. It frames a lovely refrain where the pain was the rueful catalyst of personal ascension, not a surrogate transcendence where I was saved by a saint, deity, or superior. 
+
+## The Description
+The light form of good is represented by the dark silhouette of a unicorn, while the dark form of evil is represented by the light silhouette of a devil. This is where the logo reflects the characteristic of the yin and yang symbol, the perfect combination of opposites. The devil has two horns in light, and the unicorn has two horns in dark. This reflects the story behind the two characters.
+
+## The Story
+The story starts with an evil, nameless devil that had no horns of his own. In his community of devils, horns were earned through deeds. He deeply coveted them because they represented status, respect, and power. He was a devil of no significance, just an impish prankster. He held no power, or so he believed, but he was desperate to change.
+
+Thus, he crept and skulked in the shadows of magical forests of Earth to steal two horns from unicorns at rest. He had done those two unicorns an evil, for their own horns separated from them, stolen in the night. He wore both horns from the unicorns, and when they fused with his skull, he became the union of light and dark. His evil theft was balanced by the love contained within the unicorn horns. He felt a rising grace within him as the emotional forgiveness from the unicorns overwhelmed him, a curse to devils but a blessing in disguise. In the stillness of personal reflection, he realized his misguided thoughts and actions. He became Whitehorn: the shade, the space between, and a harmony of the light of good and the dark of evil. Light and dark merged into a love that bloomed to encompass all. His effort shifted from the concepts of evil and good to a love for everything and everyone. The unicorns also learned something: true forgiveness in the loss of power.
+
+Now, Whitehorn sets about the world to spread his story of harmonic peace. Where he treads, his figure casts a shadow of dread. Yet a silent trial begins when one beholds him: to flee the monster or to stand and listen to its message. Those who flee are not ready, but those who stay watch the mask of fear dissolve into a tangible lesson of true love.
+
+## Disclaimer
+The figures used in the logo are legendary creatures that carry their own meaning. Unicorns are often seen as good, while devils are seen as evil. The point of using these figures taps those reputations purposely. My personal beliefs allow for both of them to exist without disturbing my peace, but I prefer to focus on the idea of atonement and action toward everyone's shared good. 

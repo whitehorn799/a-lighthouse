@@ -143,6 +143,7 @@ the real world in which everyone and everything lives ^shared-reality
 
 # P
 
+[[Personal Power]] <br>
 [[Private vs. Shared Reality]] <br>
 
 

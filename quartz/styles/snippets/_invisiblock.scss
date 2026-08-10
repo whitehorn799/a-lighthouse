@@ -100,3 +100,38 @@
   padding: 0 !important;
   margin: 0 !important;
 }
+
+
+/* =========================================================================
+   FORCE DISPLAY FOR NESTED FAINTBOX TITLES
+   ========================================================================= */
+
+/* Overrides any parent invisiblock title suppression */
+.callout[data-callout="invisiblock"] .callout[data-callout="faintbox"] .callout-title {
+  display: flex !important;
+}
+
+/* Re-applies faintbox's own toggle if faintbox itself lacks title metadata */
+.callout[data-callout="invisiblock"] .callout[data-callout="faintbox"]:not([data-callout-metadata*="title"]) > .callout-title {
+  display: none !important;
+}
+
+/* =========================================================================
+   INVISIBLOCK TITLE OVERRIDES (When containing a Faintbox)
+   ========================================================================= */
+
+#quartz-body .callout[data-callout="invisiblock"]:has(.callout[data-callout="faintbox"]) :is(.callout-title, .callout-title-inner, .callout-title-inner p, .callout-title p) {
+  margin-block-start: 0 !important; 
+  margin-block-end: 0 !important;
+  padding: 0 0 0.1rem 0.1rem!important; 
+}
+
+/* =========================================================================
+   FAINTBOX MARGIN OVERRIDE (When inside Invisiblock)
+   ========================================================================= */
+
+#quartz-body .callout[data-callout="invisiblock"] blockquote.callout[data-callout="faintbox"] {
+  margin: 0 !important;
+  margin-block-start: 0 !important;
+  margin-bottom: 1rem !important;
+}

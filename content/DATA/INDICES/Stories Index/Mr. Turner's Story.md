@@ -19,8 +19,8 @@ cssclasses:
   - hide-breadcrumbs
 ---
 
-**Word Count:** 545  
-**Duration 140wpm:** 3:54
+- **Word Count:** 545  
+- **Duration 140wpm:** 3:54
 
 Today, our topic is your self-identity, and what I mean by that is knowing who you are, valuing yourself, and knowing what you want out of life. We'll start off with Mr. Turner who loved to see people smile. It was the top of his day to do what made others feel great. He was so busy making others feel good, that he didn't have the courage to fight for what he wanted. Instead, he did what others expected, what his family said was right, and what his culture said is the dream for everyone.
 
