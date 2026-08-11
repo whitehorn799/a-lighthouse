@@ -1,0 +1,134 @@
+/*
+█████▄ ▄▄▄▄  ▄▄ ▄▄  ▄▄  ▄▄▄▄ ▄▄ ▄▄▄▄   ▄▄▄  ▄▄ ▄▄ 
+██▄▄█▀ ██▄█▄ ██ ███▄██ ██▀▀▀ ██ ██▄██ ██▀██ ▀█▄█▀ 
+██     ██ ██ ██ ██ ▀██ ▀████ ██ ██▄█▀ ▀███▀ ██ ██ 
+*/
+
+/*
+USAGE:
+> [!princibox] Core Principle
+> Focus on clarity over complexity. Simple systems scale better and fail less.
+^principle-clarity
+*/
+#quartz-body .callout[data-callout="princibox"],
+.callout[data-callout="princibox"] {
+  /* --- EASY HEIGHT & DIMENSION CONTROLS --- */
+  $shadow-height: 10px;   /* Change this to make the shadow taller or shorter */
+  $shadow-width: 20%;
+  $line-thickness: 1px;   /* Border line thickness */
+  $line-width: 10%;
+
+  position: relative;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 1.5rem 0 !important;
+  margin: 2rem auto !important;
+  width: 100%;
+  max-width: 650px;
+  text-align: center !important;
+
+  /* 1. SHADOW GRADIENT LAYER */
+  &:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: $shadow-width;
+    right: $shadow-width;
+    
+    background: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0) 0px,
+      rgba(0, 0, 0, 0.08) $shadow-height,
+      transparent $shadow-height,
+      transparent calc(100% - #{$shadow-height}),
+      rgba(0, 0, 0, 0.08) calc(100% - #{$shadow-height}),
+      rgba(0, 0, 0, 0) 100%
+    );
+
+    mask-image: linear-gradient(to right, transparent 0%, black 20%, black 80%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 20%, black 80%, transparent 100%);
+    pointer-events: none;
+  }
+
+  /* 2. BLOOM BORDER LAYER */
+  &:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: $line-width;
+    right: $line-width;
+
+    background: linear-gradient(
+      to bottom,
+      transparent $shadow-height,
+      rgba(var(--bloom), 0.5) $shadow-height,
+      rgba(var(--bloom), 0.5) calc(#{$shadow-height} + #{$line-thickness}),
+      transparent calc(#{$shadow-height} + #{$line-thickness}),
+      transparent calc(100% - #{$shadow-height} - #{$line-thickness}),
+      rgba(var(--bloom), 0.5) calc(100% - #{$shadow-height} - #{$line-thickness}),
+      rgba(var(--bloom), 0.5) calc(100% - #{$shadow-height}),
+      transparent calc(100% - #{$shadow-height})
+    );
+
+    mask-image: linear-gradient(to right, transparent 0%, black 20%, black 80%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 20%, black 80%, transparent 100%);
+    pointer-events: none;
+  }
+
+  /* Title Styling */
+  & > .callout-title {
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    text-transform: uppercase !important;
+    font-weight: 700 !important;
+    font-size: 1.2rem !important;
+    text-align: center !important;
+    justify-content: center !important;
+    color: rgba(var(--bloom), 1) !important;
+
+    /* Hide standard callout icon and fold chevron */
+    .callout-icon,
+    .callout-fold {
+      display: none !important;
+    }
+
+    .callout-title-inner {
+      font-weight: 700 !important;
+      color: rgba(var(--bloom), 0.8) !important;
+    }
+  }
+
+  /* Content Area Styling */
+  & > .callout-content {
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    text-align: center !important;
+
+    p, span, div {
+      padding: 0 !important;
+      margin: 0 auto !important;
+      font-size: 1.0rem !important;
+      line-height: 1.5 !important;
+      text-align: center !important;
+      width: 60% !important;
+
+      & + p {
+        margin: 0 !important;
+      }
+    }
+  }
+}
+
+/* HIGH SPECIFICITY TO REMOVE P MARGINS */
+#quartz-body .callout[data-callout="princibox"] :is(.callout-title, .callout-title-inner, .callout-title-inner p, .callout-title p) {
+  color: var(--bloom) !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}

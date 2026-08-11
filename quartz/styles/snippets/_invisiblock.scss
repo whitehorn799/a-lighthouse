@@ -120,10 +120,25 @@
    INVISIBLOCK TITLE OVERRIDES (When containing a Faintbox)
    ========================================================================= */
 
-#quartz-body .callout[data-callout="invisiblock"]:has(.callout[data-callout="faintbox"]) :is(.callout-title, .callout-title-inner, .callout-title-inner p, .callout-title p) {
-  margin-block-start: 0 !important; 
-  margin-block-end: 0 !important;
-  padding: 0 0 0.1rem 0.1rem!important; 
+#quartz-body .callout[data-callout="invisiblock"] .callout[data-callout="faintbox"] {
+  & > .callout-title,
+  & > .callout-title .callout-title-inner,
+  & > .callout-title p {
+    margin-block-start: 0 !important; 
+    margin-block-end: 0 !important;
+    padding: 0 0 0.1rem 0.1rem !important; 
+  }
+}
+
+#quartz-body .callout[data-callout="invisiblock"] .callout[data-callout="princibox"] {
+  & > .callout-title,
+  & > .callout-title .callout-title-inner,
+  & > .callout-title p {
+    display: block !important;
+    margin: 0 auto !important;
+    text-align: center !important;
+    padding: 0 0 0.1rem 0.1rem !important; 
+  }
 }
 
 /* =========================================================================
@@ -135,11 +150,6 @@
   margin-block-start: 0 !important;
   margin-bottom: 1rem !important;
 }
-
-/* =========================================================================
-   COLOR-POINT MARGIN OVERRIDE (When inside Invisiblock)
-   ========================================================================= */
-
 #quartz-body .callout[data-callout="invisiblock"] .color-point {
   margin-top: 0 !important;
   margin-bottom: 0rem !important; 

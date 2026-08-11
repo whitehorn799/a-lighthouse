@@ -12,6 +12,7 @@ slug:
   - ambivalence
 aliases:
   - ambivalence
+  - ambivalences
   - state of ambivalence
 permalink:
 date: August 10, 2026 20:30

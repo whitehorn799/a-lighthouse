@@ -4,6 +4,24 @@
 ██▄▄▄▄ ██ ██ ██    ██▄▄▄ ██ ▀████ ██   ██      ██▄▄█▀ ██ ██ ▀██ ████▀ ██ ██ ▀██ ▀███▀ ▄▄██▀ 
 */
 
+/* Disable smooth scrolling globally for instant block reference transfers */
+/* Disable CSS Smooth Scrolling Everywhere */
+*, 
+*::before, 
+*::after, 
+html, 
+body, 
+#quartz-body {
+  scroll-behavior: auto !important;
+}
+
+/* Override JavaScript scrollTo animations across browsers */
+@media (prefers-reduced-motion: no-preference) {
+  *, ::before, ::after {
+    scroll-behavior: auto !important;
+  }
+}
+
 body {
   color: var(--c-body-color) !important;
   font-family: var(--c-font-body) !important; /* Direct token binding */

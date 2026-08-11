@@ -20,8 +20,8 @@ cssclasses:
 ---
 
 >[!invisiblock] 
->>[!faintbox|title] Personal power already lives in you.
->>Personal Power is the ability to govern your own mind, direct your own actions, and honor your own boundaries regardless of how chaotic your inner or outer world gets. 
+>>[!princibox] Personal power already lives in you.
+>>You govern your own mind, direct your own actions, and honor your own boundaries regardless of how chaotic your inner or outer world gets. 
 >
 >
 >[[Personal Power]] is not about forcing the world to bow to your wishes. It's the alignment of your internal world (values, beliefs, principles, and desires) and your external world (choices, roles, habits, and boundaries).<br><br>
@@ -44,4 +44,4 @@ cssclasses:
 <hr>
 
 # See Also
-- [[Program Overview#^personal-power-context-1|Program Overview context]]
+- [[Program Overview#^prince-2|Program Overview context]]

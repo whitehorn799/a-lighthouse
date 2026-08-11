@@ -20,62 +20,61 @@ cssclasses:
 
 
 # The Principles
-**Our Principles**
-1. Love is the ultimate environment.
-2. Personal power already lives in you. 
-3. The sovereignty of good drives you.
-4. Sovereign speech teaches you.
-5. Action changes you, and ambivalence binds you. 
+1 [[Program Overview#^prince-1|>>>]] Love is the ultimate environment. <br>
+2 [[Program Overview#^prince-2|>>>]] Personal power already lives in you. <br>
+3 [[Program Overview#^prince-3|>>>]] The sovereignty of good drives you. <br>
+4 [[Program Overview#^prince-4|>>>]] Sovereign speech teaches you. <br>
+5 [[Program Overview#^prince-5|>>>]] Action changes you, and ambivalence binds you. <br>
 
-## Principle One
+
+
+
+
 > [!cleanembed]
 > ![[Love as the Ultimate Environment#^my-block]]
 
-^love-environ-context-1
+^prince-1
 
-
-## Principle Two
+<br>
 
 > [!cleanembed]
 > ![[Personal Power#^my-block]]
+> 
+ ^prince-2
 
 <br>
 
 > [!cleanembed]
 > ![[Personal Power#^using-power]]
 
-^personal-power-context-1
-
-
-## Principle Three
+<br>
 
 > [!cleanembed]
 > ![[Sovereignty of Good#^my-block]]
+> 
+ ^prince-3
+ 
+<br>
 
-^sovereign-good-context-1
-
-
-## Principle Four
-^docendo-context-2
 
 > [!cleanembed]
 > ![[Sovereign Speech#^my-block]]
+> 
+^prince-4
 
-^sovereign-speech-context-1
 
 <br>
 
 
 > [!cleanembed]
 > ![[Sovereign Speech#^synthesis]]
+>
 
-
-## Principle Five
 
 > [!cleanembed]
 > ![[Ascending Action#^my-block]]
 
-^ascending-action-context-1
+^prince-5
 
 
 <hr>
@@ -84,8 +83,7 @@ cssclasses:
 # The Methodology
 The program is structured to respect your energy and time. We move away from lectures and focus on active, practical, and, ultimately, interactive sessions. 
 
-
-## Our Method
+## Discussion 
 > [!cleanembed]
 > ![[Elenchus Elicitation#^my-block]]
 

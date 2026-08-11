@@ -21,11 +21,11 @@ cssclasses:
 
 
 >[!invisiblock] 
->>[!faintbox|title] The sovereignty of good drives you. 
->>The Sovereignty of Good is the preference for connection over isolation, agency over victimhood, and respect over objectification because constructive growth is the only path that leads to a true and unifying peace.
+>>[!princibox] The sovereignty of good drives you. 
+>> You have the deliberate, conscious preference for healthy, unifying, and constructive growth over dangerous, selfish, and destructive growth.
 >
->The [[Sovereignty of Good]] is this program's deliberate, conscious preference for healthy, unifying, and constructive growth over destructive, isolating self-centeredness. <br><br>
->Because of Principle One, the ideas of good and evil are the same: they're accepted. However, this program strives for a preference toward conceptual "good", as opposed to "evil", actions. We offer help to those who share this preference.
+>The [[Sovereignty of Good]] is the preference for positive growth with the intent for prosperity. You prefer community over egocentrism, agency over victimhood, and respect over dismissal because constructive growth is the only path that leads to a true and unifying peace.<br><br>
+>Because of Principle One, the ideas of good and evil are the same: they're accepted. They are subjective and hard to define. However, this program strives for a preference toward conceptual "good", where intent helps more than hinders growth in ways you would want others to treat you. We offer help to those who share this preference.
 
 ^my-block
 
@@ -43,4 +43,4 @@ cssclasses:
 <hr>
 
 # See Also
-- [[Program Overview#^sovereign-good-context-1|Program Overview context]]
+- [[Program Overview#^prince-3|Program Overview context]]
