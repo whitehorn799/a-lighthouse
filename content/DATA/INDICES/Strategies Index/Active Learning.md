@@ -1,16 +1,40 @@
 ---
-title: Active Learning
+title: "Active Learning"
+description: "Engage your brain when you study or you'll forget"
+draft: false
+unlisted: false
+stealth: false
+robots:
+password:
 tags:
-publish: true
-permalink: active-learning
-status: developing
-type: belief
-alias:
-tool: Archive
-last-updated: July 06, 2026 16:45
-first-created: April 15, 2026 13:59
+  - strategy
+slug:
+  - active-learning
+aliases:
+  - active learner
+permalink:
+date: August 11, 2026 19:33
+lastmod: August 11, 2026 19:53
+enableToc: true
+cssclasses:
+  - hide-breadcrumbs
 ---
-Active learning is where you learn by being actively present and thinking about the material. Active learning asks the learner to use their whole brain to interact with the content instead of just flipping through it. This method advances critical thinking skills, building intuition, and risk management skills. If your brain feels like it is running an interesting race, you might be learning actively. If you don't feel like you are studying but know you are learning, that's active learning!
+
+>[!invisiblock] 
+>Active learning is the process of engaging your brain while learning. You use their whole brain to interact with the content instead of just casually reviewing it. This method advances critical thinking skills, intuition, and risk management skills. If your brain feels like it is running an interesting race, you might be learning actively. If you don't feel like you are studying but know you are learning, that's active learning!
+
+^my-block
+
+>[!announote|shh-note tac]
+>Daydreaming, not paying attention, and allowing yourself distractions do not prepare you for active learning.
+
+
+**The benefits are:**
+- learn new things by using things you already know;
+- easily understand new information by thinking, talking, and writing;
+- have more energy to learn, remember things better, and understand faster;
+- know immediately where you misunderstand things instead of waiting for tests.
+
 
 **Examples of Active Learning**
 - asking yourself questions about the material, writing them down, and answering them later
@@ -28,30 +52,5 @@ This is the opposite of active learning, and most schools use it. This way only 
 - watching a video
 - listening to speakers
 
-After doing a lot of work, you may feel demotivated, forget what you learned, and feel like you didn't learn at all.
+After doing a lot of work, you may feel demotivated, forget what you learned, and feel like you didn't learn at all. 
 
-
-# Why Be an Active Learner?
-You become the teacher and the student. You decide what to learn, and when that happens, you remember more about what you learn because it interests you.
-
-> [!info|scimitar sheath]
-> *Docendo discimus.*
-> By teaching, we learn.
-
-**The benefits are:**
-- learn new things by using things you already know;
-- easily understand new information by thinking, talking, and writing;
-- have more energy to learn, remember things better, and understand faster;
-- know immediately where you misunderstand things instead of waiting for tests.
-
-**Use active learning to:**
-- %%[[Cognitive Development Theory]]%% balance your mind and avoid fear, doubt, and confusion when learning something new;
-- analyze, synthesize, and evaluate problems and solve them;
-- %%[[Socratic Method]]%% be the teacher and ask questions that may not have answers;
-- %%[[Scientific Method]]%% observe and measure the world you live in to find truth;
-- get the job you want instead of trying to be happy with the job you get.
-
-
-
-%%footer_start%%
-<span class="log-sign-off">2026-07-06 16:45</span>
