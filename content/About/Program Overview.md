@@ -1,6 +1,6 @@
 ---
-title: Program Overview
-description: Learn about the program
+title: "Program Overview"
+description: "Learn about the program"
 draft: false
 unlisted: false
 stealth: false
@@ -90,28 +90,28 @@ The program is structured to respect your energy and time. We move away from lec
 ^elenchus-elicit-context-1
 
 ## Modular 
-Each of the abilities in your personal powers is examined in practical supplemental material provided for free on this website here: [[Power Modules]].
+Each of the traits in your Personal Power is examined in practical, supplemental material provided for free on this website here: [[Power Modules]].
 
-Each Power Module focuses on one aspect at a time to maintain focus and reduce feeling overwhelmed. You are given solid ground to stand on before moving forward.
+Each Power Module focuses on one aspect at a time to maintain focus and reduce feeling overwhelmed. You are given solid ground to stand, and you decide when you are ready to move on.
 
-## Reconciliation
-We start with deep empathy, using Motivational Interviewing to help you explore your internal world without judgment. Then, we bring in the clarity of the Socratic Dialectic. We compare your internal assumptions against the real-world "physics" of the world to understand how to make goals toward your personal power.
+## Tools
 
-Our method acts as the bridge between these two. We validate your real emotional needs, but we help you stop using hidden coping strategies (aka, secondary gain loops) that keep you stuck in conflict with a false comfort and safety. Instead of fighting reality or hiding from it, you learn how to align who you are with what actually is. This helps reveal specific, internal blockages or blind spots.
-
-## Thought Experiments
+**Thought Experiments**<br>
 We strip away your mental loops to see your private reality as compared to reality itself. By using imagined situations, we practice the thought patterns that steer you straight. We also notice the patterns that leave you stuck.
-## Focus Points
+
+**Focus Points**<br>
 We use [[Learning Points]] & [[Misery Points]] to identify friction, suffering, or repetitive patterns. They become noticeable details that can result in misery or growth.
 
-## Demonstrations
+**Demonstrations**<br>
 To illustrate the ideas behind your personal power, we demonstrate the meaning through short stories, symbolism, and poignant analogies. These reveal hidden insights and glaring mistakes.
 
-## Mnemonic Devices
+**Mnemonic Devices**<br>
 We use clever sayings to help you recall the lessons, similar to PEMDAS (from math class), the alphabet song, and the months of the year song. Mnemonics act like automatic memory refreshers at a moment's notice because they are simple and sometimes silly.
 
-## Support Levels
-We provide self-guided materials through [YouTube](https://www.youtube.com/@A-Lighthouse) and supplemental materials. Everyone is free to move through those at their own volition. 
+
+# Support
+
+We provide self-guided materials for you through [YouTube](https://www.youtube.com/@A-Lighthouse) and supplemental materials. Everyone is free to move through those at their own volition. 
 - **Level 1, Supporter:** Free access to the YouTube videos and the Power Modules. These are fast, packed, and generalized navigation points that can apply to anyone. Our video offerings are being built.
 - **Level 2, Member:** The YouTube channel membership provides longer, deeper insights into specific abilities in your personal power, exploratory questions, and prompts for personal reflection. 
 - **Level 3, [[Correspondent]]:** This is for those who want regular, scheduled one-on-one guidance sessions with me.
@@ -125,24 +125,26 @@ This is why the one-on-one discussion in support level 3 is the ideal form of em
 
 # FAQ
 **Q: Why should I do this?** 
-A: In simple terms, you should do this to be a better person. In this program, you are trying to find what you lost: your original, personal power. Maybe you don't know you lost it, but there is a power in everyone that isn't easily seen. The goal of the program is for you to want to find your power and do the hard work to claim it.
+A: In simple terms, you should do this to improve your mindset. In this program, you are trying to find what you lost: your original, personal power. Maybe you don't know you lost it, but there is a power in everyone that isn't easily seen. The goal of the program is for you to want to find your power and do the hard work to claim it.
 
 **Q: What if I don't feel I've lost or forgotten something?**
-A: That's easy to do if you don't remember that you ever had it. It's hard to recall something you forgot without something to remind you. The best prison is one without walls, and the best slaves are those who aren't educated to know better. This program seeks to bring that education, which seems to be lacking in most public institutions.
+A: That's easy to do if you don't remember that you ever had it. It's hard to recall something you forgot, and it's harder if you don't know you forgot. The best prison is one without walls, and the best slaves are those who aren't educated to know better. This program seeks to bring that education, which seems to be lacking in most public institutions.
 
 **Q: How does A Lighthouse help me find it?** 
-A: You learn how to look inward. The program isn't a self-centered, eccentric, and exclusive movement open only the few, so the only restrictions are those you put on yourself. There are best practices, which may be hard to follow, and not everyone is ready to face the dark parts of themselves. Take the program in stages, when you feel ready for more.
+A: You learn how to look inward. We set a goal, we work through your blind spots, and you do the work in guidance. The program isn't a self-centered, eccentric, and exclusive movement open only the few. The only restrictions are those you put on yourself. There are best practices, which may be hard to follow, and not everyone is ready to face the dark parts of themselves. Take the program in stages, when you feel ready for more.
 
 **Q: What if I don’t know how or I don’t understand?**
-A: We use Socratic questioning to customize the program to your life experience. We also use symbolism, such as metaphors and analogies, to make abstract ideas more concrete. You are free to ask your own questions to seek better understanding.
+A: We use the Support Level 3, [[Correspondent]], to have a one-on-one chat with you to customize the program to your life experience. 
 
 **Q: What do I learn?**
-A: You learn answers to existential questions that many people have: who am I; where am I; why am I here; what's the meaning of it all; how do I become a better person? You learn to remember, access, and use your personal power to understand your emotions and use them with logic to make efficient life choices.
+A: You learn answers to existential questions that many people have: who am I; where am I; why am I here; what's the meaning of it all; how do I become a better person? You learn to remember, access, and use your Personal Power to understand your emotions and use them with logic to make efficient life choices.
 
 **Q: How will I remember the strategies I learn?**
 A: The symbolism in the program delivers powerful messages appropriate to your personal background, and we use mnemonic devices to pack lessons into a memorable phrases. We also have YouTube videos to help you remember the content any time.
 
 **Q: What if I need help?**
-A: You can ask for help through the personal consultation portion of the program. Finding your support group (your friends, your loved ones, professional help, and whoever else you trust) can help you stand on your own two feet. One day, by working through your particular hardships, you will be strong enough to stand on your own. 
+A: The thing about A Lighthouse is that it functions like a real one. You don't have to enter the lighthouse to use it. All you have to do is look at it, know that it's there, and use it to guide you. That's what this website and the YouTube videos are for. You don't have to become a paid Correspondent; you don't have to sign up for newsletters.
+
+If you do want our help, become a [[Correspondent]], and we can [[Contact#^schedule-meeting|schedule a meeting]] with you. We will take you through [[Orientation]], the [[Interview]], you choose your goal, and we'll get started with you. Finding your support group (your friends, your loved ones, professional help, and whoever else you trust) can help you stand on your own. We all work toward the same goal, separately, but as a team to support you.
 
 

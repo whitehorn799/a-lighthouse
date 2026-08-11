@@ -31,3 +31,4 @@ cssclasses:
 - [[Socratic Method]]
 - [[Socratic Dialectic]]
 - [[Elenchus Elicitation]]
+- [[Sovereign Speech]]

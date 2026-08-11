@@ -18,6 +18,8 @@ cssclasses:
 
 # Email
 ###### Arrange an Interview
+^schedule-meeting
+
 [signup@a-lighthouse.org](mailto:signup@a-lighthouse.org): Email me here if you want to have a one-on-one [[interview]] to become a [[correspondent]].
 ###### Comments, suggestions, complaints
 [contact@a-lighthouse.org](mailto:contact@a-lighthouse.org) Email me here if you want to send me a comment.

@@ -1,17 +1,30 @@
 ---
-title: 
+title: Zone of Productive Discomfort
+description: The space where stress from growth is managed
+draft: false
+unlisted: false
+stealth: false
+robots:
+password:
 tags:
-permalink: 
-status: 
-type: 
-alias: 
-tool: 
-last-updated: 
-first-created: 
+  - strategy
+slug:
+  - productive-discomfort
+aliases:
+permalink:
+date: August 11, 2026 15:44
+lastmod: August 11, 2026 16:05
+enableToc: true
+cssclasses:
+  - hide-breadcrumbs
 ---
 
-> [!warning] Work in Progress
-> This page is [[unfinished]]. Please check back later!
 
+>[!invisiblock] 
+>The Zone of Productive Discomfort is the emotional stem of Vygotsky's Zone of Proximal Development, which outlines what a human brain is capable of doing alone or with help. <br><br>
+>The Zone of Productive Discomfort (ZPD) characterizes the emotional intelligence of a person who occupies the Comfort Zone, the Growth Zone, and the Panic Zone. <br><br>
+>
 
-%% **Archive List Tag** [[Archive List]]%%
+^my-block
+
+![[zpd.png|center]]

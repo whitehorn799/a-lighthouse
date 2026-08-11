@@ -1,19 +1,34 @@
 ---
 title: Socratic Method
+description: The line of questioning to find truth
+draft: false
+unlisted: false
+stealth: false
+robots:
+password:
 tags:
-permalink: socractic-method
-status: done
-type: belief
-alias:
-tool: Archive
-last-updated: April 17, 2026 10:00
-first-created: April 15, 2026 15:47
+  - strategy
+slug:
+  - socratic-method
+aliases:
+permalink:
+date: August 11, 2026 15:44
+lastmod: August 11, 2026 16:00
+enableToc: true
+cssclasses:
+  - hide-breadcrumbs
 ---
-This is a form of cooperative education where a teacher asks questions instead of lecturing to students. It's used to promote critical thinking, show assumptions, reveal the reasoning behind actions, and discover hidden beliefs the student may not have been aware of. This was the way that the Greek philosopher, Socrates, educated students.
+
+>[!invisiblock] 
+> This is a form of cooperative education where a teacher asks questions instead of lecturing to students. It's used to promote critical thinking, show assumptions, reveal the reasoning behind actions, and discover hidden beliefs the student may not have been aware of. This was the way that the Greek philosopher, Socrates, educated students. <br><br>
+
+^my-block
+
 
 <br>
 
-Aspects of the Socratic method:
+# Aspects
+
 - **Questions, not lectures:** Teachers allow students to build knowledge by asking questions and letting the students find their own answers. 
 - **Challenging assumption:** It helps to point out where beliefs are not consistent with reality, and it shows weaknesses in logic and reasoning. It's a way to refine ideas through powerful questions.
 - **Active education:** This allows for [[Active Learning]] where the teacher doesn't give the answers or tell students what to think. It engages the brain to do more instead of merely remembering facts.
@@ -21,9 +36,12 @@ Aspects of the Socratic method:
 - **Discussion approach:** This method is centered around the idea of a peaceful discussion where anything is appropriate for the sake of objective study. It's an alternative to violence in many communities.
 
 # What is the goal?
-The ultimate goal is not only to find answers and refine concepts but to inspire [[Intellectual Humility]], improve critical thinking, deepen understanding of difficult ideas, to dissuade the development of [[Bias]], and lessen the impact of [[Cognitive Dissonance]]. This method is less about the "right" answer and more about encouraging the freedom of logical thinking.
+The ultimate goal is not only to find answers and refine concepts but to inspire [[Intellectual Humility]], improve critical thinking, deepen understanding of difficult ideas, to dissuade the development of bias, and lessen the impact of cognitive dissonance. This method is less about the "right" answer and more about encouraging the freedom of logical thinking.
 
+<hr> 
 
-%% **Archive List Tag** [[Archive List]]%%
-%%footer_start%%
-<span class="log-sign-off">2026-04-17 11:06</span>
+# See Also
+- [[Socratic Dialectic]]
+- [[Socratic Elenchus]]
+- [[Elenchus Elicitation]]
+- [[Sovereign Speech]]
