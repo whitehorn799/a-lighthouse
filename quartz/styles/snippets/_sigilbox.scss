@@ -1,0 +1,167 @@
+/* =========================================================================
+   SIGILBOX (Corner Accent Framing + Ambient Center Glow)
+   ========================================================================= 
+   
+USAGE:
+> [!sigilbox] The Sovereign Oath
+> He who moves a mountain begins by carrying away small stones.
+^sovereign-oath
+*/
+
+/* Register CSS custom property for smooth angle rotation */
+@property --sigil-angle {
+  syntax: '<angle>';
+  initial-value: 40deg;
+  inherits: false;
+}
+
+@keyframes sigil-spin {
+  to {
+    --sigil-angle: 400deg;
+  }
+}
+
+#quartz-body .callout[data-callout="sigilbox"],
+.callout[data-callout="sigilbox"] {
+  /* --- EASY TWEAK VARIABLES --- */
+  --colorA: var(--red-ochre-ok);
+  --colorB: var(--dusk-blue-ok);
+  --colorC: var(--bloom-ok);
+  
+  $bg-color: oklch(1 0 0);                    /* Clean white card background */
+  $spin-speed: 3s;                            /* BORDER ANIMATION SPEED */
+  $border-width: 3px;                        /* Thickness of animated border */
+  $shadow-height: 5px;                       /* Shadow height/blur spread */
+  $shadow-color: oklch(0 0 0 / 0.13);         /* Drop shadow color */
+  
+  /* Inner Fading Border Settings */
+  $inner-border-width: 0px;                   /* Thickness of inner hairline border */
+  $inner-border-color: oklch(70% 0.13961 232.655);   /* Color of inner line (12% black fade) */
+
+  /* Gradient Border Colors */
+  $gradient-color-1: var(--colorA);
+  $gradient-color-2: var(--colorB);
+  $gradient-color-3: var(--colorC); 
+
+  /* Dark Text Colors for White Background */
+  --sigil-ink: oklch(0.20 0.015 270);         /* Main text (Dark Charcoal) */
+  --sigil-mut: oklch(0.45 0.020 270);         /* Title (Muted Slate) */
+
+  position: relative;
+  width: 50%;
+  max-width: 520px;
+  margin: 2rem auto !important;
+  padding: clamp(24px, 3vw, 36px) !important;
+  
+  /* Animated Conic Border Technique */
+  border: $border-width solid transparent !important;
+  border-radius: 20px !important;
+  background: 
+    linear-gradient($bg-color, $bg-color) padding-box,
+    conic-gradient(
+      from var(--sigil-angle),
+      $gradient-color-1,
+      $gradient-color-2,
+      $gradient-color-3,
+      $gradient-color-1
+    ) border-box !important;
+
+  animation: sigil-spin $spin-speed linear infinite;
+  box-shadow: 0 $shadow-height calc(#{$shadow-height} * 2.5) $shadow-color !important;
+  color: var(--sigil-ink) !important;
+
+  /* --- INNER FADING BORDER LAYER --- */
+  &::before {
+    content: "";
+    position: absolute;
+    /* Position the pseudo-element exactly inside the outer border */
+    inset: 0;
+    
+    /* Perfect inner curve math: outer radius (20px) minus outer border (10px) = 10px */
+    border-radius: calc(20px - #{$border-width});
+    padding: $inner-border-width;
+    pointer-events: none;
+    opacity: 0.7 !important;
+    
+    /* 1. Vertical fading color gradient */
+    background: linear-gradient(
+      to bottom,
+      #{$inner-border-color} 0%,
+      #{$inner-border-color} 40%,
+      transparent 90%
+    );
+    
+    /* 2. Hollow out the center while preserving the rounded corners */
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask-composite: exclude;
+  }
+
+  /* Centered Title Styling */
+  & > .callout-title {
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 0 1rem 0 !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+
+    .callout-icon,
+    .callout-fold {
+      display: none !important;
+    }
+
+    .callout-title-inner {
+      font-family: var(--c-font-body) !important;
+      font-size: calc(var(--c-font-size) * 1.2) !important;
+      font-weight: 600 !important;
+      text-transform: uppercase !important;
+      letter-spacing: 0.12em !important;
+      color: var(--sigil-mut) !important;
+      text-align: center !important;
+    }
+  }
+
+  /* Main Quote Content Styling */
+  & > .callout-content {
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+
+    p {
+      margin: 0 !important;
+      font-family: var(--c-font-body) !important;
+      font-size: clamp(17px, 1.8vw, 21px) !important;
+      line-height: 1.6 !important;
+      font-weight: 400 !important;
+      letter-spacing: -0.01em !important;
+      color: var(--sigil-ink) !important;
+      text-wrap: pretty !important;
+      text-align: center !important;
+
+      & + p {
+        margin-top: 0.8rem !important;
+      }
+    }
+  }
+}
+
+/* Accessibility / Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  #quartz-body .callout[data-callout="sigilbox"],
+  .callout[data-callout="sigilbox"] {
+    animation: none !important;
+  }
+}
+
+
+/* HIGH SPECIFICITY TO REMOVE P MARGINS */
+#quartz-body .callout[data-callout="sigilbox"] :is(.callout-title, .callout-title-inner, .callout-title-inner p, .callout-title p) {
+  padding: 0 !important;
+  margin: 0 !important;
+  margin-bottom: 0.6rem !important;
+}
