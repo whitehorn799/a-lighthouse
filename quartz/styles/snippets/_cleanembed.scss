@@ -156,3 +156,13 @@ blockquote.callout[data-callout="cleanembed-title"] {
   margin: 0 !important;
   padding: 0 !important;
 }
+
+/* =========================================================================
+   MARGIN OVERRIDE (When inside Cleanembed)
+   ========================================================================= */
+
+#quartz-body .callout[data-callout="cleanembed"] > .callout-content .callout[data-callout="princibox"] {
+  
+  margin-block-end: 2rem !important;
+  margin: 2rem auto !important;
+}

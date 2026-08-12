@@ -16,9 +16,12 @@ date: August 10, 2026 12:19
 lastmod: August 10, 2026 12:21
 enableToc:  true
 cssclasses: 
+  - hide-breadcrumbs
 ---
-- **Words:** 649  
-- **Duration (140wpm):** 4m37s
+%%
+**Words:** 649  <br>
+**Duration (140wpm):** 4m37s
+%%
 
 By every civic metric, Mrs. Ward was winning.
 

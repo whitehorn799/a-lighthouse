@@ -1,21 +1,21 @@
 ---
-title: "Human Tree Analogy"
-description: "Pain is growth"
+title: Human Tree Analogy
+description: Pain is growth
 draft: false
 unlisted: false
 stealth: false
-robots: 
-password: 
-tags: 
+robots:
+password:
+tags:
   - analogy
-slug: 
+slug:
   - human-tree-analogy
-aliases: 
-permalink: 
+aliases:
+permalink:
 date: August 06, 2026 17:12
 lastmod: August 07, 2026 13:46
-enableToc:  true
-cssclasses: 
+enableToc: true
+cssclasses:
   - hide-breadcrumbs
 ---
 

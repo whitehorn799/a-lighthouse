@@ -4,23 +4,23 @@ description: "Start with yourself"
 draft: false
 unlisted: false
 stealth: false
-robots: 
-password: 
+robots:
+password:
 tags:
   - trait
-slug: 
+slug:
   - self-identity
-aliases: 
-permalink: 
+aliases:
+permalink:
 date: August 10, 2026 11:05
 lastmod: August 10, 2026 11:30
-enableToc:  true
-cssclasses: 
+enableToc: true
+cssclasses:
   - hide-breadcrumbs
 ---
 
-
-
+> [!princibox] Self-identity Path
+> [[Modules]] > [[Love]] > [[Instinct]] > [[Self-aware]] > You are here
 
 > [!cleanembed]
 > ![[🎁-📝#^def]]
@@ -244,10 +244,6 @@ Finding what validates you is important because validation gives us the energy t
 > [!cleanembed] 
 > ![[Absolute vs. Relative Self#^absolute-relative-chart]]
 
-
-
-^xxx
-
 You can use this chart to see what makes you feel validated. Write it down so that it's easier to remember. 
 
 ### 2.3 Activities
@@ -320,4 +316,5 @@ By now, you may see a pattern developing: be human, be you, and involve yourself
 # See Also
 - [[Power Modules]]
 
-%%
+
+<span class="faded">[[🐊🖿/💡🖿/🎁🖿/🎁|✦]]</span>

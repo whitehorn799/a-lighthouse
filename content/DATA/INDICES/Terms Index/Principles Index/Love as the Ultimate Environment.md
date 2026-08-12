@@ -22,7 +22,7 @@ cssclasses:
 
 >[!invisiblock] 
 >> [!princibox] Love as the Ultimate Environment
->> Love is not a passive emotion; it is the ultimate, all-accepting environment from which you will never be removed.
+>> Love is not a passive emotion; it is the ultimate, all-accepting environment from which you will never be removed. 
 >
 >This program is centered upon [[Love as the Ultimate Environment]] because love accepts everything and rejects nothing. It's the space in which both the light and the dark parts of human experience are allowed to exist without judgment. Every experience is valid.<br><br>
 >We are humans living human experiences. We must not look to escape the darkness or bypass hardships; we must face our darkness in the shade of our light. This means we must use our personal power to stand strong, learn, and grow. We must not run away, suppress, or hide. Since love accepts all, every failure is a step forward. 

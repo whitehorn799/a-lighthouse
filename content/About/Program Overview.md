@@ -17,10 +17,7 @@ enableToc: true
 cssclasses:
 ---
 
-> [!sigilbox] Test
-> Can you see the colors in the border of this box rotating?
-> 
-^tb
+
 
 # The Principles
 1 [[Program Overview#^prince-1|>>>]] Love is the ultimate environment. <br>

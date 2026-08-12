@@ -10,6 +10,7 @@ tags:
 slug: 
   - power-modules
 aliases: 
+  - modules
 permalink: 
 date: August 10, 2026 11:05
 lastmod: August 10, 2026 11:28
@@ -24,7 +25,7 @@ cssclasses:
 >This material is under development. [[Power Modules#Updates|Click here]] for update notifications.
 
 
-This is the location of the free, modular material. The material here describe the traits that make up your personal power. We use a [[Power Modules#Cascading Outline|cascading outline]] to display the traits. 
+This is the location of the free, modular material. The material here describe the traits that make up your [[Personal Power]]. We use a [[Power Modules#Cascading Outline|cascading outline]] to display the traits. 
 
 Disclaimer: We don't presume to know anything, nor do we wish to tell people how they should live their own lives nor what to believe. The material here is made available to everyone. However, it may not be a good fit for everyone.
 

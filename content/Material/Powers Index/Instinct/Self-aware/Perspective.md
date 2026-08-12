@@ -1,8 +1,7 @@
 ---
 title: "Perspective"
 description: "Truth escapes detection"
-permalink:
-draft: true
+draft: false
 unlisted: false
 stealth: false
 robots:
@@ -10,6 +9,9 @@ password:
 tags:
   - trait
 aliases:
+slug: 
+  - perspective
+permalink: 
 date: August 06, 2026 17:12
 lastmod: August 07, 2026 13:24
 enableToc: true
@@ -17,6 +19,8 @@ cssclasses:
   - hide-breadcrumbs
 ---
 
+> [!princibox] Perspective Path
+> [[Modules]] > [[Love]] > [[Instinct]] > [[Self-aware]] > You are here
 
 
 > [!cleanembed]
@@ -66,6 +70,12 @@ cssclasses:
 These are the focus of this lesson. Just under the questions are the [[Misery Points]], what you might feel if you haven't answered these questions.
 
 1. <div class="color-point cp1 tal">Why don't people see things the way I do?</div>
+
+	- Frustration
+	- Resentment
+	- 
+
+
 2. <div class="color-point cp1 tal">How can I see from their eyes?</div>
 3. <div class="color-point cp1 tal">How do I know if I am seeing clearly?</div> 
 
@@ -95,14 +105,14 @@ These are the focus of this lesson. Just under the questions are the [[Misery Po
 
 # Conclusion
 
-%%
+
 
 <hr>
 
 # See Also
-- xxx
+- xx
 
-%%
+<span class="faded">[[🐊🖿/💡🖿/👁️‍🗨️️‍🗨️🖿/👁️‍🗨️|✦]]</span>
 
 
 

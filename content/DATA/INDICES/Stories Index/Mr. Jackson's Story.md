@@ -1,5 +1,27 @@
-**Words: 740**
-**Duration (140wpm): 5m17s**
+---
+title: "Mr. Jackson's Story"
+description: "A story about perspective"
+draft: false
+unlisted: false
+stealth: false
+robots: 
+password: 
+tags: 
+  - story
+slug: 
+  - jacksons-story
+aliases: 
+permalink: 
+date: August 12, 2026 15:22
+lastmod: August 12, 2026 18:17
+enableToc:  true
+cssclasses: 
+  - hide-breadcrumbs
+---
+
+%% 
+**Words: 740** <br>
+**Duration (140wpm): 5m17s** %%
 
 Mr. Jackson was a man who prided himself on his clarity. He had spent years studying human behavior, reading books on communication, mentoring younger colleagues, and the like. People like listening to him because he could sketch out a perfect diagram on a whiteboard explaining a variety of complex topics. However, when Mr. Jackson stepped off the stage and into his own life, his knack for explaining concepts did not match his ability to apply them to his own life. He couldn’t follow his own advice.
 
@@ -23,3 +45,8 @@ He took a truly objective view and looked at the situation through her eyes, fai
 He looked back at himself from her frame of reference and saw an unbending brute that felt more like a wall than a partner.
 
 That frame shift changed his mindset. The defensive irritation dissolved into a quiet, grounded clarity. He realized her reaction wasn't an attack on his logic. She needed to be heard, understood, and valued by her husband, not diminished by him. By finally reconciling his private view with the many frames of reference in reality, Mr. Jackson stopped lecturing on perspective, stepped over the threshold, and remembered how to live by his word.
+
+<hr>
+
+# See Also
+- [[Perspective]]

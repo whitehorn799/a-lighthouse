@@ -12,11 +12,9 @@ cssclasses:
   - hide-breadcrumbs
 ---
 
-This is how you can find what you want in life.
+![[desire-formula.png|center|400]]
 
->[!announote|tac]
->Where am I? <br> + <br> Who am I? <br> = <br> What do I want?
-
+<hr>
 
 1. **WHERE** gives you a direction and a motivation.
 	- What does my family need?

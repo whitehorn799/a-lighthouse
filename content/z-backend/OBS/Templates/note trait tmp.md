@@ -6,7 +6,10 @@ unlisted: false
 stealth: false
 robots:
 password:
+tag:
+  - trait
 slug: 
+  - 
 aliases: 
 permalink: 
 date: August 06, 2026 17:12
@@ -16,7 +19,8 @@ cssclasses:
   - hide-breadcrumbs
 ---
 
-
+> [!princibox] Self-identity Path
+> [[Modules]] > [[Love]] > [[Instinct]] > [[Self-aware]] > You are here
 
 > [!cleanembed]
 > ![[🎁-📝#^def]]

@@ -14,6 +14,8 @@ lastmod: August 06, 2026 10:23
 enableToc:  true
 cssclasses: 
 ---
+<span class="faded">[[🐊🖿/💡🖿/🎁🖿/🎁|✦]]</span>
+
 
 xxx
 <br><br>
@@ -71,3 +73,9 @@ xxx
 
 ^consider
 
+<hr>
+
+# See Also
+- xx
+
+<span class="faded">[[🐊🖿/💡🖿/🎁🖿/🎁|✦]]</span>

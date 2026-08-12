@@ -211,6 +211,36 @@ button.encrypted-page-submit:hover {
   opacity: 0.85;
 }
 
+/* HIDE FLASH OF UNSTYLED CONTENT behind encryption page */
+/* 1. PRE-HIDE (Anti-Flash): Instantly hide elements on initial load if frontmatter password exists */
+#quartz-body:has([data-password]:not([data-password=""])) {
+  .center .article-title,
+  .center .breadcrumbs,
+  .right.sidebar {
+    display: none !important;
+  }
+}
+
+/* 2. DYNAMIC STATE: Manage element visibility while the password form is mounted in the DOM */
+#quartz-body:has(.encrypted-page-form, .encrypted-page-popover-hint) {
+  
+  /* Target Title & Breadcrumbs directly inside center column */
+  .center .article-title,
+  .center .breadcrumbs,
+  .center .page-header > *:not(:has(.encrypted-page-form, .encrypted-page-popover-hint)) {
+    display: none !important;
+  }
+
+  /* Keep the popover container visible IF it holds the password form */
+  .center .popover-hint:not(:has(.encrypted-page-form, .encrypted-page-popover-hint)) {
+    display: none !important;
+  }
+
+  /* Hide Table of Contents and Right Sidebar */
+  .right.sidebar {
+    display: none !important;
+  }
+}
 /*
 ██     ▄▄  ▄▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄ 
 ██     ██ ███▄▄   ██  ███▄▄ 
