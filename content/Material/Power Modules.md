@@ -41,7 +41,7 @@ Disclaimer: We don't presume to know anything, nor do we wish to tell people how
 	- Instinct: The Self
 		- Self-aware
 			- [[Self-identity]]
-			- [[Perspective]]
+			- Perspective
 			- Healthiness
 			- Self-Love
 			- Survival Needs
