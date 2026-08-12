@@ -45,6 +45,30 @@ article img {
   &[alt*="clear"] {
     clear: both !important;
   }
+
+  /* 6. Clickable Full-Size / Full-Width Indicator */
+  &[alt*="full"] {
+    cursor: pointer !important;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+
+    &:hover {
+      opacity: 0.85;
+      outline: 10px solid var(--c-links-intcolor) !important;
+      outline-offset: -1px !important; /* Pulls the border 1px inward */
+    }
+  } /* <-- Added missing closing brace here */
+}
+
+/* Optional: Add a subtle hover hint prompt underneath any image tagged with |full| */
+.center figure:has(img[alt*="full"])::after,
+.center p:has(img[alt*="full"])::after {
+  content: "Click to view full size";
+  display: block;
+  font-size: 0.75rem;
+  color: var(--c-sidebar-links-color, #888888);
+  text-align: center;
+  margin-top: 0.25rem;
+  opacity: 0.7;
 }
 
 /* Clearfix for paragraphs wrapping floated images */
@@ -55,8 +79,10 @@ article img {
     clear: both;
   }
 }
+
 /* Prevent oversized fixed-width images from breaking mobile layouts */
 .center img[width] {
   max-width: 100% !important;
   height: auto !important;
 }
+

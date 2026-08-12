@@ -29,6 +29,10 @@ Search for things by category.<br><br>
 - [Strategies](/tags/strategy)
 - [Traps](/tags/trap)
 
+%%
+[Learning Points](/tags/learning)
+[Misery Points](/tags/misery)
+%%
 
 %% QUOTES
 ![[The Powers#^perception]]
@@ -121,6 +125,7 @@ the real world in which everyone and everything lives ^shared-reality
 <small>AKA Outer vs. Inner; Extrinsic vs. Intrinsic</small> <br>
 
 # F
+[[Frame of Reference]] <BR>
 [[Friction]] <br>
 
 # H

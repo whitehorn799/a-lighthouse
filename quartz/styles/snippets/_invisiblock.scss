@@ -144,7 +144,7 @@
 
 
 /* =========================================================================
-   FAINTBOX MARGIN OVERRIDE (When inside Invisiblock)
+   MARGIN OVERRIDE (When inside Invisiblock)
    ========================================================================= */
 
 #quartz-body .callout[data-callout="invisiblock"] blockquote.callout[data-callout="faintbox"] {
@@ -159,3 +159,5 @@
 #quartz-body .callout[data-callout="invisiblock"] blockquote.callout[data-callout="princibox"] {
   margin: 0 !important;  
 }
+
+

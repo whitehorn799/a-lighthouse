@@ -70,23 +70,28 @@ nav.breadcrumb,
    1. QUARTZ GRID ARCHITECTURE OVERRIDE
    ========================================== */
 
+/* ==========================================
+   1. QUARTZ GRID ARCHITECTURE OVERRIDE
+   ========================================== */
+
 :root {
-  --page-width: 750px; /* Locked center width */
+  --page-width: 750px;       /* Center content width */
+  --sidebar-left-w: 240px;   /* Fixed Left Sidebar width across ALL desktop sizes */
 }
 
-/* 1. Full Desktop (3 Columns) - Viewports 1024px and wider */
+/* 1. Full Desktop (3 Columns) - Anchored Left, Expands Right */
 @media (min-width: 1024px) {
   #quartz-body,
   .page > #quartz-body {
     display: grid !important;
     gap: 1.5rem !important;
-    max-width: 1400px !important;
     width: 100% !important;
-    margin: 0 auto !important;
-
-    /* 3-Column Layout: [Left Sidebar] [Center Content] [Right Sidebar] */
-    grid-template-columns: minmax(200px, 1fr) minmax(auto, var(--page-width)) minmax(200px, 1fr) !important;
+    max-width: 100% !important; /* Allows layout to fill viewport from the left */
+    
+    /* Left: Fixed 240px | Center: Fixed 750px | Right: Takes remaining space */
+    grid-template-columns: var(--sidebar-left-w) minmax(auto, var(--page-width)) minmax(200px, 1fr) !important;
     grid-template-areas: "sidebar-left center sidebar-right" !important;
+    justify-content: start !important; /* Anchors the layout to start from the left margin */
     align-items: start !important;
   }
 
@@ -98,39 +103,54 @@ nav.breadcrumb,
   }
 }
 
-/* 2. Narrow Desktop / Tablet View (2 Columns) - Viewports between 768px and 1023px */
+/* 2. Narrow Desktop / Tablet View (2 Columns) */
 @media (min-width: 768px) and (max-width: 1023px) {
   #quartz-body,
   .page > #quartz-body {
     display: grid !important;
     gap: 1rem !important;
     width: 100% !important;
-    margin: 0 auto !important;
     padding: 0 1rem !important;
 
-    /* 2-Column Layout: [Left Sidebar] [Center Content] */
-    grid-template-columns: 240px 1fr !important;
+    /* Left column stays EXACTLY 240px whether 2-column or 3-column */
+    grid-template-columns: var(--sidebar-left-w) 1fr !important;
     grid-template-areas: "sidebar-left center" !important;
     align-items: start !important;
   }
 
-  /* Move Right Sidebar out of the grid or flow it below */
   .sidebar.right {
-    display: none !important; /* Hides table of contents on narrow screens to protect content width */
+    display: none !important;
   }
 }
 
-/* 3. Mobile View - Under 768px */
-@media (max-width: 767px) {
-  #quartz-body,
-  .page > #quartz-body {
-    display: flex !important;
-    flex-direction: column !important;
-    width: 100% !important;
-  }
+/* ==========================================
+   STRICT SIDEBAR & EXPLORER WIDTH LOCK
+   ========================================== */
 
-  .center {
-    width: 100% !important;
+.sidebar.left {
+  width: var(--sidebar-left-w) !important;
+  min-width: var(--sidebar-left-w) !important;
+  max-width: var(--sidebar-left-w) !important;
+  box-sizing: border-box !important;
+}
+
+.explorer,
+.explorer .nav-files-container {
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+  
+  /* Strictly disable horizontal scrolling across ALL viewports */
+  overflow-x: hidden !important; 
+  
+  /* Text Truncation */
+  .file-title, 
+  .folder-title, 
+  a, 
+  span {
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
   }
 }
 
@@ -340,10 +360,10 @@ h2.page-title {
   display: none !important;
 }
 
-/* Optional: Also hide the bullet/list wrapper so there isn't blank vertical spacing */
+/* Optional: Also hide the bullet/list wrapper so there isn't blank vertical spacing 
 #quartz-body:has(article.hide-breadcrumbs) .explorer li:has(a.nav-file-title.is-active) {
   display: none !important;
-}
+}*/
 
 .sidebar .explorer {
     border: 1px solid var(--c-explorer-border-color) !important;
@@ -508,4 +528,42 @@ button.desktop-explorer {
 .explorer ul > li:has(a[href*="material" i]),
 .explorer ul > li:has(a[href*="Material" i]) {
   order: 3 !important;
+}
+
+/* ==========================================
+   CONSISTENT EXPLORER FILE CONTAINER WIDTH
+   ========================================== */
+
+/* Lock the Left Sidebar to a fixed width on Desktop */
+@media (min-width: 800px) {
+  .sidebar.left,
+  .sidebar:first-child {
+    width: 220px !important;       /* Set your preferred static width */
+    min-width: 220px !important;   /* Prevents shrinking when TOC is present */
+    max-width: 220px !important;   /* Prevents expanding when TOC is missing */
+    flex: 0 0 220px !important;    /* Prevents flexbox auto-resizing */
+  }
+
+  .explorer,
+  .explorer .nav-files-container {
+    width: 100% !important;
+  }
+}
+
+   .explorer .nav-files-container {
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+  
+  /* Prevent long note names from stretching the container width */
+  overflow-x: hidden !important; 
+  
+  /* Truncate long file/folder names with ellipses */
+  .file-title, 
+  .folder-title, 
+  a {
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+  }
 }

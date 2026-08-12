@@ -1,6 +1,6 @@
 ---
-title: "Perspective"
-description: "Truth escapes detection"
+title: Perspective
+description: Truth escapes detection
 draft: false
 unlisted: false
 stealth: false
@@ -9,9 +9,9 @@ password:
 tags:
   - trait
 aliases:
-slug: 
+slug:
   - perspective
-permalink: 
+permalink:
 date: August 06, 2026 17:12
 lastmod: August 07, 2026 13:24
 enableToc: true
@@ -73,31 +73,127 @@ These are the focus of this lesson. Just under the questions are the [[Misery Po
 
 	- Frustration
 	- Resentment
-	- 
+	- Isolation
+	- Exhaustion
+	- Victimhood
+	- Misplaced Expectations
+	- Uncompromising
+	- Disappointment
+
+%%
+Resentment & Frustration: Burning energy through constant outrage because others refuse to follow your unwritten manual.
+
+Isolation: Feeling deeply misunderstood, alienated, or alone in a room full of people.
+
+Exhaustion: The mental fatigue of endlessly trying to debate, convince, or force people to adopt your viewpoint.
+
+Victimhood: Believing that other people are being "stubborn" or "blind" to you, rather than simply living out their own coordinates.
+
+Misplaced Expectations: Assuming others share your priorities, logic, or values by default, leading to constant shock when they don't.
+
+Uncompromising: Refusing to adjust your internal map to accommodate another person's coordinate or worldview.
+
+Disappointment: The direct emotional crash when reality fails to live up to the script you wrote for people without their consent.
+%%
 
 
 2. <div class="color-point cp1 tal">How can I see from their eyes?</div>
+
+	- Contempt
+	- Arrogance
+	- Relational Conflict
+	- Paranoia
+	- Self-defense
+	- Regret
+	- Reactionary
+	- Broken Trust
+	- Isolation
+
+%%
+Contempt & Arrogance: Dismissing others as stupid, malicious, or beneath you simply because their map differs from yours.
+
+Relational Conflict: Repeating the same explosive arguments with family, partners, or peers without ever making progress.
+
+Paranoia & Self-Defense: Misinterpreting benign actions as deliberate attacks because you cannot fathom their actual motives.
+
+Regret: Hitting people with harsh judgment, only to realize later how much pain they were carrying behind their actions.
+
+Reactionary: Responding instantly out of threat or defense rather than pausing to understand their actual motive.
+
+Broken Trust: The relational wedge created when you repeatedly misread people's intentions or assume malice over perspective differences.
+
+Isolation: The ultimate outcome of perspective-blindness—building a wall so thick around your own ego that no one can reach you.
+%%
+
 3. <div class="color-point cp1 tal">How do I know if I am seeing clearly?</div> 
 
+	- Confusion
+	- Disorientation
+	- Anxiety
+	- Dread
+	- Self-doubt
+	- Cognitive Paralysis
+	- Repeated Failure 
 	- Ego Blindness
-	- Isolation
-	- Broken Trust
-	- Misplaced Expectations
 	- Off-balanced
-	- Reactionary
-	- Uncompromising
-	- Disappointment
 	- Burnout 
+
+%%
+Confusion & Disorientation: Feeling like the world "doesn't make sense" because your expectations keep crashing into reality.
+
+Anxiety & Dread: The constant background fear of being caught off-guard, exposed, or proven wrong.
+
+Self-Doubt & Paralysis: Fearing your own perception so much that you freeze, unable to make a confident move.
+
+Repeated Failure (The Friction Loop): Hitting the exact same wall in work, health, or relationships over and over, while wondering why nothing changes.
+
+Ego Blindness: The root state—being unable to recognize where your own biases, desires, and projections end and objective reality begins.
+
+Off-balanced: Operating on a tilted axis where your internal assumptions don't align with real-world feedback.
+
+Burnout: The physical and mental exhaustion caused by constantly trying to force a broken map to work against an unyielding world.
+%%
 
 <hr>
 
-## 1. LP1
+## 1. How can I be more understanding?
 
 
 <div class="color-point cp1 tal">Ask this because</div>
 
-- it **xxx** by: 
-	- xxx
+- it **demonstrates** by: 
+	- showing tolerance to views different than yours;
+- it **informs** by: 
+	- teaching how mindsets affect emotion, and consequently, environments;
+- it **humbles** by: 
+	- gifting you the grace to admit ignorance about something.
+
+
+### Views and Realities
+
+#### Yours
+
+- Everyone has their own view
+- More conducive to living in a private reality
+- Too much can lead to self-centered behaviors
+- Too little can lead to self-neglect
+#### Everyone's
+- There is a shared view 
+- More conducive to living in a shared reality 
+- Too much can lead to self-neglect
+- Too little can lead to self-centered behaviors
+### Infinite Realities
+
+
+
+### 1.1 Frame of Reference
+> [!cleanembed]
+> ![[Frame of Reference#^my-block]]
+
+^frame-ref-context-1
+
+
+
 
 ### 1.x Moral
 
@@ -164,20 +260,13 @@ Being more understanding requires more gathering more information. You don't und
 > 要同時聆聽戰爭中的失敗者與勝利者，因為每個故事至少都有兩面。有時候，理解全貌並不是看他們說了什麼，而是去注意他們沒有說什麼。
 
 
-#### 1.1 Frame of Reference
-Seeing things from different viewpoints is called changing your frame of reference or perspective. Our point of view is indeed unique, but it exists alongside a vast pool of other unique perspectives. In addition, our awareness of what we sense and what we know is very limited. If you read [[The Holographic Prize]], you will remember that humans see only [0.0035%](https://www.energy.gov/nnsa/articles/visible-light-reading-rainbow-nnsas-missions) of the spectrum of light in the universe. If this is true, and our other senses are similarly limited, it would be amazingly arrogant for anyone to know that they know anything.
-
-By seeing something from the eyes of another person, we become that person. It's almost as if we are watching a movie with an actor, and we become part of their character. We adopt their problems and feel their emotions as our own. This is called empathy, and it is a vital tool for helping us live with others.
-
-![[Concepts#^empathy|define]] ^empathy
+#
 ##### 1.1.1 The Cylinder
-To clearly demonstrate this, we'll use a metaphor. Let's take a look at this illustration. 
+ 
 
 ![[Frame of Reference Analogy|linked]]
 
-- In your own words, explain what is happening in the illustration. 
-- Think of a time in your life when this could have been useful to know. 
-	- If you had to live that situation again, how could you improve the outcome?
+- 
 
 ##### 1.1.2 Monkey and Fish
 One of the best ways to change your frame of reference is to listen. Listen to yourself in those quite times of reflection, and listen to others when things aren't working in the relationship. Don't interrupt, don't be overpowering, but be gentle in your approach and honest by saying that you want to learn more about what they experience. This helps build respect not only for others, but for yourself. If you cannot respect yourself, how can you respect others?
