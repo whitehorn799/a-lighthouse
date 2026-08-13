@@ -154,6 +154,7 @@ the real world in which everyone and everything lives ^shared-reality
 
 # O
 [[Objective Reverence]] <br>
+[[Objective vs. Subjective Views]] <br>
 
 # P
 
@@ -170,8 +171,6 @@ the real world in which everyone and everything lives ^shared-reality
 [[Sovereign Speech]] <br>
 [[Sovereignty of Good]] <br>
 [[States]] <br>
-[[Subjective vs. Objective]] <br>
-<small>AKA Frame of Reference, Perspective</small>
 [[Surrogate Transcendence]] <br>
 
 

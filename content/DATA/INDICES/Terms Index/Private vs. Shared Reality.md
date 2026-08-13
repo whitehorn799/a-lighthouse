@@ -1,6 +1,6 @@
 ---
-title: Private vs. Shared Reality
-description: The two realities that govern everyone
+title: "Private vs. Shared Reality"
+description: "The two realities that govern everyone"
 draft: false
 unlisted: false
 stealth: false
@@ -20,19 +20,29 @@ cssclasses:
   - hide-breadcrumbs
 ---
 
-These represent your inner reality and the external environment.
-
-
-# Private Reality
-
 >[!invisiblock] 
->A private or internal reality represents what is true in your mind. It's the subjective view of every individual, and no one else is able to witness or record your private reality. The private reality is changed by willpower and trauma, and it's characterized by the psyche, which includes thoughts, dreams, aspirations, and psychological states. It can be influenced by physiological states. 
+>If you exist, then you operate in at least two realities: the one in your mind and the one we all share together. These represent your private reality (your [[subjective view]]) and the shared reality (the [[objective view]]). 
 
-^private-reality
+^my-block
 
-# Shared Reality
 
->[!invisiblock] 
->A shared reality is the world you live in with other people, things, and places. It's observable truth in the objective view of the real world. The shared reality is changed by action and consequence, and it's characterized by the external environment, which entails the physical universe, physiological states, and the socio-cultural habitat.
 
-^shared-reality
+>[!invisiblock|title] Private Reality
+>A private reality represents what is true in your mind. This is why it's also called the "inner" reality because only you can sense it, just like you cannot see anyone else's. <br><br>
+>This inner world is shaped by your psyche, which is the collection of your thoughts, dreams, aspirations, and emotions. It changes through willpower, experience, and education, and it can be influenced by your physical body. <br><br>
+>You can use logic to look into your private reality, but it can't feel it. Think of the inner world as a chaotic dream, while logic is a detective peering in and trying to make sense of it all. The logic interpreting the chaos can structure the dream by organizing it, but it could also be flawed and totally wrong. Therefore, you can use logic to detect patterns, but don't entirely disconnect from emotions to do so.
+
+^private-real
+
+>[!invisiblock|title] Shared Reality
+>A shared reality is how the world is. It's the world you live in with other people, things, and places from huge galaxies to small atoms. It's every observable fact that could ever be measured by the senses—and likely more! 
+>in the objective view of the real world. The shared reality is changed by action and consequence, and it's characterized by the external environment, which entails the physical universe, physiological states, and the socio-cultural habitat.
+
+^shared-real
+
+<hr>
+
+# See Also
+- [[Perspective#^private-subject-context|Perspective context]]
+- [[External vs. Internal]]
+

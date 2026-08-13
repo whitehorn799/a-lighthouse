@@ -169,16 +169,54 @@ Burnout: The physical and mental exhaustion caused by constantly trying to force
 	- gifting you the grace to admit ignorance about something.
 
 
-### Views and Realities
+### Vantage Points
+If you were ever lost in a maze, you may think to get to a higher ground. This gives you better vision on your surroundings. Your senses help you understand your surroundings, and your mind's eye helps you interpret them.
 
-#### Yours
+If you are lost in life, it's a good idea to change your vantage point, but first understand how limiting they are.
 
-- Everyone has their own view
-- More conducive to living in a private reality
-- Too much can lead to self-centered behaviors
-- Too little can lead to self-neglect
-#### Everyone's
-- There is a shared view 
+#### Your Vantages
+There are at least two vantage points you get for being a human being on planet Earth: the view from your two eyes (the [[subjective view]]) and the view of your inner world (the [[private reality]]).
+^private-subject-context
+
+> [!cleanembed-title] Subjective View
+> ![[Objective vs. Subjective Views#^subject-view]]
+
+<br>
+
+> [!cleanembed] 
+> ![[Objective vs. Subjective Views#^private-subject]]
+>  
+
+<br>
+
+> [!cleanembed]
+> ![[Private vs. Shared Reality#^private-real|private reality]]
+
+**Key Points**
+- Everyone has their own subjective view.
+- Your private reality fuels your subjective view
+- Too much focus on your subjective view can lead to self-centered behaviors.
+- Too little focus on your private reality can lead to self-neglect
+#### Everyone's Vantages
+As with your vantages, there are at least two *more* vantage points for being a human. That's four vantage points! Here are the two new ones: the unbiased view of facts (the [[objective view]]) and the view of the physical world (the [[shared reality]]).
+^shared-object-context
+
+> [!cleanembed-title] Objective View
+> ![[Objective vs. Subjective Views#^object-view]]
+
+<br>
+
+> [!cleanembed] 
+> ![[Objective vs. Subjective Views#^shared-object]]
+>  
+
+<br>
+
+> [!cleanembed|title] Shared Reality
+> ![[Private vs. Shared Reality#^shared-real|shared reality]]
+> 
+**Key Points**
+- Everyone shares a view that is based on facts from the observable world. 
 - More conducive to living in a shared reality 
 - Too much can lead to self-neglect
 - Too little can lead to self-centered behaviors
