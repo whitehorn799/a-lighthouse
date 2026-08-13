@@ -36,7 +36,7 @@ Sort options with SCSS in _page.scss
 }
 ```
 
-Hide a Folder in Exploerer
+Hide a Folder in Explorer
 ```
 /* Enable flex ordering on the root Explorer container */
 .explorer ul,

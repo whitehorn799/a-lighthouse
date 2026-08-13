@@ -1,4 +1,24 @@
-# Alignment vs. Misalignment
+---
+title: "Alignment vs. Misalignment"
+description: "What fits and what doesn't"
+draft: false
+unlisted: false
+stealth: false
+robots: 
+password: 
+tags: 
+slug: 
+  - alignment-vs-misalign
+aliases: 
+permalink: 
+date: August 13, 2026 18:19
+lastmod: August 13, 2026 18:22
+enableToc:  true
+cssclasses: 
+---
+
+
+
 AKA resonance vs. dissonance
 
 > [!info|invisiblock] 

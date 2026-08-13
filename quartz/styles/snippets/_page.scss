@@ -492,15 +492,15 @@ button.desktop-explorer {
 
 /* Target the specific folder container or link node, NOT the parent list item */
 #quartz-body .explorer {
-  /* Hides the powers-index folder header itself */
-  .folder-container:has(a[href*="powers-index" i]),
-  .folder-container:has(button[data-folderpath*="powers-index" i]),
-  .folder-container[data-folderpath*="powers-index" i],
+  /* Hides any folder header containing "-index" in its path or link */
+  .folder-container:has(a[href*="-index" i]),
+  .folder-container:has(button[data-folderpath*="-index" i]),
+  .folder-container[data-folderpath*="-index" i],
 
-  /* Hides direct list items that are strictly powers-index files/folders */
-  li:has(> .folder-container a[href*="powers-index" i]),
-  li:has(> a[href*="powers-index" i]),
-  li:has(> button[data-folderpath*="powers-index" i]) {
+  /* Hides list items containing "-index" in their direct links/buttons */
+  li:has(> .folder-container a[href*="-index" i]),
+  li:has(> a[href*="-index" i]),
+  li:has(> button[data-folderpath*="-index" i]) {
     display: none !important;
   }
 }

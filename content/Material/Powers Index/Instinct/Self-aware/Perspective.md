@@ -1,7 +1,7 @@
 ---
 title: Perspective
 description: Truth escapes detection
-draft: false
+draft: true
 unlisted: false
 stealth: false
 robots:
@@ -214,7 +214,12 @@ As with your vantages, there are at least two *more* vantage points for being a 
 
 > [!cleanembed|title] Shared Reality
 > ![[Private vs. Shared Reality#^shared-real|shared reality]]
-> 
+
+
+
+> [!cleanembed]
+> ![[Private vs. Shared Reality#^shared-real-2|shared reality]]
+
 **Key Points**
 - Everyone shares a view that is based on facts from the observable world. 
 - More conducive to living in a shared reality 

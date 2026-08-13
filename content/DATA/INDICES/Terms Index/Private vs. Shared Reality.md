@@ -1,6 +1,6 @@
 ---
-title: "Private vs. Shared Reality"
-description: "The two realities that govern everyone"
+title: Private vs. Shared Reality
+description: The two realities that govern everyone
 draft: false
 unlisted: false
 stealth: false
@@ -35,10 +35,14 @@ cssclasses:
 ^private-real
 
 >[!invisiblock|title] Shared Reality
->A shared reality is how the world is. It's the world you live in with other people, things, and places from huge galaxies to small atoms. It's every observable fact that could ever be measured by the senses—and likely more! 
+>A shared reality is how the world is. It's the world you live in with other people, things, and places from huge galaxies to small atoms. It's every observable fact that could ever be measured by the senses—and likely more! Things operate whether or not we sense them. <br><br>
+>>[!announote|shh-note tac]
+>>(However, there is a lot of interesting stuff in quantum physics, like the observer effect, that might argue with this statement!)
+>
+>^shared-real
+>
 >in the objective view of the real world. The shared reality is changed by action and consequence, and it's characterized by the external environment, which entails the physical universe, physiological states, and the socio-cultural habitat.
-
-^shared-real
+^shared-real-2
 
 <hr>
 
