@@ -345,6 +345,9 @@ h2.page-title {
 ██▄▄   ▀█▄█▀ ██▄█▀ ██    ██▀██ ██▄█▄ ██▄▄  ██▄█▄ 
 ██▄▄▄▄ ██ ██ ██    ██▄▄▄ ▀███▀ ██ ██ ██▄▄▄ ██ ██ 
 */
+/* Hide the desktop Site Explorer title/toggle button */
+
+
 /* Hide a specific folder item from the Explorer tree */
 .explorer div[data-folderpath*="DATA" i],
 .explorer div[data-slug*="DATA" i],
@@ -565,5 +568,29 @@ button.desktop-explorer {
     white-space: nowrap !important;
     overflow: hidden !important;
     text-overflow: ellipsis !important;
+  }
+}
+
+/* =========================================================================
+   EXACT PATH DESKTOP EXPLORER TOGGLE REMOVAL
+   ========================================================================= */
+
+@media screen and (min-width: 800px) {
+  /* Exact DOM chain selector */
+  #quartz-body > div.left.sidebar > div.explorer.nav-files-container > button.title-button.explorer-toggle.desktop-explorer,
+  #quartz-body .left.sidebar .explorer.nav-files-container > button.desktop-explorer {
+    display: none !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Remove any remaining top padding/margin on the file list container */
+  #quartz-body > div.left.sidebar > div.explorer.nav-files-container > div.explorer-content,
+  #quartz-body .left.sidebar .explorer.nav-files-container > .explorer-content {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
   }
 }

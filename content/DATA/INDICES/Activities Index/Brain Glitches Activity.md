@@ -61,7 +61,7 @@ Your brain estimates things when your focus shifts. When you focus on something,
 ^troxler
 ### Long-term Brain Adaptation
 >[!invisiblock|title] **Incremental Habituation**
->In a similar way, you don't notice yourself aging. It's called incremental habituation, and it is where you get used to small changes over time. You look at yourself in a mirror each day, but your brain adapts to the miniscule changes. The small changes occur slowly over time, but if you see your friend's baby again after four years apart, the changes become instantly obvious. 
+>In a similar way to short-term adaptation, you don't notice yourself aging. It's called incremental habituation, and it is where you get used to small changes over time. Perhaps you've heard of pareidolia, where you notice familiar shapes, patterns, or human faces in objects. Your brain is really good at noticing patterns because it's an ancient survival skill, and it responds best to sudden, apparent change. Even though you look at yourself in a mirror each day, your brain adapts to the miniscule changes. They occur slowly over time, but if you see your friend's baby again after four years apart, those changes become instantly obvious because of the drastic, sudden mismatch with your memory's "blurry" image of how the baby used to look.
 ^habituation
 
 <hr>
