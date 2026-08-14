@@ -161,3 +161,34 @@
 }
 
 
+/* =========================================================================
+   PARSER EXTRA SPACING FIXES
+   ========================================================================= */
+
+/* -------------------------------------------------------------------------
+   1. Fix: Paragraph directly following an invisiblock inside cleanembed
+   ------------------------------------------------------------------------- */
+#quartz-body blockquote.callout[data-callout="cleanembed"] {
+  /* Target ANY paragraph immediately following an invisiblock callout */
+  > .callout-content > .callout[data-callout="invisiblock"] + p {
+    display: none !important;
+    margin: 0 !important;
+    margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
+    margin-bottom: 0 !important;
+    padding: 0 !important;
+    height: 0 !important;
+    line-height: 0 !important;
+  }
+}
+
+
+
+/* -------------------------------------------------------------------------
+   2. Fix: Trailing <br> injected immediately after cleanembed
+   ------------------------------------------------------------------------- 
+#quartz-body blockquote.callout[data-callout="cleanembed"] + br,
+#quartz-body blockquote.callout[data-callout="cleanembed-title"] + br {
+  display: none !important;
+}
+  */

@@ -161,9 +161,16 @@ blockquote.callout[data-callout="cleanembed-title"] {
    MARGIN OVERRIDE (When inside Cleanembed)
    ========================================================================= */
 
-#quartz-body .callout[data-callout="cleanembed"] > .callout-content .callout[data-callout="princibox"] {
+#quartz-body .callout[data-callout="cleanembed"] > .callout-content .callout[data-callout="princibox"],
+#quartz-body .callout[data-callout="cleanembed-title"] > .callout-content .callout[data-callout="princibox"] {
   
   margin-block-end: 2rem !important;
   margin: 2rem auto !important;
 }
 
+#quartz-body blockquote.callout[data-callout="cleanembed"] .callout[data-callout="announote"],
+#quartz-body blockquote.callout[data-callout="cleanembed-title"] .callout[data-callout="announote"] {
+  margin-bottom: 0 !important;
+  margin-block-end: 0 !important;
+  padding: 0 !important;
+}

@@ -1,24 +1,28 @@
 ---
-title: "A Lighthouse for Personal Growth"
-description: "Solid. Still. Reclaim your power."
+title: A Lighthouse for Personal Growth
+description: Solid. Still. Reclaim your power.
 draft: false
 unlisted: false
 stealth: false
-robots: 
-password: 
-tags: 
-slug: 
+robots:
+password:
+tags:
+slug:
   - home
-aliases: 
-permalink: 
+aliases:
+permalink:
 date: August 10, 2026 11:05
 lastmod: August 10, 2026 11:23
-enableToc:  true
-cssclasses: 
+enableToc: true
+cssclasses:
   - hide-article-title
 ---
 
 <span class="faded">[[☀️ helio|✦]]</span>
+
+
+> [!princibox] SOFT LAUNCH
+> Please be aware the site is under an ongoing "soft launch" indefinitely.
 
 
 %% <a href="/DATA/FACILITATE/☀️ helio" class="faded">✦</a> %%
@@ -38,8 +42,6 @@ Learn to embrace the dark parts of you just as well as the light parts. In the s
 <hr>
 
 
->[!announote|tac]
-><strong><u>NOTICE</u></strong> <br>We are preparing the website so that we may share organized information with you.</div>
 
 <br>
 

@@ -24,3 +24,14 @@ You have to have a br before the invisiblock to establish the next paragraph is 
 > This is the first paragraph in this block that is directly after another paragraph (p + p). Therefore, this one should have margins of 1rem 0 0 0.
 > 
 > Your thoughts, beliefs, decisions, cell arrangements, experiences, and more have all aligned to create a perspective in a universe that only you can occupy.
+
+
+# Within Cleanembed
+
+## Displays the Title
+>[!invisiblock|title] Shared Reality
+>XXX
+
+^shared-real
+
+## Does NOT Display

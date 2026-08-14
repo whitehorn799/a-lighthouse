@@ -35,14 +35,10 @@ cssclasses:
 ^private-real
 
 >[!invisiblock|title] Shared Reality
->A shared reality is how the world is. It's the world you live in with other people, things, and places from huge galaxies to small atoms. It's every observable fact that could ever be measured by the senses—and likely more! Things operate whether or not we sense them. <br><br>
->>[!announote|shh-note tac]
->>(However, there is a lot of interesting stuff in quantum physics, like the observer effect, that might argue with this statement!)
+>The shared reality the world you inhabit together with other people, objects, and places—from vast galaxies to small atoms. It is the outer landscape of physical facts, places, and events that multiple observers can experience. The shared reality requires that living beings survive through interactions and that conscious beings agree about their observations.<br><br>
+>The outer world is shaped by time, space, physics, matter, and light, and it is constantly changed by interactions—cause and effect, choices and consequence, and action and feedback. It's makes up the external environment: the physical universe, states of being, and the socio-cultural spaces we live in.
 >
->^shared-real
->
->in the objective view of the real world. The shared reality is changed by action and consequence, and it's characterized by the external environment, which entails the physical universe, physiological states, and the socio-cultural habitat.
-^shared-real-2
+^shared-real
 
 <hr>
 
