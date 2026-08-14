@@ -52,8 +52,8 @@ article img {
     transition: opacity 0.2s ease, transform 0.2s ease;
 
     &:hover {
-      opacity: 0.85;
-      outline: 10px solid var(--c-links-intcolor) !important;
+      opacity: 0.65;
+      outline: 2px solid var(--c-links-intcolor) !important;
       outline-offset: -1px !important; /* Pulls the border 1px inward */
     }
   } /* <-- Added missing closing brace here */

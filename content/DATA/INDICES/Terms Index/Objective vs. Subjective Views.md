@@ -58,4 +58,4 @@ cssclasses:
 
 - [[Perspective#^private-subject-context|Perspective context]]
 - [[Private vs. Shared Reality]]
-- [[Caputo Activity]]
+- [[Brain Glitches Activity]]

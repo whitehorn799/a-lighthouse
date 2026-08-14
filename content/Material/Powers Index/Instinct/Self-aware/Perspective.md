@@ -169,6 +169,18 @@ Burnout: The physical and mental exhaustion caused by constantly trying to force
 	- gifting you the grace to admit ignorance about something.
 
 
+Being more understanding means opening your mind. In doing this, you can make this process simpler, but it may not be easy to do. Recall the concept of "knowing nothing" in the [[Orientation#Start from Nothing|orientation]]. You don’t understand something because you lack the correct information, so the concept isn’t whole in your mind. It's dangerous to make decisions when you are uninformed.
+
+> [!cleanembed]
+> ![[Misinformed or Uninformed#^my-block]]
+
+^mis-un-informed
+
+Listen to every side of a situation equally. Sometimes, seeing the big picture is figuring out what the sides aren’t saying rather than what they are saying. Be aware of [[manipulative language]] that seeks to mask what is really going on. 
+
+Accepting that you have a general ignorance to many things can feel like admitting a weakness, but the secret is that it's a strength. It breaks down your defensive walls, allows you to make mistakes, and gives you the grace to recover from them.
+
+Apart from this, it helps to understand your position, other people's positions, and the situation's position. Further, intuition, imagination, and logic all play important roles to unlock hidden, yet accessible, information. 
 ### 1.1 Vantage Points
 If you were ever lost in a maze, you may think to get to a higher ground. This gives you better vision on your surroundings. Your senses help you understand your surroundings, and your mind's eye helps you interpret them.
 
@@ -221,18 +233,59 @@ As with your vantages, there are at least two *more* vantage points for being a 
 - More conducive to living in a shared reality 
 - Too much can lead to self-neglect
 - Too little can lead to self-centered behaviors
-### 1.2 Frame of Reference
+
+### 1.2 Activities
+- [[Changing Frames of Reference]]: How to understand other people 
+- [[Brain Glitches Activity]]: How your brain makes stuff up
+
+### 1.3 Moral
+The reasons why being understanding is hard is because it takes effort, care, humility, and relevant information—and all of this is behind the education of **how** to do it at all. Schools don't teach us, and our parents may not know, either. We are all stuck experimenting with our lives, making avoidable mistakes if only we knew what to do. Maybe this information isn't new; maybe it's out there somewhere in it's full steps, with nothing omitted. It seems like humanity, as a whole, would have put a program together if the good of mankind was at the heart of their focus.
+
+
+
+<hr>
+
+## 2. How can I see from their eyes?
+
+<div class="color-point cp1 tal">Ask this because</div>
+
+- it **clarifies** by: 
+	- teaching empathy through the use of intuition;
+	- clearing away emotional fog and adopting logic;
+- it **transforms** by: 
+	- showing how to manage your risks;
+	- altering how you make your decisions;
+- it **guides** by: 
+	- fostering self-monitoring skills;
+	- providing insight into self-correction.
+
+
+Mary Torrans Lathrap created a popular way to say you should use your empathy to understand a person's situation. When you take on a frame of reference, spend a good deal of time in their shoes before abandoning them again. Feel that person's emotions, see their circumstances, and understand their limitations. When you do this, you experience their hardships. You become more understanding.
+
+> [!cleanembed]
+> ![[Walk a Mile#^my-block]]
+
+^walk-mile-context
+
+### 2.1 Frame of Reference
 > [!cleanembed]
 > ![[Frame of Reference#^my-block]]
 
 ^frame-ref-context-1
 
 
-### 1.3 Activities
-- [[Frame of Reference Analogy]]
-- [[Caputo Activity]]
+### 2.2 The Details
+When we try to understand others, it can be hard to see the big idea when troubled by details. This was the monkey's problem, and this next world-famous analogy suggests that sometimes we don't recognize things when we are looking too closely at them. It symbolizes a tree as a detail of a problem and a forest as the problem itself. 
 
-### 1.x Moral
+### 2.3 Activities
+- [[Changing Frames of Reference]]: How to understand other people 
+- [[Forest for the Trees]]: How details can swamp you down
+- [[Monkey and Fish Analogy]]: How assumptions and intentions can be troublesome
+
+### 2.x Moral
+
+
+
 
 <hr>
 
@@ -275,7 +328,6 @@ As with your vantages, there are at least two *more* vantage points for being a 
 1. How can I be more understanding?
 2. How do I know what is true for me?
 3. Why don't people believe my opinion?
-4. How do I know what the real truth is?
 
 <div class="sectend"></div>
 
@@ -283,84 +335,9 @@ As with your vantages, there are at least two *more* vantage points for being a 
 
 
 ## 1. How can I be more understanding?
-Remember to center yourself on the idea that you know nothing. If you want to refresh yourself, this is part of the [[Orientation]] on "Nothing". 
-
-Being more understanding requires more gathering more information. You don't understand something because the concept isn't whole in your mind. If you want to understand history, you study history. However, history is told by the victor. We don't want to be misinformed, so to avoid learning a tainted version of history from only one perspective, we should strive to hear the same story from different angles. Listen to the losers of a war as much as the winners because there are at least two sides to every story. Sometimes, seeing the big picture is figuring out what the sides aren't saying rather than what they are.
-
-%% [[tmp chinese]] %%
-> [!info|piranha-header p6]- 繁體中文
-> **我該如何變得更有理解力？**
-> 請記得把自己放在「我一無所知」的起點上。如果你想重新整理自己的狀態，這是「[[Orientation]]」中關於「無知（Nothing）」的一部分。
-> 
-> 要變得更有理解力，需要收集更多資訊。之所以不理解某件事，是因為這個概念在你的腦海中還不完整。如果你想理解歷史，就需要學習歷史。然而，歷史往往是由勝利者所書寫的。我們不希望被錯誤資訊影響，因此為了避免只從單一角度學到被扭曲的歷史，我們應該努力從不同角度去聽同一個故事。
-> 
-> 要同時聆聽戰爭中的失敗者與勝利者，因為每個故事至少都有兩面。有時候，理解全貌並不是看他們說了什麼，而是去注意他們沒有說什麼。
-
-
-#
-##### 1.1.1 The Cylinder
- 
-
-![[Frame of Reference Analogy|linked]]
-
-- 
-
-##### 1.1.2 Monkey and Fish
-One of the best ways to change your frame of reference is to listen. Listen to yourself in those quite times of reflection, and listen to others when things aren't working in the relationship. Don't interrupt, don't be overpowering, but be gentle in your approach and honest by saying that you want to learn more about what they experience. This helps build respect not only for others, but for yourself. If you cannot respect yourself, how can you respect others?
-
-Alan Watts, who passed away in 1973, is one of my favorite modern-day philosophers. What we will do now is use his parable as an example of what not to do. Originally, it was meant to show how having good intentions to help can cause harm instead. Here, we want to use it as a metaphor for a frame of reference.
-
-![[Monkey and Fish Analogy|define]]
-
-See how the intention was great, but the monkey couldn't not picture things from the fish's frame of reference? That proves less helpful and more disastrous for the fish. Imagine the monkey's distraught when the fish passes out because it couldn't breathe. If the monkey new how to view the larger picture of how the environment works, the tragedy could have been prevented.
-
-Let's learn how the monkey could improve its behavior by looking at this from a different point of view.
-
-##### 1.1.3 The Details
-When we try to understand others, it can be hard to see the big idea when troubled by details. This was the monkey's problem, and this next world-famous analogy suggests that sometimes we don't recognize things when we are looking too closely at them. It symbolizes a tree as a detail of a problem and a forest as the problem itself. 
-
-> [!cleanembed]
-> ![[Forest for the Trees#^my-block]]
-
-^forest-context-1
-
-Picture yourself as the monkey. You see the fish swimming below you as you sit in your tree, and you panic. For you, the fish looks like it's drowning in the water.
-
-Now, get out of this mess of details, you have to "zoom out" your frame of reference because you are zoomed in too close to (or too focused on) the problem. You can try using someone else's perspective! How about seeing things from the fish's point of view? In this metaphor, placing yourself outside the forest is a good way to see that the forest is made of trees. On other words, elevating your view focuses more on the problem, less on the details.
-
->[!info|captain-class quote]+ <span>#3</span>  Quote ^mile
-> Walk a mile in someone else's shoes.   
-> 
->  — Mary Torrans Lathrap, 1895
->  %% [[]] %% %% [[Quotes]] %%
-
-This is another popular way to say you should use your empathy to understand a person's situation. When you take on a frame of reference, spend a good deal of time in their shoes before abandoning them again. Feel that person's emotions, see their circumstances, and understand their limitations. When you do this, you become more understanding.
-
-- Place yourself in the monkey's frame of reference. Why did it want to save the fish from drowning?
-- Now, place yourself in the fish's perspective. Is the fish safe in the tree?
-- Suppose the monkey could go about the situation a different way. What could it do to improve the outcome?
-
- Take a moment to think about this yourself before you reveal my "One Opinion" explanation below.
-
-> [!info|piranha-header p6]- One Opinion
-> The monkey cared about the fish. That much is clear, but perhaps it is guilty of not respecting the fish by using its frame of reference. If it respected the fish, the monkey should first take up a view from the fish's perspective. Second, if the monkey was still confused, it should have asked the fish if it needed rescuing. Apparently, the animals in this parable can talk! You can also talk, so to show respect before taking actions, ask if your actions are needed. 
 
 #### 1.2 How do I change frame of reference?
-You must use your imagination. Your ability to make a world with your mind is one of the most important. In the above content of this lesson, you must imagine yourself as the woman or man, the fish or the monkey. Perhaps you don't know what it's like for certain to be a fish, but you can use your background knowledge to make a good attempt at it. You can even add fantastic details that don't match the real world, such as talking monkeys. In doing this, you are creating a frame of reference with access to the senses of the fish, the monkey, or whatever else you imagine.
 
-Let's practice making your frame of reference larger and larger, until you can see the whole planet.
-
-- First, start with where you are. Really pay attention to your senses. 
-- Next, use your imagination to create a new viewpoint. Let's call it a camera.
-- Imagine the camera is looking down on where you are now. It's only a few hand lengths above you now. Imagine the top of your head and the immediate environment around you.
-- Now, imagine the camera is at the ceiling of the room you are in now. What does that look like?
-- Zoom out even further by going through the roof of the building. The camera is now looking down on the entire structure. 
-	- This is where the imagination really kicks into overdrive. You may have never seen the top of your building, but you can imagine. The farther you zoom out, the less details you see. That's natural!
-- Keep going. What if the camera is now positioned over your neighborhood? Your country? Half of Earth?
-- Now picture all of Earth. The camera is now able to orbit around the Earth and see it from all angles.
-- Imagine, if you were a being that had this view, what would you think of the people on Earth?
-
-This zoom out method is great at looking less at the details and more at the subject in general, like the forest analogy. When you take this view, the details become trivial, the pains become temporary, and you realize that this is just one moment in time. No matter how large a problem gets, it's still a dot on the timeline of a lifetime. You start to realize that the suffering we endure is loud but short. Life becomes more bearable afterwards.
 #### 1.3 Moral
 Be more understanding by being open to people's problems. Mutual respect is what makes communities thrive. The world is not built only for you to impose your will and enjoy your time. Surviving isn't easy, and helping only yourself makes it harder. Show you care by taking the time to understand the people around you, and provide what help you can—but only if they need help. When you are helpful, you are respected, and you build favor, goodwill, and trust. You never know when you will need help. Other people will stand in line to help you, even if you only helped them once.
 

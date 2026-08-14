@@ -29,4 +29,4 @@ cssclasses:
 
 # See Also
 - [[Perspective]]
-- [[Frame of Reference Analogy]]
+- [[Changing Frames of Reference]]
