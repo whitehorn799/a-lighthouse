@@ -40,7 +40,7 @@ Also called the "stranger in the mirror", the effect isn't noticeable at first, 
 What did you see? Why does this happen?
 
 # Part 2: Mental Side Game
-Your brain estimates things when your focus shifts. When you focus on something, all your senses are directed at it. When you shift away, your brain loses track of it, but it keeps a blurry placeholder. Only when your focus returns does the placeholder become sharper once again. You can try this yourself right now.
+Your brain estimates things when your focus shifts. When you focus on something, all your senses are directed at it. When you shift away, your brain loses track of it, but it keeps a blurry placeholder. Only when your focus returns does the placeholder become sharper once again. You can try these yourself right now.
 
 **Peripheral Vision**
 - Look straight ahead.
@@ -55,6 +55,7 @@ Your brain estimates things when your focus shifts. When you focus on something,
 **Cognitive Shifts**
 - What about your thoughts? If you don't keep tabs on your mental habits, negative behavior loops run uninterrupted in your "mental side game". They spiral out of control, and by the time you return your focus to them, they appear massive and overwhelming.
 ## Explanation
+
 ### Short-term Adaptation
 >[!invisiblock|title] **Troxler Fading**
 >In Part One, your brain gets bored looking at the same unchanging image in the dark, so it stops processing it. When it tries to fill the blank spaces back in, it glitches and creates a "stranger" out of the shadows, distortions to your vision because it's trying to replace what it filtered out. 
@@ -81,3 +82,6 @@ Your brain estimates things when your focus shifts. When you focus on something,
 # See Also
 - [[Objective vs. Subjective Views|Objective View]]
 - [[Perspective]]
+- [[Self-aware]]
+- [[OOO Effect]]
+- [[Metacognitive Awareness]]
