@@ -1,5 +1,5 @@
 ---
-title: "Limiting Beliefs"
+title: "Limiting Belief Trap"
 description: "Imposing beliefs that hold you back"
 draft: false
 unlisted: false
@@ -7,12 +7,13 @@ stealth: false
 robots: 
 password: 
 tags: 
+  - trap
 slug: 
-  - limiting-beliefs
+  - limiting-belief
 aliases: 
 permalink: 
-date: August 10, 2026 16:05
-lastmod: August 10, 2026 20:00
+date: 2026-08-15 18:41:14
+lastmod: 2026-08-18 16:05:28
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
@@ -40,5 +41,5 @@ I'd say believe in every power, every possibility, and every reality. It's out t
 <hr>
 
 # See Also
-- [[Indoctrination vs. Intuition]]
+- [[Mental Constructs]][[Indoctrination vs. Intuition]]
 - [[Therapy]]

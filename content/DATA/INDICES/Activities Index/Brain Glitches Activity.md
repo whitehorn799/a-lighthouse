@@ -16,8 +16,8 @@ aliases:
   - Troxler Fading
   - incremental habituation
 permalink:
-date: August 14, 2026 09:13
-lastmod: August 14, 2026 09:13
+date: 2026-08-15 18:41:14
+lastmod: 2026-08-18 19:13:57
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -68,10 +68,11 @@ Your brain estimates things when your focus shifts. When you focus on something,
 <hr>
 
 # Conclusion
->[!invisiblock|title] **Self-monitor, Self-correct**
->The gamechanger is called self-monitoring, where you keep tabs on yourself physically, mentally, and existentially. Check to see where your peripheral senses are missing something important. Shift your focus to problems that have grown big in the absence of your attention. Then self-correct by facing those problems down. You don't have to do it without help, but you must be the one to monitor yourself.
+As you can see, the more aware you are about your state, the more information you have to understand how to solve your problems yourself. If you constantly look at the state of your life, you are doing a critical analysis that leads to peace through facing emotions you avoid.
 
-^self-monitor
+> [!cleanembed-title] Self-monitoring, Self-correcting
+> ![[Self-Monitoring#^my-block]]
+
 
 
 

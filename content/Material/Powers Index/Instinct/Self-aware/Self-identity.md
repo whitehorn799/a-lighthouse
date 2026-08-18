@@ -1,6 +1,6 @@
 ---
-title: "Self-identity"
-description: "Start with yourself"
+title: Self-identity
+description: Start with yourself
 draft: false
 unlisted: false
 stealth: false
@@ -12,8 +12,8 @@ slug:
   - self-identity
 aliases:
 permalink:
-date: August 10, 2026 11:05
-lastmod: August 10, 2026 11:30
+date: 2026-08-15 18:41:14
+lastmod: 2026-08-18 20:03:42
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -116,56 +116,51 @@ These are the focus of this lesson. Just under the questions are the [[Misery Po
 ### 1.1 Activity: Scale
 ^universe-scale
 
+It's important to know where you are before you begin your journey. In this section, you take a look around existence as we know it. You understand your location and your relationship to your environments.
+
 > [!cleanembed]
 > ![[Scale of the Universe#^my-block]]
 
 ### 1.2 Understanding Environment
-Science informs that an organism can never be removed from the environment. No matter where an organism is, it exists within an environment.
 
-The environment is understood in several ways, but these are the scenes or places in which you find yourself. 
+> [!cleanembed]
+> ![[Environments#^my-block]]
 
-**Environment Outline**
-- Love as the Ultimate Environment
-	- Micro and Macro Environments
-		- quantum mechanics and classical mechanics
-	- Immediate, External Environment
-		- culture, country, tradition, job, etc.
-	- Internal Environment
-		- imagination, intuition, identity, etc.
+^environ-context
 
 <br>
 
 
-> [!cleanembed-title] **Love as the ultimate environment**
-> ![[Love#^love-environ]]
+> [!cleanembed-title] Love as the Ultimate Environment
+> ![[Love as the Ultimate Environment#^love-environ]]
+
+^love-environ-context
+
+<br>
+
+> [!cleanembed-title] Inner Environment
+> ![[Inner Environment#^my-block]]
+
+^inner-environ-context
+
+<br>
+
+> [!cleanembed-title] Outer Environment
+> ![[Outer Environment#^my-block]]
+
+^outer-environ-context
 
 
-
-**Micro and macro environments**<br>
-These are the worlds that we saw stretched across the Scale of the Universe 2 presentation. These may not play an immediate role in your life, but they help to establish the rules of reality.
-
-**Immediate, external environment**<br>
-This is the parts of reality that are closest to you, such as:
-
-- Country
-- Culture & Tradition
-- Climate
-- Family & Friends
-- Career
-- Everything else!
-
-**Internal environment**<br>
-These are things that only you can perceive mentally.
-
-- Private Reality
-- Intuition & Imagination
-- Positive & Negative Conscience
-- Self-identity and -love
-- Much more!
 
 
 ### 1.3 Moral
 You are never separated from love, even if you feel that you are. You cannot see the air, yet it's there. Love knows and supports you, but it pushes you to grow in ways that unite rather than divide. When the time for survival mode reaches its end, love is ready and waiting to receive you.
+
+ We have separated the environments in your life so that we establish how you fit into the scale of the universe, and it's okay to feel small or big at times. Consider this: there are many big or small things you **could** be worrying about, but you aren't, yet life continues. What becomes important to you should be three things: love, your [[inner environment]], and the [[immediate outer environment]].
+
+### 1.4 Micro Actions
+- [[Three Environs Breath]]
+
 
 
 <hr>

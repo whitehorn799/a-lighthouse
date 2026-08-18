@@ -145,6 +145,6 @@ A: The symbolism in the program delivers powerful messages appropriate to your p
 **Q: What if I need help?**
 A: The thing about A Lighthouse is that it functions like a real one. You don't have to enter the lighthouse to use it. All you have to do is look at it, know that it's there, and use it to guide you. That's what this website and the YouTube videos are for. You don't have to become a paid Correspondent; you don't have to sign up for newsletters.
 
-If you do want our help, become a [[Correspondent]], and we can [[Contact#^schedule-meeting|schedule a meeting]] with you. We will take you through [[Orientation]], the [[Interview]], you choose your goal, and we'll get started with you. Finding your support group (your friends, your loved ones, professional help, and whoever else you trust) can help you stand on your own. We all work toward the same goal, separately, but as a team to support you.
+If you do want our help, become a [[Correspondent]], and we can [[Contact#^schedule-meeting|schedule a meeting]] with you. We will take you through [[Orientation]], the details about your situation, you choose your goal, and we'll get started with you. Finding your support group (your friends, your loved ones, professional help, and whoever else you trust) can help you stand on your own. We all work toward the same goal, separately, but as a team to support you.
 
 

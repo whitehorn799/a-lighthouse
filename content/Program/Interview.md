@@ -1,7 +1,7 @@
 ---
 title: "Interview"
 description: "A summary of your situation"
-draft: false
+draft: true
 unlisted: false
 stealth: false
 robots: 

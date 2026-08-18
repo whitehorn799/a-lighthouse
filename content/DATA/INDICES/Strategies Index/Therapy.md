@@ -22,11 +22,11 @@ Everyone should do therapy, but there’s a big difference between self therapy 
 
 **The Prison**<br> Why aren’t you taught emotional intelligence as an essential subject throughout the most crucial developmental stages of your life? There are two objective reasons: there’s just too much difficulty regarding educational organization, or there are people who don’t want you to know. 
 
-Kicking aside the organizational theory, let’s focus on the control of knowledge. Knowledge is power, and the best prison is one without walls. Mass amounts of people are easier to control if their access to knowledge is limited, if their fear is fomented, and their beliefs are funneled. The idea of [[limiting beliefs]] is a convincing way to keep people in the prison of their own mind.
+Kicking aside the organizational theory, let’s focus on the control of knowledge. Knowledge is power, and the best prison is one without walls. Mass amounts of people are easier to control if their access to knowledge is limited, if their fear is fomented, and their beliefs are funneled. The idea of [[Limiting Belief Trap]] is a convincing way to keep people in the prison of their own mind.
 
 This is true for any validation sought outside yourself. This is what people mean when they say look inward. It reminds me of a modern-day parable that I call [[The Gift Analogy]].
 
 <hr>
 
 # See Also
-- [[Limiting Beliefs]]
+- [[Limiting Belief Trap]]

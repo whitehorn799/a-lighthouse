@@ -1,16 +1,22 @@
 ---
-title: tmp lesson
-tags:
-publish: true
-permalink:
-status:
-type:
-alias:
-tool:
-last-updated: June 01, 2026 11:45
-first-created: May 18, 2026 16:23
-cssclasses:
+title: ""
+description: ""
+draft: true
+unlisted: false
+stealth: false
+robots: 
+password: 
+tags: 
+slug: 
+aliases: 
+permalink: 
+date: August 15, 2026 18:41
+lastmod: August 17, 2026 15:31
+enableToc:  true
+cssclasses: 
+  - hide-breadcrumbs
 ---
+
 
 > [!warning] Work in Progress
 > This page is [[unfinished]]. Please check back later!

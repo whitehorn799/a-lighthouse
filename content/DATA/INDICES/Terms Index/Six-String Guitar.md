@@ -53,7 +53,7 @@ The associated guitar parts for principles are the tuning pegs. You must set the
 
 ### Beliefs
 
-Beliefs, whether based on spirituality or ability, are a source of energy that dictate action. They're also a valuable resource that can be stolen. Through fear or praise, the immediate environment (media, family, relationships) compete to "steal" or "mold" your belief in a bid for control over your actions. Appropriately, beliefs can empower or limit a person. Empowering beliefs align directly with your intuition. They blast through fear, clarify your direction, and turn your potential into power. [[Limiting Beliefs]] are misaligned, entrapping, and burdensome. They can be given to you through indoctrination, culture, propaganda, or by yourself through learned helplessness. 
+Beliefs, whether based on spirituality or ability, are a source of energy that dictate action. They're also a valuable resource that can be stolen. Through fear or praise, the immediate environment (media, family, relationships) compete to "steal" or "mold" your belief in a bid for control over your actions. Appropriately, beliefs can empower or limit a person. Empowering beliefs align directly with your intuition. They blast through fear, clarify your direction, and turn your potential into power. [[Limiting Belief Trap]] are misaligned, entrapping, and burdensome. They can be given to you through indoctrination, culture, propaganda, or by yourself through learned helplessness. 
 
 Your beliefs construct your private world, and they are yours to hold, not to force onto others, and vice versa.
 

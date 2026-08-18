@@ -44,5 +44,5 @@ cssclasses:
 
 # See Also
 - [[Perspective#^private-subject-context|Perspective context]]
-- [[External vs. Internal]]
+- [[Inner vs. Outer]]
 

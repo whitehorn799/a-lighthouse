@@ -11,8 +11,8 @@ slug:
   - glossary
 aliases: 
 permalink: 
-date: August 10, 2026 11:05
-lastmod: August 10, 2026 20:31
+date: 2026-08-15 18:41:14
+lastmod: 2026-08-18 16:08:19
 enableToc:  true
 cssclasses: 
 ---
@@ -32,6 +32,8 @@ Search for things by category.<br><br>
 %%
 [Learning Points](/tags/learning)
 [Misery Points](/tags/misery)
+[Micro Action](/tags/micro-action)
+[Somatic Therapy](/tags/somatic-therapy)
 %%
 
 %% QUOTES
@@ -105,6 +107,8 @@ the real world in which everyone and everything lives ^shared-reality
 
 [[Ambivalence State]] <br>
 [[Ascending Action]] <br>
+[[awarenesses.canvas]] <br>
+
 
 # C
 
@@ -120,8 +124,9 @@ the real world in which everyone and everything lives ^shared-reality
 # E
 [[Eisenhower Matrix]] <br>
 [[Elenchus Elicitation]] <br>
+[[Environments]]<br>
 [[Equal-but-different]] <br>
-[[External vs. Internal]] <br>
+[[Inner vs. Outer]] <br>
 <small>AKA Outer vs. Inner; Extrinsic vs. Intrinsic</small> <br>
 
 # F
@@ -143,12 +148,13 @@ the real world in which everyone and everything lives ^shared-reality
 # L
 
 [[Learning Points]] <br>
-[[Limiting Beliefs]] <br>
+[[Limiting Belief Trap]] <br>
 [[Locus of Control]] <br>
 [[Love as the Ultimate Environment]] <br>
 
 
 # M
+[[Mental Constructs]] <br>
 [[Misery Points]] <br>
 
 
@@ -179,6 +185,9 @@ the real world in which everyone and everything lives ^shared-reality
 # T
 [[Therapy]] <br>
 [[Traps]] <br>
+
+# U
+
 
 # V
 [[Validation]] <br>
