@@ -7,12 +7,11 @@ stealth: false
 robots: 
 password: 
 tags: 
-slug: 
-  - alignment-vs-misalign
-aliases: 
+aliases:
+  - /alignment-vs-misalign
 permalink: 
-date: August 13, 2026 18:19
-lastmod: August 13, 2026 18:22
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 09:58:07
 enableToc:  true
 cssclasses: 
 ---

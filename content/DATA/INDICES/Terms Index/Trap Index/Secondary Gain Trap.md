@@ -8,13 +8,12 @@ robots:
 password:
 tags:
   - trap
-slug:
-  - secondary-gain-trap
-aliases:
+aliases: 
+  - /secondary-gain-trap
   - secondary gain
 permalink:
-date: August 10, 2026 19:37
-lastmod: August 10, 2026 19:37
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 09:04:24
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

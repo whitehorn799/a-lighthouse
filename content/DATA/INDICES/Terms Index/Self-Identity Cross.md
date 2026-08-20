@@ -1,22 +1,27 @@
 ---
 title: "Self-identity Cross"
-description: ""
+description: "Self-identity mapped"
 draft: false
 unlisted: false
+stealth: false
+robots: 
+password: 
 tags: 
-aliases: 
-date: August 04, 2026 19:20
-lastmod: August 05, 2026 11:45
+aliases:
+  - /self-identity-cross
+permalink: 
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 14:09:04
 enableToc:  true
 cssclasses: 
+  - hide-breadcrumbs
 ---
 
+
+
 > [!invisiblock] 
-> >[!captionator|center]
-> >  ![[self-identity-cross-1.png]]
-> >  *A Lighthouse* 
-> >   
-> 
+> ![[self-identity-cross-1.png]]
+>  
 > ^pic
 > 
 > In the middle is the "balance" spot, where most people should aim to be. Extending vertically outward is the internal world axis, and the external world axis draws itself horizontally. <br>

@@ -8,12 +8,11 @@ robots:
 password:
 tags:
   - trap
-slug:
-  - emotional-avoidance-trap
 aliases:
+  - /emotional-avoidance-trap
 permalink:
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-18 19:44:24
+lastmod: 2026-08-19 08:57:13
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -35,7 +34,7 @@ cssclasses:
 <hr>
 
 >[!invisiblock|title] Symptoms
->>You may experience one or more of these. Please remember, these are nonjudgmental assessments.<br><br>
+>You may experience one or more of these. Please remember, these are nonjudgmental assessments.<br><br>
 >1. You know what to do, but avoid doing them because you want to distance yourself from stress.
 >2. You sometimes feel confused or overwhelmed, but you know they're just excuses. 
 >3. You are a perfectionist and a procrastinator who believes that if something can't be finished perfectly, then it isn't worth starting at all.

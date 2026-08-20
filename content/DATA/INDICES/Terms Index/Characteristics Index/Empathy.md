@@ -8,13 +8,11 @@ robots:
 password: 
 tags: 
   - characteristic
-slug: 
-  - empathy
 aliases: 
-  - empathy
+  - /empathy
 permalink: 
-date: August 12, 2026 19:31
-lastmod: August 12, 2026 19:32
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 09:05:51
 enableToc:  true
 cssclasses: 
   - hide-breadcrums

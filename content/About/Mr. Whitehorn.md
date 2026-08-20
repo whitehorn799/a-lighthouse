@@ -7,13 +7,12 @@ stealth: false
 robots: 
 password: 
 tags: 
-slug: 
-  - mr-whitehorn
 aliases: 
+  - /mr-whitehorn
   - whitehorn
 permalink: 
-date: August 10, 2026 11:05
-lastmod: August 10, 2026 11:21
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 14:13:51
 enableToc:  true
 cssclasses: 
 ---

@@ -7,12 +7,11 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - elenchus-elicitation
 aliases:
+  - /elenchus-elicitation
 permalink:
-date: August 10, 2026 20:24
-lastmod: August 10, 2026 20:25
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 09:58:33
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

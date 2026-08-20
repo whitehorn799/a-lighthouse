@@ -8,15 +8,13 @@ robots:
 password:
 tags:
   - state
-slug:
-  - ambivalence
 aliases:
-  - ambivalence
+  - /ambivalence
   - ambivalences
   - state of ambivalence
 permalink:
-date: August 10, 2026 20:30
-lastmod: August 10, 2026 20:30
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 09:57:16
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

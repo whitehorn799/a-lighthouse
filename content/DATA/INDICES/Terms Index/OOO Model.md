@@ -7,12 +7,11 @@ stealth: false
 robots: 
 password: 
 tags: 
-slug: 
-  - ooo-model
 aliases: 
+  - /ooo-model
 permalink: 
-date: August 15, 2026 17:27
-lastmod: August 15, 2026 17:28
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 14:06:51
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs

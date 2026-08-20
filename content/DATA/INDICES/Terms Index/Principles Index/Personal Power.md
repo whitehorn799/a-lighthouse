@@ -7,13 +7,12 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - personal-power
 aliases:
+  - /personal-power
   - Principle Two
 permalink:
-date: August 10, 2026 14:41
-lastmod: August 10, 2026 14:42
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 09:55:22
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

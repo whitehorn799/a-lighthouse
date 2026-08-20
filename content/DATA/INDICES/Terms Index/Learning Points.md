@@ -7,12 +7,11 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - learning-points
 aliases:
+  - /learning-points
 permalink:
-date: August 12, 2026 18:32
-lastmod: August 12, 2026 18:57
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 10:05:24
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

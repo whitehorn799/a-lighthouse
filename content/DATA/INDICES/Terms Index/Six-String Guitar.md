@@ -3,10 +3,16 @@ title: "Six-String Guitar"
 description: "The aspects of self-identity"
 draft: false
 unlisted: false
+stealth: false
+robots: 
+password: 
 tags: 
 aliases: 
-date: August 05, 2026 12:55
-lastmod: August 05, 2026 14:19
+  - /six-string-guitar
+  - six strings
+permalink: 
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-20 10:43:05
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs

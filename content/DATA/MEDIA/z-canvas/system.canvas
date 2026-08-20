@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"2a38f5820d62c98d","type":"file","file":"Material/Powers Index/Love.md","x":-320,"y":-1080,"width":400,"height":400},
 		{"id":"5997efdcef16351b","type":"file","file":"DATA/INDICES/Terms Index/Outer Environment.md","x":300,"y":-400,"width":400,"height":60},
-		{"id":"b4af8260665774eb","type":"file","file":"DATA/INDICES/Terms Index/Trap Index/Inner Environment.md","x":-880,"y":-400,"width":400,"height":60},
+		{"id":"b4af8260665774eb","type":"file","file":"DATA/INDICES/Terms Index/Inner Environment.md","x":-880,"y":-400,"width":400,"height":60},
 		{"id":"957de57fc045b3b0","type":"text","text":"micro","x":120,"y":-290,"width":250,"height":77},
 		{"id":"b5e8b82b5d2cddda","type":"text","text":"immediate","x":120,"y":-130,"width":250,"height":77},
 		{"id":"e9991708a091a28d","type":"text","text":"macro","x":120,"y":30,"width":250,"height":77},

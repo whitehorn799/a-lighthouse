@@ -6,14 +6,13 @@ unlisted: false
 stealth: false
 robots: 
 password: 
-tags: 
-slug: 
-  - manipulative-language
+tags:
+  - trap
 aliases: 
-  - manipulative-language
+  - /manipulative-language
 permalink: 
-date: August 14, 2026 12:51
-lastmod: August 14, 2026 12:52
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 10:06:46
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs

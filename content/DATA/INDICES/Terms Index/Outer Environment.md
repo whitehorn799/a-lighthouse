@@ -7,27 +7,29 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - outer-environment
 aliases:
+  - /outer-environment
   - immediate outer environment
 permalink:
-date: August 17, 2026 12:47
-lastmod: August 17, 2026 12:47
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 16:19:09
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 
 >[!invisiblock] 
->The outer environment, or external world, is everything outside of your mind. It works within [[Love as the Ultimate Environment|the ultimate environment of love]] and consists of three parts in this program. <br><br>
+>The outer environment, or external world, is everything outside of your mind. It works within [[Love as the Ultimate Environment|the ultimate environment of love]] and consists of three components in this program. <br><br>
 >1. Micro Environment
 >2. Immediate Environment
 >3. Macro Environment
 >
-
 ^my-block
 
+
+# Components
+
+^my-components
 
 
 >[!invisiblock|title] Micro Environment
@@ -46,6 +48,15 @@ cssclasses:
 >The macro (big) environment is everything that is much bigger than you. This includes things like planets, stars, galaxies, and so on, not buildings. This is works inside classical physics.
 
 ^macro-environ
+
+# Link to Validation
+
+>[!invisiblock|title] Self-identity Cross
+>If you are firmly based in the outer environment, you give control over your validation to things outside of yourself, such as people, reputation, possessions, or other worldly things. You may not feel a strong connection to the work you do, but the rewards and attention that you get. Your perspective on the world may be narrowly focused on achieving influential goals. You might be totally ignoring the inner environment.<br><br>
+>In this program, this is illustrated as a [[Self-identity Cross|horizontal movement]], an expansion or shrinkage within the outer world. It's a feature of the "relative self".
+>
+
+^outer-environ-cross
 
 
 

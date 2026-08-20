@@ -7,14 +7,13 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - private-shared-realities
 aliases:
+  - /private-shared-realities
   - private reality
   - shared reality
 permalink:
-date: August 10, 2026 16:05
-lastmod: August 10, 2026 20:39
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 14:07:21
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

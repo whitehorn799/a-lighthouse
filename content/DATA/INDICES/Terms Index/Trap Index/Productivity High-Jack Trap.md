@@ -8,12 +8,11 @@ robots:
 password: 
 tags: 
   - trap
-slug: 
-  - productivity-high-jack-trap
 aliases: 
+  - /productivity-high-jack-trap 
 permalink: 
-date: August 10, 2026 16:05
-lastmod: August 10, 2026 20:11
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 09:03:40
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs

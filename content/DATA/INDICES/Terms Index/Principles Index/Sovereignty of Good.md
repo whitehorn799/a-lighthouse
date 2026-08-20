@@ -7,13 +7,12 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - sovereignty-of-good
 aliases:
+  - /sovereignty-of-good
   - Principle Three
 permalink:
-date: August 10, 2026 12:19
-lastmod: August 10, 2026 17:42
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 09:56:50
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

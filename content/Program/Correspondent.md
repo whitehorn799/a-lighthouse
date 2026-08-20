@@ -6,13 +6,12 @@ unlisted: false
 stealth: false
 robots: 
 password: 
-tags: 
-slug: 
-  - correspondent
-aliases: 
+tags:
+aliases:
+  - /correspondent
 permalink: 
-date: August 10, 2026 11:05
-lastmod: August 10, 2026 11:26
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 14:13:10
 enableToc:  true
 cssclasses: 
 ---

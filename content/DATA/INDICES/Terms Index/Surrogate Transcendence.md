@@ -7,12 +7,11 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - surrogate-transcendence
 aliases:
+  - /surrogate-transcendence
 permalink:
-date: August 10, 2026 18:59
-lastmod: August 10, 2026 18:59
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 14:10:59
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

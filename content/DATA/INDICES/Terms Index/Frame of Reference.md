@@ -7,12 +7,11 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - frame-of-reference
 aliases:
+  - /frame-of-reference
 permalink:
-date: August 12, 2026 19:23
-lastmod: August 12, 2026 19:23
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 09:59:00
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

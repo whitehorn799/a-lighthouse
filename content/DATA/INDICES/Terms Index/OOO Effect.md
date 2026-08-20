@@ -7,13 +7,12 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - ooo-effect
 aliases:
+  - /ooo-effect
   - Observer Observing the Observed
 permalink:
-date: August 15, 2026 15:38
-lastmod: August 15, 2026 15:39
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 14:06:34
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

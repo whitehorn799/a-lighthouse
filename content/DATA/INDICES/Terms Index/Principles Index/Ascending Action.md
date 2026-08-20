@@ -7,12 +7,11 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - ascending-action
-aliases:
+aliases: 
+  - /ascending-action
 permalink:
-date: August 10, 2026 17:50
-lastmod: August 10, 2026 17:50
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 09:06:17
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

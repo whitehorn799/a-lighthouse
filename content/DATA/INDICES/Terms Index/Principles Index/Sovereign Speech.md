@@ -7,13 +7,12 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - sovereign-speech
 aliases:
+  - /sovereign-speech
   - Principle Four
 permalink:
-date: August 10, 2026 12:19
-lastmod: August 10, 2026 17:28
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 09:56:26
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

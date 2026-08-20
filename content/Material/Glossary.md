@@ -7,12 +7,11 @@ stealth: false
 robots: 
 password: 
 tags: 
-slug: 
-  - glossary
 aliases: 
+  - /glossary
 permalink: 
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-18 16:08:19
+lastmod: 2026-08-19 14:12:35
 enableToc:  true
 cssclasses: 
 ---

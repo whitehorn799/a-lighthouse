@@ -7,12 +7,11 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - states
 aliases:
+  - /states
 permalink:
-date: August 12, 2026 15:22
-lastmod: August 12, 2026 15:43
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 14:10:39
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

@@ -7,12 +7,11 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - program-overview
 aliases:
+  - /program-overview
 permalink:
-date: August 10, 2026 11:05
-lastmod: August 10, 2026 11:29
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 14:14:05
 enableToc: true
 cssclasses:
 ---

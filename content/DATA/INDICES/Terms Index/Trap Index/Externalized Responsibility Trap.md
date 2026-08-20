@@ -8,12 +8,11 @@ robots:
 password:
 tags:
   - trap
-slug:
-  - externalized-responsibility-trap
 aliases:
+  - /externalized-responsibility-trap
 permalink:
-date: August 10, 2026 19:45
-lastmod: August 10, 2026 19:45
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 08:58:30
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

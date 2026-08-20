@@ -8,12 +8,11 @@ robots:
 password:
 tags:
   - trap
-slug:
-  - reactive-loop-trap
-aliases:
+aliases: 
+  - /reactive-loop-trap
 permalink:
 date: 2026-08-18 14:52:59
-lastmod: 2026-08-18 19:36:14
+lastmod: 2026-08-19 09:03:55
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

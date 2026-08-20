@@ -8,12 +8,11 @@ robots:
 password: 
 tags: 
   - trap
-slug: 
-  - relief-trap
-aliases: 
+aliases:  
+  - /relief-trap
 permalink: 
-date: August 10, 2026 16:05
-lastmod: August 10, 2026 20:10
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 09:04:09
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs

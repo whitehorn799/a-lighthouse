@@ -7,12 +7,11 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - home
 aliases:
+  - /home
 permalink:
-date: August 10, 2026 11:05
-lastmod: August 10, 2026 11:23
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 08:55:29
 enableToc: true
 cssclasses:
   - hide-article-title

@@ -24,6 +24,7 @@ There was once a fish with one fin, called You, who swam in the Sea of Life, whi
 
 > [!captionator|center]
 > ![[fin0.png]]
+> 
 > *Original artwork by Mr. Whitehorn* 
 > *You, a one-finned fish.*
 
@@ -33,6 +34,7 @@ You was not alone, though. There were friends and family to consider, and withou
 
 > [!captionator|center]
 > ![[fin1.png]]
+> 
 > *Original artwork by Mr. Whitehorn* 
 > *You in the Sea of Life.*
 
@@ -42,6 +44,7 @@ In fact, You’s life was very comfortable. As a small fry, You’s parents watc
 
 > [!captionator|center]
 > ![[fin2.png]]
+> 
 > *Original artwork by Mr. Whitehorn* 
 > *You threatened by Hardship.*
 
@@ -57,6 +60,7 @@ Torn between choices, You didn’t know what to do.
 
 > [!captionator|center]
 > ![[fin3.png]]
+> 
 > *Original artwork by Mr. Whitehorn* 
 > *They swimming near You.*
 
@@ -90,6 +94,7 @@ Though it pained You's little heart, You made a choice to be happy. You could on
 
 > [!captionator|center]
 > ![[fin4.png]]
+> 
 > *Original artwork by Mr. Whitehorn* 
 > *You swimming away with They.*
 
@@ -102,6 +107,7 @@ Finally, You found a position under They where the current wasn’t so strong. Y
 
 > [!captionator|center]
 > ![[fin5.png]]
+> 
 > *Original artwork by Mr. Whitehorn* 
 > *You swimming away with They.*
 
@@ -114,6 +120,7 @@ A sudden realization occurred: in Life, You really is a small thing.
 
 > [!captionator|center]
 > ![[fin6.png]]
+> 
 > *Original artwork by Mr. Whitehorn* 
 > *You swimming away with They.*
 
@@ -136,8 +143,11 @@ Remaining with people who hold you back may eventually make you feel like a pris
 >[!announote|tac]
 >This is an original story illustrated and written by Mr. Whitehorn!
 
+%%
+
 <hr>
 
 # See Also
-- [[Analogies]]
+
 - [[Perspective#^one-finned|Perspective context]]
+%%

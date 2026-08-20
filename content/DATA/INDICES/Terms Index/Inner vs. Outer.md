@@ -7,12 +7,11 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - inner-vs-outer
 aliases:
+  - /inner-vs-outer
 permalink:
-date: August 15, 2026 18:41
-lastmod: August 17, 2026 11:56
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 12:44:01
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

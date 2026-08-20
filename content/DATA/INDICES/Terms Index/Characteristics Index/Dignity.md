@@ -8,12 +8,11 @@ robots:
 password: 
 tags: 
   - characteristic
-slug:
-  - dignity
+aliases:  
+  - /dignity
 permalink: 
-aliases: 
-date: August 07, 2026 14:06
-lastmod: August 07, 2026 14:06
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 09:05:07
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs

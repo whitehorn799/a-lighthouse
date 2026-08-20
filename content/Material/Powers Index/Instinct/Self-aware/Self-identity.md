@@ -13,7 +13,7 @@ slug:
 aliases:
 permalink:
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-18 20:03:42
+lastmod: 2026-08-20 10:12:07
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -113,10 +113,10 @@ These are the focus of this lesson. Just under the questions are the [[Misery Po
 	- showing that the ego is a mortal part of you that lasts as long as you are alive, which can be equated to subjectivity;
 	- explaining that the world's idea of "soul" is an immortal part of you that lasts forever, which can be equated to objectivity.
 
-### 1.1 Activity: Scale
+### 1.1 Scale
 ^universe-scale
 
-It's important to know where you are before you begin your journey. In this section, you take a look around existence as we know it. You understand your location and your relationship to your environments.
+It's important to know where you are before you begin your journey. In this section, you take a look around existence as we know it. You understand your location and your relationship to your [[environments]].
 
 > [!cleanembed]
 > ![[Scale of the Universe#^my-block]]
@@ -130,6 +130,10 @@ It's important to know where you are before you begin your journey. In this sect
 
 <br>
 
+> [!cleanembed]
+> ![[Environments#^my-pic]]
+
+<br>
 
 > [!cleanembed-title] Love as the Ultimate Environment
 > ![[Love as the Ultimate Environment#^love-environ]]
@@ -138,10 +142,13 @@ It's important to know where you are before you begin your journey. In this sect
 
 <br>
 
+
 > [!cleanembed-title] Inner Environment
 > ![[Inner Environment#^my-block]]
 
+
 ^inner-environ-context
+
 
 <br>
 
@@ -150,15 +157,19 @@ It's important to know where you are before you begin your journey. In this sect
 
 ^outer-environ-context
 
+<br>
+
+> [!breakout] BREAKOUT!
+> [[Outer Environment#^my-components|>>>]]
 
 
-
-### 1.3 Moral
+### 1.3 Conclusion
 You are never separated from love, even if you feel that you are. You cannot see the air, yet it's there. Love knows and supports you, but it pushes you to grow in ways that unite rather than divide. When the time for survival mode reaches its end, love is ready and waiting to receive you.
 
- We have separated the environments in your life so that we establish how you fit into the scale of the universe, and it's okay to feel small or big at times. Consider this: there are many big or small things you **could** be worrying about, but you aren't, yet life continues. What becomes important to you should be three things: love, your [[inner environment]], and the [[immediate outer environment]].
-
-### 1.4 Micro Actions
+ We have separated the environments in your life so that we establish how you fit into the scale of the universe. This breaks things into smaller, manageable pieces, and it's okay to feel small or big at times. Consider this: there are many big or small things you **could** be worrying about, but you aren't, yet life continues.
+#### Activities
+- [[Scale of the Universe]]
+#### Micro Actions
 - [[Three Environs Breath]]
 
 
@@ -241,17 +252,17 @@ Finding what validates you is important because validation gives us the energy t
 
 You can use this chart to see what makes you feel validated. Write it down so that it's easier to remember. 
 
-### 2.3 Activities
-- [[Bumpy Key]]
-- [[Belief, Flaw, Purpose]]
-- [[Robot Copy]]
-
-
-### 2.4 Moral
+### 2.3 Conclusion
 You are almost undefinable, but you are knowable. Just like reality, there are so many aspects to who you are, it might be impossible to know all of them. The fact is the more you know yourself, the easier you can give yourself the gift of your personal power.
 
 You matter because we need you, only most of us don’t know it.
 
+#### Activities
+- [[Bumpy Key]]
+- [[Belief, Flaw, Purpose]]
+- [[Robot Copy]]
+#### Micro Actions
+- [[Identity Note]]
 
 <hr>
 
@@ -288,10 +299,13 @@ We can use the first two learning points for self-identity to find desire. We de
 
 > [!breakout] BREAKOUT!
 > [[Desire Formula|>>>]]
-### 3.3 Moral
+### 3.3 Conclusion
 Learning what you desire is the third step. You first must learn how to desire. To learn how to desire, you must do one of two things (both at the same time is good): experience the world by taking agency and by knowing who you are so that you can gift yourself with something appropriate. 
 
 It’s like buying a gift for someone that you don’t know: you don’t know where to start, so you go the safe route and buy something practical. This is safe, but it doesn’t always work.
+
+#### Activities
+#### Micro Actions
 
 
 <hr>

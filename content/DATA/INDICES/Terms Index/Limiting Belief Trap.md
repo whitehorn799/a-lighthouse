@@ -8,12 +8,11 @@ robots:
 password: 
 tags: 
   - trap
-slug: 
-  - limiting-belief
-aliases: 
+aliases:
+  - /limiting-belief
 permalink: 
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-18 16:05:28
+lastmod: 2026-08-19 10:05:44
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs

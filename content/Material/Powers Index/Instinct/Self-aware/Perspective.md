@@ -176,7 +176,7 @@ Being more understanding means opening your mind. In doing this, you can make th
 
 ^mis-un-informed
 
-Listen to every side of a situation equally. Sometimes, seeing the big picture is figuring out what the sides aren’t saying rather than what they are saying. Be aware of [[manipulative language]] that seeks to mask what is really going on. 
+Listen to every side of a situation equally. Sometimes, seeing the big picture is figuring out what the sides aren’t saying rather than what they are saying. Be aware of [[Manipulative Language Trap]] that seeks to mask what is really going on. 
 
 Accepting that you have a general ignorance to many things can feel like admitting a weakness, but the secret is that it's a strength. It breaks down your defensive walls, allows you to make mistakes, and gives you the grace to recover from them.
 

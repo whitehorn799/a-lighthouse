@@ -7,13 +7,11 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - friction
 aliases:
-  - friction
+  - /friction
 permalink:
-date: August 10, 2026 21:28
-lastmod: August 10, 2026 21:28
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 10:04:45
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

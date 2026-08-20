@@ -7,14 +7,13 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - ultimate-love
-aliases:
+aliases: 
+  - /ultimate-love
   - the ultimate environment of love
   - Principle One
 permalink:
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-18 19:55:09
+lastmod: 2026-08-19 09:54:30
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

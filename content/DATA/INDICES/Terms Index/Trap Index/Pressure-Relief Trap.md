@@ -8,12 +8,11 @@ robots:
 password:
 tags:
   - trap
-slug:
-  - pressure-relief-trap
-aliases:
+aliases: 
+  - /pressure-relief-trap
 permalink:
-date: August 10, 2026 19:40
-lastmod: August 10, 2026 19:40
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 09:03:17
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

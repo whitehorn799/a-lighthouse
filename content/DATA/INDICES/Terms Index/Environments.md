@@ -9,9 +9,10 @@ password:
 tags:
 slug:
 aliases:
+  - /environments
 permalink:
 date: 2026-08-17 12:41:13
-lastmod: 2026-08-18 19:56:07
+lastmod: 2026-08-19 14:58:11
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -24,9 +25,17 @@ cssclasses:
 >**Order of Environments**
 >- [[Love as the Ultimate Environment]]
 >	- [[Inner Environment]]
+>	- Personal Boundaries
 >	- [[Outer Environment]]
 
 ^my-block
+
+>[!invisiblock] 
+>![[environments.png|center]]
+>
+
+^my-pic
+
 
 
 <hr>

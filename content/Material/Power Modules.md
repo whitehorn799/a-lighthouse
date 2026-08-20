@@ -7,13 +7,12 @@ stealth: false
 robots: 
 password: 
 tags: 
-slug: 
-  - power-modules
-aliases: 
+aliases:
+  - /power-modules
   - modules
 permalink: 
-date: August 10, 2026 11:05
-lastmod: August 10, 2026 11:28
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 14:12:53
 enableToc:  true
 cssclasses: 
 ---

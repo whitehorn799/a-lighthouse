@@ -7,12 +7,11 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - traps
 aliases:
+  - /traps
 permalink:
-date: August 12, 2026 15:48
-lastmod: August 12, 2026 15:48
+date: 2026-08-18 20:22:20
+lastmod: 2026-08-19 14:11:13
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

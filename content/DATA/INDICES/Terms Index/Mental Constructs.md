@@ -7,12 +7,11 @@ stealth: false
 robots:
 password:
 tags:
-slug:
-  - mental-constructs
 aliases:
+  - /mental-constructs
 permalink:
 date: 2026-08-18 16:01:00
-lastmod: 2026-08-18 16:07:11
+lastmod: 2026-08-19 14:05:48
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
