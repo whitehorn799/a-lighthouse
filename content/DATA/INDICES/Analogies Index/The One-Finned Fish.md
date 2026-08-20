@@ -9,9 +9,8 @@ password:
 tags: 
   - analogy
   - story
-slug: 
-  - the-one-finned-fish
 aliases: 
+  - /the-one-finned-fish
 permalink: 
 date: August 06, 2026 17:12
 lastmod: August 07, 2026 13:48
