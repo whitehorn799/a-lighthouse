@@ -13,7 +13,7 @@ slug:
 aliases:
 permalink:
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-20 10:12:07
+lastmod: 2026-08-20 14:16:33
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -168,9 +168,9 @@ You are never separated from love, even if you feel that you are. You cannot see
 
  We have separated the environments in your life so that we establish how you fit into the scale of the universe. This breaks things into smaller, manageable pieces, and it's okay to feel small or big at times. Consider this: there are many big or small things you **could** be worrying about, but you aren't, yet life continues.
 #### Activities
-- [[Scale of the Universe]]
+- [[Scale of the Universe]]: See how big or small you are compared to the universe
 #### Micro Actions
-- [[Three Environs Breath]]
+- [[Three Breaths, One Universe]]: Ground yourself in anxious moments
 
 
 
@@ -207,9 +207,9 @@ A person stands between an internal and external world. We can picture these rel
 > [[Self-identity Cross#^cross-breakout|>>>]]
 
 #### For Youngsters and the Sheltered
-If you are a young person, knowing who you are can start any time you are ready to ask these questions. Science suggests that the human brain doesn't fully develop until you are 25 years old. 
+If you are a young person, knowing who you are can start any time you are ready to ask these questions. 
 
-Whether you are young or you don't have much experience with life, existence can become a drag. That's because you have grown comfortable with the status quo; you've hit a happy medium. When you start thinking of getting out there in life, you remember the pain it causes. 
+Whether you are young or you don't have much experience with life, existence can become a drag. That's because you have grown comfortable with the status quo; you've hit a happy medium. When you start thinking of getting out there in life, you remember the pain it causes. This is the [[Emotional Avoidance Trap]] in effect!
 
 Therefore, you avoid activity because it feels like moving is dangerous, but this mindset is like being in quicksand. If you don't move, eventually you will just sink. 
 
@@ -250,19 +250,21 @@ Finding what validates you is important because validation gives us the energy t
 > [!cleanembed] 
 > ![[Absolute vs. Relative Self#^absolute-relative-chart]]
 
-You can use this chart to see what makes you feel validated. Write it down so that it's easier to remember. 
+You can use this chart to see what makes you feel validated. Write it down so that it's easier to remember. Most people will feel a mixture of both internal and external validation, but try to choose the dominate one. 
+
+Click [[Absolute vs. Relative Self]] if you want to know more about this. 
 
 ### 2.3 Conclusion
-You are almost undefinable, but you are knowable. Just like reality, there are so many aspects to who you are, it might be impossible to know all of them. The fact is the more you know yourself, the easier you can give yourself the gift of your personal power.
+You are a vast, complex, and almost undefinable human being, but just like any other subject, you are knowable. There are so many aspects to who you are; it might be impossible to know all of them, but you can at least try to know some. The fact is the more you know yourself, the more you understand yourself, and the easier you can give yourself the gift of your personal power.
 
 You matter because we need you, only most of us don’t know it.
 
 #### Activities
-- [[Bumpy Key]]
-- [[Belief, Flaw, Purpose]]
-- [[Robot Copy]]
+- [[Bumpy Key]]: A demonstration of your uniqueness
+- [[Belief, Flaw, Purpose]]: A brief glimpse into who you are
+- [[Robot Copy]]: What if you were replaced by a robot copy of yourself?
 #### Micro Actions
-- [[Identity Note]]
+- [[One Leaf, One Tree]]: A helpful, 30-second micro action that defines who you are
 
 <hr>
 
@@ -294,19 +296,17 @@ If you understand what desire is, it becomes easier to find it.
 #### Traps and States
 What happens next? Either you are strong enough to know and accept the risks, or you fall into [[Traps]] or [[States]], for better or worse.
 
-### 3.2 Finding Desire
-We can use the first two learning points for self-identity to find desire. We develop a formula that accounts for the questions you have answered already. It's called the desire formula.
-
-> [!breakout] BREAKOUT!
-> [[Desire Formula|>>>]]
-### 3.3 Conclusion
+### 3.2 Conclusion
 Learning what you desire is the third step. You first must learn how to desire. To learn how to desire, you must do one of two things (both at the same time is good): experience the world by taking agency and by knowing who you are so that you can gift yourself with something appropriate. 
 
 It’s like buying a gift for someone that you don’t know: you don’t know where to start, so you go the safe route and buy something practical. This is safe, but it doesn’t always work.
 
 #### Activities
-#### Micro Actions
 
+- [[Desire Formula]]: How to find your desires
+ 
+#### Micro Actions
+- [[Thresh the Husk, Take the Grain]]: Shed your old habits to get your desires
 
 <hr>
 

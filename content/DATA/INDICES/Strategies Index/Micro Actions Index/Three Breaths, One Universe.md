@@ -1,5 +1,5 @@
 ---
-title: Three Environs Breath
+title: Three Breaths, One Universe
 description: Ground yourself in overwhelming situations
 draft: false
 unlisted: false
@@ -10,19 +10,19 @@ tags:
   - strategy
   - micro-action
   - somatic-therapy
-slug:
-  - three-circles-breath
 aliases:
+  - /three-breaths-one-universe
+  - three breaths
 permalink:
 date: 2026-08-18 16:12:26
-lastmod: 2026-08-18 20:21:16
+lastmod: 2026-08-20 13:30:48
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 
 >[!invisiblock] 
->This is a micro action you can take to ground yourself in an overwhelming situation. 
+>This is a micro action you can take to ground yourself in an overwhelming situation. It reminds you that in just three breaths during stress, you align yourself with the universe.
 
 ^my-block
 

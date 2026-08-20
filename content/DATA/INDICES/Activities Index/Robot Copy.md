@@ -5,19 +5,18 @@ draft: false
 unlisted: false
 tags: 
   - activity
-slug: 
-  - robot-copy
 aliases: 
+  - /robot-copy
 permalink: 
-date: August 05, 2026 15:12
-lastmod: August 05, 2026 15:12
+date: 2026-08-20 11:12:30
+lastmod: 2026-08-20 12:10:54
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
 ---
 
 
-As we go into the next exercise, the question you face might seem insensitive. However, this is just an exercise! We are asking this question so that you know the answer.
+As we go into this exercise, the question you face might seem insensitive. However, this is just an exercise! We are asking this question so that you know the answer.
 
 Don't filter your thoughts. Allow yourself to think openly, and don't be negative toward what thoughts come up. Be honest with yourself and follow your instinct for this exercise. Say what you feel, and when you do that, you will notice a release of pressure and a sense of being heard.<br><br>
 
@@ -29,6 +28,8 @@ Don't filter your thoughts. Allow yourself to think openly, and don't be negativ
 <div class="color-point cp1 tac">Why does the world need you?</div> 
 
 Give yourself a chance to really think on this, and don't give up before you get a meaningful answer. Find a quiet place, turn off your phone, ask yourself this question, and listen to what comes. Don't worry about being wrong or right; just say what your answer is. When you are ready, click on the "One Opinion" line below to hear my answer.
+
+<hr>
 
 # Moral
 

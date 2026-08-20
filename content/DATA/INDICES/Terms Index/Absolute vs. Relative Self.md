@@ -1,12 +1,13 @@
 ---
 title: Absolute vs. Relative Self
-description: ""
+description: "How you look at validation"
 draft: false
 unlisted: false
 tags: 
 aliases: 
-date: July 30, 2026 17:55
-lastmod: July 31, 2026 13:06
+  - /absolute-vs-relative-self
+date: 2026-08-20 11:12:30
+lastmod: 2026-08-20 11:48:42
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
@@ -15,6 +16,20 @@ cssclasses:
 AKA separate vs connected self
 
 This is a chart to describe the difference between internal and external validations. These are illustrated on the [[Self-identity Cross]] as the vertical axis.
+
+
+
+**The Absolute-Relative Self Chart**
+
+| Feature              | Relative Self                               | Absolute Self                                       | 
+| -------------------- | ------------------------------------------- | --------------------------------------------------- |
+| **Primary Question** | "Where do I stand?"                         | "What is true?"                                     |
+| **Source of Worth**  | External validation and competition         | Internal alignment and existence                    |
+| **State of Mind**    | Anxiety, scarcity, and separation           | Peace, abundance, and unity                         |
+| **Perspective**      | Looking _at_ the world from a localized ego | Looking _with_ the world as an interconnected whole |
+
+^absolute-relative-chart
+
 
 > [!invisiblock] 
 > **Absolute Self** <br>
@@ -28,13 +43,3 @@ This is a chart to describe the difference between internal and external validat
 
 ^my-block
 
-**The Absolute-Relative Self Chart**
-
-| Feature              | Relative Self                               | Absolute Self                                       | 
-| -------------------- | ------------------------------------------- | --------------------------------------------------- |
-| **Primary Question** | "Where do I stand?"                         | "What is true?"                                     |
-| **Source of Worth**  | External validation and competition         | Internal alignment and existence                    |
-| **State of Mind**    | Anxiety, scarcity, and separation           | Peace, abundance, and unity                         |
-| **Perspective**      | Looking _at_ the world from a localized ego | Looking _with_ the world as an interconnected whole |
-
-^absolute-relative-chart

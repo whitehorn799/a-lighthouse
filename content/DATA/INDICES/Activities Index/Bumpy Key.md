@@ -5,12 +5,11 @@ draft: false
 unlisted: false
 tags: 
   - activity
-slug: 
-  - bumpy-key
 aliases: 
+  - /bumpy-key
 permalink: 
-date: August 05, 2026 15:07
-lastmod: August 05, 2026 15:07
+date: 2026-08-20 11:12:30
+lastmod: 2026-08-20 12:11:16
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
@@ -23,6 +22,7 @@ You are special because there is only one of you. What we are going to do now is
 
 Take a moment to think on it. What is the purpose of a key and a lock? When you are ready, reveal my opinion below.
 
+<hr>
 
 # Moral
 The lock symbolizes your purpose in life. All of those weird bumps and valleys on the key represent your uniqueness: how you think, what you do, your natural talents, your skills, and more. Only that specific configuration of bumps or uniqueness fit that lock. Only you can do the things that certain people need in certain situations. No matter what you do, you will be there when you are needed, and you will easily fill the role. It's life; that can't be avoided. However, don't convince yourself that this is not true for you. That is the trap, and that is completely avoidable. 
@@ -30,5 +30,4 @@ The lock symbolizes your purpose in life. All of those weird bumps and valleys o
 <hr>
 
 # See Also
-- [[Activities]]
 - [[Self-identity]]

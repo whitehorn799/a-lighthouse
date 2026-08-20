@@ -5,12 +5,11 @@ draft: false
 unlisted: false
 tags: 
   - activity
-slug: 
-  - belief-flaw-purpose
 aliases: 
+  - /belief-flaw-purpose
 permalink: 
-date: August 05, 2026 15:09
-lastmod: August 05, 2026 15:09
+date: 2026-08-20 11:12:30
+lastmod: 2026-08-20 12:09:06
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
@@ -35,6 +34,5 @@ The answers can bring clarity of thought, especially if you remember them!
 
 
 # See Also
-- [[Activities]]
 - [[Self-identity]]
 

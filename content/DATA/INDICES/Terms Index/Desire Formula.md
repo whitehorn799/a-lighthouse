@@ -4,13 +4,20 @@ description: How to know what you want
 draft: false
 unlisted: false
 tags:
+  - activity
 aliases:
-date: August 05, 2026 12:55
-lastmod: August 05, 2026 15:39
+  - /desire-formula
+permalink:
+date: 2026-08-20 11:12:30
+lastmod: 2026-08-20 12:14:38
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
+
+We can use the first two learning points for [[Self-identity]] to find desire. 
+
+<br>
 
 ![[desire-formula.png|center|400]]
 
