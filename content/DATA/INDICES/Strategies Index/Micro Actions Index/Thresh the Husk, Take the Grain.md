@@ -45,6 +45,8 @@ You are presented with options, but you don't know which to go with. Maybe you f
 	- You might also record the husks, the old behaviors, that no longer serve you. In this way, you honor the behaviors that shaped you.
 
 
+<hr>
+
 # Dilemma of Not Desiring
 You don't have any desire at all. You feel drained, like an invisible ghost wandering the Earth. You don't have to have a grand desire right now; just find one spark of curiosity. Trying to jump 100% into a grand desire is too much, but maybe this 10% movement can get you to the top
 
@@ -58,6 +60,8 @@ You can use the [[Desire Formula]] to help you with this. <br><br>
 	- Example: "My choice matters. I can choose to do nothing and make no effort to change. That's not what I want. I do want to change. I will make one change now by turning on the light."
  4. **Store the Grain:** Don't throw this moment away. Make a record of this so that you can go back to it and see what progress you have made. The collection of these records is called the Granary.
 	 - You might also record the husks, the old behaviors, that no longer serve you. In this way, you honor the behaviors that shaped you.
+
+<hr>
 
 # How This Helps
 
