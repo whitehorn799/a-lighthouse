@@ -13,7 +13,7 @@ slug:
 aliases:
 permalink:
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-20 21:07:52
+lastmod: 2026-08-21 12:38:28
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -311,7 +311,7 @@ It’s like buying a gift for someone that you don’t know: you don’t know wh
 - [[Desire Formula]]: How to find your desires
  
 #### Micro Actions
-- [[Thresh the Husk, Take the Grain]]: Shed your old habits to get your desires
+- [[Thresh the Husk, Take the Grain]]: Shed your old habits to find your desires
 
 <hr>
 

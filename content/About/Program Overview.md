@@ -11,7 +11,7 @@ aliases:
   - /program-overview
 permalink:
 date: 2026-08-18 20:22:20
-lastmod: 2026-08-19 14:14:05
+lastmod: 2026-08-21 12:41:21
 enableToc: true
 cssclasses:
 ---
@@ -94,6 +94,9 @@ Each of the traits in your Personal Power is examined in practical, supplemental
 Each Power Module focuses on one aspect at a time to maintain focus and reduce feeling overwhelmed. You are given solid ground to stand, and you decide when you are ready to move on.
 
 ## Tools
+
+**Micro Actions**<br>
+Change doesn't happen instantly. It's a series of small actions made consistently. Micro actions are those small actions that you can do right now and complete in seconds to build agency and momentum. 
 
 **Thought Experiments**<br>
 We strip away your mental loops to see your private reality as compared to reality itself. By using imagined situations, we practice the thought patterns that steer you straight. We also notice the patterns that leave you stuck.

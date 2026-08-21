@@ -1,7 +1,7 @@
 ---
 title: The Human Experience
 description: Our take on the landscape of the human
-draft: true
+draft: false
 unlisted: false
 stealth: false
 robots:
@@ -11,14 +11,14 @@ aliases:
   - /the-human-experience
 permalink:
 date: 2026-08-20 21:17:50
-lastmod: 2026-08-20 21:23:27
+lastmod: 2026-08-21 14:29:46
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 
 > [!cleanembed]
-> ![[human-experience.canvas]]
+> ![[human-experience.png]]
 
 ^my-block
 

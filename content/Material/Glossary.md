@@ -11,7 +11,7 @@ aliases:
   - /glossary
 permalink: 
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-19 14:12:35
+lastmod: 2026-08-21 14:28:23
 enableToc:  true
 cssclasses: 
 ---
@@ -137,6 +137,8 @@ the real world in which everyone and everything lives ^shared-reality
 <small>AKA Lateral vs. Transcendent</small> <br>
 
 
+
+
 # I
 [[Indoctrination vs. Intuition]] <br>
 
@@ -182,6 +184,7 @@ the real world in which everyone and everything lives ^shared-reality
 
 
 # T
+[[The Human Experience]] <br>
 [[Therapy]] <br>
 [[Traps]] <br>
 
