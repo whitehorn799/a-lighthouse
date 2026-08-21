@@ -12,14 +12,14 @@ aliases:
   - immediate outer environment
 permalink:
 date: 2026-08-18 20:22:20
-lastmod: 2026-08-19 16:19:09
+lastmod: 2026-08-20 21:06:12
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 
 >[!invisiblock] 
->The outer environment, or external world, is everything outside of your mind. It works within [[Love as the Ultimate Environment|the ultimate environment of love]] and consists of three components in this program. <br><br>
+>The [[outer environment]], or external world, is everything outside of your mind. It works within [[Love as the Ultimate Environment|the ultimate environment of love]] and consists of three components in this program. <br><br>
 >1. Micro Environment
 >2. Immediate Environment
 >3. Macro Environment

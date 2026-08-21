@@ -13,7 +13,7 @@ slug:
 aliases:
 permalink:
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-20 14:16:33
+lastmod: 2026-08-20 21:07:52
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -149,6 +149,11 @@ It's important to know where you are before you begin your journey. In this sect
 
 ^inner-environ-context
 
+<br>
+
+Personal boundaries are what protect the inner environment from the outer environment. That is coming up in the Self-love section of the program. It's in development!
+
+^boundaries-environ-context
 
 <br>
 

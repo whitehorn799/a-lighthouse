@@ -12,13 +12,15 @@ aliases:
   - Observer Observing the Observed
 permalink:
 date: 2026-08-18 20:22:20
-lastmod: 2026-08-19 14:06:34
+lastmod: 2026-08-21 11:36:24
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 
+![[ooo-model.png]]
 
+What you resist persists, what you focus expands. people resist their own power, but when they look inside, it expands until it becomes everything and then *pop*
 
 ```
 📁 Mental Models
@@ -38,3 +40,4 @@ cssclasses:
 
 # See Also
 - [[Brain Glitches Activity]]
+- [[Observer Effect]]

@@ -15,7 +15,7 @@ aliases:
   - take the grain
 permalink:
 date: 2026-08-20 10:11:13
-lastmod: 2026-08-20 18:18:31
+lastmod: 2026-08-21 12:11:50
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -28,34 +28,50 @@ cssclasses:
 >
 ^my-block
 
->[!invisiblock|title] Dilemma of Choice
->You are presented with options, but you don't know which to go with. Maybe you feel stuck between a rock and a hard place. <br><br>
->1. **Thresh the husk:** Name the fear, expectation, or sense of what you "should do". Is this your desire or someone else's expectation of you?
->	- Example: "I should feel glad to take the promotion to manager, but the stress from work is something I am trying to avoid for my own health."
->2. **Take the Grain:** Using the six strings of your self-identity, identify the actual desire.
->	- Example: "I don't actually want to manage people. Yes. the money is great, but I just want to do my master my craft!"
->3. What you decide is your choice, and try to record your desire by writing it down, make a voice recording, or upload a video short. By doing this, you can remind yourself of the effort you already took and that the action is your own expression of agency. If it changes, then change it, but don't forget what efforts you have done. You never start over completely because you are always informed by your past experiences. 
+>[!announote|shh-note tac]
+>Choose Dilemma of Choice if you know your options but can't decide. Choose Dilemma of Not Desiring if you can't find a desire at all.
 
-^my-dilemma-1
+<hr>
+
+# Dilemma of Choice
+You are presented with options, but you don't know which to go with. Maybe you feel stuck between a rock and a hard place. <br><br>
+
+1. **Thresh the husk:** Name the fear, expectation, or sense of what you "should do". Is this your desire or someone else's expectation of you?
+	- Example: "I should feel glad to take the promotion to manager, but the stress from work is something I am trying to avoid for my own health."
+2. **Take the Grain:** Using the six strings of your self-identity, identify the actual desire.
+	- Example: "I don't actually want to manage people. Yes. the money is great, but I just want to do my master my craft!"
+3. **Store the Grain:** What you decide is your choice, and try to record your desire by writing it down, make a voice recording, or upload a video short. The collection of these records is called the Granary.
+	- By doing this, you can remind yourself of the effort you already took and that the action is your own expression of agency. If it changes, then change it, but don't forget what efforts you have done. You never start over completely because you are always informed by your past experiences.
+	- You might also record the husks, the old behaviors, that no longer serve you. In this way, you honor the behaviors that shaped you.
 
 
+# Dilemma of Not Desiring
+You don't have any desire at all. You feel drained, like an invisible ghost wandering the Earth. You don't have to have a grand desire right now; just find one spark of curiosity. Trying to jump 100% into a grand desire is too much, but maybe this 10% movement can get you to the top
 
->[!invisiblock|title] Dilemma of Not Desiring
->You don't have any desire at all. You feel drained, like an invisible ghost wandering the Earth. You don't have to have a grand desire right now; just find one spark of curiosity. Trying to jump 100% into a grand desire is too much, but maybe this 10% movement can get you to the top.<br><br>
->You can use the [[Desire Formula]] to help you with this.
-> 1. **Notice the pattern:** First, watch for the signal. The moment you experience tension, you sigh, or you procrastinate, you can sense the pattern coming. Where are you in life?
-> 	- Example: "I am in a low place in my life. I don't have support. I am a human having human experiences."
-> 2. **Thresh the husk:** Now, name the friction that is clashing with your current behaviors. This is the part you want to work through and remove. What old habit, trait, or fear is holding you back? Who are you now?
-> 	- Example: "I feel lost because **I don't know who I am**. I have no sense of agency."
-> 3. **Take the Grain:** Next, realize that you have choices, and you have the ability to make changes. You are an agent, not a passenger. Don't make judgments on reality, just accept what happens. Take one micro action to give your cause momentum. 
-> 	- Example: "My choice matters. I can choose to do nothing and make no effort to change. That's not what I want. I do want to change. I will make one change now by turning on the light."
-> 4. **Store the Grain:** Don't throw this moment away. Make a record of this so that you can go back to it and see what progress you have made.
+You can use the [[Desire Formula]] to help you with this. <br><br>
 
-^my-dilemma-2
+ 1. **Notice the pattern:** First, watch for the signal. The moment you experience tension, you sigh, or you procrastinate, you can sense the pattern coming. Where are you in life?
+	 - Example: "I am in a low place in my life. I don't have support. I am a human having human experiences."
+ 2. **Thresh the husk:** Now, name the friction that is clashing with your current behaviors. This is the part you want to work through and remove. What old habit, trait, or fear is holding you back? Who are you now?
+	 - Example: "I feel lost because **I don't know who I am**. I have no sense of agency."
+ 3. **Take the Grain:** Next, realize that you have choices, and you have the ability to make changes. You are an agent, not a passenger. Don't make judgments on reality, just accept what happens. Take one micro action to give your cause momentum. 
+	- Example: "My choice matters. I can choose to do nothing and make no effort to change. That's not what I want. I do want to change. I will make one change now by turning on the light."
+ 4. **Store the Grain:** Don't throw this moment away. Make a record of this so that you can go back to it and see what progress you have made. The collection of these records is called the Granary.
+	 - You might also record the husks, the old behaviors, that no longer serve you. In this way, you honor the behaviors that shaped you.
 
 # How This Helps
 
-1. 1
+1. The methods are fast and don't take an hour-long meditation to reveal your goals.
+2. It helps you identify what desires are actually yours, the Grain, instead of "people pleasing". It gives you the clarity to say "no" to other people's desires when they don't align with you.
+3. It helps you find the friction your habits are having on you. It reveals the behaviors you need to discard in order to get the desire you want. 
+4. It shapes desire as something that isn't selfish, but a true expression of your core self. Wanting something isn't wrong as long as it favors the [[Sovereignty of Good]].
+5. It gives you ownership of your behaviors and desires. It plants the idea that obtaining desires may require a change of those behaviors.
+6. It boils down moments of confusion into refined self knowledge. You cut through the cognitive fog by taking quick, direct actions.
+7. It turns your efforts into tangible records. You can access the Granary any time to remind yourself of your decisions, motivations, and desire.
+8. It grants the freedom to modify your desires, behaviors, and mindsets at any time by reviewing your records and promoting your agency.
+9. It honors your past behaviors (husks) not as mistakes but as accomplishments to who you are now. 
+10. It uses apathy, numbness, or "I don't know" as the activation trigger. When this happens, it promotes the idea that you still have agency.
+11. It removes the shame of being aimless as it is a common issue. It reminds us that motivation requires action first, and it makes action easy by taking a few seconds to do this micro action.
 
 %%
 
@@ -116,12 +132,6 @@ cssclasses:
 - **Core Drive 2: Development & Accomplishment:** Executing even a tiny environmental shift proves they still have agency, even in the middle of numbness.
     
 
-### Maintaining Momentum: "The Curiosity Tally"
 
-When motivation is zero, traditional goal-tracking fails. Instead, use a **Spark Counter**:
-
-- **The Rule:** The client gets a checkmark not for finding a desire, but simply for asking: _"What is one physical detail I can shift while I wait for clarity?"_
-    
-- **The Outcome:** Accumulating 3-4 checkmarks on a zero-motivation day reframes paralysis as an active period of gathering data, keeping their agency alive until genuine desire resurfaces naturally.
 
 %%

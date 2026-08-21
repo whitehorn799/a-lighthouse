@@ -14,14 +14,14 @@ aliases:
   - internal environment
 permalink:
 date: 2026-08-17 12:37:42
-lastmod: 2026-08-20 09:49:35
+lastmod: 2026-08-20 21:06:01
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 
 > [!invisiblock] Inner Environment
->The inner environment, or internal world, is everything inside your mind. It's a private world only you can sense, and it's used to help you interact with and understand yourself. It helps you process the outer world so that you can survive it. <br><br>
+>The [[inner environment]], or internal world, is everything inside your mind. It's a private world only you can sense, and it's used to help you interact with and understand yourself. It helps you process the outer world so that you can survive it. <br><br>
 >It works within [[Love as the Ultimate Environment|the ultimate environment of love]]. There are subcategories in it: instinct, logic, emotion, the Witness, and the Agent, and all of them are governed by awareness and conscience.<br>
 > 
 
