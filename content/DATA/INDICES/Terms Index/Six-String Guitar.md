@@ -12,24 +12,22 @@ aliases:
   - six strings
 permalink: 
 date: 2026-08-18 20:22:20
-lastmod: 2026-08-22 16:11:41
+lastmod: 2026-08-22 16:32:01
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
 ---
 
 
-
-
 > [!invisiblock|title] Six-Strings Metaphor
-> [[Structure]]
-> 1. Principles
-> 2. Beliefs
-> 3. Narrative Continuity <br>
-> [[Expression]] <br>
-> 4. Uniqueness
-> 5. Agency
-> 6. Self-Worth <br><br>
+> 1. [[Structure]]
+> 		- Principles
+> 		- Beliefs
+> 		- Narrative Continuity 
+>2. [[Expression]]
+>		- Uniqueness
+>		- Agency
+>		- Self-Worth 
 >
 >Think of an acoustic guitar and all its parts that make the instrument special and valuable. The six parts of "Who am I" are like strings on that guitar. We'll also give them a special counterpart piece of the guitar's anatomy. 
 
