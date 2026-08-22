@@ -11,7 +11,7 @@ aliases:
   - /glossary
 permalink: 
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-21 14:28:23
+lastmod: 2026-08-22 15:27:09
 enableToc:  true
 cssclasses: 
 ---
@@ -125,22 +125,26 @@ the real world in which everyone and everything lives ^shared-reality
 [[Elenchus Elicitation]] <br>
 [[Environments]]<br>
 [[Equal-but-different]] <br>
-[[Inner vs. Outer]] <br>
-<small>AKA Outer vs. Inner; Extrinsic vs. Intrinsic</small> <br>
+[[Expression]] <br>
 
 # F
+[[Faculty Grouping]] <BR>
 [[Frame of Reference]] <BR>
 [[Friction]] <br>
 
 # H
 [[Horizontal vs. Vertical Movement]] <br>
 <small>AKA Lateral vs. Transcendent</small> <br>
+[[Human Experience]] <br>
+
 
 
 
 
 # I
 [[Indoctrination vs. Intuition]] <br>
+[[Inner vs. Outer]] <br>
+<small>AKA Outer vs. Inner; Extrinsic vs. Intrinsic</small> <br>
 
 
 
@@ -159,6 +163,11 @@ the real world in which everyone and everything lives ^shared-reality
 [[Misery Points]] <br>
 
 
+# N
+[[Navigation Grouping]] <BR>
+
+
+
 # O
 [[Objective Reverence]] <br>
 [[Objective vs. Subjective Views]] <br>
@@ -166,6 +175,7 @@ the real world in which everyone and everything lives ^shared-reality
 
 # P
 
+[[Personal Boundaries]] <BR>
 [[Personal Power]] <br>
 [[Private vs. Shared Reality]] <br>
 
@@ -179,12 +189,12 @@ the real world in which everyone and everything lives ^shared-reality
 [[Sovereign Speech]] <br>
 [[Sovereignty of Good]] <br>
 [[States]] <br>
+[[Structure]] <BR>
 [[Surrogate Transcendence]] <br>
 
 
 
 # T
-[[The Human Experience]] <br>
 [[Therapy]] <br>
 [[Traps]] <br>
 

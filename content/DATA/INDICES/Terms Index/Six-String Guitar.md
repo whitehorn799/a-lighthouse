@@ -12,7 +12,7 @@ aliases:
   - six strings
 permalink: 
 date: 2026-08-18 20:22:20
-lastmod: 2026-08-20 10:43:05
+lastmod: 2026-08-22 16:11:41
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
@@ -21,11 +21,12 @@ cssclasses:
 
 
 
-> [!invisiblock] 
-> **The Six-Strings Metaphor**
+> [!invisiblock|title] Six-Strings Metaphor
+> [[Structure]]
 > 1. Principles
 > 2. Beliefs
-> 3. Narrative Continuity
+> 3. Narrative Continuity <br>
+> [[Expression]] <br>
 > 4. Uniqueness
 > 5. Agency
 > 6. Self-Worth <br><br>
