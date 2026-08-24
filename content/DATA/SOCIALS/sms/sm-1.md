@@ -12,7 +12,7 @@ aliases:
   - /sm-1
 permalink: 
 date: 2026-08-24 15:22:38
-lastmod: 2026-08-24 16:41:44
+lastmod: 2026-08-24 19:00:12
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
@@ -21,7 +21,7 @@ cssclasses:
 
 You don't suffer from a failure to succeed.
 
-You suffer from the Success Trap, the delusion that reaching the next milestone will finally make you feel complete.
+You suffer from the [[Success Trap]], the delusion that reaching the next milestone will finally make you feel complete.
 
 Here is why your mindset is destroying your peace and how to correct it. 🧵
 

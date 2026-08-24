@@ -125,6 +125,7 @@ the real world in which everyone and everything lives ^shared-reality
 [[Elenchus Elicitation]] <br>
 [[Environments]]<br>
 [[Equal-but-different]] <br>
+[[Existential Drift]] <br>
 [[Expression]] <br>
 
 # F
