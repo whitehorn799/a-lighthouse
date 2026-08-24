@@ -14,7 +14,7 @@ aliases:
   - internal environment
 permalink:
 date: 2026-08-17 12:37:42
-lastmod: 2026-08-20 21:06:01
+lastmod: 2026-08-24 13:40:42
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -29,8 +29,8 @@ cssclasses:
 
 >[!invisiblock|title] Components
 >The inner environment is made of smaller parts. Each one of them act like an environment of their own. It interacts with the environment of love, personal boundaries, and the outer environment.
->1. **Navigation:** This is what gives you direction. It's also part of your agency. It guides you through your attention, focus, preference, and conscience.
->2. **Structure:** This is the foundation. It gives stability through principles, beliefs, and narrative continuity through your self-identity, from the past up to now.
+>1. [[Navigation Grouping]]: This is what gives you direction. It's also part of your agency. It guides you through your attention, focus, preference, and conscience.
+>2. **Structure Grouping:** This is the foundation. It gives stability through principles, beliefs, and narrative continuity through your self-identity, from the past up to now.
 >3. **Expression:** This is the inner world moving outward. It gives forward movement through your uniqueness, self-worth, and agency.
 
 ^my-components

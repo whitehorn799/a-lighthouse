@@ -8,16 +8,18 @@ robots:
 password:
 tags:
 aliases:
+  - /navigation-grouping
+  - navigation
 permalink:
 date: 2026-08-22 15:27:05
-lastmod: 2026-08-24 13:29:17
+lastmod: 2026-08-24 13:50:49
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 
 >[!invisiblock] 
->The Navigation Grouping consists of the step-by-step process your mind goes through to notice what is happening and decide what to do next. These are not physical qualities, but a sequence of actions your mind performs at any given moment in time.
+>The Navigation Grouping consists of the step-by-step process your mind goes through to notice what is happening and decide what to do next. These are not physical qualities, but a sequence of actions your mind performs at any given moment in time. It is a part of the The Human Experience ([[Environments]]), more specifically the [[Inner Environment]].
 
 ^my-block
 
@@ -62,5 +64,4 @@ This is a guideline to the human condition of awareness. Everyone is different, 
 <hr>
 
 # See Also
-- [[Human Experience]]
 - [[Observer Effect]]

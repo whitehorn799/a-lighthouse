@@ -135,7 +135,7 @@ the real world in which everyone and everything lives ^shared-reality
 # H
 [[Horizontal vs. Vertical Movement]] <br>
 <small>AKA Lateral vs. Transcendent</small> <br>
-[[Human Experience]] <br>
+
 
 
 
