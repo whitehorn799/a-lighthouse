@@ -12,7 +12,7 @@ aliases:
   - /sm-1
 permalink: 
 date: 2026-08-24 15:22:38
-lastmod: 2026-08-24 15:24:54
+lastmod: 2026-08-24 16:41:44
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
@@ -49,7 +49,7 @@ If you have hit your goals but still feel helpless, you need a deep reflection o
 
 I help people navigate existential friction through critical thinking and a one-on-one personal dialogue. 
 
- Read my core philosophy here: https://a-lighthouse.org/sm-1
+ Read my core philosophy here: https://a-lighthouse.org/welcome
 
 
 ```tags
