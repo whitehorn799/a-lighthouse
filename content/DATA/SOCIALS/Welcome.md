@@ -11,7 +11,7 @@ aliases:
   - /welcome
 permalink:
 date: 2026-08-24 14:09:18
-lastmod: 2026-08-25 14:54:07
+lastmod: 2026-08-25 17:16:14
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -34,7 +34,7 @@ A Lighthouse is a personal growth program. My purpose here is to help you find y
 > Outline your best self. Don't "doubt"-line your potential.
 
 
-This is not life coaching, spiritual guidance, or toxic positivity. We are a mix of negative and positive, so my approach embraces both. There are many programs like this out there, but this is mine. I hope to earn your trust.
+This is not life coaching, woowoo spirituality, or toxic positivity. We are a mix of negative and positive, so my approach embraces both. There are many programs like this out there, but this is mine. I hope to earn your trust.
 
 
 # Why I Am Different

@@ -82,9 +82,8 @@ A lighthouse is still and bright so that you may choose your path in the shade b
 <hr>
 
 # Social Media
-- [Discord](https://discord.gg/AbBmWFvr7v) 
-	- For now, the Discord server is not a place to chat but to publish announcements and updates.
-- [YouTube](https://www.youtube.com/@A-Lighthouse) %%[Instagram](https://www.instagram.com/a_lightouse/) %%
+> [!cleanembed] 
+> ![[Contact Mr. Whitehorn#^my-socials]]
 
 <hr>
 
