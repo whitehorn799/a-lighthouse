@@ -40,5 +40,5 @@ I'd say believe in every power, every possibility, and every reality. It's out t
 <hr>
 
 # See Also
-- [[Mental Constructs]][[Indoctrination vs. Intuition]]
+- [[Negative Mindsets]][[Indoctrination vs. Intuition]]
 - [[Therapy]]

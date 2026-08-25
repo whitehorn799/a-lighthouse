@@ -12,9 +12,10 @@ aliases:
   - inner world
   - internal world
   - internal environment
+  - inner self
 permalink:
 date: 2026-08-17 12:37:42
-lastmod: 2026-08-24 13:40:42
+lastmod: 2026-08-25 14:46:46
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

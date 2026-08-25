@@ -12,14 +12,14 @@ aliases:
   - /emotional-avoidance-trap
 permalink:
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-19 08:57:13
+lastmod: 2026-08-25 16:53:30
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 
 >[!invisiblock] 
->The emotional avoidance trap describes a person who is stuck knowing what they **should** do, but give up before even trying. As a result, you seek relief.
+>The emotional avoidance trap describes a person who is stuck knowing what they **should** do, but give up before even trying. As a result, you seek relief as a distraction from difficulty and an escape from pain.
 
 ^my-block
 
@@ -33,12 +33,14 @@ cssclasses:
 
 <hr>
 
->[!invisiblock|title] Symptoms
->You may experience one or more of these. Please remember, these are nonjudgmental assessments.<br><br>
+# Symptoms
+>[!invisiblock] 
+>> [!cleanembed]
+> ![[symptom-insert#^my-block]]<br>
 >1. You know what to do, but avoid doing them because you want to distance yourself from stress.
 >2. You sometimes feel confused or overwhelmed, but you know they're just excuses. 
 >3. You are a perfectionist and a procrastinator who believes that if something can't be finished perfectly, then it isn't worth starting at all.
->4. You have a series of beliefs or mindsets ([[Mental Constructs]]) that hold you back.
+>4. You have a series of beliefs or mindsets ([[Negative Mindsets]]) that hold you back.
 >
 
 ^my-symptoms
@@ -46,10 +48,10 @@ cssclasses:
 # Plan of Attack
 
 >[!invisiblock|title] Focus on
->1. Accepting that you cannot get the shared reality to match your private reality
->2. Accepting that friction is the result of your private reality not matching the shared reality
->3. Using [[Self-Monitoring]] to recognize when it is happening
->4. Stopping the pattern by using the micro actions below
+>1. Accept that you cannot get the shared reality to match your private reality
+>2. Accept that friction is the natural result of the two mismatched realities
+>3. Use [[Self-Monitoring]] to recognize when it is happening
+>4. Stop the pattern by using the micro actions below
 
 ^focus-on
 

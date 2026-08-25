@@ -12,7 +12,7 @@ aliases:
   - /success-trap
 permalink:
 date: 2026-08-24 18:59:14
-lastmod: 2026-08-24 19:57:18
+lastmod: 2026-08-25 14:46:37
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -37,9 +37,8 @@ cssclasses:
 
 # Plan of Attack
 >[!invisiblock] 
->1. Go inward to look for your own answers.
->2. Explore your [[Inner Environment]] through [[Self-identity]] and find what your desires are
->3. Use [[SMART Goals]] to make your goals attainable
+>1. Explore your [[Inner Environment|inner self]] and look for your own answers through [[Self-identity]] and find what your desires are
+>2. Use [[SMART Goals]] to make your goals attainable
 
 ^my-block
 

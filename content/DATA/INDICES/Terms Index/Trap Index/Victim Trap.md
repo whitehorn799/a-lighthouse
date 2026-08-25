@@ -1,5 +1,5 @@
 ---
-title: "Helpless-Victim Identity Trap"
+title: "Victim Identity Trap"
 description: "Taking a victim mindset believing that you have no power"
 draft: false
 unlisted: false
@@ -9,10 +9,10 @@ password:
 tags:
   - trap
 aliases:
-  - /helpless-victim-identity-trap
+  - /victim-trap
 permalink:
 date: 2026-08-18 20:22:20
-lastmod: 2026-08-19 08:59:07
+lastmod: 2026-08-25 15:38:05
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

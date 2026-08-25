@@ -35,4 +35,4 @@ cssclasses:
 
 # See Also
 - [[Ascending Action]]
-- [[Externalized Responsibility Trap]]
+- [[Parachute Trap]]

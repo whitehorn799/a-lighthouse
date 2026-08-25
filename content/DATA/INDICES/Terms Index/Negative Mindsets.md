@@ -1,5 +1,5 @@
 ---
-title: Mental Constructs
+title: Negative Mindsets
 description: Mindsets that hold you back
 draft: false
 unlisted: false
@@ -8,7 +8,7 @@ robots:
 password:
 tags:
 aliases:
-  - /mental-constructs
+  - /negative-mindsets
 permalink:
 date: 2026-08-18 16:01:00
 lastmod: 2026-08-19 14:05:48
@@ -18,7 +18,7 @@ cssclasses:
 ---
 
 >[!invisiblock] 
->Mental constructs is a collective term for mindsets that can hold you back. These include:
+>Negative Mindsets are mindsets that can hold you back. These include:
 >1. [[Limiting Belief Trap]]
 >2. [[Conditioned Behavior Trap]]
 >3. [[Learned Helplessness]]

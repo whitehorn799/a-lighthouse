@@ -1,3 +1,7 @@
+---
+date: 2026-08-25 12:41:04
+lastmod: 2026-08-25 14:52:14
+---
 # quartz.config.yaml
 ## Ignore Folders
 ignorePatterns, which is case sensitive.
@@ -36,7 +40,7 @@ Sort options with SCSS in _page.scss
 }
 ```
 
-Hide a Folder in Explorer
+Hide a Folder in Explorer via _pages.scss_
 ```
 /* Enable flex ordering on the root Explorer container */
 .explorer ul,

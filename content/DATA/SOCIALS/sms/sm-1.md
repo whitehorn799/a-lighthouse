@@ -8,11 +8,12 @@ robots:
 password: 
 tags: 
   - post
+  - debunk
 aliases: 
   - /sm-1
 permalink: 
 date: 2026-08-24 15:22:38
-lastmod: 2026-08-24 19:00:12
+lastmod: 2026-08-25 15:55:15
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
@@ -61,3 +62,4 @@ I help people navigate existential friction through critical thinking and a one-
 #burnout
 #midlife
 ```
+

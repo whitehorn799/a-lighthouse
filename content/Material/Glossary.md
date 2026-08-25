@@ -11,7 +11,7 @@ aliases:
   - /glossary
 permalink: 
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-22 15:27:09
+lastmod: 2026-08-25 16:56:06
 enableToc:  true
 cssclasses: 
 ---
@@ -160,13 +160,12 @@ the real world in which everyone and everything lives ^shared-reality
 
 
 # M
-[[Mental Constructs]] <br>
 [[Misery Points]] <br>
 
 
 # N
 [[Navigation Grouping]] <BR>
-
+[[Negative Mindsets]] <br>
 
 
 # O

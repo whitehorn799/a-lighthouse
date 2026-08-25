@@ -1,6 +1,6 @@
 ---
 title: "Power Modules"
-description: "Your power stratified"
+description: "Your power outlined"
 draft: false
 unlisted: false
 stealth: false
@@ -12,7 +12,7 @@ aliases:
   - modules
 permalink: 
 date: 2026-08-18 20:22:20
-lastmod: 2026-08-19 14:12:53
+lastmod: 2026-08-25 14:26:42
 enableToc:  true
 cssclasses: 
 ---
@@ -24,7 +24,7 @@ cssclasses:
 >This material is under development. [[Power Modules#Updates|Click here]] for update notifications.
 
 
-This is the location of the free, modular material. The material here describe the traits that make up your [[Personal Power]]. We use a [[Power Modules#Cascading Outline|cascading outline]] to display the traits. 
+A power module is free, modular material that helps refine your characteristics as a person. The material here describes the traits that make up your [[Personal Power]]. We use a [[Power Modules#Cascading Outline|cascading outline]] to display the traits. 
 
 Disclaimer: We don't presume to know anything, nor do we wish to tell people how they should live their own lives nor what to believe. The material here is made available to everyone. However, it may not be a good fit for everyone.
 
