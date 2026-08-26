@@ -11,7 +11,7 @@ aliases:
   - /self-identity-cross
 permalink: 
 date: 2026-08-18 20:22:20
-lastmod: 2026-08-19 14:09:04
+lastmod: 2026-08-26 18:11:24
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
@@ -47,10 +47,13 @@ The lowermost region is characteristic of extreme individualism that is driven b
 <br>
 <div class="redpoint">Horizontal Axis</div>
 
-This represents the [[Inner vs. Outer|external world]]. Instead of having two ends of the axis, it has several points along it. Those points are defined as your roles (sibling, mother, employee, etc.) and your peers (friends, colleagues, family, etc.). It also represents interactions with the world, such as consequences, events, and activities. 
+This represents the [[Outer Environment]]. Instead of having two ends of the axis, it has several points along it. Those points are defined as your roles (sibling, mother, employee, etc.) and your peers (friends, colleagues, family, etc.). It also represents interactions with the world, such as consequences, events, and activities. 
 
 When there are many connection points, sometimes those points fight against each other or your own principles. This can result in the feeling of being pulled in many directions at once.
 
+If you are entirely based in the external world, you give control over your validation to the people around you and the events in your life. You may be an ego-driven person, and you may have a narrow perspective on the world. You value merit, recognition, and competition. You get validation from material rewards, such as praise, reputation, or possessions. 
+
+In the program, this is a [[Self-identity Cross|lateral movement]] because it symbolizes interactions with events and otherwise [[Equal-but-different|equal-but-different]] people. It's a feature of the "relative self".
 ## Balance the Axes
 The task of balancing the two ends of the internal world axis and the various points along the external world axis is complex. The idea is to try to maintain a strong sense of internal validation while also making and maintaining connections with what it means to be a human in this life right now. 
 

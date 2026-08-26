@@ -9,23 +9,22 @@ password:
 tags:
 aliases:
   - /outer-environment
-  - immediate outer environment
+  - shared reality
 permalink:
 date: 2026-08-18 20:22:20
-lastmod: 2026-08-20 21:06:12
+lastmod: 2026-08-26 18:10:56
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 
 >[!invisiblock] 
->The [[outer environment]], or external world, is everything outside of your mind. It works within [[Love as the Ultimate Environment|the ultimate environment of love]] and consists of three components in this program. <br><br>
+>The [[outer environment]] (aka. shared reality or immediate environment) is everything outside of your mind. It's the interactive environment, and it's used to gain experiences through actions and consequences. It works within [[Love as the Ultimate Environment|the ultimate environment of love]] and consists of three components in this program. <br><br>
 >1. Micro Environment
 >2. Immediate Environment
 >3. Macro Environment
 >
 ^my-block
-
 
 # Components
 

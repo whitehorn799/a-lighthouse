@@ -13,9 +13,10 @@ aliases:
   - internal world
   - internal environment
   - inner self
+  - private reality
 permalink:
 date: 2026-08-17 12:37:42
-lastmod: 2026-08-25 14:46:46
+lastmod: 2026-08-26 18:03:31
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

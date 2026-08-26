@@ -9,9 +9,10 @@ password:
 tags:
 aliases:
   - /the-pause
+  - a pause
 permalink:
 date: 2026-08-25 16:13:06
-lastmod: 2026-08-25 16:28:38
+lastmod: 2026-08-26 14:06:45
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

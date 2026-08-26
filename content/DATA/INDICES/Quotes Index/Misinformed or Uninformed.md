@@ -8,12 +8,11 @@ robots:
 password: 
 tags: 
   - quote
-slug: 
-  - misinformed-or-uninformed
 aliases: 
+  - /misinformed-or-uninformed 
 permalink: 
-date: August 06, 2026 10:16
-lastmod: August 06, 2026 10:23
+date: 2026-08-25 17:17:03
+lastmod: 2026-08-26 12:26:48
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs

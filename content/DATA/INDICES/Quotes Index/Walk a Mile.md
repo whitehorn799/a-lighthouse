@@ -8,12 +8,11 @@ robots:
 password:
 tags:
   - quote
-slug:
-  - walk-a-mile
-aliases:
+aliases: 
+  - /walk-a-mile
 permalink:
-date: August 14, 2026 13:42
-lastmod: August 14, 2026 13:42
+date: 2026-08-25 17:17:03
+lastmod: 2026-08-26 12:27:08
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

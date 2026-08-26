@@ -11,7 +11,7 @@ aliases:
   - /glossary
 permalink: 
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-25 16:56:06
+lastmod: 2026-08-26 18:12:05
 enableToc:  true
 cssclasses: 
 ---
@@ -123,6 +123,7 @@ the real world in which everyone and everything lives ^shared-reality
 # E
 [[Eisenhower Matrix]] <br>
 [[Elenchus Elicitation]] <br>
+[[Emotional Debt]] <br>
 [[Environments]]<br>
 [[Equal-but-different]] <br>
 [[Existential Drift]] <br>
@@ -131,7 +132,7 @@ the real world in which everyone and everything lives ^shared-reality
 # F
 [[Faculty Grouping]] <BR>
 [[Frame of Reference]] <BR>
-[[Friction]] <br>
+[[Psychological Friction]] <br>
 
 # H
 [[Horizontal vs. Vertical Movement]] <br>
@@ -144,8 +145,7 @@ the real world in which everyone and everything lives ^shared-reality
 
 # I
 [[Indoctrination vs. Intuition]] <br>
-[[Inner vs. Outer]] <br>
-<small>AKA Outer vs. Inner; Extrinsic vs. Intrinsic</small> <br>
+
 
 
 
@@ -160,6 +160,9 @@ the real world in which everyone and everything lives ^shared-reality
 
 
 # M
+[[Meta-awareness]] <br>
+[[Metacognition]] <br>
+[[Mindfulness]] <br>
 [[Misery Points]] <br>
 
 
@@ -171,6 +174,7 @@ the real world in which everyone and everything lives ^shared-reality
 # O
 [[Objective Reverence]] <br>
 [[Objective vs. Subjective Views]] <br>
+[[Observer Effects]] <br>
 [[OOO Model]] <br>
 
 # P
