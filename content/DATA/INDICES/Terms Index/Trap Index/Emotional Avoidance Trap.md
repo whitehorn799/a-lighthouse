@@ -40,7 +40,7 @@ cssclasses:
 >1. You know what to do, but avoid doing them because you want to distance yourself from stress.
 >2. You sometimes feel confused or overwhelmed, but you know they're just excuses. 
 >3. You are a perfectionist and a procrastinator who believes that if something can't be finished perfectly, then it isn't worth starting at all.
->4. You have a series of beliefs or mindsets ([[Negative Mindsets]]) that hold you back.
+>4. You have a series of beliefs or mindsets ([[Mind Prison]]) that hold you back.
 >
 
 ^my-symptoms

@@ -11,7 +11,7 @@ aliases:
   - /observer-effects
 permalink:
 date: 2026-08-21 11:35:32
-lastmod: 2026-08-26 13:18:23
+lastmod: 2026-08-26 22:07:20
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -41,7 +41,9 @@ cssclasses:
 # In Quantum Physics
 This is a new field of study that is making new progress. 
 
-In this study, an environment, or system, exists as a probability wave. This means that the chance of finding a specific particle within that wave is infinite. The particle possesses superposition, which means it could exist anywhere within that wave at any time. For all intents, it exists everywhere in that wave at the same time. The moment that wave is measured, sensed, or observed, it collapses. It is forced by observation to choose one probable reality where the particle exists in one location.
+In this study, an environment, or system, exists as a probability wave. This means that the chance of finding a specific particle within that wave is infinite. The particle possesses superposition, which means it could exist anywhere within that wave at any time. For all intents, it exists everywhere in that wave at the same time. The moment that wave is measured, sensed, or observed, it collapses. It is forced by observation to choose one probable reality where the particle exists in one location. 
+
+Understand that what a particle becomes isn't up to you. You cannot force something to appear before you by somehow manipulating the probability wave. The physics of reality determine what the particle becomes.
 
 Comparing this to the personal power model, our unconscious existence is like a probability wave. When you don't observe, measure, or sense your [[inner world]], your emotions and behaviors exist in a chaotic, confusing cloud. The moment you bring The Witness to bear on your inner environment, you "measure" the moment, and what was a blur of chaos and automatic reactions starts to take a more definite shape. They become a single point of conscious clarity.
 

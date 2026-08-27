@@ -168,7 +168,7 @@ the real world in which everyone and everything lives ^shared-reality
 
 # N
 [[Navigation Grouping]] <BR>
-[[Negative Mindsets]] <br>
+[[Mind Prison]] <br>
 
 
 # O

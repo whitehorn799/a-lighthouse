@@ -12,7 +12,7 @@ aliases:
   - /limiting-belief
 permalink: 
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-19 10:05:44
+lastmod: 2026-08-27 16:54:48
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
@@ -40,5 +40,6 @@ I'd say believe in every power, every possibility, and every reality. It's out t
 <hr>
 
 # See Also
-- [[Negative Mindsets]][[Indoctrination vs. Intuition]]
+- [[Mind Prison]]
+- [[Indoctrination vs. Intuition]]
 - [[Therapy]]
