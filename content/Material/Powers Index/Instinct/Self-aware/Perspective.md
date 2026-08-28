@@ -12,8 +12,8 @@ aliases:
 slug:
   - perspective
 permalink:
-date: August 06, 2026 17:12
-lastmod: August 07, 2026 13:24
+date: 2026-08-27 18:42:05
+lastmod: 2026-08-28 13:40:16
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -274,8 +274,8 @@ Mary Torrans Lathrap created a popular way to say you should use your empathy to
 ^frame-ref-context-1
 
 
-### 2.2 The Details
-When we try to understand others, it can be hard to see the big idea when troubled by details. This was the monkey's problem, and this next world-famous analogy suggests that sometimes we don't recognize things when we are looking too closely at them. It symbolizes a tree as a detail of a problem and a forest as the problem itself. 
+### 2.2 Elevated Reference
+When we try to understand others, it can be hard to see the big idea when troubled by details. While details are important and should be considered, you should try not to be bogged down by them. Instead, you should aim to elevate yourself to the objective view. This was the monkey's problem, and this next world-famous analogy suggests that sometimes we don't recognize things when we are looking too closely at them. It symbolizes a tree as a detail of a problem and a forest as the problem itself. 
 
 ### 2.3 Activities
 - [[Changing Frames of Reference]]: How to understand other people 

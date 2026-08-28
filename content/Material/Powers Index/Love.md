@@ -1,23 +1,25 @@
 ---
-title: "Love"
-description: "The ultimate existence"
+title: Love
+description: The ultimate existence
 draft: false
 unlisted: false
 stealth: false
-robots: 
-password: 
-tags: 
-slug: 
+robots:
+password:
+tags:
+slug:
   - love
-aliases: 
-permalink: 
-date: August 15, 2026 18:41
-lastmod: August 17, 2026 15:33
-enableToc:  true
-cssclasses: 
+aliases:
+permalink:
+date: 2026-08-27 18:42:05
+lastmod: 2026-08-28 14:04:57
+enableToc: true
+cssclasses:
   - hide-breadcrumbs
 ---
 
+> [!cleanembed]
+> ![[love.canvas]]
 
 > [!announote|shh-note]
 > The journey starts with love because, with it, anything is possible.
