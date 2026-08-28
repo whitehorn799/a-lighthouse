@@ -12,14 +12,14 @@ slug:
 aliases:
 permalink:
 date: 2026-08-27 18:42:05
-lastmod: 2026-08-28 14:04:57
+lastmod: 2026-08-28 19:23:33
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 
 > [!cleanembed]
-> ![[love.canvas]]
+> ![[love.png|center]]
 
 > [!announote|shh-note]
 > The journey starts with love because, with it, anything is possible.
