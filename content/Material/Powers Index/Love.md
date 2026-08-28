@@ -19,7 +19,7 @@ cssclasses:
 ---
 
 > [!cleanembed]
-> ![[love.png|center]]
+> ![[love.png|full|center]]
 
 > [!announote|shh-note]
 > The journey starts with love because, with it, anything is possible.
