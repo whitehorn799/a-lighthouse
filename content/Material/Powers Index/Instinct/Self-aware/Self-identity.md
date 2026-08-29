@@ -136,7 +136,7 @@ It's important to know where you are before you begin your journey. In this sect
 <br>
 
 > [!cleanembed-title] Love as the Ultimate Environment
-> ![[Love as the Ultimate Environment#^love-environ]]
+> ![[Love#^love-environ]]
 
 ^love-environ-context
 

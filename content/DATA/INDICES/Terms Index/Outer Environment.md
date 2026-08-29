@@ -19,7 +19,7 @@ cssclasses:
 ---
 
 >[!invisiblock] 
->The [[outer environment]] (aka. shared reality or immediate environment) is everything outside of your mind. It's the interactive environment, and it's used to gain experiences through actions and consequences. It works within [[Love as the Ultimate Environment|the ultimate environment of love]] and consists of three components in this program. <br><br>
+>The [[outer environment]] (aka. shared reality or immediate environment) is everything outside of your mind. It's the interactive environment, and it's used to gain experiences through actions and consequences. It works within [[Love|the ultimate environment of love]] and consists of three components in this program. <br><br>
 >1. Micro Environment
 >2. Immediate Environment
 >3. Macro Environment

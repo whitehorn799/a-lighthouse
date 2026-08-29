@@ -12,7 +12,7 @@ aliases:
   - modules
 permalink: 
 date: 2026-08-18 20:22:20
-lastmod: 2026-08-25 14:26:42
+lastmod: 2026-08-29 13:42:12
 enableToc:  true
 cssclasses: 
 ---
@@ -133,6 +133,7 @@ Disclaimer: We don't presume to know anything, nor do we wish to tell people how
 	- The Agent: The Action
 		- Consciously-aware
 			- Ethical Agency
+			- Ecstatic Equity or Unshakable Equanimity
 			- Limitless Patience
 			- Delayed Reaction
 			- Encompassing Unity

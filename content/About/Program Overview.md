@@ -11,7 +11,7 @@ aliases:
   - /program-overview
 permalink:
 date: 2026-08-18 20:22:20
-lastmod: 2026-08-21 12:41:21
+lastmod: 2026-08-29 14:47:09
 enableToc: true
 cssclasses:
 ---
@@ -30,7 +30,7 @@ cssclasses:
 
 
 > [!cleanembed]
-> ![[Love as the Ultimate Environment#^my-block]]
+> ![[Love#^my-block]]
 
 ^prince-1
 

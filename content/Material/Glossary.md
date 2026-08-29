@@ -156,7 +156,7 @@ the real world in which everyone and everything lives ^shared-reality
 [[Learning Points]] <br>
 [[Limiting Belief Trap]] <br>
 [[Locus of Control]] <br>
-[[Love as the Ultimate Environment]] <br>
+
 
 
 # M

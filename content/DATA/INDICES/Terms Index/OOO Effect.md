@@ -50,7 +50,7 @@ Second, when you create [[The Pause|a pause]] between a situation and your respo
 
 Third, by focusing each pain without denial, you expand it so that you can accept it and overcome it. Your [[inner environment]] becomes less divided and more unified. Pains are no longer things to suppress, but stepping stones to your personal power. 
 
-Finally, everything expands so large and you process everything so well that the compartmentalized suffering transforms into an atmosphere of support, all within the [[Love as the Ultimate Environment|the ultimate environment of love]]. You stop fighting the world, and you join with it. Every experience, whether it is good or bad, pleasing or painful, is not a mistake or misstep. They are the experiences you need to expand your personal growth and be an active agent of your own life.
+Finally, everything expands so large and you process everything so well that the compartmentalized suffering transforms into an atmosphere of support, all within the [[Love|the ultimate environment of love]]. You stop fighting the world, and you join with it. Every experience, whether it is good or bad, pleasing or painful, is not a mistake or misstep. They are the experiences you need to expand your personal growth and be an active agent of your own life.
 
 <hr>
 

@@ -23,7 +23,7 @@ cssclasses:
 >Science informs us that an organism or an object can never be removed from the environment. No matter where it is, it exists within some kind of environment, whether that's an ocean or the surface of a distant moon.<br><br>
 >In this program, environment is understood in these ways. <br><br>
 >**Order of Environments**
->- [[Love as the Ultimate Environment]]
+>- [[Love]]
 >	- [[Inner Environment]]
 >	- Personal Boundaries
 >	- [[Outer Environment]]

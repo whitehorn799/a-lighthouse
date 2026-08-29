@@ -8,12 +8,10 @@ robots:
 password:
 tag:
   - trait
-slug: 
-  - 
 aliases: 
 permalink: 
-date: August 06, 2026 17:12
-lastmod: August 07, 2026 13:24
+date: 2026-08-28 23:38:57
+lastmod: 2026-08-29 15:16:52
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

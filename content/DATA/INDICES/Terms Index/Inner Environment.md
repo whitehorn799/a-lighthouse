@@ -24,7 +24,7 @@ cssclasses:
 
 > [!invisiblock] Inner Environment
 >The [[inner environment]], or internal world, is everything inside your mind. It's a private world only you can sense, and it's used to help you interact with and understand yourself. It helps you process the outer world so that you can survive it. <br><br>
->It works within [[Love as the Ultimate Environment|the ultimate environment of love]]. There are subcategories in it: instinct, logic, emotion, the Witness, and the Agent, and all of them are governed by awareness and conscience.<br>
+>It works within [[Love|the ultimate environment of love]]. There are subcategories in it: instinct, logic, emotion, the Witness, and the Agent, and all of them are governed by awareness and conscience.<br>
 > 
 
 ^my-block

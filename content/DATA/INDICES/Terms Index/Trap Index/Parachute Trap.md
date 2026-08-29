@@ -76,7 +76,7 @@ cssclasses:
 >1. Avoiding decisions while emotional and calming yourself.
 >2. Noticing the pause between your surge in emotions and the next action you take.
 >3. Taking responsibility for mistakes.
->4. Understanding that mistakes are natural in the [[Love as the Ultimate Environment|the ultimate environment of love]] and that they are required steps for true personal growth.
+>4. Understanding that mistakes are natural in the [[Love|the ultimate environment of love]] and that they are required steps for true personal growth.
 >5. Watching your thoughts and noticing the harm in actions you take.
 >
 
