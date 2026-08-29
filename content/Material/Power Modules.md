@@ -36,7 +36,7 @@ Disclaimer: We don't presume to know anything, nor do we wish to tell people how
 
 # Traits Outline
 
-- Love: The Environment
+- [[Love]]
 	- Instinct: The Self
 		- Self-aware
 			- [[Self-identity]]
