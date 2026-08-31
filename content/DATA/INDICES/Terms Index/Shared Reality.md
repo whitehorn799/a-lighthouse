@@ -1,5 +1,5 @@
 ---
-title: Outer Environment
+title: Shared Reality
 description: The world outside of your mind
 draft: false
 unlisted: false
@@ -8,18 +8,19 @@ robots:
 password:
 tags:
 aliases:
-  - /outer-environment
+  - /shared-reality
+  - outer-environment
   - shared reality
 permalink:
 date: 2026-08-18 20:22:20
-lastmod: 2026-08-26 18:10:56
+lastmod: 2026-08-31 15:15:09
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 
 >[!invisiblock] 
->The [[outer environment]] (aka. shared reality or immediate environment) is everything outside of your mind. It's the interactive environment, and it's used to gain experiences through actions and consequences. It works within [[Love|the ultimate environment of love]] and consists of three components in this program. <br><br>
+>The [[Shared Reality]] (aka. outer environment or immediate environment) is everything outside of your mind. It's the interactive environment, and it's used to gain experiences through actions and consequences. It works within [[Love|the ultimate environment of love]] and consists of three components in this program. <br><br>
 >1. Micro Environment
 >2. Immediate Environment
 >3. Macro Environment

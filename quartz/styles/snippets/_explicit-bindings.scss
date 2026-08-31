@@ -107,18 +107,9 @@ body .popover-hint {
   gap: 0rem !important;  
 }
 
-/* =========================================================================
-   High Specificity Overrides
-   ========================================================================= */
-#quartz-body .breadcrumb-element p {
-  color: var(--c-breadcrumbs-separator-color) !important;
-  font-size: var(--c-breadcrumbs-font-size) !important;
-  font-weight: 600 !important;
-  text-transform: uppercase !important;
-  text-align: center !important;
-  margin: 0 auto !important;
-  padding: 0 0.5rem !important;
-}
+
+
+
 
 /*
 ██  ██ ▄▄▄▄▄  ▄▄▄  ▄▄▄▄  ▄▄▄▄▄ ▄▄▄▄   ▄▄▄▄ 
@@ -298,6 +289,25 @@ button.encrypted-page-submit:hover {
     margin-bottom: var(--c-p-spacing, 1rem) !important;
   }
 }
+
+/* =========================================================================
+   High Specificity Overrides
+   ========================================================================= */
+#quartz-body .breadcrumb-element p {
+  color: var(--c-breadcrumbs-separator-color) !important;
+  font-size: var(--c-breadcrumbs-font-size) !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  text-align: center !important;
+  margin: 0 auto !important;
+  padding: 0 0.5rem !important;
+}
+
+#quartz-body .faintbox p {
+  margin: 0 auto !important;
+  padding: 0 0.5rem !important;
+}
+
 
 /*
 ▄█████ ▄▄▄▄▄  ▄▄▄  ▄▄▄▄   ▄▄▄▄ ▄▄ ▄▄ 

@@ -37,7 +37,7 @@ cssclasses:
 
 # Plan of Attack
 >[!invisiblock] 
->1. Explore your [[Inner Environment|inner self]] and look for your own answers through [[Self-identity]] and find what your desires are
+>1. Explore your [[Private Reality|inner self]] and look for your own answers through [[Self-identity]] and find what your desires are
 >2. Use [[SMART Goals]] to make your goals attainable
 
 ^my-block

@@ -23,8 +23,8 @@ cssclasses:
 ^my-block
 
 **Perspective** in this case refers to your ability to perceive. It represents all the various subsystems that make up [[The Witness]], which is part of the [[Faculty Grouping]] that all humans have. Within perspective are the following parts.
-- The **Subjective View** pertains to how you personally perceive the [[Inner Environment]] (aka. private reality). It's also made of smaller parts, called the [[Navigation Grouping]].
-- The **Objective View** is how you perceive and interact with the [[Outer Environment]] (aka. shared reality).
+- The **Subjective View** pertains to how you personally perceive the [[Private Reality]] (aka. private reality). It's also made of smaller parts, called the [[Navigation Grouping]].
+- The **Objective View** is how you perceive and interact with the [[Shared Reality]] (aka. shared reality).
 
 
 

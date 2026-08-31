@@ -40,14 +40,14 @@ cssclasses:
 
 <div class="redpoint">Vertical Axis</div>
 
-The vertical axis represents the [[Inner Environment]]. The uppermost region of the axis is toward a supportive unity with all within existence. It's a communal feeling of mutual respect for [[Equal-but-different]] individuals. It's driven by internal validation, and it symbolizes the ideal, or [[Absolute Self]]. 
+The vertical axis represents the [[Private Reality]]. The uppermost region of the axis is toward a supportive unity with all within existence. It's a communal feeling of mutual respect for [[Equal-but-different]] individuals. It's driven by internal validation, and it symbolizes the ideal, or [[Absolute Self]]. 
 
 The lowermost region is characteristic of extreme individualism that is driven by external validation. This is a victimhood, or a me-versus-the-world, perspective. Here we see the impulsive or relative self. 
 
 <br>
 <div class="redpoint">Horizontal Axis</div>
 
-This represents the [[Outer Environment]]. Instead of having two ends of the axis, it has several points along it. Those points are defined as your roles (sibling, mother, employee, etc.) and your peers (friends, colleagues, family, etc.). It also represents interactions with the world, such as consequences, events, and activities. 
+This represents the [[Shared Reality]]. Instead of having two ends of the axis, it has several points along it. Those points are defined as your roles (sibling, mother, employee, etc.) and your peers (friends, colleagues, family, etc.). It also represents interactions with the world, such as consequences, events, and activities. 
 
 When there are many connection points, sometimes those points fight against each other or your own principles. This can result in the feeling of being pulled in many directions at once.
 

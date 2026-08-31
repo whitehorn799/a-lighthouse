@@ -12,7 +12,7 @@ aliases:
   - the ultimate environment
 permalink:
 date: 2026-08-27 18:42:05
-lastmod: 2026-08-29 16:38:27
+lastmod: 2026-08-31 13:37:32
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -21,7 +21,7 @@ cssclasses:
 >[!invisiblock] 
 >> [!princibox] Principle 1: <br> The Ultimate Environment
 >> 
->> [[Love]] is not a passive emotion; it is the ultimate, all-accepting environment from which you will never be removed. 
+>> [[Love]] is the ultimate, all-accepting environment from which you will never be removed. It is not a passive emotion. 
 >
 >This program is centered upon love as the ultimate environment because love accepts everything and rejects nothing. It's the space in which both the light and the dark parts of human experience are allowed to exist without judgment. Every experience is valid.<br><br>
 >We are humans living human experiences. We must not look to escape the darkness or bypass hardships; we must face our darkness in the shade of our light. This means we must use our personal power to stand strong, learn, and grow. We must not run away, suppress, or hide. Since love accepts all, every failure is a step forward. 
@@ -29,25 +29,31 @@ cssclasses:
 
 ^my-block
 
+<br>
+
 >[!invisiblock|title] Moral
 >You can never be unloved.
 
 ^my-moral
 
+<br>
 
 >[!invisiblock|title] Mnemonic
 >Love accepts me.
 
 ^my-mnemonic
 
+<br>
+
 %%
 >[!invisiblock|title] Stories
 >
 
 ^my-story
+
+<br>
+
 %%
-
-
 
 
 >[!invisiblock|title] Goal
@@ -61,6 +67,8 @@ cssclasses:
 
 1. The Ultimate Environment
 2. Diagram Explanation
+
+<br>
 
 > [!announote|shh-note]
 > The journey starts with love because, with it, anything is possible.
@@ -81,7 +89,7 @@ cssclasses:
 ^love-environ
 
 
-<br>
+<hr>
 
 
 # 2. Diagram Explanation
@@ -89,8 +97,10 @@ cssclasses:
 > [!captionator|center]
 > ![[love.png|full|350]] 
 >  
-> *Love as the Ultimate Environment Diagram* 
+> *This diagram starts mapping the understanding of love.* 
 > *Click to expand!*
+
+
 
 **Step 1** <br>
 For this diagram, let's use your imagination for a second. Imagine a totally empty space; not even "nothing" exists. It's emptier than empty because the space hasn't been defined. However, it has the potential to be everything. All it needs to do is become aware of itself.
@@ -99,7 +109,9 @@ For this diagram, let's use your imagination for a second. Imagine a totally emp
 When the empty space looks inward, it becomes more defined. It becomes the Ultimate Environment. It becomes love itself, and it's the spark it needed to find its own "personal power." The Ultimate Environment can use this unlimited, all-mighty power to create anything it wishes. Suddenly, *everything* the it ever thought of bursts out in an instant fire of creation, and the flame dies just as quickly. 
 
 **Step 3**
-Now, let's look at the diagram. What you see here shows love, the Ultimate Environment, in the center. To prevent you from feeling overwhelmed, the chart doesn't display *everything* that love ever made in step 2 above. Instead, the diagram shows the most important things that love creates. Everything is created simultaneously. 
+Now, let's look at the diagram. What you see here shows love, the Ultimate Environment, in the center. To prevent you from feeling overwhelmed, the chart doesn't display *everything* that love ever made in step 2 above. Instead, the diagram shows the most important things that love creates. Everything is created simultaneously.
+
+*Connections*
 1. [[Consciousness]]: the ability to sense
 2. [[Existence]]: the ability to be
 3. [[Dimensional Reality]]: the place to be
@@ -116,7 +128,6 @@ In this space, the Ultimate Environment looks upon the human version of itself w
 
 The human is just one instance of how the love can experience itself. There are other experiences: the eagle, the redwood tree, and limitless others. At the end, love always returns from its experience of itself back into the Ultimate Environment.
 
-<hr>
 
 
 
@@ -124,6 +135,13 @@ The human is just one instance of how the love can experience itself. There are 
 <hr>
 
 # See Also
+
+**Direct Connections**
+- [[Consciousness]]
+- [[Existence]]
+- [[Dimensional Reality]]
+ 
+**Indirect Connections**
 - [[Program Overview#^prince-1|Program Overview context]]
 - [[Environments]]
 

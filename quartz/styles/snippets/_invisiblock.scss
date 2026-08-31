@@ -160,6 +160,15 @@
   margin: 0 !important;  
 }
 
+#quartz-body .callout.invisiblock .callout-content p {
+  margin: 0 !important;
+
+  &::after {
+    display: none !important;
+    content: none !important;
+    height: 0 !important;
+  }
+}
 
 /* =========================================================================
    PARSER EXTRA SPACING FIXES
@@ -192,3 +201,8 @@
   display: none !important;
 }
   */
+
+
+
+
+  

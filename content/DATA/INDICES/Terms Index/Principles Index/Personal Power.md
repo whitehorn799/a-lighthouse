@@ -23,7 +23,7 @@ cssclasses:
 >>You govern your own mind, direct your own actions, and honor your own boundaries regardless of how chaotic your inner or outer world gets. 
 >
 >
->[[Personal Power]] is not about forcing the world to bow to your wishes. It's the alignment of your internal world (values, beliefs, principles, and desires) and your external world (choices, roles, habits, and boundaries).<br><br>
+>[[Personal Power]] is not about politics or forcing the world to bow to your wishes. It's the alignment of your internal world (values, beliefs, principles, and desires) and your external world (choices, roles, habits, and boundaries).<br><br>
 >- When you don't use your personal power, you live reactively. You allow fear, other people, and excuses to make your decisions for you. You know what you should do, but what you actually do never lines up. You are like a passenger to your own life because you break promises to yourself and surrender your control.
 >- When you use your personal power, you live as a sovereign person. You understand that your private world doesn't have to match the real world. You understand almost every angle of your decisions, and you accept the consequences no matter what. You don't force the world to match your desires because you know how to reconcile differences between the internal and external realities. 
 

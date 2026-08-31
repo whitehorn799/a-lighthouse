@@ -28,8 +28,8 @@ cssclasses:
 
 >[!invisiblock] 
 >When you are feeling overwhelmed by all the possibilities that exist in the outer world, try this to calm yourself. <br><br>
->1. [[Inner Environment]]: Place your hand on your chest. Breathe in and out. Notice the environment of love. Say, "I control myself."
->2. [[Outer Environment]]: Use a sense to interact with the environment (smell, listen to, look at, taste, or touch something). Breathe in and out. Notice the environment of love. Say, "I sense what is real."
+>1. [[Private Reality]]: Place your hand on your chest. Breathe in and out. Notice the environment of love. Say, "I control myself."
+>2. [[Shared Reality]]: Use a sense to interact with the environment (smell, listen to, look at, taste, or touch something). Breathe in and out. Notice the environment of love. Say, "I sense what is real."
 >3. [[Love]]: Place your palms upward. Breathe in and out. Notice the inner peace of acceptance from love. Say, "The rest controls itself."
 
 ^my-steps

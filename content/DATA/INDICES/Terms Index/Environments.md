@@ -24,9 +24,9 @@ cssclasses:
 >In this program, environment is understood in these ways. <br><br>
 >**Order of Environments**
 >- [[Love]]
->	- [[Inner Environment]]
+>	- [[Private Reality]]
 >	- Personal Boundaries
->	- [[Outer Environment]]
+>	- [[Shared Reality]]
 
 ^my-block
 
@@ -48,7 +48,7 @@ cssclasses:
 ^human-experience
 
 1. [[Love]]
-	1. [[Inner Environment]]
+	1. [[Private Reality]]
 		1. [[Faculty Grouping]]
 			1. Instinct > Intuition
 			2. Emotion > Imagination

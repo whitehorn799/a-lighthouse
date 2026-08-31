@@ -111,12 +111,16 @@ the real world in which everyone and everything lives ^shared-reality
 
 # C
 
-[[Pressure-Relief Trap#^codependence|Codependence]]
+[[Pressure-Relief Trap#^codependence|Codependence]]<br>
+[[Consciousness]] <br>
+
 
 
 # D
 [[Desire]] <br>
 [[Desire Formula]] <br>
+[[Dimensional Reality]] <br>
+
 
 
 
@@ -126,6 +130,7 @@ the real world in which everyone and everything lives ^shared-reality
 [[Emotional Debt]] <br>
 [[Environments]]<br>
 [[Equal-but-different]] <br>
+[[Existence]] <br>
 [[Existential Drift]] <br>
 [[Expression]] <br>
 
@@ -174,6 +179,7 @@ the real world in which everyone and everything lives ^shared-reality
 # O
 [[Objective Reverence]] <br>
 [[Objective vs. Subjective Views]] <br>
+[[Objectivity]] <br>
 [[Observer Effects]] <br>
 [[OOO Model]] <br>
 
@@ -194,6 +200,7 @@ the real world in which everyone and everything lives ^shared-reality
 [[Sovereignty of Good]] <br>
 [[States]] <br>
 [[Structure]] <BR>
+[[Subjectivity]] <br>
 [[Surrogate Transcendence]] <br>
 
 

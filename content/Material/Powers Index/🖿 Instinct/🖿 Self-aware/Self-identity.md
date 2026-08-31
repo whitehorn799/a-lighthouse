@@ -13,7 +13,7 @@ slug:
 aliases:
 permalink:
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-21 12:38:28
+lastmod: 2026-08-31 15:14:31
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -144,7 +144,7 @@ It's important to know where you are before you begin your journey. In this sect
 
 
 > [!cleanembed-title] Inner Environment
-> ![[Inner Environment#^my-block]]
+> ![[Private Reality#^my-block]]
 
 
 ^inner-environ-context
@@ -158,14 +158,14 @@ Personal boundaries are what protect the inner environment from the outer enviro
 <br>
 
 > [!cleanembed-title] Outer Environment
-> ![[Outer Environment#^my-block]]
+> ![[Shared Reality#^my-block]]
 
 ^outer-environ-context
 
 <br>
 
 > [!breakout] BREAKOUT!
-> [[Outer Environment#^my-components|>>>]]
+> [[Shared Reality#^my-components|>>>]]
 
 
 ### 1.3 Conclusion
