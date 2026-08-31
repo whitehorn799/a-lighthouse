@@ -11,7 +11,7 @@ aliases:
   - /existence
 permalink:
 date: 2026-08-29 18:16:43
-lastmod: 2026-08-31 16:07:38
+lastmod: 2026-08-31 16:33:16
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -102,6 +102,20 @@ In this course, Metaphysical Existence is the result of facing death as not only
 This begins to take on a spiritual tone, but the purpose here is not to say that a particular spiritual or religious practice is correct. It's simply the idea that you have come to terms with death, and beyond that, you have a feeling that you exist in a new, nonphysical body when the physical one fails.
 
 Science hasn't proven this yet, but humans don't experience all of reality, either. Keeping this view is a healthy practice in being open-minded to what reality is like. Keep the humility of the knowledge that lies beyond the attempts of our best minds here on Earth to prove life after death.
+
+
+<hr>
+
+# Conclusion
+
+This is not a black-and-white scale where you are either physical or psychological. Everyone has both parts, and some have a deeper spiritual sense. To what degree they are used or not used is a measure of one's state of existence. The goal here is to be open-minded to being wrong about everything, even what you hold to be true for yourself.
+
+A person who leans into Physical Existence lives in the material world: a hyper-focused CEO, a high-performing pop star, or an ambitious politician. At their best, they are masters of real-world action and results. At their extreme, they can become detached from emotion and driven purely by their own accomplishments.
+
+A person who leans into Psychological Existence lives in the internal world of feeling and meaning: a reflective drifter, a spiritual seeker, or an empathetic caregiver. They seek less meaning behind riches or status and instead try understanding what it means to be alive. However, without remaining grounded to physical reality, they risk becoming dissociated with life itself.
+
+
+Instead, use the depth of your inner world to guide your actions in the outer world with the added comfort of being confident through death itself.
 
 
 <hr>

@@ -129,7 +129,10 @@ In this space, the Ultimate Environment looks upon the human version of itself w
 The human is just one instance of how the love can experience itself. There are other experiences: the eagle, the redwood tree, and limitless others. At the end, love always returns from its experience of itself back into the Ultimate Environment.
 
 
+<hr>
 
+# Conclusion
+Love is the beginning and the end, the full circle of consciousness, existence, and environments. It composes the stars in the universe just as easily as the cells in your body. You are love, and it is never distant.
 
 
 <hr>
