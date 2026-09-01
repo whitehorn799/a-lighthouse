@@ -11,7 +11,7 @@ aliases:
   - /glossary
 permalink: 
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-26 18:12:05
+lastmod: 2026-09-01 11:41:09
 enableToc:  true
 cssclasses: 
 ---
@@ -119,6 +119,7 @@ the real world in which everyone and everything lives ^shared-reality
 # D
 [[Desire]] <br>
 [[Desire Formula]] <br>
+[[Dimensional Reality#^dimensional-literacy-def|Dimensional Literacy]] <br>
 [[Dimensional Reality]] <br>
 
 

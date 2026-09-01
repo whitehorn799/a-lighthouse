@@ -13,7 +13,7 @@ aliases:
   - /sm-1
 permalink: 
 date: 2026-08-24 15:22:38
-lastmod: 2026-08-25 15:55:15
+lastmod: 2026-08-31 17:51:44
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
@@ -61,5 +61,6 @@ I help people navigate existential friction through critical thinking and a one-
 #self reflection
 #burnout
 #midlife
+self awareness
 ```
 

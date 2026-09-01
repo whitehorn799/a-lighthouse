@@ -1,6 +1,6 @@
 ---
 title: sm-3
-description: ""
+description: "Toxic positivity"
 draft: false
 unlisted: false
 stealth: false
@@ -10,10 +10,10 @@ tags:
   - post
   - existing
 aliases: 
-  - /sm-2
+  - /sm-3
 permalink: 
 date: 2026-08-24 15:22:38
-lastmod: 2026-08-27 18:07:38
+lastmod: 2026-08-31 17:27:16
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs

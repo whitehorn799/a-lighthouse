@@ -12,7 +12,7 @@ aliases:
   - the ultimate environment
 permalink:
 date: 2026-08-27 18:42:05
-lastmod: 2026-08-31 13:37:32
+lastmod: 2026-09-01 12:16:09
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -80,10 +80,17 @@ cssclasses:
 # 1. Ultimate Environment
 
 >[!invisiblock] 
-> [[Love]] is the biggest environment because everything exists within it—good and evil. It penetrates and creates everything, and it prefers unity over division. Your behaviors may be misaligned with love's preference, yet love is the all-accepting environment because it does not reject, judge, or abandon. <br><br>
->  If you feel like you are lagging behind, love waits for you to catch up. Love appreciates you; it understands who you are. It accepts you because love is inclusive. It exists even for individuals who cause harm because it acts as their chance for redemption. Without love, there would be no hope.<br><br>
-> You needn't earn love because you already have it. You will never be separated from love because it accepts you. Since unity is inclusive, the environment of love prefers progress toward unity rather than progress toward division. Love wants what is best for you, and those who prefer evil deeds may need them to grow. It may seem that you are removed from love, yet you are not. You may be blinded because of traumas; it may seem buried because of abuses, but it is waiting for you to remove the blindfold and dig it up.<br><br>
-> Science claims that an organism or an object cannot be removed from an environment. Wherever it is, it exists within an environment, whether that's in the vacuum of space or in a local lake. Since this program claims that love is an environment that contains all other environments, you cannot be separated from love. The mistakes you make are not mistakes, but exactly what you need to progress. 
+> **Biggest Environment**<br>
+> [[Love]] is the biggest environment because everything exists within it—good and evil. It penetrates and creates everything, and it prefers unity over division. Your behaviors may be misaligned with love’s preference, yet you always exist within it, whether or not you realize it. <br><br>
+> **Acceptance**<br>
+> Love is the all-accepting, inclusive environment because it does not reject, judge, or abandon. You will never be separated from love because it accepts you.  If you feel like you are lagging behind, love waits for you to catch up. Love appreciates you; it understands who you are. It exists even for individuals who cause harm because it acts as their chance for redemption. Without love, there would be no hope.<br><br>
+> **Possession**<br>
+> You needn’t earn love because you already have it. Unity binds people together, and it prefers progress toward that rather than toward division. Love wants what is best for you, and those who prefer evil deeds may need such deeds to grow toward good. At times, it may seem that you are removed from love, yet you are not. Your mindset might be blinding you because of traumas. Resultantly, love may be buried underneath your traumas, yet it waits patiently for you to remove the blindfold and dig it up.<br><br>
+> **Never Removed** <br>
+> Science claims that an organism or an object cannot be removed from an environment. Wherever it is, it exists within an environment, whether that’s in the vacuum of space or in a local lake. Since this program claims that love is an environment that contains all other environments, you cannot be separated from love. <br><br>
+> **No Mistakes**<br>
+> Life is limitations, choices, consequences, and adaptations. No matter which choice you make, there are consequences. You make the best choices you know how to avoid the worst consequences, and you learn from the results. Looking at it that way, the mistakes you make are not mistakes, but exactly what you need to progress to the next part of your life.
+ 
 > 
 
 ^love-environ
@@ -105,10 +112,11 @@ cssclasses:
 **Step 1** <br>
 For this diagram, let's use your imagination for a second. Imagine a totally empty space; not even "nothing" exists. It's emptier than empty because the space hasn't been defined. However, it has the potential to be everything. All it needs to do is become aware of itself.
 
-**Step 2** <br>
+**Step 2** <br> 
 When the empty space looks inward, it becomes more defined. It becomes the Ultimate Environment. It becomes love itself, and it's the spark it needed to find its own "personal power." The Ultimate Environment can use this unlimited, all-mighty power to create anything it wishes. Suddenly, *everything* the it ever thought of bursts out in an instant fire of creation, and the flame dies just as quickly. 
+^step-2
 
-**Step 3**
+**Step 3**<br>
 Now, let's look at the diagram. What you see here shows love, the Ultimate Environment, in the center. To prevent you from feeling overwhelmed, the chart doesn't display *everything* that love ever made in step 2 above. Instead, the diagram shows the most important things that love creates. Everything is created simultaneously.
 
 *Connections*
@@ -118,16 +126,10 @@ Now, let's look at the diagram. What you see here shows love, the Ultimate Envir
 
 At this moment, everything has the ability to sense, be, and a place to live. You are included in this moment in the diagram, and this is perhaps the highest form of existence. Here, you might be omnipotent, omnipresent, and more. 
 
-**Step 4**
-Imagine that you are the Ultimate Environment. You have unlimited power to create, and you are timeless. You have done everything, created it all, and experienced it all. The problem is that you have no limitations, and everything was too easy. You have all the power of existence, yet you can't find a meaning behind it all. There's no purpose to try anything because it's been done. In step 2, every atom was designed, every natural force was made, and every organism was invented. Every possible choice, consequence, and moment that ever could be has already happened in step 2. 
+> [!cleanembed-title] Step 4: The Fractured Mirror Analogy
+> ![[Fractured Mirror Analogy#^my-block]]
 
-What do you do now? You make it harder for yourself. You make a smaller consciousness than your own all-knowing one. You put the consciousness into a physical body, like a human. You designed limitations for that body, so that you can experience your created universe through another perspective. This time, this human perspective is not all-powerful, it struggles in physical environments and time, and searches for something bigger than itself.
-
-**Step 5**
-In this space, the Ultimate Environment looks upon the human version of itself with love because it *is* that human. The human looks up to the Ultimate Environment because it feels its presence. Both of them are looking for meaning and purpose, love does this vicariously and the human does this physically. Both of them seek to grow, learn, and improve in the sovereignty of good, the unifying force of respectful forward progress.
-
-The human is just one instance of how the love can experience itself. There are other experiences: the eagle, the redwood tree, and limitless others. At the end, love always returns from its experience of itself back into the Ultimate Environment.
-
+^fractured-mirror-context
 
 <hr>
 

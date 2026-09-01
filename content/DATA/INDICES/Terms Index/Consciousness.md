@@ -11,14 +11,14 @@ aliases:
   - /consciousness
 permalink:
 date: 2026-08-29 17:05:12
-lastmod: 2026-08-31 14:58:20
+lastmod: 2026-09-01 10:04:03
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 
 >[!invisiblock|title] Definition
-> In this program, consciousness is how you sense, interpret, and learn. It's the sum of all your experiences of existence.
+> How you sense, interpret, and learn; the sum of all your experiences 
 >
 ^my-def
 
