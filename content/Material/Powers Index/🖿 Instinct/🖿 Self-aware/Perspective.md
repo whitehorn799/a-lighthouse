@@ -13,7 +13,7 @@ slug:
   - perspective
 permalink:
 date: 2026-08-27 18:42:05
-lastmod: 2026-08-28 13:40:16
+lastmod: 2026-09-01 14:10:34
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -187,16 +187,16 @@ If you were ever lost in a maze, you may think to get to a higher ground. This g
 If you are lost in life, it's a good idea to change your vantage point, but first understand how limiting they are.
 
 #### Your Vantages
-There are at least two vantage points you get for being a human being on planet Earth: the view from your two eyes (the [[subjective view]]) and the view of your inner world (the [[private reality]]).
+There are at least two vantage points you get for being a human being on planet Earth: the view from your two eyes (the [[Subjectivity#1. Subjective View|subjective view]]) and the view of your inner world (the [[private reality]]).
 ^private-subject-context
 
 > [!cleanembed] Subjective View
-> ![[Objective vs. Subjective Views#^subject-view]]
+> ![[Subjectivity#^subject-view]]
 
 <br>
 
 > [!cleanembed] 
-> ![[Objective vs. Subjective Views#^private-subject]]
+> ![[Subjectivity#^private-subject]]
 >  
 
 <br>

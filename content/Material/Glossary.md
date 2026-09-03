@@ -1,5 +1,5 @@
 ---
-title: "Glossary"
+title: "3. Glossary"
 description: "A dictionary of terms"
 draft: false
 unlisted: false
@@ -11,7 +11,7 @@ aliases:
   - /glossary
 permalink: 
 date: 2026-08-15 18:41:14
-lastmod: 2026-09-01 11:41:09
+lastmod: 2026-09-03 12:21:02
 enableToc:  true
 cssclasses: 
 ---
