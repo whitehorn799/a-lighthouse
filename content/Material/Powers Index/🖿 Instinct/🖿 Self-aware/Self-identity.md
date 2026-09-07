@@ -8,9 +8,8 @@ robots:
 password:
 tags:
   - trait
-slug:
-  - self-identity
 aliases:
+  - /self-identity
 permalink:
 date: 2026-08-15 18:41:14
 lastmod: 2026-08-31 15:14:31
