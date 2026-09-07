@@ -1,6 +1,6 @@
 ---
-title: 1. Start Here
-description: Flowcharts!
+title: "1. Start Here"
+description: "Flowcharts!"
 draft: false
 unlisted: false
 stealth: false
@@ -11,10 +11,9 @@ aliases:
   - /love-map
 permalink:
 date: 2026-09-02 21:58:02
-lastmod: 2026-09-03 22:07:26
+lastmod: 2026-09-04 19:24:28
 enableToc: true
 cssclasses:
-  - hide-breadcrumbs
 ---
 
 %%
@@ -78,15 +77,10 @@ The first tool is called [[Faculty]]. It describes natural abilities that come w
 - [[The Agent]]
 
 **Picnic Baskets** <br>
-The second tool is more like a series of specialized toolsets. We like to call these "picnic baskets" (or simply "baskets") because each group cherry picks specific personal power traits, just like a picnic basket would have a variety of foods.
-- [[Needs Basket]]
-- [[Defense Basket]]
-- [[Expectations Basket]]
-- [[Purpose Basket]]
-- [[Circumstances Basket]]
-- [[Self-identity Basket]]
-- [[Thinking Basket]] (cognitive load)
-- [[Responsible Basket]] (accountability, acceptance)
+The second tool is more like a series of specialized toolsets. We like to call these "[[Picnic Baskets]]" (or simply "baskets") because each group cherry picks specific personal power traits, just like a picnic basket would have a variety of foods.
+
+For example, the [[Defense Basket]] holds all the tools needed to protect you, such as rationalization, lying, and deflections. 
+
 
 **Inner Observatory** <br>
 This third tool is themed around observations. It includes the Observation Deck (or Subjective Consciousness) and the Telescope (Objective Consciousness). Since subjectivity is a lower skill than objectivity, everyone starts at the first step.
@@ -118,4 +112,8 @@ It may take effort to move from the lower subjective view to the higher objectiv
 - [[Inspiration]]
 
 ## Objectivity
-This is the view of the real world. It's a tool of the [[Shared Reality]], and it describes how things interact with each other based on certain rules, like time and physics.
+This is the view of the real world. It's a tool of the [[Shared Reality]], and it describes how things interact with each other based on certain rules, like time and physics. [[Objectivity]] is the view that everyone generally agrees to be true for the most people.
+
+
+
+
