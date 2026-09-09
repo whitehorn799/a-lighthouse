@@ -1,2 +1,2 @@
 > [!breakout] BREAKOUT!
-> [[Self-identity Cross#^cross-breakout|>>>]]
+> [[Self-identity Diagram#^cross-breakout|>>>]]

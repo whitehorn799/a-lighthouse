@@ -1,75 +1,46 @@
 ---
-title: ""
-description: ""
-draft: true
+title: Emotion
+description: About how you feel
+draft: false
 unlisted: false
 stealth: false
-robots: 
-password: 
-tags: 
-slug: 
-aliases: 
-permalink: 
-date: August 15, 2026 18:41
-lastmod: August 17, 2026 15:31
-enableToc:  true
-cssclasses: 
+robots:
+password:
+tags:
+aliases:
+  - /emotion
+permalink:
+date: 2026-09-07 11:03:04
+lastmod: 2026-09-09 13:49:00
+enableToc: true
+cssclasses:
   - hide-breadcrumbs
 ---
 
+>[!invisiblock|title] Definition
+> The feelings you have as part a subjective experience in response to the psychological friction stemming from objective reality
+>
+^my-def
 
-> [!warning] Work in Progress
-> This page is [[unfinished]]. Please check back later!
+>[!invisiblock] 
+>This ability consists your reactions to reality and the consequences it gives us. When your inner world of expectations doesn't match what you actually get, you experience [[Psychological Friction]]. 
 
 
-%% **Collector Tag** >>[[]] %%
 
-%% [[tmp 00 supplement lesson]] %%
+Emotions are our method to cope with what we can't control in reality. A Learner knows this, and instead of living in despair in a world full of limitations, they manipulate the only thing they can control: their choices.
+
+Emotions are challenging, and we don't need to learn how to feel them. Instead, we need to learn how to understand them, how to appreciate the difficult lessons they teach, and how to let go of them when we accept their lessons. 
 
 > [!info|scimitar sheath]
-> ALSO KNOWN AS
-> SPECIAL
+> Emotions want to be acknowledged, loved, and they want their freedom. When we ignore or hide them, we get sick mentally and physically. <br><br>
+>xxx
 
-> [!agenda-subjectivity] # Overview
->    
-> **Moral**
-> Self  
-> 
-> **Definition**  
-> This
-> <br>
-> 
-> **Captain Theme**
-> You 
-> 
-> **Mnemonic**
-> You 
-> <br>
-> 
-> **Location**
-> You 
-> 
-> **Icon:** <span class="inline-icons icon-powers-NAME"></span>  
-
-
-
-> [!agenda-NAME|no-icon] # Agenda
-> 1. test
-> 2. test
-> 3. test
-
-<hr>
-
-> [!videobox]- STORY CONNECTION
-> **Word Count:** 505
-> **Duration 140wpm: 3:36** 
-> 
-
-<hr>
+^my-block
 
 
 
 
+%%
 # Emotions
 
 Partially AI GENERATED
@@ -103,3 +74,5 @@ Partially AI GENERATED
 	- *The Message:* "Good try, but it needs more time."
 15. Hopelessness: A deeper, darker state where you believe that things are bad, they will *never* get better, and nothing you do can change it.
 	- *The Message:* "Things can get better, but we have to accept some hard truths."
+
+%%

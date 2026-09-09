@@ -11,7 +11,7 @@ aliases:
   - /home
 permalink:
 date: 2026-08-18 20:22:20
-lastmod: 2026-08-20 13:26:51
+lastmod: 2026-09-07 14:06:47
 enableToc: true
 cssclasses:
   - hide-article-title
@@ -33,7 +33,7 @@ cssclasses:
 <div class="announce-it" style="padding: 0.4rem 0; margin: 0 auto 1rem auto !important; color: rgba(0,0,0, 0.6); font-size: 0.9rem !important; text-align: justify !important; align-self: center !important; max-width: 225px; width: 75%;">
 Have you ever wondered who you are? Do you feel exhausted from struggling to find motivation? It’s time to stop shouting at obstacles in your life and start flowing around them. Stop the idea of chasing happiness and realize you are already a complete person.<br><br>
 Learn to embrace the dark parts of you just as well as the light parts. In the shade, where the light meets the dark, reclaim your right to the knowledge you have been denied. <br><br> 
-Remember, you needn’t enter A Lighthouse; you needn’t go toward it. Keep it in sight, and avoid the traps. We will not chase you; we will not lure you; we will not trap you. This is not about religion, magic, mysticism, New Age spirituality, or toxic positivity. This is about the power already within you.
+Remember: you needn’t enter a lighthouse to use it; you needn’t go toward it. Keep it in sight to avoid the rocks. We will not chase you; we will not lure you; we will not trap you. This is not about religion, magic, mysticism, New Age spirituality, or toxic positivity. This is about using both the light and the dark sides of you to recognize the power that is already within you.
 </div> 
 
 <div class="announce-it" style="padding: 0.2rem 0 0 0; margin: 1.0rem auto !important; text-align: center; color: rgba(0,0,0, 0.6); font-size: 1.1rem !important; align-self: center !important; max-width: 250px; width: 90%;">Welcome to the customized personal-growth program.</div>

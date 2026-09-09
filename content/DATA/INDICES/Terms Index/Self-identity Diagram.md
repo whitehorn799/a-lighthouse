@@ -1,5 +1,5 @@
 ---
-title: "Self-identity Cross"
+title: "Self-identity Diagram"
 description: "Self-identity mapped"
 draft: false
 unlisted: false
@@ -8,10 +8,10 @@ robots:
 password: 
 tags: 
 aliases:
-  - /self-identity-cross
+  - /self-identity-diagram
 permalink: 
 date: 2026-08-18 20:22:20
-lastmod: 2026-08-26 18:11:24
+lastmod: 2026-09-09 14:32:19
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
@@ -53,7 +53,7 @@ When there are many connection points, sometimes those points fight against each
 
 If you are entirely based in the external world, you give control over your validation to the people around you and the events in your life. You may be an ego-driven person, and you may have a narrow perspective on the world. You value merit, recognition, and competition. You get validation from material rewards, such as praise, reputation, or possessions. 
 
-In the program, this is a [[Self-identity Cross|lateral movement]] because it symbolizes interactions with events and otherwise [[Equal-but-different|equal-but-different]] people. It's a feature of the "relative self".
+In the program, this is a [[Self-identity Diagram|lateral movement]] because it symbolizes interactions with events and otherwise [[Equal-but-different|equal-but-different]] people. It's a feature of the "relative self".
 ## Balance the Axes
 The task of balancing the two ends of the internal world axis and the various points along the external world axis is complex. The idea is to try to maintain a strong sense of internal validation while also making and maintaining connections with what it means to be a human in this life right now. 
 
@@ -76,3 +76,15 @@ Idealist or victim, these are the extremes of life. Survival depends on your abi
 
 - [[Self-identity#2.1 Validation|The self-identity cross in context]]
 - [[Environments]]
+
+
+
+
+Link to Validation
+
+>[!invisiblock|title] Self-identity Cross
+>If you are firmly based in the outer environment, you give control over your validation to things outside of yourself, such as people, reputation, possessions, or other worldly things. You may not feel a strong connection to the work you do, but the rewards and attention that you get. Your perspective on the world may be narrowly focused on achieving influential goals. You might be totally ignoring the inner environment.<br><br>
+>In this program, this is illustrated as a [[Self-identity Diagram|horizontal movement]], an expansion or shrinkage within the outer world. It's a feature of the "relative self".
+>
+
+^outer-environ-cross

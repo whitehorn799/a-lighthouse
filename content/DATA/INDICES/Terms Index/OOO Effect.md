@@ -12,7 +12,7 @@ aliases:
   - Observer Observing the Observed
 permalink:
 date: 2026-08-18 20:22:20
-lastmod: 2026-08-26 17:57:50
+lastmod: 2026-09-09 13:38:48
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -65,7 +65,7 @@ Finally, everything expands so large and you process everything so well that the
 # OOO Walkthrough
 Imagine standing in a pitch-black room. The darkness represents a lack of consciousness. 
 
-Now, let’s say that a dim light has been switched on, and it fills the room with a soft glow. You passively notice the shapes of objects, but nothing stands out. This ambient lighting represents your Awareness, the background state of being present. This connects to The Witness in the Faculty Grouping. 
+Now, let’s say that a dim light has been switched on, and it fills the room with a soft glow. You passively notice the shapes of objects, but nothing stands out. This ambient lighting represents your Awareness, the background state of being present. This connects to The Witness in the Faculty. 
 
 Suddenly, you notice a faint, orangish light that you didn’t see before. Your eyes snap to it, and you pay close Attention to it. This is an automatic decision based on survival because your brain is attracted to movement and light, which connects to Instinct. Attention takes a bit more energy than simple awareness.
 

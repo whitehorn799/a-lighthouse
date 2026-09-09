@@ -13,7 +13,7 @@ slug:
   - perspective
 permalink:
 date: 2026-08-27 18:42:05
-lastmod: 2026-09-01 14:10:34
+lastmod: 2026-09-09 13:58:09
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -214,7 +214,7 @@ As with your vantages, there are at least two *more* vantage points for being a 
 ^shared-object-context
 
 > [!cleanembed] Objective View
-> ![[Objective vs. Subjective Views#^object-view]]
+> ![[Objectivity#^object-view]]
 
 <br>
 

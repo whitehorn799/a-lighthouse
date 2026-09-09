@@ -11,7 +11,7 @@ aliases:
   - /instinct
 permalink:
 date: 2026-08-29 18:16:43
-lastmod: 2026-09-03 11:34:17
+lastmod: 2026-09-09 13:42:33
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -33,7 +33,8 @@ cssclasses:
 
 # See Also
 **Direct Connections**
-- 
+- [[Faculty]]
 
 **Indirect Connections**
-- 
+- [[Intuition]]
+- [[Attention]]

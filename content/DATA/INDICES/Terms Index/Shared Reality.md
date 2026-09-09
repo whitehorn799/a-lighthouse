@@ -8,61 +8,62 @@ robots:
 password:
 tags:
 aliases:
-  - /shared-reality
-  - outer-environment
-  - shared reality
+  - /shared reality
+  - outer environment
+  - real world
+  - Sandbox
 permalink:
-date: 2026-08-18 20:22:20
-lastmod: 2026-08-31 15:15:09
+date: 2026-08-29 18:16:43
+lastmod: 2026-09-09 14:28:11
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 
->[!invisiblock] 
->The [[Shared Reality]] (aka. outer environment or immediate environment) is everything outside of your mind. It's the interactive environment, and it's used to gain experiences through actions and consequences. It works within [[Love|the ultimate environment of love]] and consists of three components in this program. <br><br>
->1. Micro Environment
->2. Immediate Environment
->3. Macro Environment
+>[!invisiblock|title] Also Known As
+- Sandbox
+- Outer Environment or World
+- Real World <br><br>
+^my-aka
+
+
+>[!invisiblock|title] Definition
+> The material reality that is observed and agreed upon by a group
 >
+^my-def
+
+>[!invisiblock] 
+> This is the world you inhabit together with other people, objects, and places—from vast galaxies to small atoms. It is the outer landscape of physical facts, places, and events that multiple observers can experience. The shared reality requires that living beings survive through interactions and that conscious beings agree about their observations.<br><br>
+>The outer world is shaped by time, space, physics, matter, and light, and it is constantly changed by interactions—cause and effect, choices and consequence, and action and feedback. It's makes up the external environment: the physical universe, states of being, and the socio-cultural spaces we live in.<br><br> 
+> The shared reality is a neutral teacher: it does not favor us, nor does it despise us. However, the systems behind it retain nearly full control of what happens to us. 
+
 ^my-block
+
+<hr>
 
 # Components
 
-^my-components
+**Environments**<br>
+[[Environments]] are the arenas, or spaces, in which everything outside of your mind—objects and organisms—exist. These are interactive and measurable, and they are where you gain experiences.
+
+<hr>
 
 
->[!invisiblock|title] Micro Environment
->The micro (small) environment the smallest in physics. It's everything that is much smaller than you can see with your eye. It contains the cells in your body, bacteria, and other really small things. Only things in quantum physics are smaller than the micro environment.<br><br>
->Both the micro and macro environments are the worlds that you saw stretched across the [[Scale of the Universe]] presentation. These may not play role in your life that you can immediately notice, but they help to establish the rules of reality.
-
-^micro-environ
-
->[!invisiblock|title] Immediate Environment
->This environment contains everything that is around you that relates to your life. The things in this environment actually affect your life: your country, culture, traditions, family, friends, career, and things going on the Earth itself (like weather, wars, and such). You notice more things in this environment, but you are also blind to some things.
-
-^immediate-environ
-
-
->[!invisiblock|title] Macro Environment
->The macro (big) environment is everything that is much bigger than you. This includes things like planets, stars, galaxies, and so on, not buildings. This is works inside classical physics.
-
-^macro-environ
-
-# Link to Validation
-
->[!invisiblock|title] Self-identity Cross
->If you are firmly based in the outer environment, you give control over your validation to things outside of yourself, such as people, reputation, possessions, or other worldly things. You may not feel a strong connection to the work you do, but the rewards and attention that you get. Your perspective on the world may be narrowly focused on achieving influential goals. You might be totally ignoring the inner environment.<br><br>
->In this program, this is illustrated as a [[Self-identity Cross|horizontal movement]], an expansion or shrinkage within the outer world. It's a feature of the "relative self".
->
-
-^outer-environ-cross
-
+# 
 
 
 
 <hr>
 
 # See Also
-- [[Environments]] 
-- [[Self-identity Cross]]
+**Direct Connections**
+- [[Objectivity]]
+- [[Existence]]
+- [[Consciousness]]
+- [[Dimensional Reality]]
+- [[Psychological Friction]]
+- [[Environments]]
+
+**Indirect Connections**
+- [[Private Reality]]
+- [[Self-identity Diagram]]

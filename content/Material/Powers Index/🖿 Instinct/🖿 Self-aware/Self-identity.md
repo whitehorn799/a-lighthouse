@@ -203,12 +203,12 @@ You are never separated from love, even if you feel that you are. You cannot see
 
 ^validation-context-1
 
-A person stands between an internal and external world. We can picture these relationships by looking at an illustration called the [[Self-identity Cross]].
+A person stands between an internal and external world. We can picture these relationships by looking at an illustration called the [[Self-identity Diagram]].
 
 ^self-identity-cross-context-1
 
 > [!breakout] BREAKOUT!
-> [[Self-identity Cross#^cross-breakout|>>>]]
+> [[Self-identity Diagram#^cross-breakout|>>>]]
 
 #### For Youngsters and the Sheltered
 If you are a young person, knowing who you are can start any time you are ready to ask these questions. 

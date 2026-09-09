@@ -11,7 +11,7 @@ aliases:
   - /love-map
 permalink:
 date: 2026-09-02 21:58:02
-lastmod: 2026-09-04 19:24:28
+lastmod: 2026-09-09 13:35:27
 enableToc: true
 cssclasses:
 ---
@@ -70,11 +70,7 @@ This is a tool of the [[Private Reality]]. It's your personal view of your inner
 
 **Faculty** <br>
 The first tool is called [[Faculty]]. It describes natural abilities that come with being a human in the world. You use them to experience life and your environment. These will help you find your personal power.
-- [[Instinct]]
-- [[Emotion]]
-- [[Logic]]
-- [[The Witness]]
-- [[The Agent]]
+
 
 **Picnic Baskets** <br>
 The second tool is more like a series of specialized toolsets. We like to call these "[[Picnic Baskets]]" (or simply "baskets") because each group cherry picks specific personal power traits, just like a picnic basket would have a variety of foods.
@@ -113,6 +109,12 @@ It may take effort to move from the lower subjective view to the higher objectiv
 
 ## Objectivity
 This is the view of the real world. It's a tool of the [[Shared Reality]], and it describes how things interact with each other based on certain rules, like time and physics. [[Objectivity]] is the view that everyone generally agrees to be true for the most people.
+
+**Sandbox** <br>
+This is the "play area" for everything, which is why it's called the Sandbox. It is the container for space, time, and physics. It's within the Sandbox we all share reality together.
+
+Within the Sandbox is the [[Feedback Loop]] that consists of limitations, actions/events, and consequences. The Feedback Loop contributes to Psychological Friction.
+
 
 
 

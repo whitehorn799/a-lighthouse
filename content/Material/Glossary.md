@@ -11,7 +11,7 @@ aliases:
   - /glossary
 permalink: 
 date: 2026-08-15 18:41:14
-lastmod: 2026-09-03 12:21:02
+lastmod: 2026-09-09 14:29:21
 enableToc:  true
 cssclasses: 
 ---
@@ -85,11 +85,6 @@ an act, behavior, or situation that irritates you ^peeve
 [[Self-Love#^principle|Principle]]
 a boundary that you set for yourself ^principle
 
-**Private Reality:**
-every belief, opinion, and practice that is true for you ^private-reality
-
-**Shared Reality:**
-the real world in which everyone and everything lives ^shared-reality
 
 %%
 
@@ -136,7 +131,7 @@ the real world in which everyone and everything lives ^shared-reality
 [[Expression]] <br>
 
 # F
-[[Faculty Grouping]] <BR>
+[[Faculty]] <BR>
 [[Frame of Reference]] <BR>
 [[Psychological Friction]] <br>
 
@@ -179,7 +174,6 @@ the real world in which everyone and everything lives ^shared-reality
 
 # O
 [[Objective Reverence]] <br>
-[[Objective vs. Subjective Views]] <br>
 [[Objectivity]] <br>
 [[Observer Effects]] <br>
 [[OOO Model]] <br>
@@ -188,11 +182,11 @@ the real world in which everyone and everything lives ^shared-reality
 
 [[Personal Boundaries]] <BR>
 [[Personal Power]] <br>
-[[Private vs. Shared Reality]] <br>
+[[Private Reality]]<br>
 
 
 # S
-
+[[Shared Reality]] <br>
 [[Six-String Guitar]] <br>
 [[Socratic Dialectic]] <br>
 [[Socratic Elenchus]] <br>

@@ -16,11 +16,32 @@ aliases:
   - private reality
 permalink:
 date: 2026-08-17 12:37:42
-lastmod: 2026-08-31 15:15:31
+lastmod: 2026-09-09 14:09:56
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
+
+>[!invisiblock|title] Private Reality
+>A private reality represents what is true in your mind. This is why it's also called the "inner" reality because only you can sense it, just like you cannot see anyone else's. <br><br>
+>This inner world is shaped by your psyche, which is the collection of your thoughts, dreams, aspirations, and emotions. It changes through willpower, experience, and education, and it can be influenced by your physical body. <br><br>
+>You can use logic to look into your private reality, but it can't feel it. Think of the inner world as a chaotic dream, while logic is a detective peering in and trying to make sense of it all. The logic interpreting the chaos can structure the dream by organizing it, but it could also be flawed and totally wrong. Therefore, you can use logic to detect patterns, but don't entirely disconnect from emotions to do so.
+
+^private-real
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 > [!invisiblock] Inner Environment
 >The [[Private Reality]], or inner environment or inner world, is everything inside your mind. It's a private world only you can sense, and it's used to help you interact with and understand yourself. It helps you process the outer world so that you can survive it. <br><br>
@@ -43,7 +64,7 @@ cssclasses:
 # Link to Validation
 >[!invisiblock|title] Self-identity Cross
 >If you are firmly based in the inner environment, you give control over your validation to yourself. By doing so, you rely on the deep, personal connection to your "soul", or your core being on an existential level. You may feel deep, meaningful connections with your purpose in life, people, and places. You may have a very wide perspective on the external world. <br><br>
->In this program, this is illustrated as a [[Self-identity Cross|vertical movement]], a transcendence above the outer world or an immanence with it. It's a feature of the "absolute self".
+>In this program, this is illustrated as a [[Self-identity Diagram|vertical movement]], a transcendence above the outer world or an immanence with it. It's a feature of the "absolute self".
 >
 
 ^inner-environ-cross

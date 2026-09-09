@@ -15,7 +15,7 @@ cssclasses:
 
 AKA separate vs connected self
 
-This is a chart to describe the difference between internal and external validations. These are illustrated on the [[Self-identity Cross]] as the vertical axis.
+This is a chart to describe the difference between internal and external validations. These are illustrated on the [[Self-identity Diagram]] as the vertical axis.
 
 
 

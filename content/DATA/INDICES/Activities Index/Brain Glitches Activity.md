@@ -17,7 +17,7 @@ aliases:
   - incremental habituation
 permalink:
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-18 19:13:57
+lastmod: 2026-09-09 13:55:49
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -81,7 +81,7 @@ As you can see, the more aware you are about your state, the more information yo
 <hr>
 
 # See Also
-- [[Objective vs. Subjective Views|Objective View]]
+- [[Objectivity]]
 - [[Perspective]]
 - [[Self-aware]]
 - [[OOO Effect]]

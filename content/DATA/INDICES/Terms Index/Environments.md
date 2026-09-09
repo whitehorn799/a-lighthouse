@@ -12,11 +12,19 @@ aliases:
   - /environments
 permalink:
 date: 2026-08-17 12:41:13
-lastmod: 2026-08-26 15:48:45
+lastmod: 2026-09-09 14:30:27
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
+
+
+
+
+
+
+
+
 
 >[!invisiblock] 
 >Environments are what are inside of us and around us. They help shape our world both inside and outside of us.<br><br>
@@ -49,7 +57,7 @@ cssclasses:
 
 1. [[Love]]
 	1. [[Private Reality]]
-		1. [[Faculty Grouping]]
+		1. [[Faculty]]
 			1. Instinct > Intuition
 			2. Emotion > Imagination
 			3. Logic > Imagination
@@ -68,6 +76,23 @@ cssclasses:
 
 
 
+
+>[!invisiblock|title] Micro Environment
+>The micro (small) environment the smallest in physics. It's everything that is much smaller than you can see with your eye. It contains the cells in your body, bacteria, and other really small things. Only things in quantum physics are smaller than the micro environment.<br><br>
+>Both the micro and macro environments are the worlds that you saw stretched across the [[Scale of the Universe]] presentation. These may not play role in your life that you can immediately notice, but they help to establish the rules of reality.
+
+^micro-environ
+
+>[!invisiblock|title] Immediate Environment
+>This environment contains everything that is around you that relates to your life. The things in this environment actually affect your life: your country, culture, traditions, family, friends, career, and things going on the Earth itself (like weather, wars, and such). You notice more things in this environment, but you are also blind to some things.
+
+^immediate-environ
+
+
+>[!invisiblock|title] Macro Environment
+>The macro (big) environment is everything that is much bigger than you. This includes things like planets, stars, galaxies, and so on, not buildings. This is works inside classical physics.
+
+^macro-environ
 
 <hr>
 

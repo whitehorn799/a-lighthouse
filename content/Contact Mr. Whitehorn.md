@@ -10,7 +10,7 @@ tags:
 aliases:
   - /contact-mr-whitehorn
 date: 2026-08-18 20:22:20
-lastmod: 2026-08-24 16:02:27
+lastmod: 2026-09-09 13:24:04
 enableToc: true
 cssclasses:
 ---
@@ -35,8 +35,9 @@ Email [general comments](mailto:contact@a-lighthouse.org) here if you want to se
 >- [Discord](https://discord.gg/AbBmWFvr7v)<br>
 >	- For now, the Discord server is not a place to chat but to publish announcements and updates.
 >- [YouTube](https://www.youtube.com/@A-Lighthouse) 
->- [X](https://x.com/ALighthouse4PG)
+>- [Substack](https://substack.com/@alighthous4pg?r=91ohqu&utm_campaign=profile&utm_medium=profile-page)
 >- [Threads](https://www.threads.com/@alighthouse4pg) %%[Instagram](https://www.instagram.com/a_lightouse/) %%
+>- [Tuhat](https://tuhat.net/@a-lighthouse)
 
 ^my-socials
 
