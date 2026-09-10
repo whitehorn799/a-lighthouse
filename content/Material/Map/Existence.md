@@ -11,11 +11,15 @@ aliases:
   - /existence
 permalink:
 date: 2026-08-29 18:16:43
-lastmod: 2026-08-31 16:33:16
+lastmod: 2026-09-10 18:15:15
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
+  - show-active-exp
 ---
+>[!invisiblock] Love Map
+> [[Love Map|Map]] > [[Existence]] _You are here!_ <br><br>
+
 
 >[!invisiblock|title] Definition
 >The ability to be, experience, or play a role in the world

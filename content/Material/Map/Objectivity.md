@@ -36,7 +36,7 @@ cssclasses:
 >
 >^object-view
 >
->The objective view is linked to the [[shared reality]], where all things exist together. 
+>The objective view is linked to the [[Shared Reality]], where all things exist together. 
 ^shared-object
 
 <hr>

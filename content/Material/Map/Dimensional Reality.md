@@ -9,18 +9,28 @@ password:
 tags:
 aliases:
   - /dimensional-reality
+  - Sandbox
 permalink:
 date: 2026-08-31 13:40:50
-lastmod: 2026-09-01 11:59:15
+lastmod: 2026-09-10 18:17:23
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
+>[!invisiblock] Love Map
+> [[Love Map|Map]] > [[Dimensional Reality]] _You are here!_ <br><br>
+^breadtrail
 
 >[!invisiblock|title] Definition
 > The background container for all consciousness and existence; balance between the realities
 >
 ^my-def
+
+<br>
+
+>[!invisiblock|title] Also Known As
+- the Sandbox
+^my-aka
 
 <hr>
 

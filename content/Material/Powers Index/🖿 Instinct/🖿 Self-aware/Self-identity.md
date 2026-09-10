@@ -115,7 +115,7 @@ These are the focus of this lesson. Just under the questions are the [[Misery Po
 ### 1.1 Scale
 ^universe-scale
 
-It's important to know where you are before you begin your journey. In this section, you take a look around existence as we know it. You understand your location and your relationship to your [[environments]].
+It's important to know where you are before you begin your journey. In this section, you take a look around existence as we know it. You understand your location and your relationship to your [[Environments]].
 
 > [!cleanembed]
 > ![[Scale of the Universe#^my-block]]

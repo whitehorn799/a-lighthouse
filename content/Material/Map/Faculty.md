@@ -14,7 +14,7 @@ date: 2026-09-09 13:30:40
 lastmod: 2026-09-09 13:37:08
 enableToc: true
 cssclasses:
-  - hide-breadcrumbs
+
 ---
 
 >[!invisiblock|title] Definition

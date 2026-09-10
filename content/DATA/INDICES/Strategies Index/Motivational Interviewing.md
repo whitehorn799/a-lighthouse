@@ -25,7 +25,7 @@ cssclasses:
 ^my-block
 
 # How We Use It
-We are not medical professionals. We feel this method is a good way to help a person who feels lost in life and doesn't know where to start. We use this method to show how their [[private reality]] feels supportive, but the [[shared reality]] feels limiting. We further use this to show how staying the same only repeats a pattern, while taking active steps changes things even if doing so is hard. We do this without judgment and with patience and understanding.
+We are not medical professionals. We feel this method is a good way to help a person who feels lost in life and doesn't know where to start. We use this method to show how their [[Private Reality]] feels supportive, but the [[Shared Reality]] feels limiting. We further use this to show how staying the same only repeats a pattern, while taking active steps changes things even if doing so is hard. We do this without judgment and with patience and understanding.
 
 <hr>
 

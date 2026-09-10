@@ -187,7 +187,7 @@ If you were ever lost in a maze, you may think to get to a higher ground. This g
 If you are lost in life, it's a good idea to change your vantage point, but first understand how limiting they are.
 
 #### Your Vantages
-There are at least two vantage points you get for being a human being on planet Earth: the view from your two eyes (the [[Subjectivity#1. Subjective View|subjective view]]) and the view of your inner world (the [[private reality]]).
+There are at least two vantage points you get for being a human being on planet Earth: the view from your two eyes (the [[Subjectivity#1. Subjective View|subjective view]]) and the view of your inner world (the [[Private Reality]]).
 ^private-subject-context
 
 > [!cleanembed] Subjective View
@@ -210,7 +210,7 @@ There are at least two vantage points you get for being a human being on planet 
 - Too much focus on your subjective view can lead to self-centered behaviors.
 - Too little focus on your private reality can lead to self-neglect
 #### Everyone's Vantages
-As with your vantages, there are at least two *more* vantage points for being a human. That's four vantage points! Here are the two new ones: the unbiased view of facts (the [[objective view]]) and the view of the physical world (the [[shared reality]]).
+As with your vantages, there are at least two *more* vantage points for being a human. That's four vantage points! Here are the two new ones: the unbiased view of facts (the [[objective view]]) and the view of the physical world (the [[Shared Reality]]).
 ^shared-object-context
 
 > [!cleanembed] Objective View

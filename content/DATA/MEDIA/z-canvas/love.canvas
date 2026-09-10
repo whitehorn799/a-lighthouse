@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"079e2e8a31b25b9c","type":"file","file":"DATA/INDICES/Terms Index/Consciousness.md","x":-1021,"y":155,"width":250,"height":72},
+		{"id":"079e2e8a31b25b9c","type":"file","file":"Material/Map/Consciousness.md","x":-1021,"y":155,"width":250,"height":72},
 		{"id":"8eafc1a2202b4978","type":"text","text":"Psychological Existence","x":760,"y":592,"width":426,"height":78},
 		{"id":"55421b13c4b768c3","type":"text","text":"Physical Existence","x":760,"y":-322,"width":426,"height":78},
 		{"id":"766102d175922c0e","type":"text","text":"Metaphysical Existence","x":787,"y":154,"width":373,"height":77},

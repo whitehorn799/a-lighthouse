@@ -1,6 +1,6 @@
 ---
-title: "1. Start Here"
-description: "Flowcharts!"
+title: 1. Start Here
+description: Flowcharts!
 draft: false
 unlisted: false
 stealth: false
@@ -9,11 +9,13 @@ password:
 tags:
 aliases:
   - /love-map
+  - Map 
 permalink:
-date: 2026-09-02 21:58:02
-lastmod: 2026-09-09 13:35:27
+date: 2026-08-29 18:16:43
+lastmod: 2026-09-10 18:01:40
 enableToc: true
 cssclasses:
+  - hide-breadcrumbs
 ---
 
 %%
@@ -22,6 +24,10 @@ cssclasses:
 ![[love-map-full.canvas]]
 
 %%
+
+>[!invisiblock] Love Map
+> [[Love Map|Map]] _You are here!_ <br><br>
+^breadtrail
 
 >[!invisiblock|title] Definition
 > A mind map or flow chart of love and its parts
@@ -43,17 +49,13 @@ cssclasses:
 
 This level consists of the highest vantage point of the map. 
 
-**Origin Cycle**<br>
-Everything starts from love, and in the end, returns to love through the purple lines indicated on the map. This represents transcendence of consciousness.
-- [[Love]]
+**Love**<br>
+Everything starts from [[Love]], and in the end, returns to love through the purple lines indicated on the map. This represents transcendence of consciousness.
 
-**BSH**<br>
-BSH means Be, Sense, Home. Existence allows us to be, consciousness is how we sense, and reality is our home.
-- [[Existence]]
-- [[Consciousness]]
-- [[Dimensional Reality]]
+**Be, Sense, Home (BSH)**<br>
+[[Existence]] allows us to be, [[Consciousness]] is how we sense, and [[Dimensional Reality]], or the Sandbox, is our home.
 
-**Personal Growth**<br>
+**Personal Growth Ladder**<br>
 In this program, we believe in the [[Sovereignty of Good]], which is personal growth in a way that minimizes malicious intent to ourselves and others. Everyone has an opportunity to improve themselves in this way, but it's up to the individual to take action. 
 
 Personal growth is the transition from old behaviors to new, improved behaviors. Starting with the [[OOO Effect]], you begin to have a larger picture of and more choices in life. You become a mix of emotional feelings and critical thinking, and you access your [[Personal Power]], which consists of many special traits. 
@@ -66,56 +68,26 @@ When you access your personal power, you see how things in your life are connect
 This level shows the details of the private and shared realities. It introduces subjectivity and objectivity. Next, these are separated so each of their parts can be examined closely.
 
 ## Subjectivity
-This is a tool of the [[Private Reality]]. It's your personal view of your inner world and your experiences with the real world. [[Subjectivity]] describes the tools you have to guide your consciousness and existence in [[Shared Reality]]. 
-
-**Faculty** <br>
-The first tool is called [[Faculty]]. It describes natural abilities that come with being a human in the world. You use them to experience life and your environment. These will help you find your personal power.
-
-
-**Picnic Baskets** <br>
-The second tool is more like a series of specialized toolsets. We like to call these "[[Picnic Baskets]]" (or simply "baskets") because each group cherry picks specific personal power traits, just like a picnic basket would have a variety of foods.
-
-For example, the [[Defense Basket]] holds all the tools needed to protect you, such as rationalization, lying, and deflections. 
-
-
-**Inner Observatory** <br>
-This third tool is themed around observations. It includes the Observation Deck (or Subjective Consciousness) and the Telescope (Objective Consciousness). Since subjectivity is a lower skill than objectivity, everyone starts at the first step.
-
-**Step 1: Observation Deck**<br>
-As a child, everyone views life from their own point of view because, at that age, seeing different perspectives is hard. They must understand their view first, much like you crawl before you walk. 
-
-Step 1 is a flow of consciousness that starts with your awareness of things and ends with how you feel about them.
-1. [[Awareness]]
-2. [[Attention]]
-3. [[Discernment]]
-4. [[Focus]]
-5. [[Conscience]]
-
-**Step 2: Telescope** <br>
-This step is about stepping out of your perspective to look for facts. Objectivity is a higher order skill than subjectivity. It allows you to see things much further away from your own perspective, and there are countless possible observations. It takes more brainpower to do because it involves using other tools together. 
-
-Making objective observations is just another way of saying you become aware of something. The many different objective awarenesses are called lenses.
-- [[Soul Lens]] (Metaphysical Awareness)
-- [[Mindful Lens]]
-- [[Thought Lens]] (Metacognition)
-- [[Notice Lens]] (Meta-awareness)
-- [[Moral Lens]] (Metaconscience)
-
-**Staircase Links**<br>
-It may take effort to move from the lower subjective view to the higher objective view, but there is a staircase between them. Once you finally reach objectivity, you know how to move between them both. They're both useful, and we get help from the Staircase Links (or the Three Eyes, for fun!).
-- [[Intuition]]
-- [[Imagination]]
-- [[Inspiration]]
-
+This is the personal experience of Consciousness and Existence in the Sandbox. The personal experience happens in your [[Private Reality]]. It's your personal view of your inner world and your experiences with the real world. [[Subjectivity]] describes the tools you have to guide your consciousness and existence. 
 ## Objectivity
-This is the view of the real world. It's a tool of the [[Shared Reality]], and it describes how things interact with each other based on certain rules, like time and physics. [[Objectivity]] is the view that everyone generally agrees to be true for the most people.
+This is the group experience of Consciousness and Existence the [[Shared Reality]], or real world. It describes how things interact with each other based on certain rules, like time and physics. [[Objectivity]] is the view that everyone generally agrees to be true for the most people.
 
-**Sandbox** <br>
-This is the "play area" for everything, which is why it's called the Sandbox. It is the container for space, time, and physics. It's within the Sandbox we all share reality together.
+**Environments** <br>
+This is a general term for specific areas, called [[Environments]], within the Sandbox. It is the container for the rules of the environment. For example, in our universe, there are rules for space, time, and physics. 
 
-Within the Sandbox is the [[Feedback Loop]] that consists of limitations, actions/events, and consequences. The Feedback Loop contributes to Psychological Friction.
-
-
+Within Environments is the [[Feedback Loop]] that consists of the details of the environment. In our world, the details include limitations, actions/events, and consequences. The Feedback Loop contributes to [[Psychological Friction]].
 
 
 
+<hr>
+
+# See Also
+**Direct Connections**
+- [[Consciousness]]
+- [[Existence]]
+- [[Dimensional Reality]]
+
+**Indirect Connections**
+- [[OOO Effect]]
+- [[Private Reality]]
+- [[Shared Reality]] 

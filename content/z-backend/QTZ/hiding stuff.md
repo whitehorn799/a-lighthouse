@@ -1,6 +1,6 @@
 ---
 date: 2026-08-25 12:41:04
-lastmod: 2026-08-25 14:52:14
+lastmod: 2026-09-10 13:45:53
 ---
 # quartz.config.yaml
 ## Ignore Folders
@@ -50,9 +50,9 @@ Hide a Folder in Explorer via _pages.scss_
 }
 
 /* 1. HIDE POWER INDEX (Case-insensitive href matching) */
-.explorer li:has(a[href*="power-index" i]),
-.explorer li:has(a[href*="power_index" i]),
-#explorer-content li:has(a[href*="power-index" i]) {
+.explorer li:has(a[href*="powers-index" i]),
+.explorer li:has(a[href*="powers_index" i]),
+#explorer-content li:has(a[href*="powers-index" i]) {
   display: none !important;
 }
 ```

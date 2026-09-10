@@ -36,7 +36,7 @@ cssclasses:
 > 
 > ^subject-view
 > 
->Your subjective view is linked to your [[private reality]], where all of your biases are found. 
+>Your subjective view is linked to your [[Private Reality]], where all of your biases are found. 
 ^private-subject
 
 

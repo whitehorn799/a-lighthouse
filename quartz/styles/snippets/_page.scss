@@ -361,6 +361,11 @@ h2.page-title {
 /* Hide active page from Site Explorer if the page has 'hide-breadcrumbs' */
 #quartz-body:has(article.hide-breadcrumbs) .explorer a.nav-file-title.is-active {
   display: none !important;
+} 
+
+// SHOW active page in Site Explorer if the page has 'show-active-exp' */
+#quartz-body:has(article.hide-breadcrumbs:not(.show-active-exp)) .explorer a.nav-file-title.is-active {
+  display: flex !important;
 }
 
 /* Optional: Also hide the bullet/list wrapper so there isn't blank vertical spacing 
@@ -490,7 +495,7 @@ button.desktop-explorer {
 }
 
 /* =========================================================
-   HIDE FOLDERS in EXPLOERER
+   HIDE FOLDERS in EXPLORER
    ========================================================= */
 
 /* Target the specific folder container or link node, NOT the parent list item  (Preserves Parent Folders) */
@@ -514,24 +519,29 @@ button.desktop-explorer {
   .folder-container:has(button[data-folderpath*="-index" i]),
   .folder-container[data-folderpath*="-index" i],
 
-  /* Hides targeted folders: "socials notes" and "z-backend" */
+  /* Hides targeted folders: "socials notes", "z-backend", and "material/map" */
   .folder-container[data-folderpath*="socials" i],
   .folder-container[data-folderpath*="z-backend" i],
+  .folder-container[data-folderpath*="material/map" i],
   .folder-container:has(a[href*="socials" i]),
   .folder-container:has(a[href*="z-backend" i]),
+  .folder-container:has(a[href*="material/map" i]),
 
   /* Hides list items containing "-index" in their direct links/buttons */
   li:has(> .folder-container a[href*="-index" i]),
   li:has(> a[href*="-index" i]),
   li:has(> button[data-folderpath*="-index" i]),
 
-  /* Hides list items for "socials notes" and "z-backend" */
+  /* Hides list items for "socials notes", "z-backend", and "material/map" */
   li:has(> .folder-container[data-folderpath*="socials" i]),
   li:has(> .folder-container[data-folderpath*="z-backend" i]),
+  li:has(> .folder-container[data-folderpath*="material/map" i]),
   li:has(> a[href*="socials" i]),
   li:has(> a[href*="z-backend" i]),
+  li:has(> a[href*="material/map" i]),
   li:has(> button[data-folderpath*="socials" i]),
-  li:has(> button[data-folderpath*="z-backend" i]) {
+  li:has(> button[data-folderpath*="z-backend" i]),
+  li:has(> button[data-folderpath*="material/map" i]) {
     display: none !important;
   }
 }
@@ -546,13 +556,13 @@ button.desktop-explorer {
 /* Match Program */
 .explorer ul > li:has(a[href*="program" i]),
 .explorer ul > li:has(a[href*="Program" i]) {
-  order: 1 !important;
+  order: 2 !important;
 }
 
 /* Match About */
 .explorer ul > li:has(a[href*="about" i]),
 .explorer ul > li:has(a[href*="About" i]) {
-  order: 2 !important;
+  order: 1 !important;
 }
 
 /* Match Material */
