@@ -547,7 +547,7 @@ button.desktop-explorer {
 }
 
 /* CUSTOM EXPLORER SORT ORDER */
-/* Default order for unlisted items */
+/* Default order for top folder items */
 .explorer ul > li,
 #explorer-content ul > li {
   order: 99 !important;
@@ -570,6 +570,25 @@ button.desktop-explorer {
 .explorer ul > li:has(a[href*="Material" i]) {
   order: 3 !important;
 }
+
+/* Default order for materials/ items *.folder-container:has(a[href*="material/map" i])
+/* CUSTOM EXPLORER SORT ORDER: Inside Materials/ */
+
+/* 1. Start Here */
+.explorer ul > li:has(a[href*="material/love-map" i]) {
+  order: 1 !important;
+}
+
+/* 2. Power Modules */
+.explorer ul > li:has(a[href*="material/power-modules" i]) {
+  order: 2 !important;
+}
+
+/* 3. Glossary */
+.explorer ul > li:has(a[href*="material/glossary" i]) {
+  order: 3 !important;
+}
+
 
 /* ==========================================
    CONSISTENT EXPLORER FILE CONTAINER WIDTH

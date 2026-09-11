@@ -11,14 +11,14 @@ aliases:
   - /dissociated-consciousness
 permalink:
 date: 2026-08-29 18:16:43
-lastmod: 2026-09-10 18:24:32
+lastmod: 2026-09-11 11:43:54
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 
 >[!invisiblock] Love Map
-> [[Love Map|Map]] > [[Consciousness]] > [[Dissociated Consciousness]] _You are here!_ <br><br>
+> [[Love Map]] > [[Consciousness]] > [[Dissociated Consciousness]] _You are here!_ <br><br>
 ^breadtrail
 
 >[!invisiblock|title] Definition

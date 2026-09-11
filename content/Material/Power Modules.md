@@ -1,5 +1,5 @@
 ---
-title: "2. Power Modules"
+title: "Power Modules"
 description: "Your power outlined"
 draft: false
 unlisted: false
@@ -12,7 +12,7 @@ aliases:
   - modules
 permalink: 
 date: 2026-08-18 20:22:20
-lastmod: 2026-09-03 12:20:44
+lastmod: 2026-09-11 09:42:15
 enableToc:  true
 cssclasses: 
 ---

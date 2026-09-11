@@ -12,7 +12,7 @@ aliases:
   - the ultimate environment
 permalink:
 date: 2026-08-27 18:42:05
-lastmod: 2026-09-01 12:16:09
+lastmod: 2026-09-11 13:17:34
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -124,7 +124,7 @@ Now, let's look at the diagram. What you see here shows love, the Ultimate Envir
 2. [[Existence]]: the ability to be
 3. [[Dimensional Reality]]: the place to be
 
-At this moment, everything has the ability to sense, be, and a place to live. You are included in this moment in the diagram, and this is perhaps the highest form of existence. Here, you might be omnipotent, omnipresent, and more. 
+At this moment, everything has the ability to sense, be, and a place to live. You are included in this moment in the diagram, and this is perhaps the highest form of existence. Here, you might be omniscient, omnipresent, and more. 
 
 > [!cleanembed-title] Step 4: The Fractured Mirror Analogy
 > ![[Fractured Mirror Analogy#^my-block]]

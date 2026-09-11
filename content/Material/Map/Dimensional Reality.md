@@ -12,13 +12,13 @@ aliases:
   - Sandbox
 permalink:
 date: 2026-08-31 13:40:50
-lastmod: 2026-09-10 18:17:23
+lastmod: 2026-09-11 11:45:28
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 >[!invisiblock] Love Map
-> [[Love Map|Map]] > [[Dimensional Reality]] _You are here!_ <br><br>
+> [[Love Map]] > [[Dimensional Reality]] _You are here!_ <br><br>
 ^breadtrail
 
 >[!invisiblock|title] Definition

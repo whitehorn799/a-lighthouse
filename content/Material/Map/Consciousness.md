@@ -11,13 +11,13 @@ aliases:
   - /consciousness
 permalink:
 date: 2026-08-29 17:05:12
-lastmod: 2026-09-10 18:01:17
+lastmod: 2026-09-11 11:44:16
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 >[!invisiblock] Love Map
-> [[Love Map|Map]] > [[Consciousness]] _You are here!_ <br><br>
+> [[Love Map]] > [[Consciousness]] _You are here!_ <br><br>
 ^breadtrail
 
 >[!invisiblock|title] Definition
@@ -25,25 +25,18 @@ cssclasses:
 >
 ^my-def
 
-<hr>
+<br>
+
+>[!invisiblock|title] Summary
+>This is your ability to sense. It's a scale between self and world. Go too far on one end, and you start to ignore the other. An overall balance is key, but don't confuse balance as sitting on the fence all the time. The balance must shift to one side as it is needed. Think of it as a glass sliding on a bartop in a sea-going pub. 
+^my-block
+
+<br>
 
 >[!invisiblock] 
 > ![[consciousness.png|center]] 
 
 ^my-img
-
->[!invisiblock] 
->**The Ends**
-> - Dissociated Consciousness: the fact-based, emotionless consciousness of the world
-> - Self-centered Consciousness: the ego-centric, sensitive consciousness of the self<br><br>
-> 
->**The Scale**
->- Metaconsciousness: the balance of both ends
-
-^my-block
-
->[!invisiblock|title] Summary
-> asdf
 
 <hr>
 

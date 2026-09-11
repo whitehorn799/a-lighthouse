@@ -1,5 +1,5 @@
 ---
-title: 1. Start Here
+title: Love Map
 description: Flowcharts!
 draft: false
 unlisted: false
@@ -9,10 +9,10 @@ password:
 tags:
 aliases:
   - /love-map
-  - Map 
+  - Map
 permalink:
 date: 2026-08-29 18:16:43
-lastmod: 2026-09-10 18:01:40
+lastmod: 2026-09-11 13:24:15
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -26,7 +26,7 @@ cssclasses:
 %%
 
 >[!invisiblock] Love Map
-> [[Love Map|Map]] _You are here!_ <br><br>
+> [[Love Map]] _You are here!_ <br><br>
 ^breadtrail
 
 >[!invisiblock|title] Definition
@@ -36,7 +36,7 @@ cssclasses:
 
 <br>
 
->[!invisiblock|title] Start Here
+>[!invisiblock|title] Summary
 >Life just is. It doesn't need labels or definitions, yet human nature pushes us to make sense of the world. There's so much knowledge out there that we may never know it all. We may never understand our lives with perfect perspective. My approach to this program is in complete humility.<br><br>
 >There's a lot of information in the program, but I tried to be simple and brief. It's meant to be modular without any particular order. However, to help frame the material, there is a bit of structure. <br><br>
 >The map flows mostly downward from love at the top. However, there is an exception at Level 1 when it comes to the purple lines that signify personal growth toward love.
@@ -45,8 +45,12 @@ cssclasses:
 
 <hr>
 
-# Level 1
+# Explanation
+The map comes in two versions. The full view in all of its complexity, and the simple view with only the most important parts.
 
+In total, there are five levels of the map, where 1 is the most inclusive and 5 is the most exclusive.
+
+## Level 1
 This level consists of the highest vantage point of the map. 
 
 **Love**<br>
@@ -64,19 +68,31 @@ When you access your personal power, you see how things in your life are connect
 
 <hr> 
 
-# Level 2
+## Level 2
 This level shows the details of the private and shared realities. It introduces subjectivity and objectivity. Next, these are separated so each of their parts can be examined closely.
 
-## Subjectivity
-This is the personal experience of Consciousness and Existence in the Sandbox. The personal experience happens in your [[Private Reality]]. It's your personal view of your inner world and your experiences with the real world. [[Subjectivity]] describes the tools you have to guide your consciousness and existence. 
-## Objectivity
-This is the group experience of Consciousness and Existence the [[Shared Reality]], or real world. It describes how things interact with each other based on certain rules, like time and physics. [[Objectivity]] is the view that everyone generally agrees to be true for the most people.
+<br>
 
-**Environments** <br>
-This is a general term for specific areas, called [[Environments]], within the Sandbox. It is the container for the rules of the environment. For example, in our universe, there are rules for space, time, and physics. 
+>[!invisiblock|title] Subjectivity
+>This is the personal experience of Consciousness and Existence in the Sandbox. The personal experience happens in your [[Private Reality]]. It's your personal view of your inner world and your experiences with the real world. [[Subjectivity]] describes the tools you have to guide your consciousness and existence. 
 
-Within Environments is the [[Feedback Loop]] that consists of the details of the environment. In our world, the details include limitations, actions/events, and consequences. The Feedback Loop contributes to [[Psychological Friction]].
+<br>
 
+>[!invisiblock|title] Objectivity
+>This is the group experience of Consciousness and Existence the [[Shared Reality]], or real world. It describes how things interact with each other based on certain rules, like time and physics. [[Objectivity]] is the view that everyone generally agrees to be true for the most people.
+
+
+<hr>
+
+## Level 3
+
+<hr>
+
+## Level 4
+
+<hr>
+
+## Level 5
 
 
 <hr>

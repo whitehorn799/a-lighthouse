@@ -12,14 +12,14 @@ aliases:
   - Measured Observer
 permalink:
 date: 2026-08-29 18:16:43
-lastmod: 2026-09-10 18:23:17
+lastmod: 2026-09-11 11:44:00
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
 ---
 
 >[!invisiblock] Love Map
-> [[Love Map|Map]] > [[Consciousness]] > [[Metaconsciousness]] _You are here!_ <br><br>
+> [[Love Map]] > [[Consciousness]] > [[Metaconsciousness]] _You are here!_ <br><br>
 ^breadtrail
 
 >[!invisiblock|title] Definition
