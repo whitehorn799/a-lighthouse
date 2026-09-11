@@ -8,10 +8,11 @@ robots:
 password:
 tags:
 aliases:
-  - /home
+  - /index
+  - index
 permalink:
 date: 2026-08-18 20:22:20
-lastmod: 2026-09-07 14:06:47
+lastmod: 2026-09-11 19:13:06
 enableToc: true
 cssclasses:
   - hide-article-title
