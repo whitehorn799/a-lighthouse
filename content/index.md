@@ -2,16 +2,6 @@
 title: A Lighthouse for Personal Growth
 description: Solid. Still. Reclaim your power.
 draft: false
-unlisted: false
-stealth: false
-robots:
-password:
-tags:
-aliases:
-  - index
-permalink: index
-date: 2026-08-18 20:22:20
-lastmod: 2026-09-11 19:13:06
 enableToc: true
 cssclasses:
   - hide-article-title
