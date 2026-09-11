@@ -20,8 +20,8 @@ cssclasses:
 <span class="faded">[[☀️ helio|✦]]</span>
 
 
-> [!princibox] SOFT LAUNCH
-> Please be aware the site is under an ongoing "soft launch" indefinitely.
+> [!princibox] SOFT LAUNCH 
+> Please be aware the site is under an ongoing "soft launch" indefinitely. 
 
 
 %% <a href="/DATA/FACILITATE/☀️ helio" class="faded">✦</a> %%
