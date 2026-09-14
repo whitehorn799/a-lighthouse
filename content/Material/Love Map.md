@@ -12,7 +12,7 @@ aliases:
   - Map
 permalink:
 date: 2026-08-29 18:16:43
-lastmod: 2026-09-14 15:01:42
+lastmod: 2026-09-14 22:36:32
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -51,16 +51,16 @@ ll
 
 # Map
 
-<div style="width: 100%; max-width: 100%; overflow-x: auto; min-height: 300px; resize: vertical;">
+<div style="width: 100%; height: 500px; border: 1px solid rgba(0, 0, 0, 0.15); border-radius: 8px; overflow: hidden;">
   <iframe 
-    src="../DATA/MEDIA/z-yed/love-map.svg" 
-    style="width: 100%; height: 100%; min-height: 300px; border: none; display: block;" 
+    src="../DATA/MEDIA/z-yed/love-map.svg"
+    style="width: 100%; height: 100%; border: none; display: block;" 
     loading="lazy">
   </iframe>
 </div>
 
->[!announote|shh-note tac]
->Click on the node to go to the page.
+>[!announote|shh-note tal]
+>**Instructions:** This is an interactive map. Use the zoom buttons to zoom in. If you are on mobile, you can use the arrows to pan. If you are on a computer, you can click and drag. Click on the node to go to the page.
 
 
 # Explanation
@@ -78,7 +78,7 @@ Everything starts from [[Love]], and in the end, returns to love through the pur
 **Be, Sense, Home (BSH)**<br>
 [[Existence]] allows us to be, [[Consciousness]] is how we sense, and [[Dimensional Reality]] is our home.
 
-**Personal Growth Ladder**<br>
+**Power Shift**<br>
 In this program, we believe in the [[Sovereignty of Good]], which is personal growth in a way that minimizes malicious intent to ourselves and others. Everyone has an opportunity to improve themselves in this way, but it's up to the individual to take action. 
 
 Personal growth is the transition from old behaviors to new, improved behaviors. Starting with the [[OOO Effect]], you begin to have a larger picture of and more choices in life. You become a mix of emotional feelings and critical thinking, and you access your [[Personal Power]], which consists of many special traits. 

@@ -18,7 +18,7 @@
       <data key="d4" xml:space="preserve"><![CDATA[https://a-lighthouse.org/love]]></data>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="80.0" width="137.0" x="402.0" y="0.0"/>
+          <y:Geometry height="80.0" width="137.0" x="709.5" y="900.0"/>
           <y:Fill color="#F8EBE8" transparent="false"/>
           <y:BorderStyle color="#C94427" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis SemiBold" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="29.27997589111328" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#C94427" verticalTextPosition="bottom" visible="true" width="46.4599609375" x="45.27001953125" xml:space="preserve" y="25.36001205444336">LOVE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.5" labelRatioY="0.0" nodeRatioX="0.16956190123175185" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -27,29 +27,10 @@
       </data>
     </node>
     <node id="n1">
-      <data key="d4" xml:space="preserve"><![CDATA[https://a-lighthouse.org/consciousness]]></data>
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="80.0" width="137.0" x="65.0" y="180.0"/>
-          <y:Fill color="#FBF6F5" transparent="false"/>
-          <y:BorderStyle color="#C94427" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#C94427" verticalTextPosition="bottom" visible="true" width="84.0" x="26.5" xml:space="preserve" y="22.0">&lt;html&gt;
-  &lt;p align="center"&gt;
-    &lt;font color="#c94427"&gt;&lt;b&gt;
-SENSE
-&lt;/b&gt;&lt;/font&gt;&lt;br&gt;
-CONSCIOUSNESS
-  &lt;/p&gt;
-&lt;/html&gt;<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-          <y:Shape type="roundrectangle"/>
-        </y:ShapeNode>
-      </data>
-    </node>
-    <node id="n2">
       <data key="d4" xml:space="preserve"><![CDATA[https://a-lighthouse.org/existence]]></data>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="80.0" width="137.0" x="739.0" y="180.0"/>
+          <y:Geometry height="80.0" width="137.0" x="1177.0" y="1080.0"/>
           <y:Fill color="#FBF6F5" transparent="false"/>
           <y:BorderStyle color="#C94427" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#C94427" verticalTextPosition="bottom" visible="true" width="56.0" x="40.5" xml:space="preserve" y="22.0">&lt;html&gt;
@@ -64,11 +45,11 @@ CONSCIOUSNESS
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n3">
+    <node id="n2">
       <data key="d4" xml:space="preserve"><![CDATA[https://a-lighthouse.org/dimensional-reality]]></data>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="80.0" width="137.0" x="402.0" y="180.0"/>
+          <y:Geometry height="80.0" width="137.0" x="709.5" y="1080.0"/>
           <y:Fill color="#FBF6F5" transparent="false"/>
           <y:BorderStyle color="#C94427" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#C94427" verticalTextPosition="bottom" visible="true" width="111.0" x="13.0" xml:space="preserve" y="22.0">&lt;html&gt;
@@ -83,38 +64,459 @@ CONSCIOUSNESS
         </y:ShapeNode>
       </data>
     </node>
-    <edge id="e0" source="n0" target="n2">
+    <node id="n3">
+      <data key="d4" xml:space="preserve"><![CDATA[https://a-lighthouse.org/dissociated-consciousness]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="80.0" width="137.0" x="429.0" y="1260.0"/>
+          <y:Fill color="#FBF6F5" transparent="false"/>
+          <y:BorderStyle color="#C94427" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="52.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#C94427" verticalTextPosition="bottom" visible="true" width="84.0" x="26.5" xml:space="preserve" y="14.0">&lt;html&gt;
+  &lt;p align="center"&gt;
+    &lt;font color="#c94427"&gt;&lt;b&gt;
+LIVING GHOST
+&lt;/b&gt;&lt;/font&gt;&lt;br&gt;
+DISSOCIATED &lt;BR&gt; CONSCIOUSNESS
+  &lt;/p&gt;
+&lt;/html&gt;<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n4">
+      <data key="d4" xml:space="preserve"><![CDATA[https://a-lighthouse.org/metaconsciousness]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="80.0" width="137.0" x="242.0" y="1260.0"/>
+          <y:Fill color="#FBF6F5" transparent="false"/>
+          <y:BorderStyle color="#C94427" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#C94427" verticalTextPosition="bottom" visible="true" width="115.0" x="11.0" xml:space="preserve" y="22.0">&lt;html&gt;
+  &lt;p align="center"&gt;
+    &lt;font color="#c94427"&gt;&lt;b&gt;
+MEASURED OBSERVER
+&lt;/b&gt;&lt;/font&gt;&lt;br&gt;
+METACONSCIOUSNESS
+  &lt;/p&gt;
+&lt;/html&gt;<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n5">
+      <data key="d4" xml:space="preserve"><![CDATA[https://a-lighthouse.org/self-centered-consciousness]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="80.0" width="137.0" x="55.0" y="1260.0"/>
+          <y:Fill color="#FBF6F5" transparent="false"/>
+          <y:BorderStyle color="#C94427" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="52.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#C94427" verticalTextPosition="bottom" visible="true" width="94.0" x="21.5" xml:space="preserve" y="14.0">&lt;html&gt;
+  &lt;p align="center"&gt;
+    &lt;font color="#c94427"&gt;&lt;b&gt;
+MAIN CHARACTER
+&lt;/b&gt;&lt;/font&gt;&lt;br&gt;
+SELF-CENTERED &lt;BR&gt; CONSCIOUSNESS
+  &lt;/p&gt;
+&lt;/html&gt;<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n6">
+      <data key="d4" xml:space="preserve"><![CDATA[https://a-lighthouse.org/shared-reality]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="80.0" width="137.0" x="803.0" y="1260.0"/>
+          <y:Fill color="#FBF6F5" transparent="false"/>
+          <y:BorderStyle color="#C94427" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#C94427" verticalTextPosition="bottom" visible="true" width="83.0" x="27.0" xml:space="preserve" y="22.0">&lt;html&gt;
+  &lt;p align="center"&gt;
+    &lt;font color="#c94427"&gt;&lt;b&gt;
+    OUTER WORLD
+&lt;/b&gt;&lt;/font&gt;&lt;br&gt;
+    SHARED REALITY
+  &lt;/p&gt;
+&lt;/html&gt;<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n7">
+      <data key="d4" xml:space="preserve"><![CDATA[https://a-lighthouse.org/consciousness]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="80.0" width="137.0" x="242.0" y="1080.0"/>
+          <y:Fill color="#FBF6F5" transparent="false"/>
+          <y:BorderStyle color="#C94427" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#C94427" verticalTextPosition="bottom" visible="true" width="84.0" x="26.5" xml:space="preserve" y="22.0">&lt;html&gt;
+  &lt;p align="center"&gt;
+    &lt;font color="#c94427"&gt;&lt;b&gt;
+SENSE
+&lt;/b&gt;&lt;/font&gt;&lt;br&gt;
+CONSCIOUSNESS
+  &lt;/p&gt;
+&lt;/html&gt;<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n8">
+      <data key="d4" xml:space="preserve"><![CDATA[https://a-lighthouse.org/private-reality]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="80.0" width="137.0" x="616.0" y="1260.0"/>
+          <y:Fill color="#FBF6F5" transparent="false"/>
+          <y:BorderStyle color="#C94427" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#C94427" verticalTextPosition="bottom" visible="true" width="84.0" x="26.5" xml:space="preserve" y="22.0">&lt;html&gt;
+  &lt;p align="center"&gt;
+    &lt;font color="#c94427"&gt;&lt;b&gt;
+    INNER WORLD
+&lt;/b&gt;&lt;/font&gt;&lt;br&gt;
+    PRIVATE REALITY
+  &lt;/p&gt;
+&lt;/html&gt;<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n9">
+      <data key="d4" xml:space="preserve"><![CDATA[https://a-lighthouse.org/psychological-existence]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="80.0" width="137.0" x="1364.0" y="1260.0"/>
+          <y:Fill color="#FBF6F5" transparent="false"/>
+          <y:BorderStyle color="#C94427" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="52.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#C94427" verticalTextPosition="bottom" visible="true" width="86.0" x="25.5" xml:space="preserve" y="14.0">&lt;html&gt;
+  &lt;p align="center"&gt;
+    &lt;font color="#c94427"&gt;&lt;b&gt;
+MENTAL WORLD
+&lt;/b&gt;&lt;/font&gt;&lt;br&gt;
+PSYCHOLOGICAL &lt;BR&gt; EXISTENCE
+  &lt;/p&gt;
+&lt;/html&gt;<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n10">
+      <data key="d4" xml:space="preserve"><![CDATA[https://a-lighthouse.org/metaphysical-existence]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="80.0" width="137.0" x="1177.0" y="1260.0"/>
+          <y:Fill color="#FBF6F5" transparent="false"/>
+          <y:BorderStyle color="#C94427" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="52.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#C94427" verticalTextPosition="bottom" visible="true" width="96.0" x="20.5" xml:space="preserve" y="14.0">&lt;html&gt;
+  &lt;p align="center"&gt;
+    &lt;font color="#c94427"&gt;&lt;b&gt;
+TRUE EXPERIENCE
+&lt;/b&gt;&lt;/font&gt;&lt;br&gt;
+METAPHYSICAL &lt;BR&gt; EXISTENCE
+  &lt;/p&gt;
+&lt;/html&gt;<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n11">
+      <data key="d4" xml:space="preserve"><![CDATA[https://a-lighthouse.org/physical-existence]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="80.0" width="137.0" x="990.0" y="1260.0"/>
+          <y:Fill color="#FBF6F5" transparent="false"/>
+          <y:BorderStyle color="#C94427" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#C94427" verticalTextPosition="bottom" visible="true" width="104.0" x="16.5" xml:space="preserve" y="22.0">&lt;html&gt;
+  &lt;p align="center"&gt;
+    &lt;font color="#c94427"&gt;&lt;b&gt;
+MATERIAL WORLD
+&lt;/b&gt;&lt;/font&gt;&lt;br&gt;
+PHYSICAL EXISTENCE
+  &lt;/p&gt;
+&lt;/html&gt;<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n12">
+      <data key="d4" xml:space="preserve"/>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="80.0" width="137.0" x="709.5" y="720.0"/>
+          <y:Fill color="#F6F8FA" transparent="false"/>
+          <y:BorderStyle color="#3C5377" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis SemiBold" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#3C5377" verticalTextPosition="bottom" visible="true" width="71.0" x="33.0" xml:space="preserve" y="30.0">&lt;html&gt;
+  &lt;p align="center"&gt;
+    &lt;font color="#3c5377"&gt;&lt;b&gt;
+&lt;/b&gt;&lt;/font&gt;
+POWER SHIFT
+  &lt;/p&gt;
+&lt;/html&gt;<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n13">
+      <data key="d4" xml:space="preserve"><![CDATA[https://a-lighthouse.org/ooo-effect]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="80.0" width="137.0" x="709.5" y="540.0"/>
+          <y:Fill color="#F6F8FA" transparent="false"/>
+          <y:BorderStyle color="#3C5377" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#3C5377" verticalTextPosition="bottom" visible="true" width="63.0" x="37.0" xml:space="preserve" y="22.0">&lt;html&gt;
+  &lt;p align="center"&gt;
+    &lt;font color="#3c5377"&gt;&lt;b&gt;
+    INSIGHT
+&lt;/b&gt;&lt;/font&gt;&lt;br&gt;
+OOO EFFECT
+  &lt;/p&gt;
+&lt;/html&gt;
+
+<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n14">
+      <data key="d4" xml:space="preserve"><![CDATA[https://a-lighthouse.org/sovereignty-of-good]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="80.0" width="137.0" x="709.5" y="360.0"/>
+          <y:Fill color="#F6F8FA" transparent="false"/>
+          <y:BorderStyle color="#3C5377" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="52.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#3C5377" verticalTextPosition="bottom" visible="true" width="70.0" x="33.5" xml:space="preserve" y="14.0">&lt;html&gt;
+  &lt;p align="center"&gt;
+    &lt;font color="#3c5377"&gt;&lt;b&gt;
+    GOOD
+&lt;/b&gt;&lt;/font&gt;&lt;br&gt;
+SOVEREIGNTY &lt;BR&gt; OF GOOD
+  &lt;/p&gt;
+&lt;/html&gt;
+
+<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n15">
+      <data key="d4" xml:space="preserve"/>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="80.0" width="137.0" x="709.5" y="180.0"/>
+          <y:Fill color="#F6F8FA" transparent="false"/>
+          <y:BorderStyle color="#3C5377" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#3C5377" verticalTextPosition="bottom" visible="true" width="86.0" x="25.5" xml:space="preserve" y="22.0">&lt;html&gt;
+  &lt;p align="center"&gt;
+    &lt;font color="#3c5377"&gt;&lt;b&gt;
+ELEVATION
+&lt;/b&gt;&lt;/font&gt;&lt;br&gt;
+TRANSCENDENCE
+  &lt;/p&gt;
+&lt;/html&gt;
+
+<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n16">
+      <data key="d4" xml:space="preserve"/>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="80.0" width="137.0" x="709.5" y="0.0"/>
+          <y:Fill color="#F6F8FA" transparent="false"/>
+          <y:BorderStyle color="#3C5377" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#3C5377" verticalTextPosition="bottom" visible="true" width="77.0" x="30.0" xml:space="preserve" y="22.0">&lt;html&gt;
+  &lt;p align="center"&gt;
+    &lt;font color="#3c5377"&gt;&lt;b&gt;
+EMPOWERED
+&lt;/b&gt;&lt;/font&gt;&lt;br&gt;
+POWERED SELF
+  &lt;/p&gt;
+&lt;/html&gt;
+
+<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge id="e0" source="n0" target="n1">
       <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="45.66666666666667" sy="40.0" tx="0.0" ty="-40.0">
-            <y:Point x="516.1666666666666" y="95.5"/>
-            <y:Point x="807.5" y="95.5"/>
+            <y:Point x="823.6666666666666" y="995.5"/>
+            <y:Point x="1245.5" y="995.5"/>
           </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C94427" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e1" source="n0" target="n1">
+    <edge id="e1" source="n0" target="n7">
       <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="-45.66666666666667" sy="40.0" tx="0.0" ty="-40.0">
-            <y:Point x="424.8333333333333" y="95.5"/>
-            <y:Point x="133.5" y="95.5"/>
+            <y:Point x="732.3333333333334" y="995.5"/>
+            <y:Point x="310.5" y="995.5"/>
           </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C94427" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
         </y:BezierEdge>
       </data>
     </edge>
-    <edge id="e2" source="n0" target="n3">
+    <edge id="e2" source="n0" target="n2">
       <data key="d9"/>
       <data key="d10">
         <y:BezierEdge>
           <y:Path sx="0.0" sy="40.0" tx="0.0" ty="-40.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:LineStyle color="#C94427" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e3" source="n7" target="n3">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="45.66666666666667" sy="40.0" tx="0.0" ty="-40.0">
+            <y:Point x="356.1666666666667" y="1175.5"/>
+            <y:Point x="497.5" y="1175.5"/>
+          </y:Path>
+          <y:LineStyle color="#C94427" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e4" source="n7" target="n4">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="40.0" tx="0.0" ty="-40.0"/>
+          <y:LineStyle color="#C94427" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e5" source="n7" target="n5">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="-45.66666666666667" sy="40.0" tx="0.0" ty="-40.0">
+            <y:Point x="264.8333333333333" y="1175.5"/>
+            <y:Point x="123.5" y="1175.5"/>
+          </y:Path>
+          <y:LineStyle color="#C94427" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e6" source="n2" target="n6">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="34.25" sy="40.0" tx="0.0" ty="-40.0">
+            <y:Point x="812.25" y="1175.5"/>
+            <y:Point x="871.5" y="1175.5"/>
+          </y:Path>
+          <y:LineStyle color="#C94427" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e7" source="n2" target="n8">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="-34.25" sy="40.0" tx="0.0" ty="-40.0">
+            <y:Point x="743.75" y="1175.5"/>
+            <y:Point x="684.5" y="1175.5"/>
+          </y:Path>
+          <y:LineStyle color="#C94427" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e8" source="n1" target="n9">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="45.66666666666667" sy="40.0" tx="0.0" ty="-40.0">
+            <y:Point x="1291.1666666666667" y="1175.5"/>
+            <y:Point x="1432.5" y="1175.5"/>
+          </y:Path>
+          <y:LineStyle color="#C94427" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e9" source="n1" target="n10">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="40.0" tx="0.0" ty="-40.0"/>
+          <y:LineStyle color="#C94427" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e10" source="n1" target="n11">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="-45.66666666666667" sy="40.0" tx="0.0" ty="-40.0">
+            <y:Point x="1199.8333333333333" y="1175.5"/>
+            <y:Point x="1058.5" y="1175.5"/>
+          </y:Path>
+          <y:LineStyle color="#C94427" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e11" source="n12" target="n13">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="-40.0" tx="0.0" ty="40.0"/>
+          <y:LineStyle color="#3C5377" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="n13" target="n14">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="-40.0" tx="0.0" ty="40.0"/>
+          <y:LineStyle color="#3C5377" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e13" source="n14" target="n15">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="-40.0" tx="0.0" ty="40.0"/>
+          <y:LineStyle color="#3C5377" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e14" source="n15" target="n16">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="-40.0" tx="0.0" ty="40.0"/>
+          <y:LineStyle color="#3C5377" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+        </y:BezierEdge>
+      </data>
+    </edge>
+    <edge id="e15" source="n0" target="n12">
+      <data key="d9"/>
+      <data key="d10">
+        <y:BezierEdge>
+          <y:Path sx="0.0" sy="-40.0" tx="0.0" ty="40.0"/>
+          <y:LineStyle color="#C94427" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
         </y:BezierEdge>
       </data>
