@@ -56,6 +56,9 @@ cssclasses:
   </iframe>
 </div>
 
+>[!announote|shh-note tac]
+>Click on the node to go to the page.
+
 
 # Explanation
 The map comes in two versions. The full view in all of its complexity, and the simple view with only the most important parts.
