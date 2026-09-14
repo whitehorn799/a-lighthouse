@@ -9,9 +9,10 @@ password:
 tags:
 aliases:
   - /consciousness
+  - Sense
 permalink:
 date: 2026-08-29 17:05:12
-lastmod: 2026-09-11 11:44:16
+lastmod: 2026-09-12 16:43:11
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

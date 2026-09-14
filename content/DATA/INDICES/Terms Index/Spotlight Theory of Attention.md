@@ -25,4 +25,4 @@ The theory was pioneered by cognitive psychologists, such as Michael Posner.
 <hr>
 
 # See Also
-- [[Navigation Grouping#Navigation Walkthrough|Navigation Grouping context]] 
+- [[Observation Deck#Navigation Walkthrough|Navigation Grouping context]] 

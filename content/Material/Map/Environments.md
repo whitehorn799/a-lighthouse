@@ -63,7 +63,7 @@ cssclasses:
 			3. Logic > Imagination
 			4. Witness > Intuition
 			5. Agent > Imagination
-		2. [[Navigation Grouping]]
+		2. [[Observation Deck]]
 			1. Awareness > Witness
 			2. Attention > Attention
 			3. Preference > Emotion

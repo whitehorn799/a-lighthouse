@@ -9,9 +9,10 @@ password:
 tags:
 aliases:
   - /existence
+  - Be
 permalink:
 date: 2026-08-29 18:16:43
-lastmod: 2026-09-11 11:58:16
+lastmod: 2026-09-12 16:42:51
 enableToc: true
 cssclasses:
   - hide-breadcrumbs

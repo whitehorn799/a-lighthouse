@@ -12,7 +12,7 @@ aliases:
   - Map
 permalink:
 date: 2026-08-29 18:16:43
-lastmod: 2026-09-11 13:24:15
+lastmod: 2026-09-12 17:04:34
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -50,6 +50,7 @@ The map comes in two versions. The full view in all of its complexity, and the s
 
 In total, there are five levels of the map, where 1 is the most inclusive and 5 is the most exclusive.
 
+Each box, or node, on the map features a component of love. The bold name is the nickname, which is easier to remember. The smaller name is the "official", more descriptive name. 
 ## Level 1
 This level consists of the highest vantage point of the map. 
 
@@ -57,7 +58,7 @@ This level consists of the highest vantage point of the map.
 Everything starts from [[Love]], and in the end, returns to love through the purple lines indicated on the map. This represents transcendence of consciousness.
 
 **Be, Sense, Home (BSH)**<br>
-[[Existence]] allows us to be, [[Consciousness]] is how we sense, and [[Dimensional Reality]], or the Sandbox, is our home.
+[[Existence]] allows us to be, [[Consciousness]] is how we sense, and [[Dimensional Reality]] is our home.
 
 **Personal Growth Ladder**<br>
 In this program, we believe in the [[Sovereignty of Good]], which is personal growth in a way that minimizes malicious intent to ourselves and others. Everyone has an opportunity to improve themselves in this way, but it's up to the individual to take action. 
@@ -74,7 +75,7 @@ This level shows the details of the private and shared realities. It introduces 
 <br>
 
 >[!invisiblock|title] Subjectivity
->This is the personal experience of Consciousness and Existence in the Sandbox. The personal experience happens in your [[Private Reality]]. It's your personal view of your inner world and your experiences with the real world. [[Subjectivity]] describes the tools you have to guide your consciousness and existence. 
+>This is the personal experience of Consciousness and Existence in Dimensional Reality. The personal experience happens in your [[Private Reality]]. It's your personal view of your inner world and your experiences with the real world. [[Subjectivity]] describes the tools you have to guide your consciousness and existence. 
 
 <br>
 

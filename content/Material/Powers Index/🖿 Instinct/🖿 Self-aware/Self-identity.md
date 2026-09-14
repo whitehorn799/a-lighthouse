@@ -12,7 +12,7 @@ aliases:
   - /self-identity
 permalink:
 date: 2026-08-15 18:41:14
-lastmod: 2026-08-31 15:14:31
+lastmod: 2026-09-12 11:46:27
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -331,3 +331,8 @@ By now, you may see a pattern developing: be human, be you, and involve yourself
 
 
 <span class="faded">[[🐊🖿/💡🖿/🎁🖿/🎁|✦]]</span>
+
+%% New Self-identity notes
+2. **Self-respect:** This is the foundation. It gives stability through principles, beliefs, self-personal boundaries, and narrative continuity through your self-identity, from the past up to now.
+3. **Self-expression:** This is the inner world moving outward. It gives forward movement through your uniqueness, self-worth, and agency.
+%%

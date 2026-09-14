@@ -11,7 +11,7 @@ aliases:
   - /self-identity-diagram
 permalink: 
 date: 2026-08-18 20:22:20
-lastmod: 2026-09-09 14:32:19
+lastmod: 2026-09-12 11:48:19
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
@@ -80,7 +80,7 @@ Idealist or victim, these are the extremes of life. Survival depends on your abi
 
 
 
-Link to Validation
+# Link to Validation
 
 >[!invisiblock|title] Self-identity Cross
 >If you are firmly based in the outer environment, you give control over your validation to things outside of yourself, such as people, reputation, possessions, or other worldly things. You may not feel a strong connection to the work you do, but the rewards and attention that you get. Your perspective on the world may be narrowly focused on achieving influential goals. You might be totally ignoring the inner environment.<br><br>
@@ -88,3 +88,13 @@ Link to Validation
 >
 
 ^outer-environ-cross
+
+
+
+# Link to Validation
+>[!invisiblock|title] Self-identity Cross
+>If you are firmly based in the inner environment, you give control over your validation to yourself. By doing so, you rely on the deep, personal connection to your "soul", or your core being on an existential level. You may feel deep, meaningful connections with your purpose in life, people, and places. You may have a very wide perspective on the external world. <br><br>
+>In this program, this is illustrated as a [[Self-identity Diagram|vertical movement]], a transcendence above the outer world or an immanence with it. It's a feature of the "absolute self".
+>
+
+^inner-environ-cross

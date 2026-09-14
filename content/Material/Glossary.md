@@ -169,7 +169,7 @@ a boundary that you set for yourself ^principle
 
 
 # N
-[[Navigation Grouping]] <BR>
+[[Observation Deck]] <BR>
 [[Mind Prison]] <br>
 
 

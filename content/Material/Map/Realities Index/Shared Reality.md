@@ -14,7 +14,7 @@ aliases:
   - real world
 permalink:
 date: 2026-09-11 11:39:36
-lastmod: 2026-09-11 12:12:15
+lastmod: 2026-09-12 17:04:19
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -49,7 +49,7 @@ cssclasses:
 # Components
 
 **Environments**<br>
-This is a general term for specific areas, called [[Environments]], within the Sandbox. These are the spaces in which everything outside of your mind exists, and they are the containers for the rules of the environment. For example, in our universe, there are rules for space, time, and physics. Environments include all dimensions whether or not human beings can detect them.
+This is a general term for specific areas, called [[Environments]], within Dimensional Reality. These are the spaces in which everything outside of your mind exists, and they are the containers for the rules of the environment. For example, in our universe, there are rules for space, time, and physics. Environments include all dimensions whether or not human beings can detect them.
 
 Within Environments is the [[Feedback Loop]] that consists of the details of the environment. In our world, the details include limitations, actions/events, and consequences. The Feedback Loop contributes to Psychological Friction, or simply "friction."
 

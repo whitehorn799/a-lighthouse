@@ -9,10 +9,10 @@ password:
 tags:
 aliases:
   - /dimensional-reality
-  - Sandbox
+  - Home
 permalink:
 date: 2026-08-31 13:40:50
-lastmod: 2026-09-11 11:45:28
+lastmod: 2026-09-12 17:03:41
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -29,7 +29,7 @@ cssclasses:
 <br>
 
 >[!invisiblock|title] Also Known As
-- the Sandbox
+- Home (BSH)
 ^my-aka
 
 <hr>

@@ -1,0 +1,165 @@
+<mxfile host="Electron">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2001" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-6" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lRQNHsb93QXfG3I9Uloh-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#C06663;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;curved=1;endFill=1;endSize=3;" target="lRQNHsb93QXfG3I9Uloh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-7" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lRQNHsb93QXfG3I9Uloh-0" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=20;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#C06663;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;arcSize=1;endFill=1;endSize=3;" target="lRQNHsb93QXfG3I9Uloh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-22" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lRQNHsb93QXfG3I9Uloh-0" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#C06663;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=3;" target="lRQNHsb93QXfG3I9Uloh-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="LOVE" link="https://a-lighthouse.org/love" id="lRQNHsb93QXfG3I9Uloh-0">
+          <mxCell parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Dosis;convertToSvg=1;svgWhiteSpace=wrap;fillColor=#F8F5F3;strokeColor=#b85450;fontSize=20;fontStyle=1;fontColor=#C06663;textShadow=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1">
+            <mxGeometry height="60" width="120" x="340" y="600" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-18" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lRQNHsb93QXfG3I9Uloh-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#C06663;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=3;" target="lRQNHsb93QXfG3I9Uloh-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760.03" y="800.03" />
+              <mxPoint x="910.03" y="800.03" />
+              <mxPoint x="910.03" y="580.03" />
+              <mxPoint x="400.03" y="580.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-24" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lRQNHsb93QXfG3I9Uloh-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#C06663;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=3;" target="lRQNHsb93QXfG3I9Uloh-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-17" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lRQNHsb93QXfG3I9Uloh-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#C06663;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=3;" target="lRQNHsb93QXfG3I9Uloh-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="800.03" />
+              <mxPoint x="-40" y="800.03" />
+              <mxPoint x="-40" y="580.03" />
+              <mxPoint x="400" y="580.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-25" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lRQNHsb93QXfG3I9Uloh-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#C06663;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=3;" target="lRQNHsb93QXfG3I9Uloh-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-21" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lRQNHsb93QXfG3I9Uloh-20" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#C06663;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=3;" target="lRQNHsb93QXfG3I9Uloh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-23" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lRQNHsb93QXfG3I9Uloh-20" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#C06663;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=3;" target="lRQNHsb93QXfG3I9Uloh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-14" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;textShadow=0;labelPadding=5;labelBorderColor=#B5B5B5;glass=0;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Dosis; white-space: nowrap;&quot;&gt;OMNISCIENCE?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-15" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;textShadow=0;labelPadding=5;labelBorderColor=#B5B5B5;glass=0;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Dosis; white-space: nowrap;&quot;&gt;OMNIPRESENCE?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="551" y="735" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://a-lighthouse.org/dimensional-reality" id="lRQNHsb93QXfG3I9Uloh-30">
+          <mxCell connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="group" vertex="1">
+            <mxGeometry height="60" width="120" x="340" y="720" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-20" parent="lRQNHsb93QXfG3I9Uloh-30" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Dosis;convertToSvg=1;svgWhiteSpace=wrap;fillColor=#F8F5F3;strokeColor=#b85450;fontSize=15;fontStyle=1;fontColor=#C06663;textShadow=0;labelBackgroundColor=none;labelBorderColor=none;align=center;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-28" parent="lRQNHsb93QXfG3I9Uloh-30" style="text;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;gradientColor=none;" value="&lt;span style=&quot;color: rgb(148, 148, 148); font-family: Dosis; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;DIMENSIONAL REALITY&lt;/span&gt;" vertex="1">
+          <mxGeometry height="45" width="110" x="5" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-29" parent="lRQNHsb93QXfG3I9Uloh-30" style="text;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#C06663;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;gradientColor=none;" value="&lt;span style=&quot;font-family: Dosis; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;HOME&lt;/span&gt;" vertex="1">
+          <mxGeometry height="45" width="70" x="25" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-35" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="720" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://a-lighthouse.org/consciousness" id="lRQNHsb93QXfG3I9Uloh-5">
+          <mxCell parent="lRQNHsb93QXfG3I9Uloh-35" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Dosis;convertToSvg=1;svgWhiteSpace=wrap;fillColor=#F8F5F3;strokeColor=#b85450;fontSize=15;fontStyle=1;fontColor=#C06663;textShadow=0;labelBackgroundColor=none;labelBorderColor=none;align=center;verticalAlign=middle;" vertex="1">
+            <mxGeometry height="60" width="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-33" parent="lRQNHsb93QXfG3I9Uloh-35" style="text;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;gradientColor=none;" value="&lt;span style=&quot;color: rgb(192, 102, 99); font-family: Dosis; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;SENSE&lt;/span&gt;" vertex="1">
+          <mxGeometry height="45" width="70" x="25" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-34" parent="lRQNHsb93QXfG3I9Uloh-35" style="text;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#949494;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;gradientColor=none;" value="&lt;span style=&quot;font-family: Dosis; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;CONSCIOUSNESS&lt;/span&gt;" vertex="1">
+          <mxGeometry height="45" width="110" x="5" y="15" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://a-lighthouse.org/existence" id="lRQNHsb93QXfG3I9Uloh-36">
+          <mxCell connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="group" vertex="1">
+            <mxGeometry height="60" width="120" x="700" y="720" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-4" parent="lRQNHsb93QXfG3I9Uloh-36" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Dosis;convertToSvg=1;svgWhiteSpace=wrap;fillColor=#F8F5F3;strokeColor=#b85450;fontSize=15;fontStyle=1;fontColor=#C06663;textShadow=0;labelBackgroundColor=none;labelBorderColor=none;align=center;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-32" parent="lRQNHsb93QXfG3I9Uloh-36" style="text;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#949494;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;gradientColor=none;" value="&lt;span style=&quot;font-family: Dosis; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;EXISTENCE&lt;/span&gt;" vertex="1">
+          <mxGeometry height="45" width="80" x="20" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-31" parent="lRQNHsb93QXfG3I9Uloh-36" style="text;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#C06663;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;gradientColor=none;fontStyle=0;" value="&lt;span style=&quot;color: rgb(192, 102, 99); font-family: Dosis; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;BE&lt;/span&gt;" vertex="1">
+          <mxGeometry height="45" width="50" x="35" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://a-lighthouse.org/shared-reality" id="lRQNHsb93QXfG3I9Uloh-43">
+          <mxCell connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="group" vertex="1">
+            <mxGeometry height="60" width="120" x="560" y="1030" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-39" parent="lRQNHsb93QXfG3I9Uloh-43" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Dosis;convertToSvg=1;svgWhiteSpace=wrap;fillColor=#F8F5F3;strokeColor=#b85450;fontSize=15;fontStyle=1;fontColor=#C06663;textShadow=0;labelBackgroundColor=none;labelBorderColor=none;align=center;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-40" parent="lRQNHsb93QXfG3I9Uloh-43" style="text;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#C06663;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;gradientColor=none;fontStyle=0;" value="&lt;font face=&quot;Dosis&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;OUTER WORLD&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-42" parent="lRQNHsb93QXfG3I9Uloh-43" style="text;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#949494;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;gradientColor=none;" value="&lt;font face=&quot;Dosis&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;SHARED REALITY&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="120" y="15" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://a-lighthouse.org/private-reality" id="lRQNHsb93QXfG3I9Uloh-44">
+          <mxCell connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="group" vertex="1">
+            <mxGeometry height="60" width="120" x="160" y="1030" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-45" parent="lRQNHsb93QXfG3I9Uloh-44" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Dosis;convertToSvg=1;svgWhiteSpace=wrap;fillColor=#F8F5F3;strokeColor=#b85450;fontSize=15;fontStyle=1;fontColor=#C06663;textShadow=0;labelBackgroundColor=none;labelBorderColor=none;align=center;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-46" parent="lRQNHsb93QXfG3I9Uloh-44" style="text;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#C06663;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;gradientColor=none;fontStyle=0;" value="&lt;font face=&quot;Dosis&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;INNER SELF&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-47" parent="lRQNHsb93QXfG3I9Uloh-44" style="text;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#949494;labelBorderColor=none;labelBackgroundColor=none;fillColor=none;gradientColor=none;" value="&lt;font face=&quot;Dosis&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;PRIVATE REALITY&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="120" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-48" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lRQNHsb93QXfG3I9Uloh-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#C06663;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=3;" target="lRQNHsb93QXfG3I9Uloh-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400.03" y="810.03" />
+              <mxPoint x="220.03" y="810.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-52" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lRQNHsb93QXfG3I9Uloh-47" style="edgeStyle=entityRelationEdgeStyle;html=1;endArrow=blockThin;strokeColor=#C06663;align=center;verticalAlign=middle;fontFamily=Dosis;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;endSize=3;fontStyle=0;labelPadding=5;" target="lRQNHsb93QXfG3I9Uloh-42" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1067.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-55" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=default;textShadow=0;labelPadding=5;labelBorderColor=#B5B5B5;glass=0;" value="&lt;font color=&quot;#333333&quot; face=&quot;Dosis&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;FACULTY: THE AGENT&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="340" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-56" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lRQNHsb93QXfG3I9Uloh-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;html=1;endArrow=block;endFill=1;endSize=3;strokeColor=light-dark(#878787, #c27572);align=center;verticalAlign=middle;fontFamily=Dosis;fontSize=11;fontColor=default;labelBackgroundColor=default;fontStyle=0;labelPadding=5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lRQNHsb93QXfG3I9Uloh-46" value="SUBJECTIVITY">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-57" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lRQNHsb93QXfG3I9Uloh-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;html=1;endArrow=block;endFill=1;endSize=3;strokeColor=light-dark(#878787, #c27572);align=center;verticalAlign=middle;fontFamily=Dosis;fontSize=11;fontColor=default;labelBackgroundColor=default;fontStyle=0;labelPadding=5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="lRQNHsb93QXfG3I9Uloh-40" value="WORLD">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="860" as="sourcePoint" />
+            <mxPoint x="870" y="1132.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-59" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lRQNHsb93QXfG3I9Uloh-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;html=1;endArrow=block;endFill=1;endSize=3;strokeColor=light-dark(#878787, #c27572);align=center;verticalAlign=middle;fontFamily=Dosis;fontSize=11;fontColor=default;labelBackgroundColor=default;fontStyle=0;labelPadding=5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lRQNHsb93QXfG3I9Uloh-40" value="OBJECTIVITY">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lRQNHsb93QXfG3I9Uloh-60" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lRQNHsb93QXfG3I9Uloh-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;html=1;endArrow=block;endFill=1;endSize=3;strokeColor=light-dark(#878787, #c27572);align=center;verticalAlign=middle;fontFamily=Dosis;fontSize=11;fontColor=default;labelBackgroundColor=default;fontStyle=0;labelPadding=5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lRQNHsb93QXfG3I9Uloh-46" value="SELF">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
