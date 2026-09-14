@@ -12,7 +12,7 @@ aliases:
   - Map
 permalink:
 date: 2026-08-29 18:16:43
-lastmod: 2026-09-12 17:04:34
+lastmod: 2026-09-14 15:01:42
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -29,6 +29,7 @@ cssclasses:
 > [[Love Map]] _You are here!_ <br><br>
 ^breadtrail
 
+
 >[!invisiblock|title] Definition
 > A mind map or flow chart of love and its parts
 >
@@ -44,6 +45,17 @@ cssclasses:
 ^my-block
 
 <hr>
+
+# Map
+
+<div style="width: 100%; max-width: 100%; overflow-x: auto; min-height: 300px; resize: vertical;">
+  <iframe 
+    src="../DATA/MEDIA/z-yed/love-map.svg" 
+    style="width: 100%; height: 100%; min-height: 300px; border: none; display: block;" 
+    loading="lazy">
+  </iframe>
+</div>
+
 
 # Explanation
 The map comes in two versions. The full view in all of its complexity, and the simple view with only the most important parts.
