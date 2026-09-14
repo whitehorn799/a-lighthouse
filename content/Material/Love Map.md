@@ -21,6 +21,9 @@ cssclasses:
 %%
 ![[love-map-lite.canvas]]
 
+
+ll
+
 ![[love-map-full.canvas]]
 
 %%
