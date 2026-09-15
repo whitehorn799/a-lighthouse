@@ -35,7 +35,7 @@ cssclasses:
 
 >[!invisiblock] 
 >You don't have to fight for it, pay anyone to access it, or wait for the right time. You already have your own personal power, but the modern world has intentionally or accidentally severed our access to it. Whatever the reason, we have forgotten it. The knowledge on how to reclaim it is left unspoken, and we are left without a light to feel our way through life's challenges. <br><br>
->This program identifies over 100 traits that describe Personal Power. These are listed in the [[Power Modules]] material. The modules consist of your many awarenesses and strengths, as well as your stability, agency, and much more. These traits are already a part of you, but they are like muscles that need to be trained. It might take a lifetime to find the whole suite of traits by looking everywhere it isn't. Instead, we teach you how to look inside yourself. 
+>This program identifies over 100 traits that describe Personal Power. These are listed in the [[Efficiencies]] material. The modules consist of your many awarenesses and strengths, as well as your stability, agency, and much more. These traits are already a part of you, but they are like muscles that need to be trained. It might take a lifetime to find the whole suite of traits by looking everywhere it isn't. Instead, we teach you how to look inside yourself. 
 
 ^using-power
 

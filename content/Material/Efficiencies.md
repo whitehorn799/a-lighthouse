@@ -1,32 +1,53 @@
 ---
-title: "Power Modules"
-description: "Your power outlined"
+title: Power Traits
+description: Your power outlined
 draft: false
 unlisted: false
 stealth: false
-robots: 
-password: 
-tags: 
+robots:
+password:
+tags:
 aliases:
-  - /power-modules
+  - /efficiencies
+  - Power Modules
+  - Power Traits
   - modules
-permalink: 
+permalink:
 date: 2026-08-18 20:22:20
-lastmod: 2026-09-11 09:42:15
-enableToc:  true
-cssclasses: 
+lastmod: 2026-09-15 12:17:37
+enableToc: true
+cssclasses:
 ---
 
-
-
-
 >[!announote|tac]
->This material is under development. [[Power Modules#Updates|Click here]] for update notifications.
+>This material is under development. [[Efficiencies#Updates|Click here]] for update notifications.
+
+<br>
+
+>[!invisiblock|title] Definition
+> The characteristics that help you be an efficient, emotional, and logical person 
+>
+^my-def
+
+<br>
+
+>[!invisiblock|title] Also Known As
+> - Power Modules
+> - Power Traits
+>
+^my-aka
+
+<br>
+
+>[!invisiblock] 
+>Power traits are the traits that lead to a stable, intentional life full of emotion, logic, and action. This is the free, modular material that helps refine your characteristics as a person. The material here describes the traits that make up your [[Personal Power]]. We use a [[Efficiencies#Cascading Outline|cascading outline]] to display the traits. <br><br>
+>Disclaimer: We don't presume to know anything, nor do we wish to tell people how they should live their own lives nor what to believe. The material here is made available to everyone. However, it may not be a good fit for everyone.
+
+>
+
+^my-block
 
 
-A power module is free, modular material that helps refine your characteristics as a person. The material here describes the traits that make up your [[Personal Power]]. We use a [[Power Modules#Cascading Outline|cascading outline]] to display the traits. 
-
-Disclaimer: We don't presume to know anything, nor do we wish to tell people how they should live their own lives nor what to believe. The material here is made available to everyone. However, it may not be a good fit for everyone.
 
 
 <br>

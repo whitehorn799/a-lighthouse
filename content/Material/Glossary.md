@@ -121,7 +121,7 @@ a boundary that you set for yourself ^principle
 
 
 # E
-[[Echo of Elsewhere]] <br>
+[[Anamnesis]] <br>
 [[Eisenhower Matrix]] <br>
 [[Elenchus Elicitation]] <br>
 [[Emotional Debt]] <br>

@@ -8,14 +8,19 @@ robots:
 password: 
 tags: 
 aliases: 
-  - /picnic-baskets
+  - /behavior-sets
+  - Picnic Baskets
 permalink: 
 date: 2026-09-04 19:15:04
-lastmod: 2026-09-04 19:16:406
+lastmod: 2026-09-15 12:06:11
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
 ---
+>[!invisiblock|title] Also Known As
+> - Behavior Sets
+>
+^my-aka
 
 
 - [[Needs Basket]]

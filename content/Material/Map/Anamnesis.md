@@ -8,10 +8,10 @@ robots:
 password: 
 tags: 
 aliases: 
-  - /echo-of-elsewhere
+  - /anamnesis
 permalink: 
 date: 2026-09-10 12:40:25
-lastmod: 2026-09-10 15:34:51
+lastmod: 2026-09-15 12:05:51
 enableToc:  true
 cssclasses: 
   - hide-breadcrumbs
@@ -21,6 +21,13 @@ cssclasses:
 > The feeling that there is something missing, there is a hole in your spirit, or there is something more that you cannot sense
 >
 ^my-def
+
+<BR>
+
+>[!invisiblock|title] Also Known As
+> - Echo of Elsewhere
+>
+^my-aka
 
 >[!invisiblock|title] Summary
 > asdfasdfasdf

@@ -17,7 +17,7 @@ cssclasses:
   - hide-breadcrumbs
 ---
 >[!invisiblock] Love Map
-> [[Love Map]] > [[Dimensional Reality]] > [[Private Reality]] > [[Inner Observatory]] > [[Observation Deck]] _You are here!_ <br><br>
+> [[Love Map]] > [[Dimensional Reality]] > [[Private Reality]] > [[Vantages]] > [[Observation Deck]] _You are here!_ <br><br>
 ^breadtrail
 
 >[!invisiblock|title] Definition

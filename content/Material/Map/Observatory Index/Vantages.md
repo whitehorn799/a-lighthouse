@@ -8,11 +8,11 @@ robots:
 password:
 tags:
 aliases:
-  - /inner-observatory
-  - Observatory
+  - /vantages
+  - Inner Observatory
 permalink:
 date: 2026-08-29 18:16:43
-lastmod: 2026-09-12 12:22:15
+lastmod: 2026-09-15 12:05:59
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -21,6 +21,13 @@ cssclasses:
 > This is the linear way you make observations and process them
 >
 ^my-def
+
+<br>
+
+>[!invisiblock|title] Also Known As
+> - Vantages
+>
+^my-aka
 
 <br>
 
