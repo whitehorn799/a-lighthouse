@@ -17,7 +17,7 @@ cssclasses:
   - hide-breadcrumbs
 ---
 >[!invisiblock] Love Map
-> [[Love Map]] > [[Dimensional Reality]] > [[Private Reality]] > [[Vantages]] > [[Observation Deck]] _You are here!_ <br><br>
+> [[Love Map]] > [[Dimensional Reality]] > [[Inner World]] > [[Vantages]] > [[Observation Deck]] _You are here!_ <br><br>
 ^breadtrail
 
 >[!invisiblock|title] Definition
@@ -49,7 +49,7 @@ The Observation Deck is a flow of consciousness that starts with your awareness 
 
 
 >[!invisiblock] 
->This consists of the step-by-step process your mind goes through to notice what is happening and decide what to do next. These are not physical qualities, but a sequence of actions your mind performs at any given moment in time. It is a part of the The Human Experience ([[Environments]]), more specifically the [[Private Reality]].
+>This consists of the step-by-step process your mind goes through to notice what is happening and decide what to do next. These are not physical qualities, but a sequence of actions your mind performs at any given moment in time. It is a part of the The Human Experience ([[Environments]]), more specifically the [[Inner World]].
 
 ^my-block
 

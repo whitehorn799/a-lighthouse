@@ -48,4 +48,4 @@ cssclasses:
 
 **Indirect Connections**
 - [[Existence]]
-- [[Private Reality]]
+- [[Inner World]]

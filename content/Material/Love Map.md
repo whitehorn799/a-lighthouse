@@ -93,7 +93,7 @@ This level shows the details of the private and shared realities. It introduces 
 <br>
 
 >[!invisiblock|title] Subjectivity
->This is the personal experience of Consciousness and Existence in Dimensional Reality. The personal experience happens in your [[Private Reality]]. It's your personal view of your inner world and your experiences with the real world. [[Subjectivity]] describes the tools you have to guide your consciousness and existence. 
+>This is the personal experience of Consciousness and Existence in Dimensional Reality. The personal experience happens in your [[Inner World]]. It's your personal view of your inner world and your experiences with the real world. [[Subjectivity]] describes the tools you have to guide your consciousness and existence. 
 
 <br>
 
@@ -124,5 +124,5 @@ This level shows the details of the private and shared realities. It introduces 
 
 **Indirect Connections**
 - [[OOO Effect]]
-- [[Private Reality]]
+- [[Inner World]]
 - [[Shared Reality]] 

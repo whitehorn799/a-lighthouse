@@ -67,7 +67,7 @@ This is a brief summary of a big topic. Click the breakout link below to follow 
 
 > [!breakout] BREAKOUT!
 > PRIVATE REALITY<BR>
-> [[Private Reality|>>>]]
+> [[Inner World|>>>]]
 
 
 <hr>
@@ -132,7 +132,7 @@ You are present in all the realities mentioned here because you have a conscious
 - [[Existence]]
 - [[Consciousness]]
 - [[Shared Reality]]
-- [[Private Reality]]
+- [[Inner World]]
 
 **Indirect Connections**
 - [[Objectivity]]

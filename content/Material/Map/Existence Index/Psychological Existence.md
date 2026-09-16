@@ -38,7 +38,7 @@ cssclasses:
 
 >[!invisiblock|title]  Summary
 >This includes your background knowledge, experiences, traumas, goals, stories, memories, dreams, etc. It's the personal experience, or [[Subjectivity]]. It's easy to think of this as a person's unique experience. <br><br>
->When your personal beliefs and expectations don't match with what actually happens in the real world, you experience [[Psychological Friction]].<br><br>
+>When your personal beliefs and expectations don't match with what actually happens in the real world, you experience [[Friction]].<br><br>
 >Importantly, what happens after your current life finishes is part of your spirit. These thoughts occur here, whether they are experienced through religion, spirituality, or otherwise.
 
 ^my-block

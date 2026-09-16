@@ -143,7 +143,7 @@ It's important to know where you are before you begin your journey. In this sect
 
 
 > [!cleanembed-title] Inner Environment
-> ![[Private Reality#^my-block]]
+> ![[Inner World#^my-block]]
 
 
 ^inner-environ-context
@@ -327,7 +327,7 @@ By now, you may see a pattern developing: be human, be you, and involve yourself
 <hr>
 
 # See Also
-- [[Efficiencies]]
+- [[Power Traits]]
 
 
 <span class="faded">[[🐊🖿/💡🖿/🎁🖿/🎁|✦]]</span>

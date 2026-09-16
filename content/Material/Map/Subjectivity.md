@@ -36,7 +36,7 @@ cssclasses:
 > 
 > ^subject-view
 > 
->Your subjective view is linked to your [[Private Reality]], where all of your biases are found. 
+>Your subjective view is linked to your [[Inner World]], where all of your biases are found. 
 ^private-subject
 
 
@@ -47,7 +47,7 @@ cssclasses:
 # See Also
 **Direct Connections**
 - [[Consciousness]]
-- [[Private Reality]]
+- [[Inner World]]
 
 **Indirect Connections**
 - [[Dimensional Reality]]

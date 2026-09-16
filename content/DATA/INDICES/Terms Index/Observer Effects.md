@@ -60,7 +60,7 @@ Attention bias is the idea that whatever you focus on, your brain starts noticin
 > [!cleanembed]
 > ![[Resist Persist#^my-block]]
 
-Sigmund Freud, the German psychoanalyst, and Carl Jung, the famous Swiss psychiatrist, noted that when you suppress emotions, you take on [[Emotional Debt]] and [[Psychological Friction]]. Therefore, when you shift your focus toward the emotional debt, it gives the messy cloud of the inner environment a more defined shape. Instead of emotions appearing as tornadoes, they appear more like buildings in a skyline. 
+Sigmund Freud, the German psychoanalyst, and Carl Jung, the famous Swiss psychiatrist, noted that when you suppress emotions, you take on [[Emotional Debt]] and [[Friction]]. Therefore, when you shift your focus toward the emotional debt, it gives the messy cloud of the inner environment a more defined shape. Instead of emotions appearing as tornadoes, they appear more like buildings in a skyline. 
 
 Your focus expands the emotional debt, and when you do this, the energy powering the tornadoes is starved. The tornadoes dissipate, and the energy your focus generates moves toward a solution.
 

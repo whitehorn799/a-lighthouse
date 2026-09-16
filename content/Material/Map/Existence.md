@@ -12,7 +12,7 @@ aliases:
   - Be
 permalink:
 date: 2026-08-29 18:16:43
-lastmod: 2026-09-12 16:42:51
+lastmod: 2026-09-16 14:01:49
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -26,6 +26,13 @@ cssclasses:
 >The ability to be, experience, or play a role in the world
 
 ^my-def
+
+<br>
+
+>[!invisiblock|title] Also Known As
+> Be (Be, Sense, Home; BSH)
+
+^my-aka
 
 <br>
 
@@ -76,9 +83,9 @@ Instead, use the depth of your inner world to guide your actions in the outer wo
 **Direct Connections**
 - [[Love]]
 - [[Dimensional Reality]]
-- [[Private Reality]]
+- [[Inner World]]
 - [[Shared Reality]]
-- [[Psychological Friction]]
+- [[Friction]]
 
 **Indirect Connections**
 - [[Consciousness]]

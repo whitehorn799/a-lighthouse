@@ -63,7 +63,7 @@ These links are innate in you even as a child.
 
 # See Also
 **Direct Connections**
-- [[Private Reality]]
+- [[Inner World]]
 - [[Observation Deck]]
 
 **Indirect Connections**

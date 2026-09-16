@@ -134,7 +134,7 @@ a boundary that you set for yourself ^principle
 # F
 [[Faculty]] <BR>
 [[Frame of Reference]] <BR>
-[[Psychological Friction]] <br>
+[[Friction]] <br>
 
 # H
 [[Horizontal vs. Vertical Movement]] <br>
@@ -183,7 +183,7 @@ a boundary that you set for yourself ^principle
 
 [[Personal Boundaries]] <BR>
 [[Personal Power]] <br>
-[[Private Reality]]<br>
+[[Inner World]]<br>
 
 
 # S

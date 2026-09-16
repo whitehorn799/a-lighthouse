@@ -23,7 +23,7 @@ cssclasses:
 ^my-def
 
 >[!invisiblock] 
->This ability consists your reactions to reality and the consequences it gives us. When your inner world of expectations doesn't match what you actually get, you experience [[Psychological Friction]]. 
+>This ability consists your reactions to reality and the consequences it gives us. When your inner world of expectations doesn't match what you actually get, you experience [[Friction]]. 
 
 
 

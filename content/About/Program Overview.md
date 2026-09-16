@@ -89,7 +89,7 @@ The program is structured to respect your energy and time. We move away from lec
 ^elenchus-elicit-context-1
 
 ## Modular 
-Each of the traits in your Personal Power is examined in practical, supplemental material provided for free on this website here: [[Efficiencies]].
+Each of the traits in your Personal Power is examined in practical, supplemental material provided for free on this website here: [[Power Traits]].
 
 Each Power Module focuses on one aspect at a time to maintain focus and reduce feeling overwhelmed. You are given solid ground to stand, and you decide when you are ready to move on.
 

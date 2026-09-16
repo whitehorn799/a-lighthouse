@@ -1,5 +1,5 @@
 ---
-title: Psychological Friction
+title: Friction
 description: The struggle between private and shared reality
 draft: false
 unlisted: false
@@ -8,12 +8,11 @@ robots:
 password:
 tags:
 aliases:
-  - /psychological-friction
-  - psychological friction
-  - friction
+  - /friction
+  - Psychological Friction
 permalink:
 date: 2026-08-29 18:16:43
-lastmod: 2026-09-09 14:16:48
+lastmod: 2026-09-16 13:22:52
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -47,7 +46,7 @@ cssclasses:
 # See Also
 **Direct Connections**
 - [[Shared Reality]]
-- [[Private Reality]]
+- [[Inner World]]
 - [[Friction Exits]]
 
 **Indirect Connections**

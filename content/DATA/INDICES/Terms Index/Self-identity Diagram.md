@@ -40,7 +40,7 @@ cssclasses:
 
 <div class="redpoint">Vertical Axis</div>
 
-The vertical axis represents the [[Private Reality]]. The uppermost region of the axis is toward a supportive unity with all within existence. It's a communal feeling of mutual respect for [[Equal-but-different]] individuals. It's driven by internal validation, and it symbolizes the ideal, or [[Absolute Self]]. 
+The vertical axis represents the [[Inner World]]. The uppermost region of the axis is toward a supportive unity with all within existence. It's a communal feeling of mutual respect for [[Equal-but-different]] individuals. It's driven by internal validation, and it symbolizes the ideal, or [[Absolute Self]]. 
 
 The lowermost region is characteristic of extreme individualism that is driven by external validation. This is a victimhood, or a me-versus-the-world, perspective. Here we see the impulsive or relative self. 
 

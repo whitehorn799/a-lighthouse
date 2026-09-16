@@ -8,24 +8,30 @@ robots:
 password:
 tags:
 aliases:
-  - /efficiencies
+  - /power-traits
   - Power Modules
-  - Power Traits
+  - Efficiencies
   - modules
 permalink:
-date: 2026-08-18 20:22:20
-lastmod: 2026-09-15 12:17:37
+date: 2026-08-29 18:16:43
+lastmod: 2026-09-16 13:36:47
 enableToc: true
 cssclasses:
+ - hide-breadcrumbs
 ---
+>[!invisiblock] Love Map
+> [[Love Map]] > [[Inner World]] > [[Power Traits]] _You are here!_ <br><br>
+^breadtrail
+
+<BR>
 
 >[!announote|tac]
->This material is under development. [[Efficiencies#Updates|Click here]] for update notifications.
+>This material is under development. [[Power Traits#Updates|Click here]] for update notifications.
 
 <br>
 
 >[!invisiblock|title] Definition
-> The characteristics that help you be an efficient, emotional, and logical person 
+> The characteristics that help you be an efficient, emotional, and logical person who lives an intentional, calm life
 >
 ^my-def
 
@@ -33,25 +39,19 @@ cssclasses:
 
 >[!invisiblock|title] Also Known As
 > - Power Modules
-> - Power Traits
+> - Efficiencies
 >
 ^my-aka
 
 <br>
 
->[!invisiblock] 
->Power traits are the traits that lead to a stable, intentional life full of emotion, logic, and action. This is the free, modular material that helps refine your characteristics as a person. The material here describes the traits that make up your [[Personal Power]]. We use a [[Efficiencies#Cascading Outline|cascading outline]] to display the traits. <br><br>
+>[!invisiblock|title] Summary
+>Power traits are the traits that lead to a stable, intentional life full of emotion, logic, and action. This is the free, modular material that helps refine your characteristics as a person. The material here describes the traits that make up your [[Personal Power]]. We use a [[Power Traits#Cascading Outline|cascading outline]] to display the traits. <br><br>
 >Disclaimer: We don't presume to know anything, nor do we wish to tell people how they should live their own lives nor what to believe. The material here is made available to everyone. However, it may not be a good fit for everyone.
 
 >
 
 ^my-block
-
-
-
-
-<br>
-
 
 <hr>
 
@@ -186,4 +186,13 @@ By looking at how far to the right an item is pushed, your brain instantly knows
 <hr>
 
 # Updates
-The program is being built in real time. As a module is finished, it will be uploaded to the site. To be informed of updates, you can join our [Discord](https://discord.gg/AbBmWFvr7v) server. For now, the Discord server is not a place to chat but to publish announcements and updates.
+The program is being created in real time. As a module is finished, it will be uploaded to the site. To be informed of updates, you can join our [Discord](https://discord.gg/AbBmWFvr7v) server. For now, the Discord server is not a place to chat but to publish announcements and updates.
+
+<hr>
+
+# See Also
+**Direct Connections**
+- [[Inner World|Inner World]]
+
+**Indirect Connections**
+- [[Personal Power]]
