@@ -9,12 +9,25 @@ robots:
 password: 
 tags: 
 aliases: 
-date: August 06, 2026 12:22
-lastmod: August 06, 2026 15:09
+date: 2026-09-16 14:02:58
+lastmod: 2026-09-17 15:42:27
 enableToc:  true
 cssclasses: 
 ---
+**Cognitive Biases**
+1. Negativity Bias
+2. Endowment (Effect) Bias
+3. Novelty Bias
+4. Confirmation Bias
 
+**Human Tendencies**
+1. Apophenia - the human tendency to perceive meaningful patterns, connections, or rules in random or unrelated data
+	1. Pareidolia, confirmation bias, gambler's fallacy
+2. Pareidolia - the human tendency to see faces or shapes in random patterns
+3. Clustering Illusion - The tendency to overestimate the clustering of random events, seeing a "hot streak" or structured pattern where data is actually distributed by chance.
+
+**Fallacies**
+1. Gambler's Fallacy - The mistaken belief that past random events (like a roulette wheel landing on black multiple times) influence future independent outcomes.
 
 [Credit](https://www.therapistaid.com/worksheets/cognitive-distortions )
 

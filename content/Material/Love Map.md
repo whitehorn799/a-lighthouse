@@ -12,7 +12,7 @@ aliases:
   - Map
 permalink:
 date: 2026-08-29 18:16:43
-lastmod: 2026-09-14 22:36:32
+lastmod: 2026-09-19 13:32:37
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -51,21 +51,18 @@ ll
 
 # Map
 
-<div style="width: 100%; height: 500px; border: 1px solid rgba(0, 0, 0, 0.15); border-radius: 8px; overflow: hidden;">
-  <iframe 
-    src="../DATA/MEDIA/z-yed/love-map.svg"
-    style="width: 100%; height: 100%; border: none; display: block;" 
-    loading="lazy">
-  </iframe>
-</div>
+- [[Love-Map Complex|Complex Version]]
+- [[Love-Map Easy|Easy Version]]
 
->[!announote|shh-note tal]
->**Instructions:** This is an interactive map. Use the zoom buttons to zoom in. If you are on mobile, you can use the arrows to pan. If you are on a computer, you can click and drag. Click on the node to go to the page.
 
 
 # Explanation
-The map comes in two versions. The full view in all of its complexity, and the simple view with only the most important parts.
+The map comes in two versions. The Complex Version and the Easy version.
 
+**Easy**
+This is an overview of how your life now expands into other viewpoints and circles back to love.
+
+**Complex**
 In total, there are five levels of the map, where 1 is the most inclusive and 5 is the most exclusive.
 
 Each box, or node, on the map features a component of love. The bold name is the nickname, which is easier to remember. The smaller name is the "official", more descriptive name. 
