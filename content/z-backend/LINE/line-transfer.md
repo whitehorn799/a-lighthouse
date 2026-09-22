@@ -1,6 +1,6 @@
 ---
 date: 2026-09-17 15:18:00
-lastmod: 2026-09-17 22:43:37
+lastmod: 2026-09-21 12:29:06
 ---
 # Program Notes
 Analysis Basket and intention 
@@ -11,6 +11,9 @@ Analysis Basket and intention
 3. hedonic adaptation - the psychological process where people quickly return to a stable baseline level of happiness after experiencing major positive or negative life events or changes
 
 # Quotes
+- Success in life is deciding where you want to fail the most. 
+- If you are at war with yourself, remember you win in the end. 
+- Patience is never a waste of time. When you expect things to change a certain way, that’s you waiting for the world to catch up. Patience allows things to happen in their own time without expectations.
 - Loud voices haven't been humbled. Quiet voices used to be loud. The louder the ego calls, the harder the self falls. Let the rue settle in so that humility finds a home.
 - Everyone needs therapy, but not necessarily the professional kind. Once a therapists teaches you the tools to recognize and process behavior patterns from therapists, and you can give yourself therapy.
 - You don't have to enter the lighthouse to use it. When the way to safety is dark, look for it, and it will guide you.

@@ -536,7 +536,7 @@ VANTAGES
           <data key="d4" xml:space="preserve"><![CDATA[https://a-lighthouse.org/XXX]]></data>
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="80.0" width="137.0" x="769.8301587301594" y="684.4921020112996"/>
+              <y:Geometry height="80.0" width="137.0" x="769.8301587301594" y="680.0"/>
               <y:Fill color="#FDFBFB" transparent="false"/>
               <y:BorderStyle color="#C94427" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dosis" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="36.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#C94427" verticalTextPosition="bottom" visible="true" width="81.0" x="28.0" xml:space="preserve" y="22.0">&lt;html&gt;
