@@ -12,7 +12,7 @@ aliases:
   - Map
 permalink:
 date: 2026-08-29 18:16:43
-lastmod: 2026-09-21 17:10:10
+lastmod: 2026-09-22 19:52:54
 enableToc: true
 cssclasses:
   - hide-breadcrumbs
@@ -51,7 +51,7 @@ ll
 
 # Map
 
-- <a href="/DATA/INDICES/yed-Index/lmc-index" target="_blank" rel="noopener">Love Map: Complex (Full Screen)</a>
+- <a href="/static/lmc-index.html" target="_blank" rel="noopener">Love Map: Complex (Full Screen)</a>
 - [[Love-Map Easy|Easy Version]]
 
 
