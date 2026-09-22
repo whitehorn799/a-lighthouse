@@ -51,7 +51,7 @@ ll
 
 # Map
 
-- <a href="../DATA/INDICES/yed-Index/lmc-index.html" target="_blank" rel="noopener">Love Map: Complex (Full Screen)</a>
+- <a href="/DATA/INDICES/yed-Index/lmc-index" target="_blank" rel="noopener">Love Map: Complex (Full Screen)</a>
 - [[Love-Map Easy|Easy Version]]
 
 
