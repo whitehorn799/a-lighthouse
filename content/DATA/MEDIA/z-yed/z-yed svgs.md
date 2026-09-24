@@ -1,3 +1,28 @@
+---
+title: z-yed iframe full
+description: ""
+draft: true
+unlisted: true
+stealth: true
+robots: 
+password: 
+tags: 
+aliases: 
+permalink: 
+date: 2026-09-14 15:01:54
+lastmod: 2026-09-22 20:21:00
+enableToc:  true
+cssclasses: 
+  - hide-breadcrumbs
+---
+
+# HTML
+Make an html file for the specific svg. Don't make an MD note. Paste this in it.
+
+Use this in Obsidian to link to this page:
+<a href="/static/xxx.html" target="_blank" rel="noopener">
+
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -224,3 +249,20 @@
 
 </body>
 </html>
+```
+
+<hr>
+
+# Find the zoom
+Type this in the developer console in the browser after you position the default zoom and pan. Copy into the TARGET_X, TARGET_Y, and DEFAULT_RESET_ZOOM.
+
+```
+console.log("Current Pan:", panZoomInstance.getPan(), "Current Zoom:", panZoomInstance.getZoom());
+```
+
+# Obsidian Note
+Place this inside the note
+
+```
+<a href="/static/lmc-index.html" target="_blank" rel="noopener">Love Map: Complex (Full Screen)</a>
+```
