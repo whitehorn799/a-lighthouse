@@ -21,24 +21,21 @@ cssclasses:
 ^schedule-meeting
 
 >[!invisiblock] 
->[Email](mailto:signup@a-lighthouse.org) me here if you want to have a one-on-one experience for an affordable fee.
+>[Schedule one-on-one meeting](mailto:signup@a-lighthouse.org)
 
 
 ^correspondent-email
 
 
-
-Email [general comments](mailto:contact@a-lighthouse.org) here if you want to send me a comment.
-
 # Social Media
 >[!invisiblock] 
->- [Discord](https://discord.gg/AbBmWFvr7v)<br>
->	- For now, the Discord server is not a place to chat but to publish announcements and updates.
+>- [Discord](https://discord.gg/AbBmWFvr7v)
 >- [YouTube](https://www.youtube.com/@A-Lighthouse) 
 >- [Substack](https://substack.com/@alighthous4pg?r=91ohqu&utm_campaign=profile&utm_medium=profile-page)
 >- [Threads](https://www.threads.com/@alighthouse4pg) %%[Instagram](https://www.instagram.com/a_lightouse/) %%
->- [Tuhat](https://tuhat.net/@a-lighthouse)
+%%>- [Tuhat](https://tuhat.net/@a-lighthouse)%%
 
 ^my-socials
 
 
+Email general comments [here](mailto:contact@a-lighthouse.org) if you want to send me a comment.

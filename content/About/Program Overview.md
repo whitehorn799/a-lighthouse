@@ -16,7 +16,18 @@ enableToc: true
 cssclasses:
 ---
 
+# The Program
+The goal is to empower people to work through their emotions, face their fears, and establish a personal peace. Let there be no shame in feeling lost, but redirect that energy to finding the way.
 
+The [[Mr. Whitehorn|program facilitator]] uses Socratic questioning centered around 100+ traits that form—what we feel to be—a highly-efficient person. There is no dogma, no clichés, and no judgment. A Lighthouse helps to return the authority of your life back to you. If you are tired of struggling, don't give in. Stand in the shade between light and dark, and remember your power.
+
+- *Orientation -* The program asks the participant to prepare themselves by following some guidelines. These suggest the adoption of an open mindset and a commitment to the self.  Learn more about [[Orientation]].
+
+- *Material -* In the "Material" folder in the left site navigation, we publish material that supplements the lessons behind your personal power. There are also texts online that can capture the main idea of each lesson. They provide definitions, guides, analogies, mnemonic devices, open-ended questions, and thought experiments that try to illustrate the lesson. 
+	  - There is also free material available via our videos on YouTube. 
+- *Facilitator -* Learn more about [[Mr. Whitehorn]] who organized and facilitates the program.
+
+<hr>
 
 # The Principles
 1 [[Program Overview#^prince-1|>>>]] Love is the ultimate environment. <br>
@@ -24,9 +35,6 @@ cssclasses:
 3 [[Program Overview#^prince-3|>>>]] The sovereignty of good drives you. <br>
 4 [[Program Overview#^prince-4|>>>]] Sovereign speech teaches you. <br>
 5 [[Program Overview#^prince-5|>>>]] Action changes you, and ambivalence binds you. <br>
-
-
-
 
 
 > [!cleanembed]
@@ -78,7 +86,7 @@ cssclasses:
 
 <hr>
 
-
+%%
 # The Methodology
 The program is structured to respect your energy and time. We move away from lectures and focus on active, practical, and, ultimately, interactive sessions. 
 
@@ -110,19 +118,6 @@ To illustrate the ideas behind your personal power, we demonstrate the meaning t
 **Mnemonic Devices**<br>
 We use clever sayings to help you recall the lessons, similar to PEMDAS (from math class), the alphabet song, and the months of the year song. Mnemonics act like automatic memory refreshers at a moment's notice because they are simple and sometimes silly.
 
-
-# Support
-
-We provide self-guided materials for you through [YouTube](https://www.youtube.com/@A-Lighthouse) and supplemental materials. Everyone is free to move through those at their own volition. 
-- **Level 1, Supporter:** Free access to the YouTube videos and the Power Modules. These are fast, packed, and generalized navigation points that can apply to anyone. Our video offerings are being built.
-- **Level 2, Member:** The YouTube channel membership provides longer, deeper insights into specific abilities in your personal power, exploratory questions, and prompts for personal reflection. 
-- **Level 3, [[Correspondent]]:** This is for those who want regular, scheduled one-on-one guidance sessions with me.
-	- [[Contact Mr. Whitehorn]] me to become a Correspondent.
-
-Regarding Socrates's idea of the dialectic, our YouTube videos and Power Modules may not be enough to enlighten a person to their personal power. 
-
-This is why the one-on-one discussion in support level 3 is the ideal form of empowerment because media doesn't synthesize for you. For example, a person might understand an ability of their power, but somehow they may not know how to use it. 
-
 <hr>
 
 # FAQ
@@ -149,4 +144,25 @@ A: The thing about A Lighthouse is that it functions like a real one. You don't 
 
 If you do want our help, become a [[Correspondent]], and we can [[Contact Mr. Whitehorn#^schedule-meeting|schedule a meeting]] with you. We will take you through [[Orientation]], the details about your situation, you choose your goal, and we'll get started with you. Finding your support group (your friends, your loved ones, professional help, and whoever else you trust) can help you stand on your own. We all work toward the same goal, separately, but as a team to support you.
 
+%%
 
+<hr>
+
+# "A Lighthouse" Metaphor
+The lighthouse symbolism represents a beacon of hope in a world of turmoil. It symbolizes our method of reclaiming your ability to navigate life efficiently, effectively, and still leave room to grow.
+
+A lighthouse is still and bright so that you may choose your path in the shade between light and darkness. Life is a balance between hardships and victories. Take back your power to walk between them with grace. There are many "lighthouses" along the coast. This is not the only way, but it is one of them. 
+
+<hr>
+
+# Support Us
+
+We provide self-guided materials for you through [YouTube](https://www.youtube.com/@A-Lighthouse) and supplemental materials. Everyone is free to move through those at their own volition. 
+- **Level 1, Supporter:** Free access to the YouTube videos and the Power Modules. These are fast, packed, and generalized navigation points that can apply to anyone. Our video offerings are being built.
+- **Level 2, Member:** The YouTube channel membership provides longer, deeper insights into specific abilities in your personal power, exploratory questions, and prompts for personal reflection. 
+- **Level 3, [[Correspondent]]:** This is for those who want regular, scheduled one-on-one guidance sessions with me.
+	- [[Contact Mr. Whitehorn]] me to become a Correspondent.
+
+Regarding Socrates's idea of the dialectic, our YouTube videos and Power Modules may not be enough to enlighten a person to their personal power. 
+
+This is why the one-on-one discussion in support level 3 is the ideal form of empowerment because media doesn't synthesize for you. For example, a person might understand an ability of their power, but somehow they may not know how to use it. 

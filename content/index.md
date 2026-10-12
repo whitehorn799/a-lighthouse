@@ -35,6 +35,8 @@ Remember: you needn’t enter a lighthouse to use it; you needn’t go toward it
 
 
 
+%%
+
 <hr>
 
 
@@ -42,36 +44,7 @@ Remember: you needn’t enter a lighthouse to use it; you needn’t go toward it
 <br>
 
 
-# The Program
-The goal is to empower people to work through their emotions, face their fears, and establish a personal peace. Let there be no shame in feeling lost, but redirect that energy to finding the way.
 
-The program uses Socratic questioning centered around 100+ traits that form—what we feel to be—a highly-efficient person. There is no dogma, no clichés, and no judgment. A Lighthouse helps to return the authority of your life back to you. If you are tired of struggling, don't give in. Stand in the shade between light and dark, and remember your power.
-
-Learn more about the [[Program Overview]].
-## Orientation
-The program asks the participant to prepare themselves by following some guidelines. These suggest the adoption of an open mindset and a commitment to the self. 
-
-Learn more about [[Orientation]]
-
-## Material
-We publish material that supplements the lessons behind your personal power. The free material is available via our videos on YouTube. With a channel membership, you get access to deeper video topics. 
-
-There are also texts online that can capture the main idea of each lesson. They provide definitions, guides, analogies, mnemonic devices, open-ended questions, and thought experiments that try to illustrate the lesson. 
-
-<hr>
-
-# The Facilitator
-
-Learn more about [[Mr. Whitehorn]] who organized and facilitates the program.
-
-<hr>
-
-# "A Lighthouse" Metaphor
-The lighthouse symbolism represents a beacon of hope in a world of turmoil. It symbolizes our method of reclaiming your ability to navigate life efficiently, effectively, and still leave room to grow.
-
-A lighthouse is still and bright so that you may choose your path in the shade between light and darkness. Life is a balance between hardships and victories. Take back your power to walk between them with grace. There are many "lighthouses" along the coast. This is not the only way, but it is one of them. 
-
-<hr>
 
 # Social Media
 > [!cleanembed] 
@@ -81,8 +54,7 @@ A lighthouse is still and bright so that you may choose your path in the shade b
 
 # Credits
 I want to give my vast gratitude to those who took time out of their schedule to help me. It means a lot. Though my words live and die, my appreciation is immortal.
-
-test
+%%
 
 %%## Chinese Translation
 In alphabetical order:
